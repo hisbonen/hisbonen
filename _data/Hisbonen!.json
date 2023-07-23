@@ -570,14 +570,6 @@
    {
     "type": "html_element",
     "html": "<div id=\"email_updates_offline\"></div>"
-   },
-   {
-    "text": " ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<script>\nsetTimeout(() => {\n  if (document.getElementById('email_updates').innerText === '') {\n    document.getElementById('email_updates_offline').innerText = 'Sorry, this feature is only available online.'\n  }}, 1000);\n</script>"
    }
   ],
   "Dedication": [
