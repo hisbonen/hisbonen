@@ -1,3 +1,1 @@
-# Hisbonen! #
-
-Hisbonen! is an interactive tool for learning Gemara, give it a try at [hisbonen.org](http://hisbonen.org).
+# Edit the `EDIT_ME` file in order to make changes to the project #
