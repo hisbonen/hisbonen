@@ -1,0 +1,431 @@
+{
+ "displayTopicName": "_Itaf’al_ Active Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Itaf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Itaf’al Active Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_itaf’al_ active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Itaf’al Active Participle",
+    "targetTopic": "Itaf’al Active Participle",
+    "enclosingTopic": "Itaf’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Itaf’al Active Participle for Regular Shorushim"
+   },
+   {
+    "text": " does not occur frequently enough in the Talmud to determine its regular conjugations. This is the conjugation pattern of the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "itaf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " in ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Targum Onkolos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Itaf’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Itaf’al Active Participle for Regular Shorushim"
+   },
+   {
+    "text": " like פקד: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Masculine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Feminine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִיתַּפְקַד ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mitafkad",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [he is] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " being deposited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִיתַּפְקַדָא ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mitafkadau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [she is] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " being handed over",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִיתַּפְקַדִין ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mitafkadin",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those men are] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " being desposited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִיתַּפְקַדָן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mitafkadaun",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those women are] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " being deposited",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "superscript": "2",
+      "tokens": [
+       {
+        "text": " These conjugations are based on R Yitzchok Frank's ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Grammar for Gemara",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,377 @@
+{
+ "displayTopicName": "Af’el",
+ "topicTokens": [
+  {
+   "text": "Af’el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Af’el": [
+   {
+    "text": "The “Af’el” (אַפְעֵל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Af’el",
+    "enclosingSubtopic": "Af’el"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Af’el",
+    "enclosingSubtopic": "Af’el"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A verb in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " often has a meaning of making someone else take on properties of the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Af’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh שמע means “hearing or understanding,” and the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb אַשְׁמַע means “to make someone else hear or understand,” ie to teach.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can ",
+        "type": "text"
+       },
+       {
+        "text": "learn more about the _af’el_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "learn more about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "af’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Learn more about the af’el",
+        "targetTopic": "Af’el",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Af’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Learn more about the af’el": [
+   {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "af’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Learn more about the af’el"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Learn more about the af’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Tenses",
+        "targetTopic": "Af’el Tenses",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Learn more about the af’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "tenses for different shoresh types",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "tenses for different shoresh types",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el tenses for different shoresh types",
+        "targetTopic": "Af’el tenses for different shoresh types",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Learn more about the af’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif’il",
+        "targetTopic": "Hif’il",
+        "enclosingTopic": "Af’el",
+        "enclosingSubtopic": "Learn more about the af’el"
+       },
+       {
+        "text": " in Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

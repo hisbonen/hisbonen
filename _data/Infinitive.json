@@ -1,0 +1,62 @@
+{
+ "displayTopicName": "Infinitive",
+ "topicTokens": [
+  {
+   "text": "Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Infinitive": [
+   {
+    "text": "The infinitive is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "\"tenses\" of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "\"tenses\" of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "“Tenses” of Hebrew and Aramaic",
+    "targetTopic": "“Tenses” of Hebrew and Aramaic",
+    "enclosingTopic": "Infinitive",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An example of an infinitive in English is “to run.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An infinitive describes an action without specifying who is doing it.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

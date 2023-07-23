@@ -1,0 +1,339 @@
+{
+ "displayTopicName": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+ "topicTokens": [
+  {
+   "text": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First pass of השתא בשלוחו מקדש בו מיבעיא": [
+   {
+    "text": "In order to learn the first line of the Gemara: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Prepare to read <br> the line",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Prepare to read ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " the line",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Prepare to read the line",
+         "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Read the <br> line",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Read the ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " line",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Read the line",
+         "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Understand the <br> the line",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Understand the ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " the line",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Understand the the line",
+         "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+         "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Prepare to read the line": [],
+  "Read the line": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First, we’ll translate the individual words:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "השתא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "השתא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "השתא",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Read the line"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בשלוחו",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Read the line"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מקדש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מקדש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מקדש",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Read the line"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בו",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Read the line"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מיבעיא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מיבעיא",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Read the line"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we’ll put together a ",
+        "type": "text"
+       },
+       {
+        "text": "literal translation of the full sentence",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "literal translation of the full sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Literal translation of the full sentence",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "Read the line"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We’ll ",
+        "type": "text"
+       },
+       {
+        "text": "identify ambiguities and clarify the meaning of the text",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "identify ambiguities and clarify the meaning of the text",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Identify ambiguities and clarify the meaning of the text",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "Read the line"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "השתא": [],
+  "בשלוחו": [],
+  "מקדש": [],
+  "בו": [],
+  "מיבעיא": [],
+  "Literal translation of the full sentence": [],
+  "Identify ambiguities and clarify the meaning of the text": [],
+  "Understand the the line": [
+   {
+    "text": "Now that we've read the first line, we will ask some clarifying questions. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "How is the Gemara interpreting the specificity of the Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "How is the Gemara interpreting the specificity of the Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "How is the Gemara interpreting the specificity of the Mishnah?",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "Understand the the line"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "text": "-",
+    "type": "text"
+   }
+  ],
+  "How is the Gemara interpreting the specificity of the Mishnah?": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "And where would we find a raya to this principle that the Mishnah teaches the biggest chiddush?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

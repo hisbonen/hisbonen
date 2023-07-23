@@ -1,0 +1,327 @@
+{
+ "displayTopicName": "Aramaic binyanim",
+ "topicTokens": [
+  {
+   "text": "Aramaic binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Aramaic binyanim": [
+   {
+    "text": "There six binyanim in Aramaic. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Aramaic",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pe’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pe’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pe’al",
+         "targetTopic": "Pe’al",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el",
+         "targetTopic": "Pa’el",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Af’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Af’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el",
+         "targetTopic": "Af’el",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        },
+        {
+         "text": " / ",
+         "type": "text"
+        },
+        {
+         "text": "Reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Ispe’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispe’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispe’el",
+         "targetTopic": "Ispe’el",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Ispa’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispa’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispa’al",
+         "targetTopic": "Ispa’al",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Itaf’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Itaf’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al",
+         "targetTopic": "Itaf’al",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The binyanim of Aramaic mostly align with the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

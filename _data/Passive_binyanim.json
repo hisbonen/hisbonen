@@ -1,0 +1,305 @@
+{
+ "displayTopicName": "Passive binyanim",
+ "topicTokens": [
+  {
+   "text": "Passive binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Passive binyanim": [
+   {
+    "text": "There are several ",
+    "type": "text"
+   },
+   {
+    "text": "passive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive",
+    "targetTopic": "Passive",
+    "enclosingTopic": "Passive binyanim",
+    "enclosingSubtopic": "Passive binyanim"
+   },
+   {
+    "text": " binyanim in Hebrew and in Aramaic. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Passive binyanim",
+    "enclosingSubtopic": "Passive binyanim"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Passives",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hebrew binyanim",
+         "targetTopic": "Hebrew binyanim",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Nif’al",
+         "targetTopic": "Nif’al",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pu’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pu’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pu’al",
+         "targetTopic": "Pu’al",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Huf’al",
+         "targetTopic": "Huf’al",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Aramaic",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Aramaic",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Aramaic binyanim",
+         "targetTopic": "Aramaic binyanim",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Ispe’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispe’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispe’el",
+         "targetTopic": "Ispe’el",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Ispa’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispa’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispa’al",
+         "targetTopic": "Ispa’al",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Itaf’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Itaf’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al",
+         "targetTopic": "Itaf’al",
+         "enclosingTopic": "Passive binyanim",
+         "enclosingSubtopic": "Passive binyanim"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

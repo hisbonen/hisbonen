@@ -1,0 +1,484 @@
+{
+ "displayTopicName": "_Pi’el_ Active Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el Active Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el Active Participle",
+    "targetTopic": "Pi’el Active Participle",
+    "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+   },
+   {
+    "text": " like זמן: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Masculine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Feminine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְזַמֵּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mezamein",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [he is] inviting",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְזַמֶּנֶת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mezamenes",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [she is] inviting",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְזַמְּנִים ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mezamnim",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those men are] inviting",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְזַמְּנוֹת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mezamnos",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those women are] inviting",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle features a מ prefix in all of its forms, making it easy to mistake for ",
+        "type": "text"
+       },
+       {
+        "text": "the pu’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the pu’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Active Participle for Regular Shorushim",
+        "targetTopic": "Pu’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "the hif’il active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the hif’il active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Active Participle for Regular Shorushim",
+        "targetTopic": "Hif’il Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ", and ",
+        "type": "text"
+       },
+       {
+        "text": "the huf’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the huf’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The lack of a י between the second and third root letters differentiates it from a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", and the lack of a ו after the first letter differentiates it from the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hufal",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
