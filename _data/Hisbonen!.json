@@ -228,19 +228,19 @@
         "enclosingSubtopic": "Learn more about the Hisbonen! project"
        },
        {
-        "text": " and a ",
+        "text": ", and ",
         "type": "text"
        },
        {
-        "text": "project status",
+        "text": "status",
         "type": "local",
         "tokens": [
          {
-          "text": "project status",
+          "text": "status",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Project status",
+        "targetSubtopic": "Status",
         "targetTopic": "Hisbonen!",
         "enclosingTopic": "Hisbonen!",
         "enclosingSubtopic": "Learn more about the Hisbonen! project"
@@ -257,7 +257,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "You can post your questions, comments, or corrections with ",
+        "text": "You can submit feedback with ",
         "type": "text"
        },
        {
@@ -345,7 +345,7 @@
        },
        {
         "type": "url",
-        "url": "https://github.com/_Hisbonen!_/_Hisbonen!_/releases/tag/latest",
+        "url": "https://github.com/hisbonen/hisbonen/releases",
         "text": "desktop app",
         "tokens": [
          {
@@ -523,7 +523,7 @@
     "type": "outline"
    }
   ],
-  "Project status": [
+  "Status": [
    {
     "text": "Hisbonen is currently being released on a single sugya in ",
     "type": "text"
