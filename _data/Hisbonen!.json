@@ -32,7 +32,7 @@
    },
    {
     "type": "html_element",
-    "html": "<img src=\"/_data/_assets/exclamation.png\" alt=\"Logo\" style=\"float: right; margin-left: 10px; margin-right: -100px; height: 200px; width: 200;\">"
+    "html": "<img src=\"/_assets/exclamation.png\" alt=\"Logo\" style=\"float: right; margin-left: 10px; margin-right: -100px; height: 200px; width: 200;\">"
    },
    {
     "text": " a tool for improving Gemara skills.\n",
