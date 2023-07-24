@@ -5,10 +5,10 @@ _Hisbonen\!_: This is an early draft of _Hisbonen!_ (!הִתְבּוֹנֵן), a
 
 Learn more about the _Hisbonen\!_ project:
 You can learn more about the _Hisbonen!_ project:
-- _Hisbonen!_ has a [[dedication]], [[disclaimers]], [[acknowledgements]] and a [[project status]].
-- You can post your questions, comments, or corrections with [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:_Hisbonen!_.project@gmail.com?subject=Feedback).
+- _Hisbonen!_ has a [[dedication]], [[disclaimers]], [[acknowledgements]], and [[status]].
+- You can submit feedback with [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:_Hisbonen!_.project@gmail.com?subject=Feedback).
 - You can sign up for occasional [[email updates]].
-- You can download the _Hisbonen!_ [desktop app](https://github.com/_Hisbonen!_/_Hisbonen!_/releases/tag/latest).
+- You can download the _Hisbonen!_ [desktop app](https://github.com/hisbonen/hisbonen/releases).
 - _Hisbonen!_ is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
 Acknowledgements: _Hisbonen!_ was made possible by the assistance of many individuals.
@@ -20,7 +20,7 @@ _Hisbonen!_ has various disclaimers:
 - Individuals should ask their communal rabbinic advisors if _Hisbonen!_ is the appropriate tool for their learning.
 - _Hisbonen!_ can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 
-Project status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.
+Status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.
 
 Email updates:
 <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div id="email_updates" class="ml-embedded" data-form="OW1QxJ"></div>
