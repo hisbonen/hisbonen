@@ -1,33 +1,15 @@
 {
- "displayTopicName": "_Hisbonen\\!_",
+ "displayTopicName": "Hisbonen\\!",
  "topicTokens": [
   {
-   "type": "italics",
-   "tokens": [
-    {
-     "text": "Hisbonen!",
-     "type": "text"
-    }
-   ]
+   "text": "Hisbonen!",
+   "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
   "Hisbonen!": [
    {
-    "text": "This is a beta version of ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hisbonen!",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " (!הִתְבּוֹנֵן), ",
+    "text": "This is a beta version of Hisbonen! (!הִתְבּוֹנֵן), ",
     "type": "text"
    },
    {
@@ -111,24 +93,11 @@
         "type": "text"
        },
        {
-        "text": "learn more about the _Hisbonen!_ project",
+        "text": "learn more about the Hisbonen! project",
         "type": "local",
         "tokens": [
          {
-          "text": "learn more about the ",
-          "type": "text"
-         },
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Hisbonen!",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " project",
+          "text": "learn more about the Hisbonen! project",
           "type": "text"
          }
         ],
@@ -150,20 +119,7 @@
   ],
   "Learn more about the Hisbonen! project": [
    {
-    "text": "You can learn more about the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hisbonen!",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " project: ",
+    "text": "You can learn more about the Hisbonen! project: ",
     "type": "text"
    },
    {
@@ -173,16 +129,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " has a ",
+        "text": "Hisbonen! has a ",
         "type": "text"
        },
        {
@@ -335,20 +282,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "You can download the ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " ",
+        "text": "You can download the Hisbonen! ",
         "type": "text"
        },
        {
@@ -374,16 +308,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " is built using ",
+        "text": "Hisbonen! is built using ",
         "type": "text"
        },
        {
@@ -410,31 +335,13 @@
   ],
   "Acknowledgements": [
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hisbonen!",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " was made possible by the assistance of many individuals.",
+    "text": "Hisbonen! was made possible by the assistance of many individuals.",
     "type": "text"
    }
   ],
   "Disclaimers": [
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hisbonen!",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has various disclaimers: ",
+    "text": "Hisbonen! has various disclaimers: ",
     "type": "text"
    },
    {
@@ -444,16 +351,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " is published without expert endorsement and is a product of novice efforts.",
+        "text": "Hisbonen! is published without expert endorsement and is a product of novice efforts.",
         "type": "text"
        }
       ],
@@ -464,20 +362,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.",
+        "text": "Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen! is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.",
         "type": "text"
        }
       ],
@@ -488,20 +373,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Individuals should ask their communal rabbinic advisors if ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " is the appropriate tool for their learning.",
+        "text": "Individuals should ask their communal rabbinic advisors if Hisbonen! is the appropriate tool for their learning.",
         "type": "text"
        }
       ],
@@ -512,16 +384,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "Hisbonen!",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
+        "text": "Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
         "type": "text"
        }
       ],
@@ -582,16 +445,7 @@
   ],
   "Dedication": [
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hisbonen!",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the ",
+    "text": "Hisbonen! is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the ",
     "type": "text"
    },
    {

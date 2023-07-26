@@ -169,6 +169,31 @@
        }
       ],
       "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The future tense ",
+        "type": "text"
+       },
+       {
+        "text": "can describe a request",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "can describe a request",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can describe a request",
+        "targetTopic": "Future Tense",
+        "enclosingTopic": "Future Tense",
+        "enclosingSubtopic": "Several alternative uses"
+       }
+      ],
+      "children": []
      }
     ],
     "type": "outline"
@@ -349,6 +374,65 @@
        },
        {
         "text": " (lit. “you will help”) can mean “you should help.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Can describe a request": [
+   {
+    "text": "The future tense can describe a request: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, Moshe says in ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Parshas Va’eschanan",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " אֶעְבְּרָה־נָּ֗א (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "e’b’rah nah",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", lit. “I will cross, please”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Clearly Moshe isn't telling Hashem he will cross, but is asking to cross.",
         "type": "text"
        }
       ],
