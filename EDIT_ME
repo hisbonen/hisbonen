@@ -1,28 +1,28 @@
 [Hisbonen!]
 
-** _Hisbonen\!_: This is a beta version of _Hisbonen!_ (!הִתְבּוֹנֵן),
+** Hisbonen\!: This is a beta version of Hisbonen! (!הִתְבּוֹנֵן),
 <img src="/_assets/exclamation.png" alt="Logo" style="float: right; margin-left: 10px; margin-right: -100px; height: 200px; width: 200;">
 a tool for improving Gemara skills.
 - Browse by clicking links to add further paragraphs to the page.
 - You can learn [[the second chapter of _Meseches Kiddushin_, {{_Ha’ish Mekadesh_}}]].
-- You can also [[learn more about the _Hisbonen!_ project]].
+- You can also [[learn more about the Hisbonen! project]].
 
-Learn more about the _Hisbonen\!_ project:
-You can learn more about the _Hisbonen!_ project:
-- _Hisbonen!_ has a [[dedication]], [[disclaimers]], [[acknowledgements]], and [[status]].
+Learn more about the Hisbonen\! project:
+You can learn more about the Hisbonen! project:
+- Hisbonen! has a [[dedication]], [[disclaimers]], [[acknowledgements]], and [[status]].
 - You can submit feedback with [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:admin@hisbonen.org?subject=Feedback).
 - You can sign up for occasional [[email updates]].
-- You can download the _Hisbonen!_ [desktop app](https://github.com/hisbonen/hisbonen/releases).
-- _Hisbonen!_ is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
+- You can download the Hisbonen! [desktop app](https://github.com/hisbonen/hisbonen/releases).
+- Hisbonen! is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
-Acknowledgements: _Hisbonen!_ was made possible by the assistance of many individuals.
+Acknowledgements: Hisbonen! was made possible by the assistance of many individuals.
 
 Disclaimers:
-_Hisbonen!_ has various disclaimers:
-- _Hisbonen!_ is published without expert endorsement and is a product of novice efforts.
-- Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. _Hisbonen!_ is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.
-- Individuals should ask their communal rabbinic advisors if _Hisbonen!_ is the appropriate tool for their learning.
-- _Hisbonen!_ can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
+Hisbonen! has various disclaimers:
+- Hisbonen! is published without expert endorsement and is a product of novice efforts.
+- Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen! is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.
+- Individuals should ask their communal rabbinic advisors if Hisbonen! is the appropriate tool for their learning.
+- Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 
 Status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.
 
@@ -30,7 +30,7 @@ Email updates:
 <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div id="email_updates" class="ml-embedded" data-form="OW1QxJ"></div>
 <div id="email_updates_offline"></div>
 
-Dedication: _Hisbonen!_ is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
+Dedication: Hisbonen! is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
 
 
 [Dikduk]
@@ -1389,6 +1389,7 @@ Several alternative uses: The future tense generally describes a future action, 
 - The future tense [[can describe a command]].
 - The future tense [[can describe a moral suggestion]].
 - The future tense [[can describe a prayer]].
+- The future tense [[can describe a request]]
 
 Can describe a command: The future tense can describe a command.
 - For example, תִּכְתֹּב (_tichtov_, literally “you will write,”) can mean “you _shall_ write.”
@@ -1402,6 +1403,11 @@ The future tense can describe a prayer.
 Can describe a moral suggestion:
 The future tense can describe a moral suggestion.
 - For example, תַּעֲזֹר, _ta’azoir_ (lit. “you will help”) can mean “you should help.”
+
+Can describe a request:
+The future tense can describe a request:
+- For example, Moshe says in _Parshas Va’eschanan_ אֶעְבְּרָה־נָּ֗א (_e’b’rah nah_, lit. “I will cross, please”)
+- Clearly Moshe isn't telling Hashem he will cross, but is asking to cross.
 
 
 * Imperative: The imperative, also known as “the command form,” is one of the [["tenses" of Hebrew and Aramaic]].
@@ -2595,7 +2601,7 @@ _Ha’ish Mekadesh_ is the second chapter of Maseches Kiddushin, a volume of the
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy]
 
 * Hashta b’shlucho mekadesh bo meboy:
-The sugya of _hashta b’shlucho mekadesh bo meboy_ is [[{{picture}}d here]]. _Sugyas_ in _Hisbonen!_ are learned in four reviews:
+The sugya of _hashta b’shlucho mekadesh bo meboy_ is [[{{picture}}d here]]. _Sugyas_ in Hisbonen! are learned in four reviews:
 | [[{{First Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Pashut Peshat_ <br> ("The Simple Understanding")]] <br><br><br><br> A literal translation of the Gemara, with clarifications paraphrased from Rashi, and comprehension questions | [[{{Second Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Eimek Hadavar_ <br> ("The Depth Of The Matter")]] <br><br><br><br> A deeper analysis with hints to anticipate the difficulties discussed by later authorities |
 | [[{{Third Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Milchamas Torah_ <br> (“War of Torah”)]] <br><br><br><br> Comparing the views of Rashi, Tosofos, and others in competitive analysis | [[{{Fourth Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Siyum v’sikum_ <br> ("Conclusion and Summary")]] <br><br><br><br> A recap of the points made previously with halachic conclusions in various organizational schemes |
 
