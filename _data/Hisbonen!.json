@@ -14,10 +14,18 @@
    },
    {
     "type": "html_element",
-    "html": "<img src=\"/_assets/exclamation.png\" alt=\"Logo\" style=\"display: block; height: 205px; width: 205; float: right; margin-left: 10px; margin-right: -100px;\">"
+    "html": "<img src=\"/_assets/exclamation.png\" alt=\"Logo\" style=\"display: block; height: 205px; width: 205; float: right; margin-left: 10px; margin-right: -100px\">"
    },
    {
-    "text": " a tool for improving Gemara skills.\n",
+    "text": " a tool for improving ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<br>"
+   },
+   {
+    "text": " Gemara skills. ",
     "type": "text"
    },
    {
@@ -42,7 +50,7 @@
         "type": "text"
        },
        {
-        "text": "the second chapter of _Meseches Kiddushin_, _Ha’ish Mekadesh_",
+        "text": "the second chapter of _Meseches Kiddushin_,<br> _Ha’ish Mekadesh_",
         "type": "global",
         "tokens": [
          {
@@ -59,7 +67,15 @@
           ]
          },
          {
-          "text": ", ",
+          "text": ",",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": " ",
           "type": "text"
          },
          {
