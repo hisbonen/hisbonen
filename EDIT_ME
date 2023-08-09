@@ -32,11 +32,11 @@ Email updates:
 
 Desktop app:
 You can download the Hisbonen! desktop app for different platforms here:
-- [Mac](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip)
-- [Windows (exe)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe)
-- [Windows (nupkg)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg)
-- [Linux x64](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip)
-- [AMD 64 / Debian](https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb)
+- [For Mac](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip)
+- [For Windows (exe)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe)
+- [For Windows (nupkg)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg)
+- [For Linux x64](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip)
+- [For AMD 64 / Debian](https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb)
 
 Dedication: Hisbonen! is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
 
@@ -2655,6 +2655,7 @@ Haaras
   - Clarify that it isn’t RYAR’s halacha, we are presuming the Tana would know you have to see the woman first etc.
   - Who is R Yehuda amar Rav? Why do we listen to them?
   - mismatch: first why is it a good answer, then why is it a bad answer, why might it still be an okay answer, and in what overlap case is it a bad answer?
+  - Why not no marriage without seeing, why no engagement without seeing?
 - Ki itmar DRav Yosef:
   - Why didn’t the gemara stop there?
   - difference between intro of R Yosef and intro of R Yehuda amar Rav, R Yosef needs a total proof, why not say “one and one”?
