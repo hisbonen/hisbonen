@@ -476,10 +476,10 @@
        {
         "type": "url",
         "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip",
-        "text": "Mac",
+        "text": "For Mac",
         "tokens": [
          {
-          "text": "Mac",
+          "text": "For Mac",
           "type": "text"
          }
         ]
@@ -494,10 +494,10 @@
        {
         "type": "url",
         "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe",
-        "text": "Windows (exe)",
+        "text": "For Windows (exe)",
         "tokens": [
          {
-          "text": "Windows (exe)",
+          "text": "For Windows (exe)",
           "type": "text"
          }
         ]
@@ -512,10 +512,10 @@
        {
         "type": "url",
         "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg",
-        "text": "Windows (nupkg)",
+        "text": "For Windows (nupkg)",
         "tokens": [
          {
-          "text": "Windows (nupkg)",
+          "text": "For Windows (nupkg)",
           "type": "text"
          }
         ]
@@ -530,10 +530,10 @@
        {
         "type": "url",
         "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip",
-        "text": "Linux x64",
+        "text": "For Linux x64",
         "tokens": [
          {
-          "text": "Linux x64",
+          "text": "For Linux x64",
           "type": "text"
          }
         ]
@@ -548,10 +548,10 @@
        {
         "type": "url",
         "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb",
-        "text": "AMD 64 / Debian",
+        "text": "For AMD 64 / Debian",
         "tokens": [
          {
-          "text": "AMD 64 / Debian",
+          "text": "For AMD 64 / Debian",
           "type": "text"
          }
         ]
