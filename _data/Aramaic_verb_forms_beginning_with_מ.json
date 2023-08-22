@@ -325,6 +325,17 @@
        }
       ],
       "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "ABC",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
     "type": "outline"

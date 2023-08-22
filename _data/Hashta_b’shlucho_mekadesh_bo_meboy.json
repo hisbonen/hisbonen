@@ -63,7 +63,7 @@
       {
        "tokens": [
         {
-         "text": "First Pass: <br> _Pashut Peshat_ <br> (\"The Simple Understanding\")",
+         "text": "First Pass: <br> _Pashut Peshat_ <br> (\"The Simple Understanding\") <br><br><br><br> A literal translation of the Gemara, with clarifications paraphrased from Rashi, and comprehension questions ",
          "type": "global",
          "tokens": [
           {
@@ -96,7 +96,27 @@
            "html": "<br>"
           },
           {
-           "text": " (\"The Simple Understanding\")",
+           "text": " (\"The Simple Understanding\") ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " A literal translation of the Gemara, with clarifications paraphrased from Rashi, and comprehension questions ",
            "type": "text"
           }
          ],
@@ -104,30 +124,6 @@
          "targetTopic": "First Pass of hashta b’shlucho mekadesh bo meboy",
          "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
          "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " A literal translation of the Gemara, with clarifications paraphrased from Rashi, and comprehension questions",
-         "type": "text"
         }
        ]
       },

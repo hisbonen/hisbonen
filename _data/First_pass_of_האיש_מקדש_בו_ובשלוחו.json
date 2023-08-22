@@ -23,25 +23,18 @@
     "direction": "rtl"
    },
    {
-    "type": "table",
+    "type": "table_list",
+    "width": 4,
     "rows": [
      [
       {
        "tokens": [
         {
-         "text": "Prepare to read <br> the first clause",
+         "text": "Prepare to read the first clause",
          "type": "local",
          "tokens": [
           {
-           "text": "Prepare to read ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " the first clause",
+           "text": "Prepare to read the first clause",
            "type": "text"
           }
          ],
@@ -55,19 +48,11 @@
       {
        "tokens": [
         {
-         "text": "Read the <br> first clause",
+         "text": "Read the first clause",
          "type": "local",
          "tokens": [
           {
-           "text": "Read the ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " first clause",
+           "text": "Read the first clause",
            "type": "text"
           }
          ],
@@ -81,19 +66,11 @@
       {
        "tokens": [
         {
-         "text": "Understand the <br> first clause",
+         "text": "Understand the first clause",
          "type": "local",
          "tokens": [
           {
-           "text": "Understand the ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " first clause",
+           "text": "Understand the first clause",
            "type": "text"
           }
          ],
@@ -1494,114 +1471,104 @@
     "type": "text"
    },
    {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "How can we understand the specificity of the Mishnah?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "How can we understand the specificity of the Mishnah?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "How can we understand the specificity of the Mishnah?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought in the absence of this Mishnah?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought in the absence of this Mishnah?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought if it didn’t say בו?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought if it didn’t say בו?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought if it didn’t say בו?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought if it didn’t say ובשלוחו?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought if it didn’t say ובשלוחו?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Whose opinion are we trying to figure out?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Whose opinion are we trying to figure out?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Whose opinion are we trying to figure out?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "How can we understand the specificity of the Mishnah?",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "How can we understand the specificity of the Mishnah?",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "How can we understand the specificity of the Mishnah?",
+         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingSubtopic": "Understand the first clause"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "What would I have thought in the absence of this Mishnah?",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "What would I have thought in the absence of this Mishnah?",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
+         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingSubtopic": "Understand the first clause"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "What if it hadn't said בו?",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "What if it hadn't said בו?",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "What if it hadn't said בו?",
+         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingSubtopic": "Understand the first clause"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "What would I have thought if it didn’t say ובשלוחו?",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "What would I have thought if it didn’t say ובשלוחו?",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
+         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingSubtopic": "Understand the first clause"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Whose opinion are we trying to figure out?",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Whose opinion are we trying to figure out?",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Whose opinion are we trying to figure out?",
+         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+         "enclosingSubtopic": "Understand the first clause"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
   "How can we understand the specificity of the Mishnah?": [
@@ -1611,7 +1578,7 @@
    }
   ],
   "What would I have thought in the absence of this Mishnah?": [],
-  "What would I have thought if it didn’t say בו?": [],
+  "What if it hadn't said בו?": [],
   "What would I have thought if it didn’t say ובשלוחו?": [],
   "Whose opinion are we trying to figure out?": [
    {
