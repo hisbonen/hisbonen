@@ -1,19 +1,25 @@
 [Hisbonen!]
 
 ** Hisbonen\!: This is a beta version of Hisbonen! (!הִתְבּוֹנֵן),
-<img src="/_assets/exclamation.png" alt="Logo" style="display: block; height: 205px; width: 205; float: right; margin-left: 10px; margin-right: -100px">
+<img src="/_assets/exclamation.png" alt="Logo" style="position: absolute; height: 205px; width: 205; top: -40px; right: -70px;">
 a tool for improving <br> Gemara skills.
-- Clicking links adds further paragraphs to the page.
-- You can learn [[the second chapter of _Meseches Kiddushin_,<br> {{_Ha’ish Mekadesh_}}]].
-- You can also [[learn more about the Hisbonen! project]].
+===
+- [[_Hashta B’Shlucho Mekadesh_|Try “Hisbonen!”]]
+- [[Learn about the project]]
+===
 
-Learn more about the Hisbonen\! project:
+Learn about the project:
 You can learn more about the Hisbonen! project:
-- Hisbonen! has a [[dedication]], [[disclaimers]], [[acknowledgements]], and [[status]].
-- You can submit feedback with [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:admin@hisbonen.org?subject=Feedback).
-- You can sign up for occasional [[email updates]].
-- You can download the Hisbonen! [[desktop app]].
-- Hisbonen! is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
+===
+- [[Dedication]]
+- [[Disclaimers]]
+- [[Acknowledgements]]
+- [[Status]]
+- [[Submit Feedback]]
+- [[Email updates]]
+- [[Desktop app]]
+- [Canopy.js](https://github.com/canopy-js/canopy-js)
+===
 
 Acknowledgements: Hisbonen! was made possible by the assistance of many individuals.
 
@@ -25,6 +31,12 @@ Hisbonen! has various disclaimers:
 - Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 
 Status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.
+
+Submit Feedback:
+===
+- [Submit Feedback via Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link)
+- [Submit Feedback By email](mailto:admin@hisbonen.org?subject=Feedback).
+===
 
 Email updates:
 <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div id="email_updates" class="ml-embedded" data-form="OW1QxJ"></div>
@@ -1080,28 +1092,6 @@ The [[_pe’al_ past tense]] follows these conjugations for [[regular shorushim]
 
 [Dikduk/Binyan]
 
-* Active: “Active” is a category of verb in Hebrew and Aramaic.
-- Active verbs represent actions where [[the person being described is the one doing the action]], as opposed to [[{{passive}} verbs]].
-- There are [[several {{active binyanim}} in Hebrew and Aramaic]].
-
-The person being described is the one doing the action: Active verbs represent actions where the person being described is the one doing the action, as opposed to [[passive]] verbs. For example:
-| *Shoresh* | *Active verb* | *Passive verb* |
-|-|-|-|
-| אכל | to eat | to be eaten |
-| קנה | to buy | to be purchased |
-| זכר | to remember | to be remembered |
-| אמר | to say | to be said |
-
- the verb לִקְנוֹת means “to buy,” and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.
-
-
-* Active binyanim:
-There are several [[active]] binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Actives* | [[Simple]] | [[Intensive]] | [[Causative]] |
-| [[{Hebrew} Binyanim]]  | [[_Pa’al_]]  | [[_Pi’el_]] | [[_Hif’il_]] |
-| [[{Aramaic} Binyanim]] | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
-
-
 * Binyan: “Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English.
 - If you take a [[shoresh]], for example אכל, which represents “eating,” and put it into a certain “binyan,” you produce a verb, for example לְהַאֲכִיל (_l’ha’achil)_, which means “to feed.”
 - You can identify the binyan of a verb by its vowel sounds. Other verbs that rhyme with לְהַאֲכִיל (_l’ha’achil)_ will have similar meanings, because they are from the same “binyan.”
@@ -1138,6 +1128,28 @@ Nouns and adjectives that come from particular binyanim: Every verb has one biny
 - For example, from every _pi’el_ verb you can produce a _pi’el_ noun with the same meaning by using [[the _kittul_ noun pattern]].
 
 A shoresh is put “into” a binyan to produce a word: Whereas a [[shoresh]] represents a vague and general category of meaning, putting that shoresh into a particular _binyan_ would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל “to eat,” לְהַאֲכִיל “to feed,” or adjective אָכוּל “eaten.”
+
+
+* Active: “Active” is a category of verb in Hebrew and Aramaic.
+- Active verbs represent actions where [[the person being described is the one doing the action]], as opposed to [[{{passive}} verbs]].
+- There are [[several {{active binyanim}} in Hebrew and Aramaic]].
+
+The person being described is the one doing the action: Active verbs represent actions where the person being described is the one doing the action, as opposed to [[passive]] verbs. For example:
+| *Shoresh* | *Active verb* | *Passive verb* |
+|-|-|-|
+| אכל | to eat | to be eaten |
+| קנה | to buy | to be purchased |
+| זכר | to remember | to be remembered |
+| אמר | to say | to be said |
+
+ the verb לִקְנוֹת means “to buy,” and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.
+
+
+* Active binyanim:
+There are several [[active]] binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| *Actives* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[{Hebrew} Binyanim]]  | [[_Pa’al_]]  | [[_Pi’el_]] | [[_Hif’il_]] |
+| [[{Aramaic} Binyanim]] | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
 
 
 * Binyanim: There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
@@ -2449,6 +2461,44 @@ Nouns in the _taktil_ noun pattern come from [[_hif’il_]] verbs. More examples
 
 [Dikduk/Shoresh]
 
+* Shoresh: Shoresh is a grammatical entity in Hebrew and Aramaic.
+- An example of a shoresh is “א-כ-ל,” which represents the idea of “eating.”
+- A shoresh is used to produce many related words, like אוֹכֶל, which means “food,” or אֲכִילָה, which means “the act of eating.”
+- The shoresh is just a series of letters and is not itself a word, and has no vowels or pronunciation.
+- Advanced students can [[learn more about the concept of shoresh]].
+
+Learn more about the concept of shoresh:
+This is additional information on the concept of shoresh:
+- A shoresh is a series of letters that represents a wide range of meaning, <br> like אכל (eating) שלח (sending) or ראה (sight)
+- The word “shoresh” [[means root]] because shorushim are [[used to produce words]].
+- Shorushim [[generally have three letters, but may sometimes have two or four letters]].
+- There are [[regular shorushim]] and [[irregular shorushim]].
+
+Means root:
+The word shoresh can mean “root” or “source.”
+- In this context, it means “root” in the sense that a words like “memory” and “memorize” come from the same linguistic root “mem.”
+
+Generally have three letters, but may sometimes have two or four letters:
+Shorushim generally have three letters. However:
+- Some shorushim, [[appear to have two letters]].
+- Some shorushim have [[Four-letter shorushim|have four letters]].
+
+Appear to have two letters: Sometimes, we find words that only appear to have two recognizable letters, like מֵת, (_meis_, “he is dying.”)
+- Some consider the word מֵת to come from a two-letter shoresh “מת”
+- Some consider מֵת to come from a shoresh “מות,” whose “weak middle letter” gets hidden in certain conjugations. (Examples of “weak” letters are י,‎ ו and ה.)
+- Either way, it is just a disagreement about what to call things, not over the spelling of any actual word.
+- This site generally uses three letter shorushim like “מות” to keep things consistent, but either system is correct.
+
+Corollaries in English: In English, you often have a linguistic root like “mem” which is used to produce a series of related words like “memory,” “memorize,” or “memorable.” Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.
+
+Used to produce words: A shoresh is called a “root” because many words derive from one shoresh.
+- A shoresh has a general meaning is used to generate many words with more specific meanings.
+- For example, the shoresh אכל “eating” can be plugged into a particular verb pattern to generate the verb לְהַאֲכִיל, _leha’achil_, “to feed.”
+- (For advanced readers, these patterns are called [[{{binyan}}im]], and לְהַאֲכִיל comes from the [[{{“hif’il”}} binyan]].)
+
+Debate over the exact definition of a shoresh: Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of “two letter” shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.
+
+
 * Four-letter shorushim: While most shorushim have three letters, sometimes we see shorushim that seem to have four distinct letters.
 - For example: שבעד, meaning “subjugation,” or טלטל meaning “movement.”
 - These four-letter shorushim [[can only have verb forms in certain binyanim]].
@@ -2515,44 +2565,6 @@ The meaning of the _pilpul_ form is often a more repetitive version of the meani
 The addition of the ש produces a shoresh that has a [[causative]] meaning relative to the original shoresh. Like all four-letter shorushim, a _shaf’el_ shoresh can only have forms in binyanim that feature a doubled middle consonant sound, such as the [[_pi’el_]], [[_pu’al_]], and [[_hispa’el_]] forms.
 
 
-* Shoresh: Shoresh is a grammatical entity in Hebrew and Aramaic.
-- An example of a shoresh is “א-כ-ל,” which represents the idea of “eating.”
-- A shoresh is used to produce many related words, like אוֹכֶל, which means “food,” or אֲכִילָה, which means “the act of eating.”
-- The shoresh is just a series of letters and is not itself a word, and has no vowels or pronunciation.
-- Advanced students can [[learn more about the concept of shoresh]].
-
-Learn more about the concept of shoresh:
-This is additional information on the concept of shoresh:
-- A shoresh is a series of letters that represents a wide range of meaning, <br> like אכל (eating) שלח (sending) or ראה (sight)
-- The word “shoresh” [[means root]] because shorushim are [[used to produce words]].
-- Shorushim [[generally have three letters, but may sometimes have two or four letters]].
-- There are [[regular shorushim]] and [[irregular shorushim]].
-
-Means root:
-The word shoresh can mean “root” or “source.”
-- In this context, it means “root” in the sense that a words like “memory” and “memorize” come from the same linguistic root “mem.”
-
-Generally have three letters, but may sometimes have two or four letters:
-Shorushim generally have three letters. However:
-- Some shorushim, [[appear to have two letters]].
-- Some shorushim have [[Four-letter shorushim|have four letters]].
-
-Appear to have two letters: Sometimes, we find words that only appear to have two recognizable letters, like מֵת, (_meis_, “he is dying.”)
-- Some consider the word מֵת to come from a two-letter shoresh “מת”
-- Some consider מֵת to come from a shoresh “מות,” whose “weak middle letter” gets hidden in certain conjugations. (Examples of “weak” letters are י,‎ ו and ה.)
-- Either way, it is just a disagreement about what to call things, not over the spelling of any actual word.
-- This site generally uses three letter shorushim like “מות” to keep things consistent, but either system is correct.
-
-Corollaries in English: In English, you often have a linguistic root like “mem” which is used to produce a series of related words like “memory,” “memorize,” or “memorable.” Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.
-
-Used to produce words: A shoresh is called a “root” because many words derive from one shoresh.
-- A shoresh has a general meaning is used to generate many words with more specific meanings.
-- For example, the shoresh אכל “eating” can be plugged into a particular verb pattern to generate the verb לְהַאֲכִיל, _leha’achil_, “to feed.”
-- (For advanced readers, these patterns are called [[{{binyan}}im]], and לְהַאֲכִיל comes from the [[{{“hif’il”}} binyan]].)
-
-Debate over the exact definition of a shoresh: Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of “two letter” shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.
-
-
 [Gemara/Kiddushin/Dafim/41a/Mishnah]
 
 * The Mishnah on Kiddushin 41a:
@@ -2599,22 +2611,25 @@ This is the third clause of the Mishnah:
 It has context, content, and commentary.
 
 
-[Gemara/Kiddushin/Perakim/Ha’ish Mekadesh]
-
-* _Ha’ish Mekadesh_:
-_Ha’ish Mekadesh_ is the second chapter of Maseches Kiddushin, a volume of the Talmud Bavli.
-- _Ha’ish Mekadesh_ begins with the Mishnah on Kiddushin 41a.
-- _Ha’ish Mekadesh_ continues with the sugya of [[_hashta b’shlucho mekadesh bo meboy_]].
-
-
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy]
 
-* Hashta b’shlucho mekadesh bo meboy:
-The sugya of _hashta b’shlucho mekadesh bo meboy_ is [[{{picture}}d here]]. _Sugyas_ in Hisbonen! are learned in four reviews:
-| [[{{First Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Pashut Peshat_ <br> ("The Simple Understanding") <br><br><br><br> A literal translation of the Gemara, with clarifications paraphrased from Rashi, and comprehension questions ]] | [[{{Second Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Eimek Hadavar_ <br> ("The Depth Of The Matter")]] <br><br><br><br> A deeper analysis with hints to anticipate the difficulties discussed by later authorities |
-| [[{{Third Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Milchamas Torah_ <br> (“War of Torah”)]] <br><br><br><br> Comparing the views of Rashi, Tosofos, and others in competitive analysis | [[{{Fourth Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Siyum v’sikum_ <br> ("Conclusion and Summary")]] <br><br><br><br> A recap of the points made previously with halachic conclusions in various organizational schemes |
+* Hashta b’shlucho mekadesh:
+_Hashta b’shlucho mekadesh bo meboy_ is the first topical section ie “sugya” of the second chapter of the Talmud tractate “Kiddushin.”
+===
+- [[See the page]]
+- [[Learn the sugya]]
+===
 
-Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_hashta_bshlucho.png “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)
+See the page: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_hashta_bshlucho.png “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)
+
+Learn the sugya:
+_“Sugyas”_ in Hisbonen! are learned in four reviews:
+===
+- [[{{First Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Pashut Peshat_ <br> ("The Simple Understanding") <br><br><br><br> <span style="font-size: 18px;">A literal translation of the Gemara, with grammar and comprehension questions  </span>]]
+- [[{{Second Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Eimek Hadavar_ <br> ("The Depth Of The Matter") <br><br><br><br> <span style="font-size: 18px;">A deeper analysis with hints to anticipate the difficulties discussed by later authorities </span>]]
+- [[{{Third Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Milchamas Torah_ <br> (“War of Torah”) <br><br><br><br> <span style="font-size: 18px;">Comparing the views of Rashi, Tosofos, and others in competitive analysis</span>]]
+- [[{{Fourth Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Siyum v’sikum_ <br> ("Conclusion and Summary") <br><br><br><br> <span style="font-size: 18px;">A recap of the points made, with halachic conclusions, in various organizational schemes </span>]]
+===
 
 Haaras
 =============================
@@ -3175,42 +3190,32 @@ Can we think of any questions regarding the idea that that even though you can d
 
 * Third Pass of _hashta b’shlucho mekadesh bo meboy_:
 For the third pass:
-| [[{|Learn } {Rashi <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]] | [[{|Learn } {Tosofos <br>on the sugya} of _hashta b’shlucho mekadesh bo meboy_]] | [[{|Learn } {other <br> commentators <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]] |
+===
+- [[{|Learn } {Rashi <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{|Learn } {Tosofos <br>on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{|Learn } {other <br> commentators <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
+===
 
 
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi]
 
 * Rashi on the sugya of _hashta b’shlucho mekadesh bo meboy_:
-Learn the commentary of Rashi on the following lines:
-< [[Rashi on {האיש מקדש בו ובשלוחו}]] [[Rashi on {האשה
-< מתקדשת בה ובשלוחה}]] [[Rashi on {האיש
-< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[Rashi on {השתא בשלוחו מקדש בו מיבעיא}]] [[Rashi on {אמר
-< רב יוסף מצוה בו יותר מבשלוחו}]] [[Rashi on {כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא}]]
-< [[Rashi on {איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב}]] [[Rashi on {דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה}]] [[Rashi on {שמא יראה בה דבר מגונה
-< ותתגנה עליו}]] [[Rashi on {ורחמנא אמר ואהבת לרעך
-< כמוך}]] [[Rashi on {וכי איתמר דרב יוסף אסיפא איתמר}]]
-< [[Rashi on {האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא}]] [[Rashi on {אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו}]]:
+===
+1. [[Rashi on האיש מקדש בו ובשלוחו]]
+===
 
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 01]
 
 * Rashi on האיש מקדש בו ובשלוחו:
 Lets learn Rashi on this line of the Gemara:
 < האיש מקדש בו ובשלוחו
 Says Rashi:
 < מתני' האיש מקדש בו ובשלוחו - בגמ' יליף לה
-| [[Translate Rashi's answer]] | [[What is bothering Rashi?]] | [[What is Rashi's answer?]] | [[Are there problems with Rashi's answer?]] |
+===
+1. [[Translate Rashi's answer]]
+2. [[What is bothering Rashi?]]
+3. [[What is Rashi's answer?]]
+4. [[Are there problems with Rashi's answer?]]
+===
 
 Translate Rashi's answer:
 
@@ -3294,251 +3299,25 @@ What is Rashi's answer?
 Are there problems with Rashi's answer?
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 02]
-
-* Rashi on האשה מתקדשת בה ובשלוחה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 03]
-
-* Rashi on האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 04]
-
-* Rashi on השתא בשלוחו מקדש בו מיבעיא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 05]
-
-* Rashi on אמר רב יוסף מצוה בו יותר מבשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 06]
-
-* Rashi on כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 07]
-
-* Rashi on איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 08]
-
-* Rashi on דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 09]
-
-* Rashi on שמא יראה בה דבר מגונה ותתגנה עליו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 10]
-
-* Rashi on ורחמנא אמר ואהבת לרעך כמוך:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 11]
-
-* Rashi on וכי איתמר דרב יוסף אסיפא איתמר:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 12]
-
-* Rashi on האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi/Sentence 13]
-
-* Rashi on אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
-
-
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos]
 
 * Tosofos on the sugya of _hashta b’shlucho mekadesh bo meboy_:
-Learn the commentary of Tosofos on the following lines:
-< [[Tosofos on {האיש מקדש בו ובשלוחו}]] [[Tosofos on {האשה
-< מתקדשת בה ובשלוחה}]] [[Tosofos on {האיש
-< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[Tosofos on {השתא בשלוחו מקדש בו מיבעיא}]] [[Tosofos on {אמר
-< רב יוסף מצוה בו יותר מבשלוחו}]] [[Tosofos on {כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא}]]
-< [[Tosofos on {איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב}]] [[Tosofos on {דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה}]] [[Tosofos on {שמא יראה בה דבר מגונה
-< ותתגנה עליו}]] [[Tosofos on {ורחמנא אמר ואהבת לרעך
-< כמוך}]] [[Tosofos on {וכי איתמר דרב יוסף אסיפא איתמר}]]
-< [[Tosofos on {האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא}]] [[Tosofos on {אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו}]]:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 01]
-
-* Tosofos on האיש מקדש בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 02]
-
-* Tosofos on האשה מתקדשת בה ובשלוחה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 03]
-
-* Tosofos on האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 04]
-
-* Tosofos on השתא בשלוחו מקדש בו מיבעיא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 05]
-
-* Tosofos on אמר רב יוסף מצוה בו יותר מבשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 06]
-
-* Tosofos on כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 07]
-
-* Tosofos on איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 08]
-
-* Tosofos on דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 09]
-
-* Tosofos on שמא יראה בה דבר מגונה ותתגנה עליו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 10]
-
-* Tosofos on ורחמנא אמר ואהבת לרעך כמוך:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 11]
-
-* Tosofos on וכי איתמר דרב יוסף אסיפא איתמר:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 12]
-
-* Tosofos on האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/Sentence 13]
-
-* Tosofos on אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 01]
-
-* Other commentators on האיש מקדש בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 02]
-
-* Other commentators on האשה מתקדשת בה ובשלוחה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 03]
-
-* Other commentators on האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 04]
-
-* Other commentators on השתא בשלוחו מקדש בו מיבעיא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 05]
-
-* Other commentators on אמר רב יוסף מצוה בו יותר מבשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 06]
-
-* Other commentators on כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 07]
-
-* Other commentators on איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 08]
-
-* Other commentators on דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 09]
-
-* Other commentators on שמא יראה בה דבר מגונה ותתגנה עליו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 10]
-
-* Other commentators on ורחמנא אמר ואהבת לרעך כמוך:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 11]
-
-* Other commentators on וכי איתמר דרב יוסף אסיפא איתמר:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 12]
-
-* Other commentators on האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Other/Sentence 13]
-
-* Other commentators on אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
 
 
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/Other]
 
 * Other commentators on the sugya of _hashta b’shlucho mekadesh bo meboy_:
-Learn other commentators on the following lines:
-< [[Other commentators on {האיש מקדש בו ובשלוחו}]] [[Other commentators on {האשה
-< מתקדשת בה ובשלוחה}]] [[Other commentators on {האיש
-< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[Other commentators on {השתא בשלוחו מקדש בו מיבעיא}]] [[Other commentators on {אמר
-< רב יוסף מצוה בו יותר מבשלוחו}]] [[Other commentators on {כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא}]]
-< [[Other commentators on {איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב}]] [[Other commentators on {דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה}]] [[Other commentators on {שמא יראה בה דבר מגונה
-< ותתגנה עליו}]] [[Other commentators on {ורחמנא אמר ואהבת לרעך
-< כמוך}]] [[Other commentators on {וכי איתמר דרב יוסף אסיפא איתמר}]]
-< [[Other commentators on {האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא}]] [[Other commentators on {אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו}]]:
 
 
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4]
 
 * Fourth Pass of _hashta b’shlucho mekadesh bo meboy_:
 For the fourth pass:
-| [[{Discussions By Line} of Hashta B’shlucho Mekadesh Bo Meboy]] | [[{Prose Summary} of Hashta B’shlucho Mekadesh Bo Meboy]] | [[{Halachos So Far} for Hashta B’shlucho Mekadesh Bo Meboy]] |
+===
+- [[{Discussions By Line} of Hashta B’shlucho Mekadesh Bo Meboy]]
+- [[{Prose Summary} of Hashta B’shlucho Mekadesh Bo Meboy]]
+- [[{Halachos So Far} for Hashta B’shlucho Mekadesh Bo Meboy]]
+===
 Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.
 
 
@@ -3694,27 +3473,6 @@ For the fourth pass, we'll summarize everything we've said so far on each line:
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 13]
 
 * Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
-
-
-[Gur Aryeh]
-
-- Question on Rashi, seems random
-- It is a rule
-- Why two answers?
-- First answer has a better rule, second answer has a better timeline
-- How can you say the first answer has a better rule when the Gur Aryeh uses the same lashon to describe the certainty of both rules?
-- You can only know what a person is saying based on who they are speaking to, and what they are trying to exclude
-- Who is the Gur Aryeh speaking to? Someone who disagrees with the rule? That assumes the audience has already read the Gur Aryeh.
-- And, he offers no arguments.
-- Also, the gur aryeh is here to explain Rashi, not to tell us his opinion, or debate with people who disagree, so it is unlikely that’s what he’s doing.
-- Clearly he is speaking to someone who doesn’t have any idea there is a rule, and is coming to say “Rashi is coming from a rule”
-- In which case, the fact he uses the same lashon for both rules doesn’t mean he thinks they’re equally good, and so he can agree to our pros/cons
-- Gur Aryeh might even be warning us about the requirements of both answers
-- Rashi thinks there is a chisaron with each answer, but the answers themselves are absolutist, and Gur Aryeh is telling us that the first answer holds the rule to be absolute, ie the Gur Aryeh’s strong lashon is to communicate the strength with which the first answer would have to hold what it holds for it to work as an answer
--
--
--
-----==
 
 
 [Inbox]
