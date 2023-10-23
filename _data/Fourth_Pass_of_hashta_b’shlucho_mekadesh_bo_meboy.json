@@ -22,7 +22,8 @@
     "type": "text"
    },
    {
-    "type": "table",
+    "type": "table_list",
+    "width": 4,
     "rows": [
      [
       {
@@ -83,7 +84,7 @@
     ]
    },
    {
-    "text": " Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.",
+    "text": "Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.",
     "type": "text"
    }
   ]

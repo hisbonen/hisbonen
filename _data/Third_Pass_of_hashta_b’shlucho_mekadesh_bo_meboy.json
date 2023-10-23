@@ -22,7 +22,8 @@
     "type": "text"
    },
    {
-    "type": "table",
+    "type": "table_list",
+    "width": 4,
     "rows": [
      [
       {

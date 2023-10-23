@@ -37,11 +37,16 @@
     "direction": "rtl"
    },
    {
-    "type": "table",
+    "type": "table_list",
+    "width": 4,
     "rows": [
      [
       {
        "tokens": [
+        {
+         "text": "1. ",
+         "type": "text"
+        },
         {
          "text": "Translate Rashi's answer",
          "type": "local",
@@ -61,6 +66,10 @@
       {
        "tokens": [
         {
+         "text": "2. ",
+         "type": "text"
+        },
+        {
          "text": "What is bothering Rashi?",
          "type": "local",
          "tokens": [
@@ -79,6 +88,10 @@
       {
        "tokens": [
         {
+         "text": "3. ",
+         "type": "text"
+        },
+        {
          "text": "What is Rashi's answer?",
          "type": "local",
          "tokens": [
@@ -96,6 +109,10 @@
       },
       {
        "tokens": [
+        {
+         "text": "4. ",
+         "type": "text"
+        },
         {
          "text": "Are there problems with Rashi's answer?",
          "type": "local",
