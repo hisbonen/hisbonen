@@ -38,98 +38,87 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "1. ",
-         "type": "text"
-        },
-        {
-         "text": "Translate Rashi's answer",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Translate Rashi's answer",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Translate Rashi's answer",
-         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "2. ",
-         "type": "text"
-        },
-        {
-         "text": "What is bothering Rashi?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "What is bothering Rashi?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "What is bothering Rashi?",
-         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "3. ",
-         "type": "text"
-        },
-        {
-         "text": "What is Rashi's answer?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "What is Rashi's answer?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "What is Rashi's answer?",
-         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "4. ",
-         "type": "text"
-        },
-        {
-         "text": "Are there problems with Rashi's answer?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Are there problems with Rashi's answer?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Are there problems with Rashi's answer?",
-         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": true,
+      "ordinal": "1",
+      "tokens": [
+       {
+        "text": "Translate Rashi's answer",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Translate Rashi's answer",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Translate Rashi's answer",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "2",
+      "tokens": [
+       {
+        "text": "What is bothering Rashi?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What is bothering Rashi?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What is bothering Rashi?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "3",
+      "tokens": [
+       {
+        "text": "What is Rashi's answer?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What is Rashi's answer?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What is Rashi's answer?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "4",
+      "tokens": [
+       {
+        "text": "Are there problems with Rashi's answer?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Are there problems with Rashi's answer?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Are there problems with Rashi's answer?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Rashi on האיש מקדש בו ובשלוחו"
+       }
+      ]
+     }
     ]
    }
   ],

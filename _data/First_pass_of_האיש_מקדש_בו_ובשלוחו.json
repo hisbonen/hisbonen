@@ -24,68 +24,68 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Prepare to read the first clause",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Prepare to read the first clause",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Prepare to read the first clause",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Read the first clause",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Read the first clause",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Read the first clause",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Understand the first clause",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Understand the first clause",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Understand the first clause",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Background Info",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Background Info",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Background Info",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Read the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Read the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Read the first clause",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Comprehension Questions",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Comprehension Questions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Comprehension Questions",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
+       }
+      ]
+     }
     ]
    }
   ],
-  "Prepare to read the first clause": [
+  "Background Info": [
    {
     "text": "There are various things you should know before trying to read the first clause. ",
     "type": "text"
@@ -112,7 +112,7 @@
         "targetSubtopic": "Required background knowledge",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Prepare to read the first clause"
+        "enclosingSubtopic": "Background Info"
        },
        {
         "text": ".",
@@ -141,7 +141,7 @@
         "targetSubtopic": "Try to predict what you think the Mishnah will say",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Prepare to read the first clause"
+        "enclosingSubtopic": "Background Info"
        },
        {
         "text": ".",
@@ -1465,109 +1465,109 @@
     "type": "text"
    }
   ],
-  "Understand the first clause": [
+  "Comprehension Questions": [
    {
     "text": "Now that we've read the first clause, we will ask some clarifying questions. ",
     "type": "text"
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "How can we understand the specificity of the Mishnah?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "How can we understand the specificity of the Mishnah?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "How can we understand the specificity of the Mishnah?",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Understand the first clause"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "What would I have thought in the absence of this Mishnah?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "What would I have thought in the absence of this Mishnah?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Understand the first clause"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "What if it hadn't said בו?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "What if it hadn't said בו?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "What if it hadn't said בו?",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Understand the first clause"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "What would I have thought if it didn’t say ובשלוחו?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "What would I have thought if it didn’t say ובשלוחו?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Understand the first clause"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Whose opinion are we trying to figure out?",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Whose opinion are we trying to figure out?",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Whose opinion are we trying to figure out?",
-         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-         "enclosingSubtopic": "Understand the first clause"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "How can we understand the specificity of the Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "How can we understand the specificity of the Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "How can we understand the specificity of the Mishnah?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Comprehension Questions"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "What would I have thought in the absence of this Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What would I have thought in the absence of this Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Comprehension Questions"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "What if it hadn't said בו?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What if it hadn't said בו?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What if it hadn't said בו?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Comprehension Questions"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "What would I have thought if it didn’t say ובשלוחו?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What would I have thought if it didn’t say ובשלוחו?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Comprehension Questions"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Whose opinion are we trying to figure out?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Whose opinion are we trying to figure out?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Whose opinion are we trying to figure out?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Comprehension Questions"
+       }
+      ]
+     }
     ]
    }
   ],

@@ -23,96 +23,96 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Learn Rashi <br> on the sugya",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Learn Rashi ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " on the sugya",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "targetTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
-         "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Learn Tosofos <br>on the sugya",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Learn Tosofos ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": "on the sugya",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "targetTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
-         "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Learn other <br> commentators <br> on the sugya",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Learn other ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " commentators ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " on the sugya",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "targetTopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
-         "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn Rashi <br> on the sugya",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Learn Rashi ",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": " on the sugya",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn Tosofos <br>on the sugya",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Learn Tosofos ",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": "on the sugya",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn other <br> commentators <br> on the sugya",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Learn other ",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": " commentators ",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": " on the sugya",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     }
     ]
    }
   ]

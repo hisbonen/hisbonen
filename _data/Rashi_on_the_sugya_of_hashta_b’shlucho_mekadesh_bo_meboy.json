@@ -19,32 +19,27 @@
   "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "1. ",
-         "type": "text"
-        },
-        {
-         "text": "Rashi on האיש מקדש בו ובשלוחו",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Rashi on האיש מקדש בו ובשלוחו",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
-         "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
-         "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": true,
+      "ordinal": "1",
+      "tokens": [
+       {
+        "text": "Rashi on האיש מקדש בו ובשלוחו",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on האיש מקדש בו ובשלוחו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     }
     ]
    }
   ]

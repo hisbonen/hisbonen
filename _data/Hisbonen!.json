@@ -30,46 +30,45 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Try “Hisbonen!”",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Try “Hisbonen!”",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Hashta b’shlucho mekadesh",
-         "targetTopic": "Hashta b’shlucho mekadesh",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Hisbonen!"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Learn about the project",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Learn about the project",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Learn about the project",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Hisbonen!"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Try “Hisbonen!”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Try “Hisbonen!”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hashta b’shlucho mekadesh",
+        "targetTopic": "Hashta b’shlucho mekadesh",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Hisbonen!"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn about the project",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Learn about the project",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn about the project",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Hisbonen!"
+       }
+      ]
+     }
     ]
    }
   ],
@@ -80,153 +79,156 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Dedication",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Dedication",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Dedication",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Disclaimers",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Disclaimers",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Disclaimers",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Acknowledgements",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Acknowledgements",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Acknowledgements",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Status",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Status",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Status",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Submit Feedback",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Submit Feedback",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Submit Feedback",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Email updates",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Email updates",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Email updates",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Desktop app",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Desktop app",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Desktop app",
-         "targetTopic": "Hisbonen!",
-         "enclosingTopic": "Hisbonen!",
-         "enclosingSubtopic": "Learn about the project"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "url",
-         "url": "https://github.com/canopy-js/canopy-js",
-         "text": "Canopy.js",
-         "tokens": [
-          {
-           "text": "Canopy.js",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Dedication",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Dedication",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Dedication",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Disclaimers",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Disclaimers",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Disclaimers",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Acknowledgements",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Acknowledgements",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Acknowledgements",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Status",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Status",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Status",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Submit Feedback",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Submit Feedback",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Submit Feedback",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Email updates",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Email updates",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Email updates",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Desktop app",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Desktop app",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Desktop app",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn about the project"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "type": "url",
+        "url": "https://github.com/canopy-js/canopy-js",
+        "text": "Canopy.js",
+        "tokens": [
+         {
+          "text": "Canopy.js",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     }
     ]
    }
   ],
@@ -313,44 +315,43 @@
   "Submit Feedback": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "type": "url",
-         "url": "https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link",
-         "text": "Submit Feedback via Google forms",
-         "tokens": [
-          {
-           "text": "Submit Feedback via Google forms",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "url",
-         "url": "mailto:admin@hisbonen.org?subject=Feedback",
-         "text": "Submit Feedback By email",
-         "tokens": [
-          {
-           "text": "Submit Feedback By email",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": ".",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "type": "url",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link",
+        "text": "Submit Feedback via Google forms",
+        "tokens": [
+         {
+          "text": "Submit Feedback via Google forms",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "type": "url",
+        "url": "mailto:admin@hisbonen.org?subject=Feedback",
+        "text": "Submit Feedback By email",
+        "tokens": [
+         {
+          "text": "Submit Feedback By email",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
