@@ -106,7 +106,7 @@
       "list": false,
       "tokens": [
        {
-        "text": "First Pass: <br> _Pashut Peshat_ <br> (\"The Simple Understanding\") <br><br><br><br> <span style=\"font-size: 18px;\">A literal translation of the Gemara, with grammar and comprehension questions  </span>",
+        "text": "First Pass: <br> _The Pashut Pshat_ <br> (\"The Simple Understanding\") <br><br><br><br> <span style=\"font-size: 18px;\">A literal translation of the Gemara, with grammar and comprehension questions  </span>",
         "type": "global",
         "tokens": [
          {
@@ -125,7 +125,7 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "Pashut Peshat",
+            "text": "The Pashut Pshat",
             "type": "text"
            }
           ]
