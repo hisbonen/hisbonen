@@ -120,7 +120,7 @@ Some linguists bring vowel changes for shorushim ending in ח or ע as evidence 
 
 * Aramaic definite article:
 The Aramaic definite article is a grammatical entity in the Aramaic language.
-- Most languages have a concept called [[definite article]], one of the two types of [[articles]].
+- Most languages have a concept called [[definite article]].
 - In Aramaic, the definite article is an א suffix after a noun, usually vowelized אָ, _au_.
 - Sometimes Aramaic uses the א suffix in situations that we wouldn’t use the word “the” in English, for difficult to understand reasons.
 - Hebrew also has a [[Hebrew {definite article}]], but it is a ה prefix, like הַמֶלֶךְ (_hamelech,_ “the king.”)
@@ -1537,8 +1537,8 @@ The Hebrew and Aramaic “present tense” correspond to both the English presen
 [Dikduk/Hebrew]
 
 * Hebrew definite article: The Hebrew definite article is a grammatical entity in the Hebrew language.
-- Most languages have a concept called [[definite article]], one of the two types of [[articles]].
-- In Hebrew, the definite article is a ה prefix before a noun, usually vowelized הַ, _ha_.
+- Most languages have a concept called [[the {{definite article}}]].
+- In Hebrew, the definite article is a ה prefix before a noun, usually pronounced הַ, _ha_.
 - Sometimes, the הַ gets combined with [[the prefix ב]] or [[the prefix ל]] and becomes a בַ or לַ.
 - Aramaic also has a [[Aramaic {definite article}]], but it is an א suffix, like עָלְמָא (_alma,_ “the world”)
 
@@ -2611,7 +2611,7 @@ This is the third clause of the Mishnah:
 It has context, content, and commentary.
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy]
 
 * Hashta b’shlucho mekadesh:
 The first section of the second chapter of Tractate Kiddushin is called _Hashta b’shlucho mekadesh bo meboy_.
@@ -2628,7 +2628,7 @@ _“Sugyas”_ in Hisbonen! are learned in four reviews:
 - [[{{First Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _The Pashut Pshat_ <br> ("The Simple Understanding") <br><br><br><br> <span style="font-size: 18px;">A literal translation of the Gemara, with grammar and comprehension questions  </span>]]
 - [[{{Second Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Eimek Hadavar_ <br> ("The Depth Of The Matter") <br><br><br><br> <span style="font-size: 18px;">A deeper analysis with hints to anticipate the difficulties discussed by later authorities </span>]]
 - [[{{Third Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Milchamas Torah_ <br> (“War of Torah”) <br><br><br><br> <span style="font-size: 18px;">Comparing the views of Rashi, Tosofos, and others in competitive analysis</span>]]
-- [[{{Fourth Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Siyum v’sikum_ <br> ("Conclusion and Summary") <br><br><br><br> <span style="font-size: 18px;">A recap of the points made, with halachic conclusions, in various organizational schemes </span>]]
+- [[{{Fourth Pass}}{ of _hashta b’shlucho mekadesh bo meboy_|}: <br> _Siyum v’sikum_ <br> ("Conclusion and Summary") <br><br><br><br> <span style="font-size: 18px;">A recap of the points made, with halachic conclusions </span>]]
 ===
 
 Haaras
@@ -2641,7 +2641,7 @@ Haaras
   - three meanings of specificity
   - which mahalach is the gemara taking in its question
   - what is the makor for this?
-  - How would you learn “haish mekadesh bshlucho”?
+  - How would you learn “ha'ish mekadesh bshlucho”?
   - Where do we see the Gemara thinks shlichus is the bigger chiddush?
   - “also” “even” “for example”
 - First answer
@@ -2697,17 +2697,28 @@ Haaras
   - chazon ish emuna bitachon
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1]
 
 * First Pass of _hashta b’shlucho mekadesh bo meboy_:
 For the first pass, we'll translate the Gemara word for word using Rashi to clarify ambiguities in the text, and then ask clarification questions:
+===
+- [[Mishnah]]
+- [[Gemara]]
+- [[Ika D’Amri]]
+- [[Ha’Ish Mekadesh Es Bito]]
+===
+
+Mishnah:
 < [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
 < מתקדשת בה ובשלוחה}]] [[First pass of {האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[First pass of {השתא בשלוחו מקדש בו מיבעיא}]] [[First pass of {אמר
+
+Gemara:
+< [[First pass of {גמ‘ השתא בשלוחו מקדש בו מיבעיא}]] [[First pass of {אמר
 < רב יוסף מצוה בו יותר מבשלוחו}]] [[First pass of {כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא}]]
+
+Ika D’Amri:
 < [[First pass of {איכא דאמרי בהא איסורא נמי אית בה
 < כדרב יהודה אמר רב}]] [[First pass of {דאמר רב יהודה
 < אמר רב אסור לאדם שיקדש את האשה
@@ -2721,313 +2732,130 @@ For the first pass, we'll translate the Gemara word for word using Rashi to clar
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו}]]:
 
-=====First pass is also for guessing shakla vtaria
+Ha'Ish Mekadesh Es Bito:
+< ... [[First pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
+< נערה אין כשהיא קטנה לא}]] [[First pass of {מסייע ליה
+< לרב דאמר רב יהודה אמר רב ואיתימא
+< רבי אלעזר}]] [[First pass of {אסור לאדם שיקדש את בתו
+< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
+< רוצה:}]]
+
+-First pass is also for guessing shakla vtaria
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 01]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/01-Mishnah/Sentence 01]
 
 * First pass of האיש מקדש בו ובשלוחו:
-In order to learn the first clause of the Mishnah:
-< האיש מקדש בו ובשלוחו
-===
-- [[Background Info]]
-- [[Read the first clause]]
-- [[Comprehension Questions]]
-===
-
-Background Info:
-There are various things you should know before trying to read the first clause.
-- The first clause has [[required background knowledge]].
-- You should [[try to predict what you think the Mishnah will say]].
-
-Required background knowledge:
-There is required background knowledge to understand the first clause.
-- You'll need to know what _kiddushin_ and _nisuyin_ are.
-- You'll need to know what _shlichus_ is.
-
-Try to predict what you think the Mishnah will say:
-The first clause of the Mishnah is speaking about whether a man is allowed to create a binding engagement with a woman via a messenger. Do you think this should be possible? Why or why not?
-
-Read the first clause:
-In order to read the first clause of the Mishnah “האיש מקדש בו ובשלוחו”:
-- First, we'll [[identify where the sentence ends]].
-- Then, we’ll translate the individual words:
-< [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
-- Then, we’ll put together a [[literal translation of the full sentence]]
-- We’ll [[identify ambiguities]] and clarify the meaning of the text
-
-Identify where the sentence ends:
-How do we know where the first clause of the Mishnah ends? Even if we don't know the meaning of the words, we should be able to notice some similar-looking patterns being repeated:
-< *האיש מקדש* בו ובשלוחו *האשה מתקדשת* בה ובשלוחה *האיש מקדש* את בתו כשהיא נערה בו ובשלוחו
-Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can begin by focusing on the first one:
-< *האיש מקדש בו ובשלוחו* האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-
-האיש:
-To understand the word “האיש”:
-- We'll give a [[general translation of האיש]]
-- We'll give a [[contextual translation of האיש]]
-- For advanced students, we'll give a [[grammatical explanation of האיש]]
-- For advanced students we'll explain [[how you could figure the meaning of האיש out yourself]]
-
-General translation of האיש: In general the word “האיש” means “the man.”
-
-Contextual translation of האיש: In this context, it means “a man” because we’re not speaking about any one man in particular. Sometimes the Mishnah will use the word “the” slightly differently than we would in English.
-
-Grammatical explanation of האיש:
-We can giev a grammatical explanation of האיש:
-- האיש is the [[{{Hebrew definite article}} “ה”]] before the noun “איש”.
-
-How you could figure the meaning of האיש out yourself:
-Here’s how you could figure out the meaning of האיש yourself:
-- First, let's remember that we're reading a Mishnah and so the language is going to be Hebrew and not Aramaic.
-- Next, we should see if any of the letters are potentially prefixes or suffixes rather than being part of the underlying word.
-- ה is sometimes a prefix, but ש is never a suffix, so we can conclude that either “האיש” is one big word, or the ה is a prefix, and the real word is איש.
-- (It could also be that ה is a prefix and א is another prefix after that, but א is only a prefix in the Hebrew future tense first person (e.g. “I will run”), and there’s no situation in Hebrew where you can have a ה prefix followed by a future tense verb.)
-- Thus, we can look up the word “האיש” in the dictionary, see that it doesn’t exist, and then try “איש,” and we would see that it does exist and is a noun meaning “man.”
-- Once we know איש is a noun, the ה prefix can't be any of the [[verb forms beginning with ה|verb-related ה prefixes]], and so by process of elimination we know it is the [[Hebrew definite article]].
-
-מקדש:
-To understand the word “מקדש”:
-- We’ll give a [[general translation of מקדש]]
-- We’ll give a [[contextual translation of מקדש]]
-- For more advanced students, we’ll give a [[grammatical explanation of מקדש]]
-- For advanced students we’ll explain [[how you could figure the meaning of מקדש out yourself]]
-
-General translation of מקדש:
-To translate the word מקדש in general, first we should note that it is an ongoing “ing” verb like “running,” and it refers to someone who is making holiness in some way. For example:
-- Hashem is _mekadesh es hashabos_, which means Hashem makes the Sabbath holy by designating it as special.
-- When we say _kiddush_ before a holiday meal, this is referred to as “being _mekadesh_.”
-- When a man wants to marry a woman, he must first create the “binding engagement” stage called _kiddushin_, and doing so is refered to as the man “being _mekadesh_” a woman.
-The word מקדש is also in the “masculine singular,” so we are speaking about one man doing the action. So, מקדש means some man or masculine entity is doing one of the previously mentioned actions in an ongoing way.
-
-Contextual translation of מקדש:
-We can give a contextual translation of the word מקדש.
-- In this context, we are in _Meseches Kiddushin_ so we know we are probably speaking about marriage, and so even though “מקדש” can have several meanings, here we are probably referring to a man who is creating the binding engagement stage of marriage called _kiddushin_ with one woman.
-- However, the ongoing nature of the verb makes it sound like we are telling a story about a particular man doing this, but that seems a bit out of place here, and so we’ll have to remember that in the Mishnah, the ongoing “present tense” is used to communicate halachic rulings, and so if it says “we are making _kiddush_” that might mean “individuals are obligated to make kiddush” and if it says “a man is buying an item with a contract,” that would mean “a man is _able_ to buy an item using a contract.”
-- Thus, the word מקדש here means “[a man is] able to create the _kiddushin_ stage of marriage [...],” and we are anticipating further details about how this is done.
-
-Grammatical explanation of מקדש:
-We can give a grammatical explanation of the word מקדש:
-- מקדש comes from the [[shoresh]] קדש
-- מקדש is from the [[{{pi’el}} binyan]]. ([[{{Binyan}} is a grammatical concept in Hebrew and Aramaic]].)
-- The meaning of מקדש is determined by the meanings of [the shoresh קדש in the pi’el].
-- מקדש is a [[pi'el active participle]], an example of an [[active participle]] which is one of [[the two types of {{participle}}]], which are two of the [[“tenses” of Hebrew and Aramaic]].
-- מקדש is in the masculine singular, so we are speaking about one man or one masculine entity.
-
-How you could figure the meaning of מקדש out yourself:
-Here's how you could figure out the meaning of מקדש yourself:
-- First, let's remember that we're reading a Mishnah, and so the language is going to be Hebrew.
-- We might know that there is a noun spelled מקדש, מִקְדָּשׁ meaning temple or sanctuary, but because we just saw האיש which is a noun, now we are probably looking for a verb.
-- So, every verb should have 2-3 visible letters of the [[shoresh]], so we'll want to identify what shoresh this is.
-- We have 4 [[strong letters]], so only three of those can be part of the verb, so either the מ is a prefix, or the ש is a suffix.
-- There are [[several {{Hebrew verb forms beginning with מ}}]], but ש is never a suffix, so we've narrowed it down to those verb forms.
-- The only one of those forms that has only a מ prefix and not an extra ת or י or ו is the [[{{pi'el active participle}} for regular shorushim]].
-- Once we know the binyan and tense, we can see that the lack of a suffix indicates this is a masculine singular.
-
-בו:
-
-ובשלוחו:
-
-Literal translation of the full sentence: Work in progress.
-
-Identify ambiguities: Work in progress.
-
-Comprehension Questions:
-Now that we've read the first clause, we will ask some clarifying questions.
-===
-- [[How can we understand the specificity of the Mishnah?]]
-- [[What would I have thought in the absence of this Mishnah?]]
-- [[What if it hadn't said בו?]]
-- [[What would I have thought if it didn’t say ובשלוחו?]]
-- [[Whose opinion are we trying to figure out?]]
-===
-
-How can we understand the specificity of the Mishnah?
-When the Mishnah gives a list of things, is that generally davka, lav davka, or the biggest chiddush and kol shekain all less-surprising examples?
-
-What would I have thought in the absence of this Mishnah?
-
-- Introduce the idea of there being three types of specificity, but leave it ambiguous until the Gemara which kind the Gemara thinks the Mishnah is.
-
-What if it hadn't said בו?
-
-What would I have thought if it didn’t say ובשלוחו?
-
-Whose opinion are we trying to figure out?
-Is there someone whose mind we could read to see if R Yosef is correct about what he is saying? (Getting the student to recognize that this is a machlochus over the intent of the tana, not stam over what the halacha is.)
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 02]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/01-Mishnah/Sentence 02]
 
 * First pass of האשה מתקדשת בה ובשלוחה:
 In order to understand the second clause of the Mishnah:
-< האשה מתקדשת בה ובשלוחה
-| [[Prepare to read <br> the third clause]] | [[Read the <br> third clause]] | [[Understand the <br> third clause]] |
-
-Prepare to read the third clause:
-
-Read the third clause:
-- First, we'll [[identify where to end the sentence]].
-- Then, we’ll translate the individual words:
-< [[האשה]] [[מתקדשת]] [[בה]] [[ובשלוחה]]
-- Then, we’ll put together a [[literal translation of the full sentence]]
-- We’ll [[identify ambiguities]] and clarify the meaning of the text
-
-Identify where to end the sentence:
-
-האשה:
-
-מתקדשת:
-
-בה:
-
-ובשלוחה:
-
-Literal translation of the full sentence:
-
-Identify ambiguities:
-
-Understand the third clause:
-Now that we've read the first clause, we will ask some clarifying questions.
-- Like this.
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 03]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/01-Mishnah/Sentence 03]
 
 * First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 In order to understand the third clause of the Mishnah:
 < האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-| [[Prepare to read <br> the third clause]] | [[Read the <br> third clause]] | [[Understand the <br> third clause]] |
-
-Prepare to read the third clause:
-
-Read the third clause:
-
-- First, we’ll translate the individual words:
-< [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]
-- Then, we’ll put together a [[literal translation of the full sentence]]
-- We’ll [[identify ambiguities]] and clarify the meaning of the text
-- Lastly, we’ll consider [[comprehension questions]] about this sentence
-
-האיש:
-
-מקדש:
-
-את:
-
-בתו:
-
-כשהיא:
-
-נערה:
-
-בו:
-
-ובשלוחו:
-
-Literal translation of the full sentence:
-
-Identify ambiguities:
-
-Understand the third clause:
-Now that we've read the first clause, we will ask some clarifying questions.
-- For example
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 04]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/02-Gemara/Sentence 01]
 
-* First pass of השתא בשלוחו מקדש בו מיבעיא:
+* First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא:
 In order to learn the first line of the Gemara:
 < השתא בשלוחו מקדש בו מיבעיא
-| [[Prepare to read <br> the line]] | [[Read the <br> line]] | [[Understand the <br> the line]] |
-
-Prepare to read the line:
-
-Read the line:
-- First, we’ll translate the individual words:
-< [[השתא]] [[בשלוחו]] [[מקדש]] [[בו]] [[מיבעיא]]
-- Then, we’ll put together a [[literal translation of the full sentence]]
-- We’ll [[identify ambiguities and clarify the meaning of the text]]
-
-השתא:
-
-בשלוחו:
-
-מקדש:
-
-בו:
-
-מיבעיא:
-
-Literal translation of the full sentence:
-
-Identify ambiguities and clarify the meaning of the text:
-
-Understand the the line:
-Now that we've read the first line, we will ask some clarifying questions.
-- [[How is the Gemara interpreting the specificity of the Mishnah?]]
--
-
-How is the Gemara interpreting the specificity of the Mishnah?
-- And where would we find a raya to this principle that the Mishnah teaches the biggest chiddush?
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 05]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/02-Gemara/Sentence 02]
 
 * First pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 06]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/02-Gemara/Sentence 03]
 
 * First pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 07]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 01]
 
 * First pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 08]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 02]
 
 * First pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 09]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 03]
 
 * First pass of שמא יראה בה דבר מגונה ותתגנה עליו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 10]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 04]
 
 * First pass of ורחמנא אמר ואהבת לרעך כמוך:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 11]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 05]
 
 * First pass of וכי איתמר דרב יוסף אסיפא איתמר:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 12]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 06]
 
 * First pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 13]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/03-Ika D'Amri/Sentence 07]
 
 * First pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 01]
+
+* First pass of האיש מקדש את ביתו כשהיא נערה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 02]
+
+* First pass of כשהיא נערה אין כשהיא קטנה לא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 03]
+
+* First pass of מסייע ליה לרב דאמר רב יהודה אמר רב ואיתימא רבי אלעזר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 04]
+
+* First pass of אסור לאדם שיקדש את בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2]
 
 * Second Pass of _hashta b’shlucho mekadesh bo meboy_:
+
 For the second pass, we'll look at the Gemara and consider what questions it raises:
+===
+- [[Mishnah]]
+- [[Gemara]]
+- [[Ika D’Amri]]
+- [[Ha’Ish Mekadesh Es Bito]]
+===
+
+Mishnah:
 < [[Second pass of {האיש מקדש בו ובשלוחו}]] [[Second pass of {האשה
 < מתקדשת בה ובשלוחה}]] [[Second pass of {האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[Second pass of {השתא בשלוחו מקדש בו מיבעיא}]] [[Second pass of {אמר
+
+Gemara:
+< [[Second pass of {גמ‘ השתא בשלוחו מקדש בו מיבעיא}]] [[Second pass of {אמר
 < רב יוסף מצוה בו יותר מבשלוחו}]] [[Second pass of {כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא}]]
+
+Ika D’Amri:
 < [[Second pass of {איכא דאמרי בהא איסורא נמי אית בה
 < כדרב יהודה אמר רב}]] [[Second pass of {דאמר רב יהודה
 < אמר רב אסור לאדם שיקדש את האשה
@@ -3041,8 +2869,86 @@ For the second pass, we'll look at the Gemara and consider what questions it rai
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו}]]:
 
+Ha'Ish Mekadesh Es Bito:
+< ... [[Second pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[Second pass of {כשהיא
+< נערה אין כשהיא קטנה לא}]] [[Second pass of {מסייע ליה
+< לרב דאמר רב יהודה אמר רב ואיתימא
+< רבי אלעזר}]] [[Second pass of {אסור לאדם שיקדש את בתו
+< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
+< רוצה:}]]
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 01]
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Gemara/Sentence 01]
+
+* Second pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Gemara/Sentence 02]
+
+* Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Gemara/Sentence 03]
+
+* Second pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 01]
+
+* Second pass of האיש מקדש את ביתו כשהיא נערה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 02]
+
+* Second pass of כשהיא נערה אין כשהיא קטנה לא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 03]
+
+* Second pass of מסייע ליה לרב דאמר רב יהודה אמר רב ואיתימא רבי אלעזר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 04]
+
+* Second pass of אסור לאדם שיקדש את בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 01]
+
+* Second pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 02]
+
+* Second pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 03]
+
+* Second pass of שמא יראה בה דבר מגונה ותתגנה עליו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 04]
+
+* Second pass of ורחמנא אמר ואהבת לרעך כמוך:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 05]
+
+* Second pass of וכי איתמר דרב יוסף אסיפא איתמר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 06]
+
+* Second pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Ika D'Amri/Sentence 07]
+
+* Second pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Mishnah/Sentence 01]
 
 * Second pass of האיש מקדש בו ובשלוחו:
 On the second pass, lets consider further questions we might have with this line:
@@ -3112,100 +3018,55 @@ Then, you might have a good question on the Mishnah!
 - 🎉🎉🎉
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 02]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Mishnah/Sentence 02]
 
 * Second pass of האשה מתקדשת בה ובשלוחה:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 03]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Mishnah/Sentence 03]
 
 * Second pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 04]
-
-* Second pass of השתא בשלוחו מקדש בו מיבעיא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 05]
-
-* Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
-On the second pass, lets consider further questions we might have with this line:
-< אמר רב יוסף מצוה בו יותר מבשלוחו
-Think for yourself, and then consider these [[hints]][^1].
-[^1]: You will improve much more quickly if you read the hints sparingly and try to figure out the answer yourself first.
-
-Hints:
-The Mishnah had an extra word, and R Yosef is coming to suggest that the extra word was included to teach the idea that it is better to do mitzvos yourself.
-- Do we have [[any questions regarding this principle that R Yosef is mentioning]]? (Pause and think before reading.)
-
-Any questions regarding this principle that R Yosef is mentioning:
-R Yosef is telling us that even though you can do a mitzvah with a shaliach, it is better to do it yourself.
-- [[Can we think of any questions regarding {the idea that that even though you can do a mitzvah with a shaliach, it is better to do it yourself|that}?]] (Pause and think before reading.)
-
-Can we think of any questions regarding the idea that that even though you can do a mitzvah with a shaliach\, it is better to do it yourself?
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 06]
-
-* Second pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 07]
-
-* Second pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 08]
-
-* Second pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 09]
-
-* Second pass of שמא יראה בה דבר מגונה ותתגנה עליו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 10]
-
-* Second pass of ורחמנא אמר ואהבת לרעך כמוך:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 11]
-
-* Second pass of וכי איתמר דרב יוסף אסיפא איתמר:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 12]
-
-* Second pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Sentence 13]
-
-* Second pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3]
-
-* Third Pass of _hashta b’shlucho mekadesh bo meboy_:
-For the third pass:
-===
-- [[{|Learn } {Rashi <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
-- [[{|Learn } {Tosofos <br>on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
-- [[{|Learn } {other <br> commentators <br> on the sugya} of _hashta b’shlucho mekadesh bo meboy_]]
-===
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/1-Rashi]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3]
 
 * Rashi on the sugya of _hashta b’shlucho mekadesh bo meboy_:
 ===
-1. [[Rashi on האיש מקדש בו ובשלוחו]]
+1. [[{Rashi on} Kiddushin 41a { האיש מקדש בו ובשלוחו}]]
+2. [[{Rashi on} Kiddushin 41a { כשהיא נערה}]]
+3. [[{Rashi on} Kiddushin 41a { מצוה בו יותר מבשלוחו}]]
+4. [[{Rashi on} Kiddushin 41a { מחריך רישא}]]
+5. [[{Rashi on} Kiddushin 41a { שיבוטא}]]
+6. [[{Rashi on} Kiddushin 41a { בהא איסורא נמי איכא}]]
+7. [[{Rashi on} Kiddushin 41a { וכי איתמר דרב יוסף}]]
+8. [[{Rashi on} Kiddushin 41a { אבל בהא}]]
+9. [[{Rashi on} Kiddushin 41a { דאמר ר"ל טב למיתב טן דו}]]
+10. [[{Rashi on} Kiddushin 41a { טן}]]
+11. [[{Rashi on} Kiddushin 41a { דו}]]
 ===
 
 
-* Rashi on האיש מקדש בו ובשלוחו:
+* Third Pass of _hashta b’shlucho mekadesh bo meboy_:
+For the third pass, learn different commentators on the sugya:
+===
+- [[{Rashi} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Tosofos} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Ran} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Ritva} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Tosofos HaRosh} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Meiri} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Shita Lo Nodeh L’Mi} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Maharit} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Atzmos Yosef} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Makneh} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Pnei Yoshua} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+- [[{Nitziv} on the sugya of _hashta b’shlucho mekadesh bo meboy_]]
+===
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/01-האיש מקדש בו ובשלוחו]
+
+* Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו:
 Lets learn Rashi on this line of the Gemara:
 < האיש מקדש בו ובשלוחו
 Says Rashi:
@@ -3299,17 +3160,144 @@ What is Rashi's answer?
 Are there problems with Rashi's answer?
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/02-כשהיא נערה]
+
+* Rashi on Kiddushin 41a כשהיא נערה:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/03-מצוה בו יותר מבשלוחו]
+
+* Rashi on Kiddushin 41a מצוה בו יותר מבשלוחו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/04-מחריך רישא]
+
+* Rashi on Kiddushin 41a מחריך רישא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/05-שיבוטא]
+
+* Rashi on Kiddushin 41a שיבוטא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/06-בהא איסורא נמי איכא]
+
+* Rashi on Kiddushin 41a בהא איסורא נמי איכא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/07-וכי איתמר דרב יוסף]
+
+* Rashi on Kiddushin 41a וכי איתמר דרב יוסף:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/08-אבל בהא]
+
+* Rashi on Kiddushin 41a אבל בהא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/09-דאמר ר"ל טב למיתב טן דו]
+
+* Rashi on Kiddushin 41a דאמר ר"ל טב למיתב טן דו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/10-טן]
+
+* Rashi on Kiddushin 41a טן:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/01-Rashi/11-דו]
+
+* Rashi on Kiddushin 41a דו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Ran]
+
+* Ran on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos]
 
 * Tosofos on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+===
+1. [[{Tosofos on} Kiddushin 41a { האיש מקדש\. השתא השלוחו מקדש בו מיבעיא}]]
+2. [[{Tosofos on} Kiddushin 41a { אי איתמר דרב יוסף אסיפא איתמר}]]
+3. [[{Tosofos on} Kiddushin 41a { אסור לאדם שיקדש אשה כו'‏}]]
+4. [[{Tosofos on} Kiddushin 41a { כשהיא נערה אין כשהיא קטנה לא}]]
+5. [[{Tosofos on} Kiddushin 41a { אסור לאדם שיקדש את בתו כשהיא קטנה}]]
+===
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/Other]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/01-האיש מקדש. השתא השלוחו מקדש בו מיבעיא]
 
-* Other commentators on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+* Tosofos on Kiddushin 41a האיש מקדש\. השתא השלוחו מקדש בו מיבעיא:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/02-אי איתמר דרב יוסף אסיפא איתמר]
+
+* Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/03-אסור לאדם שיקדש אשה כו'‏]
+
+* Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/04-כשהיא נערה אין כשהיא קטנה לא]
+
+* Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/05-אסור לאדם שיקדש את בתו כשהיא קטנה]
+
+* Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Ritva]
+
+* Ritva on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/4-Tosofos HaRosh]
+
+* Tosofos HaRosh on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/5-Meiri]
+
+* Meiri on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/6-Shita Lo Nodeh L’mi]
+
+* Shita Lo Nodeh L’Mi on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Atzmos Yosef]
+
+* Atzmos Yosef on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Maharit]
+
+* Maharit on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Makneh]
+
+* Makneh on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Nitziv]
+
+* Nitziv on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Pnei Yoshua]
+
+* Pnei Yoshua on the sugya of _hashta b’shlucho mekadesh bo meboy_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4]
 
 * Fourth Pass of _hashta b’shlucho mekadesh bo meboy_:
 For the fourth pass:
@@ -3318,7 +3306,8 @@ For the fourth pass:
 - [[{Prose Summary} of Hashta B’shlucho Mekadesh Bo Meboy]]
 - [[{Halachos So Far} for Hashta B’shlucho Mekadesh Bo Meboy]]
 ===
-Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.
+
+- Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.
 
 
 * Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy:
@@ -3385,94 +3374,140 @@ The suggestion that בו is to teach a man must see the woman before marrying he
 - Isn't that a stira to the Mishnah?
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line]
-
-* Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy:
-For the fourth pass, we'll summarize everything we've said so far on each line:
-< [[Fourth pass of {האיש מקדש בו ובשלוחו}]] [[Fourth pass of {האשה
-< מתקדשת בה ובשלוחה}]] [[Fourth pass of {האיש
-< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-< ...
-< גמ‘ [[Fourth pass of {השתא בשלוחו מקדש בו מיבעיא}]] [[Fourth pass of {אמר
-< רב יוסף מצוה בו יותר מבשלוחו}]] [[Fourth pass of {כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא}]]
-< [[Fourth pass of {איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב}]] [[Fourth pass of {דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה}]] [[Fourth pass of {שמא יראה בה דבר מגונה
-< ותתגנה עליו}]] [[Fourth pass of {ורחמנא אמר ואהבת לרעך
-< כמוך}]] [[Fourth pass of {וכי איתמר דרב יוסף אסיפא איתמר}]]
-< [[Fourth pass of {האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא}]] [[Fourth pass of {אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו}]]:
-
-
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 01]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 01]
 
 * Fourth pass of האיש מקדש בו ובשלוחו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 02]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 02]
 
 * Fourth pass of האשה מתקדשת בה ובשלוחה:
+In order to understand the second clause of the Mishnah:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 03]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 03]
 
 * Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
+In order to understand the third clause of the Mishnah:
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 04]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 01]
 
-* Fourth pass of השתא בשלוחו מקדש בו מיבעיא:
+* Fourth pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא:
+In order to learn the first line of the Gemara:
+< השתא בשלוחו מקדש בו מיבעיא
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 05]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 02]
 
 * Fourth pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 06]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 03]
 
 * Fourth pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 07]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 01]
 
 * Fourth pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 08]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 02]
 
 * Fourth pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 09]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 03]
 
 * Fourth pass of שמא יראה בה דבר מגונה ותתגנה עליו:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 10]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 04]
 
 * Fourth pass of ורחמנא אמר ואהבת לרעך כמוך:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 11]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 05]
 
 * Fourth pass of וכי איתמר דרב יוסף אסיפא איתמר:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 12]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 06]
 
 * Fourth pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
 
 
-[Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/Sentence 13]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 07]
 
 * Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 01]
+
+* Fourth pass of האיש מקדש את ביתו כשהיא נערה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 02]
+
+* Fourth pass of כשהיא נערה אין כשהיא קטנה לא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 03]
+
+* Fourth pass of מסייע ליה לרב דאמר רב יהודה אמר רב ואיתימא רבי אלעזר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 04]
+
+* Fourth pass of אסור לאדם שיקדש את בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line]
+
+* Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy:
+For the fourth pass, we'll summarize everything we've said so far on each line:
+===
+- [[Mishnah]]
+- [[Gemara]]
+- [[Ika D’Amri]]
+- [[Ha’Ish Mekadesh Es Bito]]
+===
+
+Mishnah:
+< [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
+< מתקדשת בה ובשלוחה}]] [[First pass of {האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
+
+Gemara:
+< [[First pass of {גמ‘ השתא בשלוחו מקדש בו מיבעיא}]] [[First pass of {אמר
+< רב יוסף מצוה בו יותר מבשלוחו}]] [[First pass of {כי הא דרב
+< ספרא מחריך רישא רבא מלח שיבוטא}]]
+
+Ika D’Amri:
+< [[First pass of {איכא דאמרי בהא איסורא נמי אית בה
+< כדרב יהודה אמר רב}]] [[First pass of {דאמר רב יהודה
+< אמר רב אסור לאדם שיקדש את האשה
+< עד שיראנה}]] [[First pass of {שמא יראה בה דבר מגונה
+< ותתגנה עליו}]] [[First pass of {ורחמנא אמר ואהבת לרעך
+< כמוך}]] [[First pass of {וכי איתמר דרב יוסף אסיפא איתמר}]]
+< [[First pass of {האשה מתקדשת בה ובשלוחה השתא
+< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
+< מצוה בה יותר מבשלוחה כי הא דרב ספרא
+< מחריך רישא רבא מלח שיבוטא}]] [[First pass of {אבל בהא
+< איסורא לית בה כדר״ל דאמר ר״ל טב
+< למיתב טן דו מלמיתב ארמלו}]]:
+
+Ha'Ish Mekadesh Es Bito:
+< ... [[First pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
+< נערה אין כשהיא קטנה לא}]] [[First pass of {מסייע ליה
+< לרב דאמר רב יהודה אמר רב ואיתימא
+< רבי אלעזר}]] [[First pass of {אסור לאדם שיקדש את בתו
+< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
+< רוצה:}]]
+
+-First pass is also for guessing shakla vtaria
 
 
 [Inbox]
