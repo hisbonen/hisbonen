@@ -18,7 +18,7 @@
  "paragraphsBySubtopic": {
   "Third Pass of hashta b’shlucho mekadesh bo meboy": [
    {
-    "text": "For the third pass: ",
+    "text": "For the third pass, learn different commentators on the sugya: ",
     "type": "text"
    },
    {
@@ -28,19 +28,11 @@
       "list": false,
       "tokens": [
        {
-        "text": "Learn Rashi <br> on the sugya",
+        "text": "Rashi",
         "type": "global",
         "tokens": [
          {
-          "text": "Learn Rashi ",
-          "type": "text"
-         },
-         {
-          "type": "html_element",
-          "html": "<br>"
-         },
-         {
-          "text": " on the sugya",
+          "text": "Rashi",
           "type": "text"
          }
         ],
@@ -55,19 +47,11 @@
       "list": false,
       "tokens": [
        {
-        "text": "Learn Tosofos <br>on the sugya",
+        "text": "Tosofos",
         "type": "global",
         "tokens": [
          {
-          "text": "Learn Tosofos ",
-          "type": "text"
-         },
-         {
-          "type": "html_element",
-          "html": "<br>"
-         },
-         {
-          "text": "on the sugya",
+          "text": "Tosofos",
           "type": "text"
          }
         ],
@@ -82,32 +66,187 @@
       "list": false,
       "tokens": [
        {
-        "text": "Learn other <br> commentators <br> on the sugya",
+        "text": "Ran",
         "type": "global",
         "tokens": [
          {
-          "text": "Learn other ",
-          "type": "text"
-         },
-         {
-          "type": "html_element",
-          "html": "<br>"
-         },
-         {
-          "text": " commentators ",
-          "type": "text"
-         },
-         {
-          "type": "html_element",
-          "html": "<br>"
-         },
-         {
-          "text": " on the sugya",
+          "text": "Ran",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "targetTopic": "Other commentators on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetSubtopic": "Ran on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Ran on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ritva",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Ritva",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ritva on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Ritva on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tosofos HaRosh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos HaRosh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos HaRosh on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Tosofos HaRosh on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Meiri",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Meiri",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Meiri on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Meiri on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shita Lo Nodeh L’Mi",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Shita Lo Nodeh L’Mi",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shita Lo Nodeh L’Mi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Shita Lo Nodeh L’Mi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Maharit",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Maharit",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Maharit on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Maharit on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Atzmos Yosef",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Atzmos Yosef",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Atzmos Yosef on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Atzmos Yosef on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Makneh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Makneh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Makneh on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Makneh on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Pnei Yoshua",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Pnei Yoshua",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pnei Yoshua on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Pnei Yoshua on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nitziv",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Nitziv",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nitziv on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "targetTopic": "Nitziv on the sugya of hashta b’shlucho mekadesh bo meboy",
         "enclosingTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
         "enclosingSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy"
        }

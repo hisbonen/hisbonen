@@ -322,7 +322,7 @@
       "list": false,
       "tokens": [
        {
-        "text": "Fourth Pass: <br> _Siyum v’sikum_ <br> (\"Conclusion and Summary\") <br><br><br><br> <span style=\"font-size: 18px;\">A recap of the points made, with halachic conclusions, in various organizational schemes </span>",
+        "text": "Fourth Pass: <br> _Siyum v’sikum_ <br> (\"Conclusion and Summary\") <br><br><br><br> <span style=\"font-size: 18px;\">A recap of the points made, with halachic conclusions </span>",
         "type": "global",
         "tokens": [
          {
@@ -380,7 +380,7 @@
          },
          {
           "type": "html_element",
-          "html": "<span style=\"font-size: 18px;\">A recap of the points made, with halachic conclusions, in various organizational schemes </span>"
+          "html": "<span style=\"font-size: 18px;\">A recap of the points made, with halachic conclusions </span>"
          }
         ],
         "targetSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",

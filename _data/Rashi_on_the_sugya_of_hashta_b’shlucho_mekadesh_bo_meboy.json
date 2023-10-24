@@ -33,8 +33,208 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Rashi on האיש מקדש בו ובשלוחו",
-        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "targetSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "2",
+      "tokens": [
+       {
+        "text": "Rashi on כשהיא נערה",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on כשהיא נערה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a כשהיא נערה",
+        "targetTopic": "Rashi on Kiddushin 41a כשהיא נערה",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "3",
+      "tokens": [
+       {
+        "text": "Rashi on מצוה בו יותר מבשלוחו",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on מצוה בו יותר מבשלוחו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a מצוה בו יותר מבשלוחו",
+        "targetTopic": "Rashi on Kiddushin 41a מצוה בו יותר מבשלוחו",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "4",
+      "tokens": [
+       {
+        "text": "Rashi on מחריך רישא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on מחריך רישא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a מחריך רישא",
+        "targetTopic": "Rashi on Kiddushin 41a מחריך רישא",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "5",
+      "tokens": [
+       {
+        "text": "Rashi on שיבוטא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on שיבוטא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a שיבוטא",
+        "targetTopic": "Rashi on Kiddushin 41a שיבוטא",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "6",
+      "tokens": [
+       {
+        "text": "Rashi on בהא איסורא נמי איכא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on בהא איסורא נמי איכא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a בהא איסורא נמי איכא",
+        "targetTopic": "Rashi on Kiddushin 41a בהא איסורא נמי איכא",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "7",
+      "tokens": [
+       {
+        "text": "Rashi on וכי איתמר דרב יוסף",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on וכי איתמר דרב יוסף",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a וכי איתמר דרב יוסף",
+        "targetTopic": "Rashi on Kiddushin 41a וכי איתמר דרב יוסף",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "8",
+      "tokens": [
+       {
+        "text": "Rashi on אבל בהא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on אבל בהא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a אבל בהא",
+        "targetTopic": "Rashi on Kiddushin 41a אבל בהא",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "9",
+      "tokens": [
+       {
+        "text": "Rashi on דאמר ר\"ל טב למיתב טן דו",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on דאמר ר\"ל טב למיתב טן דו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a דאמר ר\"ל טב למיתב טן דו",
+        "targetTopic": "Rashi on Kiddushin 41a דאמר ר\"ל טב למיתב טן דו",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "10",
+      "tokens": [
+       {
+        "text": "Rashi on טן",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on טן",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a טן",
+        "targetTopic": "Rashi on Kiddushin 41a טן",
+        "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "11",
+      "tokens": [
+       {
+        "text": "Rashi on דו",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on דו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a דו",
+        "targetTopic": "Rashi on Kiddushin 41a דו",
         "enclosingTopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy",
         "enclosingSubtopic": "Rashi on the sugya of hashta b’shlucho mekadesh bo meboy"
        }

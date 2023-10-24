@@ -16,6 +16,112 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy": []
+  "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy": [
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": true,
+      "ordinal": "1",
+      "tokens": [
+       {
+        "text": "Tosofos on האיש מקדש\\. השתא השלוחו מקדש בו מיבעיא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos on האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on Kiddushin 41a האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
+        "targetTopic": "Tosofos on Kiddushin 41a האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "2",
+      "tokens": [
+       {
+        "text": "Tosofos on אי איתמר דרב יוסף אסיפא איתמר",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos on אי איתמר דרב יוסף אסיפא איתמר",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר",
+        "targetTopic": "Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "3",
+      "tokens": [
+       {
+        "text": "Tosofos on אסור לאדם שיקדש אשה כו'‏",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos on אסור לאדם שיקדש אשה כו'‏",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏",
+        "targetTopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "4",
+      "tokens": [
+       {
+        "text": "Tosofos on כשהיא נערה אין כשהיא קטנה לא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos on כשהיא נערה אין כשהיא קטנה לא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא",
+        "targetTopic": "Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     },
+     {
+      "list": true,
+      "ordinal": "5",
+      "tokens": [
+       {
+        "text": "Tosofos on אסור לאדם שיקדש את בתו כשהיא קטנה",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos on אסור לאדם שיקדש את בתו כשהיא קטנה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה",
+        "targetTopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+       }
+      ]
+     }
+    ]
+   }
+  ]
  }
 }

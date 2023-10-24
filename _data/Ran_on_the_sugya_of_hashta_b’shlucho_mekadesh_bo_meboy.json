@@ -1,0 +1,21 @@
+{
+ "displayTopicName": "Ran on the sugya of _hashta b’shlucho mekadesh bo meboy_",
+ "topicTokens": [
+  {
+   "text": "Ran on the sugya of ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hashta b’shlucho mekadesh bo meboy",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ran on the sugya of hashta b’shlucho mekadesh bo meboy": []
+ }
+}

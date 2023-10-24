@@ -37,24 +37,6 @@
         "enclosingSubtopic": "Aramaic definite article"
        },
        {
-        "text": ", one of the two types of ",
-        "type": "text"
-       },
-       {
-        "text": "articles",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "articles",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Articles",
-        "targetTopic": "Articles",
-        "enclosingTopic": "Aramaic definite article",
-        "enclosingSubtopic": "Aramaic definite article"
-       },
-       {
         "text": ".",
         "type": "text"
        }

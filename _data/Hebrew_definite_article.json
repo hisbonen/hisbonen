@@ -23,34 +23,16 @@
         "type": "text"
        },
        {
-        "text": "definite article",
+        "text": "the definite article",
         "type": "global",
         "tokens": [
          {
-          "text": "definite article",
+          "text": "the definite article",
           "type": "text"
          }
         ],
         "targetSubtopic": "Definite Article",
         "targetTopic": "Definite Article",
-        "enclosingTopic": "Hebrew definite article",
-        "enclosingSubtopic": "Hebrew definite article"
-       },
-       {
-        "text": ", one of the two types of ",
-        "type": "text"
-       },
-       {
-        "text": "articles",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "articles",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Articles",
-        "targetTopic": "Articles",
         "enclosingTopic": "Hebrew definite article",
         "enclosingSubtopic": "Hebrew definite article"
        },
@@ -66,7 +48,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "In Hebrew, the definite article is a ה prefix before a noun, usually vowelized הַ, ",
+        "text": "In Hebrew, the definite article is a ה prefix before a noun, usually pronounced הַ, ",
         "type": "text"
        },
        {

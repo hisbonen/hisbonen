@@ -1,0 +1,27 @@
+{
+ "displayTopicName": "First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא",
+ "topicTokens": [
+  {
+   "text": "First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא": [
+   {
+    "text": "In order to learn the first line of the Gemara: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

@@ -7,6 +7,21 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו": []
+  "Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו": [
+   {
+    "text": "In order to understand the third clause of the Mishnah: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
  }
 }
