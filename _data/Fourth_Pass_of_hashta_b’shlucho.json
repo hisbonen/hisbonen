@@ -1,5 +1,5 @@
 {
- "displayTopicName": "Fourth Pass of _hashta b’shlucho mekadesh bo meboy_",
+ "displayTopicName": "Fourth Pass of _hashta b’shlucho_",
  "topicTokens": [
   {
    "text": "Fourth Pass of ",
@@ -9,14 +9,14 @@
    "type": "italics",
    "tokens": [
     {
-     "text": "hashta b’shlucho mekadesh bo meboy",
+     "text": "hashta b’shlucho",
      "type": "text"
     }
    ]
   }
  ],
  "paragraphsBySubtopic": {
-  "Fourth Pass of hashta b’shlucho mekadesh bo meboy": [
+  "Fourth Pass of hashta b’shlucho": [
    {
     "text": "For the fourth pass: ",
     "type": "text"
@@ -38,8 +38,8 @@
         ],
         "targetSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
         "targetTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
-        "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Fourth Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho"
        }
       ]
      },
@@ -57,8 +57,8 @@
         ],
         "targetSubtopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
         "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
-        "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Fourth Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho"
        }
       ]
      },
@@ -76,8 +76,8 @@
         ],
         "targetSubtopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
         "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
-        "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Fourth Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Fourth Pass of hashta b’shlucho"
        }
       ]
      }

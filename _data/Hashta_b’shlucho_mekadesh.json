@@ -32,15 +32,15 @@
       "list": false,
       "tokens": [
        {
-        "text": "See the page",
+        "text": "See the daf",
         "type": "local",
         "tokens": [
          {
-          "text": "See the page",
+          "text": "See the daf",
           "type": "text"
          }
         ],
-        "targetSubtopic": "See the page",
+        "targetSubtopic": "See the daf",
         "targetTopic": "Hashta b’shlucho mekadesh",
         "enclosingTopic": "Hashta b’shlucho mekadesh",
         "enclosingSubtopic": "Hashta b’shlucho mekadesh"
@@ -69,10 +69,10 @@
     ]
    }
   ],
-  "See the page": [
+  "See the daf": [
    {
     "type": "image",
-    "resourceUrl": "/_assets/dafim/Kiddushin_41a_hashta_bshlucho.png",
+    "resourceUrl": "/_assets/dafim/Kiddushin_41a_everything.jpg",
     "title": "Kiddushin 41a",
     "tokens": [
      {
@@ -167,8 +167,8 @@
           "html": "<span style=\"font-size: 18px;\">A literal translation of the Gemara, with grammar and comprehension questions  </span>"
          }
         ],
-        "targetSubtopic": "First Pass of hashta b’shlucho mekadesh bo meboy",
-        "targetTopic": "First Pass of hashta b’shlucho mekadesh bo meboy",
+        "targetSubtopic": "First Pass of hashta b’shlucho",
+        "targetTopic": "First Pass of hashta b’shlucho",
         "enclosingTopic": "Hashta b’shlucho mekadesh",
         "enclosingSubtopic": "Learn the sugya"
        }
@@ -239,8 +239,8 @@
           "html": "<span style=\"font-size: 18px;\">A deeper analysis with hints to anticipate the difficulties discussed by later authorities </span>"
          }
         ],
-        "targetSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
-        "targetTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+        "targetSubtopic": "Second Pass of hashta b’shlucho",
+        "targetTopic": "Second Pass of hashta b’shlucho",
         "enclosingTopic": "Hashta b’shlucho mekadesh",
         "enclosingSubtopic": "Learn the sugya"
        }
@@ -250,7 +250,7 @@
       "list": false,
       "tokens": [
        {
-        "text": "Third Pass: <br> _Milchamas Torah_ <br> (“War of Torah”) <br><br><br><br> <span style=\"font-size: 18px;\">Comparing the views of Rashi, Tosofos, and others in competitive analysis</span>",
+        "text": "Third Pass: <br> _Milchamas Torah_ <br> (“War of Torah”) <br><br><br><br> <span style=\"font-size: 18px;\">Comparing the views of Rashi, Tosofos, and others, in competitive analysis</span>",
         "type": "global",
         "tokens": [
          {
@@ -308,11 +308,11 @@
          },
          {
           "type": "html_element",
-          "html": "<span style=\"font-size: 18px;\">Comparing the views of Rashi, Tosofos, and others in competitive analysis</span>"
+          "html": "<span style=\"font-size: 18px;\">Comparing the views of Rashi, Tosofos, and others, in competitive analysis</span>"
          }
         ],
-        "targetSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
-        "targetTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+        "targetSubtopic": "Third Pass of hashta b’shlucho",
+        "targetTopic": "Third Pass of hashta b’shlucho",
         "enclosingTopic": "Hashta b’shlucho mekadesh",
         "enclosingSubtopic": "Learn the sugya"
        }
@@ -383,8 +383,8 @@
           "html": "<span style=\"font-size: 18px;\">A recap of the points made, with halachic conclusions </span>"
          }
         ],
-        "targetSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
-        "targetTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+        "targetSubtopic": "Fourth Pass of hashta b’shlucho",
+        "targetTopic": "Fourth Pass of hashta b’shlucho",
         "enclosingTopic": "Hashta b’shlucho mekadesh",
         "enclosingSubtopic": "Learn the sugya"
        }

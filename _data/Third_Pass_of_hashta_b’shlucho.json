@@ -1,0 +1,259 @@
+{
+ "displayTopicName": "Third Pass of _hashta b’shlucho_",
+ "topicTokens": [
+  {
+   "text": "Third Pass of ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hashta b’shlucho",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Third Pass of hashta b’shlucho": [
+   {
+    "text": "For the third pass, learn different commentators on the sugya: ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Rashi",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Rashi on the sugya of hashta b’shlucho",
+        "targetTopic": "Rashi on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tosofos",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos on the sugya of hashta b’shlucho",
+        "targetTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ran",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Ran",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ran on the sugya of hashta b’shlucho",
+        "targetTopic": "Ran on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ritva",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Ritva",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ritva on the sugya of hashta b’shlucho",
+        "targetTopic": "Ritva on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tosofos HaRosh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tosofos HaRosh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tosofos HaRosh on the sugya of hashta b’shlucho",
+        "targetTopic": "Tosofos HaRosh on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Meiri",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Meiri",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Meiri on the sugya of hashta b’shlucho",
+        "targetTopic": "Meiri on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shita Lo Nodeh L’Mi",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Shita Lo Nodeh L’Mi",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shita Lo Nodeh L’Mi on the sugya of hashta b’shlucho",
+        "targetTopic": "Shita Lo Nodeh L’Mi on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Maharit",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Maharit",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Maharit on the sugya of hashta b’shlucho",
+        "targetTopic": "Maharit on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Atzmos Yosef",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Atzmos Yosef",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Atzmos Yosef on the sugya of hashta b’shlucho",
+        "targetTopic": "Atzmos Yosef on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Makneh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Makneh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Makneh on the sugya of hashta b’shlucho",
+        "targetTopic": "Makneh on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Pnei Yoshua",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Pnei Yoshua",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pnei Yoshua on the sugya of hashta b’shlucho",
+        "targetTopic": "Pnei Yoshua on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nitziv",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Nitziv",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nitziv on the sugya of hashta b’shlucho",
+        "targetTopic": "Nitziv on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Third Pass of hashta b’shlucho",
+        "enclosingSubtopic": "Third Pass of hashta b’shlucho"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -16,7 +16,8 @@
     "type": "table_list",
     "items": [
      {
-      "list": false,
+      "list": true,
+      "ordinal": "1",
       "tokens": [
        {
         "text": "Mishnah",
@@ -35,18 +36,19 @@
       ]
      },
      {
-      "list": false,
+      "list": true,
+      "ordinal": "2",
       "tokens": [
        {
-        "text": "Gemara",
+        "text": "Hashta B'Shlucho",
         "type": "local",
         "tokens": [
          {
-          "text": "Gemara",
+          "text": "Hashta B'Shlucho",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Gemara",
+        "targetSubtopic": "Hashta B'Shlucho",
         "targetTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
         "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
         "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
@@ -54,7 +56,8 @@
       ]
      },
      {
-      "list": false,
+      "list": true,
+      "ordinal": "3",
       "tokens": [
        {
         "text": "Ika D’Amri",
@@ -73,7 +76,8 @@
       ]
      },
      {
-      "list": false,
+      "list": true,
+      "ordinal": "4",
       "tokens": [
        {
         "text": "Ha’Ish Mekadesh Es Bito",
@@ -152,7 +156,7 @@
     "direction": "rtl"
    }
   ],
-  "Gemara": [
+  "Hashta B'Shlucho": [
    {
     "type": "block_quote",
     "tokens": [
@@ -168,7 +172,7 @@
       "targetSubtopic": "First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא",
       "targetTopic": "First pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא",
       "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
-      "enclosingSubtopic": "Gemara"
+      "enclosingSubtopic": "Hashta B'Shlucho"
      },
      {
       "text": " ",
@@ -186,7 +190,7 @@
       "targetSubtopic": "First pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
       "targetTopic": "First pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
       "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
-      "enclosingSubtopic": "Gemara"
+      "enclosingSubtopic": "Hashta B'Shlucho"
      },
      {
       "text": " ",
@@ -204,7 +208,7 @@
       "targetSubtopic": "First pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
       "targetTopic": "First pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
       "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
-      "enclosingSubtopic": "Gemara"
+      "enclosingSubtopic": "Hashta B'Shlucho"
      }
     ],
     "direction": "rtl"
@@ -323,22 +327,18 @@
       "type": "text"
      },
      {
-      "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
       "type": "global",
       "tokens": [
        {
-        "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+        "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
         "type": "text"
        }
       ],
-      "targetSubtopic": "First pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
-      "targetTopic": "First pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+      "targetSubtopic": "First pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:",
+      "targetTopic": "First pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו:",
       "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
       "enclosingSubtopic": "Ika D’Amri"
-     },
-     {
-      "text": ":",
-      "type": "text"
      }
     ],
     "direction": "rtl"

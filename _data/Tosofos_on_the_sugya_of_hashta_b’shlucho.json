@@ -1,5 +1,5 @@
 {
- "displayTopicName": "Tosofos on the sugya of _hashta b’shlucho mekadesh bo meboy_",
+ "displayTopicName": "Tosofos on the sugya of _hashta b’shlucho_",
  "topicTokens": [
   {
    "text": "Tosofos on the sugya of ",
@@ -9,14 +9,75 @@
    "type": "italics",
    "tokens": [
     {
-     "text": "hashta b’shlucho mekadesh bo meboy",
+     "text": "hashta b’shlucho",
      "type": "text"
     }
    ]
   }
  ],
  "paragraphsBySubtopic": {
-  "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy": [
+  "Tosofos on the sugya of hashta b’shlucho": [
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "See on daf",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "See on daf",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "See on daf",
+        "targetTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "See commentary",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "See commentary",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "See commentary",
+        "targetTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "See on daf": [
+   {
+    "type": "image",
+    "resourceUrl": "/_assets/dafim/Kiddushin_41a_Tosofos.jpg",
+    "title": "Kiddushin 41a",
+    "tokens": [
+     {
+      "text": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
+      "type": "text"
+     }
+    ],
+    "altText": "Kiddushin 41a Vilna Edition",
+    "caption": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
+    "anchorUrl": null
+   }
+  ],
+  "See commentary": [
    {
     "type": "table_list",
     "items": [
@@ -25,18 +86,18 @@
       "ordinal": "1",
       "tokens": [
        {
-        "text": "Tosofos on האיש מקדש\\. השתא השלוחו מקדש בו מיבעיא",
+        "text": "Tosofos on האיש מקדש",
         "type": "global",
         "tokens": [
          {
-          "text": "Tosofos on האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
+          "text": "Tosofos on האיש מקדש",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Tosofos on Kiddushin 41a האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
-        "targetTopic": "Tosofos on Kiddushin 41a האיש מקדש. השתא השלוחו מקדש בו מיבעיא",
-        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+        "targetSubtopic": "Tosofos on Kiddushin 41a האיש מקדש",
+        "targetTopic": "Tosofos on Kiddushin 41a האיש מקדש",
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "See commentary"
        }
       ]
      },
@@ -55,8 +116,8 @@
         ],
         "targetSubtopic": "Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר",
         "targetTopic": "Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר",
-        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "See commentary"
        }
       ]
      },
@@ -75,8 +136,8 @@
         ],
         "targetSubtopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏",
         "targetTopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏",
-        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "See commentary"
        }
       ]
      },
@@ -95,8 +156,8 @@
         ],
         "targetSubtopic": "Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא",
         "targetTopic": "Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא",
-        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "See commentary"
        }
       ]
      },
@@ -115,8 +176,8 @@
         ],
         "targetSubtopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה",
         "targetTopic": "Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה",
-        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy",
-        "enclosingSubtopic": "Tosofos on the sugya of hashta b’shlucho mekadesh bo meboy"
+        "enclosingTopic": "Tosofos on the sugya of hashta b’shlucho",
+        "enclosingSubtopic": "See commentary"
        }
       ]
      }

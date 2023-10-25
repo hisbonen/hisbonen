@@ -9,7 +9,37 @@
  "paragraphsBySubtopic": {
   "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו": [
    {
-    "text": "Lets learn Rashi on this line of the Gemara: ",
+    "text": "Lets learn the Rashi. ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Okay",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Okay",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Mishnah",
+        "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "Mishnah": [
+   {
+    "text": "The Mishnah said: ",
     "type": "text"
    },
    {
@@ -22,6 +52,51 @@
     ],
     "direction": "rtl"
    },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Remind me what that means",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Remind me what that means",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "First pass of האיש מקדש בו ובשלוחו",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Mishnah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "What does Rashi say?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What does Rashi say?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What does Rashi say?",
+        "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Mishnah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "What does Rashi say?": [
    {
     "text": "Says Rashi: ",
     "type": "text"
@@ -55,7 +130,7 @@
         "targetSubtopic": "Translate Rashi's answer",
         "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו"
+        "enclosingSubtopic": "What does Rashi say?"
        }
       ]
      },
@@ -75,7 +150,7 @@
         "targetSubtopic": "What is bothering Rashi?",
         "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו"
+        "enclosingSubtopic": "What does Rashi say?"
        }
       ]
      },
@@ -95,7 +170,7 @@
         "targetSubtopic": "What is Rashi's answer?",
         "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו"
+        "enclosingSubtopic": "What does Rashi say?"
        }
       ]
      },
@@ -115,7 +190,7 @@
         "targetSubtopic": "Are there problems with Rashi's answer?",
         "targetTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו"
+        "enclosingSubtopic": "What does Rashi say?"
        }
       ]
      }
