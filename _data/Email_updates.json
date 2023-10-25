@@ -1,0 +1,41 @@
+{
+ "displayTopicName": "Email updates",
+ "topicTokens": [
+  {
+   "text": "Email updates",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Email updates": [
+   {
+    "type": "html_element",
+    "html": "<!-- MailerLite Universal -->"
+   },
+   {
+    "type": "html_element",
+    "html": "<script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script>"
+   },
+   {
+    "type": "html_element",
+    "html": "<!-- End MailerLite Universal -->"
+   },
+   {
+    "type": "html_element",
+    "html": "<br>"
+   },
+   {
+    "type": "html_element",
+    "html": "<div id=\"email_updates\" class=\"ml-embedded\" data-form=\"OW1QxJ\"></div>"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<div id=\"email_updates_offline\"></div>"
+   }
+  ]
+ }
+}

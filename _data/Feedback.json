@@ -1,0 +1,50 @@
+{
+ "displayTopicName": "Feedback",
+ "topicTokens": [
+  {
+   "text": "Feedback",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Feedback": [
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "type": "url",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link",
+        "text": "Submit feedback via Google forms",
+        "tokens": [
+         {
+          "text": "Submit feedback via Google forms",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "type": "url",
+        "url": "mailto:admin@hisbonen.org?subject=Feedback",
+        "text": "Submit feedback by email",
+        "tokens": [
+         {
+          "text": "Submit feedback by email",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

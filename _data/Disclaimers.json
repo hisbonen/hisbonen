@@ -1,0 +1,107 @@
+{
+ "displayTopicName": "Disclaimers",
+ "topicTokens": [
+  {
+   "text": "Disclaimers",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "2": [
+   {
+    "text": "Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen! is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Okay",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Okay",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "3",
+        "targetTopic": "Disclaimers",
+        "enclosingTopic": "Disclaimers",
+        "enclosingSubtopic": "2"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "3": [
+   {
+    "text": "Individuals should ask their communal rabbinic advisors if Hisbonen! is the appropriate tool for their learning. ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Okay",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Okay",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "4",
+        "targetTopic": "Disclaimers",
+        "enclosingTopic": "Disclaimers",
+        "enclosingSubtopic": "3"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "4": [
+   {
+    "text": "Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
+    "type": "text"
+   }
+  ],
+  "Disclaimers": [
+   {
+    "text": "Hisbonen! is published without expert endorsement and is a product of novice efforts. ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Okay",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Okay",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "2",
+        "targetTopic": "Disclaimers",
+        "enclosingTopic": "Disclaimers",
+        "enclosingSubtopic": "Disclaimers"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
