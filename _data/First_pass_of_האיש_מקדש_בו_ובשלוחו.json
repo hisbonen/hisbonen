@@ -185,15 +185,15 @@
       "list": false,
       "tokens": [
        {
-        "text": "Preperation",
+        "text": "Background",
         "type": "local",
         "tokens": [
          {
-          "text": "Preperation",
+          "text": "Background",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Preperation",
+        "targetSubtopic": "Background",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingSubtopic": "First pass of האיש מקדש בו ובשלוחו"
@@ -241,7 +241,7 @@
     ]
    }
   ],
-  "Preperation": [
+  "Background": [
    {
     "text": "There are various things you should know before trying to read the first clause. ",
     "type": "text"
@@ -264,7 +264,7 @@
         "targetSubtopic": "Required background knowledge",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Preperation"
+        "enclosingSubtopic": "Background"
        }
       ]
      },
@@ -283,7 +283,7 @@
         "targetSubtopic": "Try to predict the Mishnah",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Preperation"
+        "enclosingSubtopic": "Background"
        }
       ]
      }
