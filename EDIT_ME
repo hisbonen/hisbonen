@@ -1,14 +1,14 @@
-[Hisbonen!]
+[Hisbonen]
 
-** Hisbonen\!: This is a beta version of Hisbonen! (!הִתְבּוֹנֵן), a tool for improving Gemara skills.
+** Hisbonen: This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for improving Gemara skills.
 <img src="/_assets/exclamation.png" alt="Logo" style="position: absolute; height: 190px; width: 205; top: -50px; right: -145px;">
 ===
-- [[_Hashta B’Shlucho Mekadesh_|Try “Hisbonen!”]]
+- [[_Hashta B’Shlucho Mekadesh_|Try “Hisbonen”]]
 - [[Learn about the project]]
 ===
 
 Learn about the project:
-You can learn more about the Hisbonen! project:
+You can learn more about the Hisbonen project:
 ===
 - [[Dedication]]
 - [[Disclaimers]]
@@ -21,14 +21,14 @@ You can learn more about the Hisbonen! project:
 ===
 
 
-* Acknowledgements: Hisbonen! was made possible by the assistance of many individuals.
+* Acknowledgements: Hisbonen was made possible by the assistance of many individuals.
 
 
-* Dedication: Hisbonen! is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
+* Dedication: Hisbonen is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
 
 
 * Desktop app:
-You can download the Hisbonen! desktop app for different platforms here:
+You can download the Hisbonen desktop app for different platforms here:
 ===
 - [Mac](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip)
 - [Windows (exe)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe)
@@ -39,25 +39,33 @@ You can download the Hisbonen! desktop app for different platforms here:
 
 
 * Disclaimers:
-Hisbonen! has various [[disclaimers]]:
+Hisbonen has various [[disclaimers]]:
 
 Disclaimers:
-Hisbonen! is published without expert endorsement and is a product of novice efforts.
+Hisbonen is published without expert endorsement and is a product of novice efforts.
 ===
-- [[2|Okay]]
-===
-
-2: Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen! is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.
-===
-- [[3|Okay]]
+> [[2|Okay]]
 ===
 
-3: Individuals should ask their communal rabbinic advisors if Hisbonen! is the appropriate tool for their learning.
+2: Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.
 ===
-- [[4|Okay]]
+> [[3|Okay]]
 ===
 
-4: Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
+3: Individuals should ask their communal rabbinic advisors if Hisbonen is the appropriate tool for their learning.
+===
+> [[4|Okay]]
+===
+
+4: Hisbonen can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
+===
+> [[Disclaimers|Back]]
+> [[Hisbonen#Learn about the project/Acknowledgements]]
+> [[Shoresh#Appear to have two letters]]
+===
+[[Disclaimers|Back]]
+[[Hisbonen#Learn about the project/Acknowledgements]]
+[[Shoresh#Appear to have two letters]]
 
 
 * Email updates:
@@ -72,7 +80,7 @@ Hisbonen! is published without expert endorsement and is a product of novice eff
 ===
 
 
-* Status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.
+* Status: Hisbonen is currently being released on a single sugya in _kiddushin_ as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek. http://google.com
 
 
 [Dikduk]
@@ -1152,6 +1160,23 @@ Nouns and adjectives that come from particular binyanim: Every verb has one biny
 A shoresh is put “into” a binyan to produce a word: Whereas a [[shoresh]] represents a vague and general category of meaning, putting that shoresh into a particular _binyan_ would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל “to eat,” לְהַאֲכִיל “to feed,” or adjective אָכוּל “eaten.”
 
 
+* Active binyanim:
+There are several [[active]] binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| *Actives* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[{Hebrew} Binyanim]]  | [[_Pa’al_]]  | [[_Pi’el_]] | [[_Hif’il_]] |
+| [[{Aramaic} Binyanim]] | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
+
+
+* Binyanim: There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
+
+
+* Passive binyanim:
+There are several [[passive]] binyanim in Hebrew and in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| *Passives* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[{Hebrew} Binyanim]]  | [[_Nif’al_]]  | [[_Pu’al_]] | [[_Huf’al_]] |
+| [[{Aramaic} Binyanim]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
+
+
 * Active: “Active” is a category of verb in Hebrew and Aramaic.
 - Active verbs represent actions where [[the person being described is the one doing the action]], as opposed to [[{{passive}} verbs]].
 - There are [[several {{active binyanim}} in Hebrew and Aramaic]].
@@ -1167,16 +1192,6 @@ The person being described is the one doing the action: Active verbs represent a
  the verb לִקְנוֹת means “to buy,” and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.
 
 
-* Active binyanim:
-There are several [[active]] binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Actives* | [[Simple]] | [[Intensive]] | [[Causative]] |
-| [[{Hebrew} Binyanim]]  | [[_Pa’al_]]  | [[_Pi’el_]] | [[_Hif’il_]] |
-| [[{Aramaic} Binyanim]] | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
-
-
-* Binyanim: There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
-
-
 * Causative: “Causative” is a category of verb in Hebrew and Aramaic. Causative verbs often describe [[an action that makes something else change]]. A binyan that is causative has verbs that are causative and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) There are [[several causative binyanim in Hebrew and Aramaic]]:
 
 An action that makes something else change: Causative verbs often describe an action that makes someone or something else become a certain way. For example:
@@ -1184,7 +1199,7 @@ An action that makes something else change: Causative verbs often describe an ac
 |-|-|-|
 | אכל | to eat | to make someone else eat (ie to feed) |
 | חזר | to return | to make something return (ie to return something) |
-| בוה | to come | to make something come (ie to bring something) |
+| בוא | to come | to make something come (ie to bring something) |
 | זכר | to remember | to make something be remembered (ie to mention) |
 
 Several causative binyanim in Hebrew and Aramaic:
@@ -1229,13 +1244,6 @@ The person being described is having an action done to them: Passive verbs repre
 | זכר | to remember | to be remembered |
 | אמר | to say | to be said |
 This is a rule of thumb, although sometimes passive verbs have [[{{reflexive}} meanings]].
-
-
-* Passive binyanim:
-There are several [[passive]] binyanim in Hebrew and in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Passives* | [[Simple]] | [[Intensive]] | [[Causative]] |
-| [[{Hebrew} Binyanim]]  | [[_Nif’al_]]  | [[_Pu’al_]] | [[_Huf’al_]] |
-| [[{Aramaic} Binyanim]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
 
 
 * Reflexive: “Reflexive” is a category of verb in Hebrew and Aramaic.
@@ -1357,18 +1365,6 @@ By a noun: The prefix ב can be followed by a noun.
 
 [Dikduk/Forms]
 
-* Active Participle: The active participle, usually just called “the participle” (and sometimes called the present participle or _lashon po’el)_ is one of the [["tenses" of Hebrew and Aramaic]].
-- In English, an example of the active participle is the word “running.”
-- The active participle can be used to make sentences like “I am running,” or “I was running.”
-- Students interested in grammar can read [[additional information about the active participle]].
-
-Additional information about the active participle:
-This is additional information about the active participle:
-- The active participle describes an ongoing action, as opposed to [[the {{passive participle}}]].
-- Participles can only be used when combined with other words in special combinations called [[participle {constructions}]].
-- The active participle has [[{forms } of the active participle {in Hebrew}]] and [[{forms } of the active participle {in Aramaic}]].
-
-
 * Forms of the active participle in Aramaic:
 These are the examples of the participle in the masculine singular for each of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | Binyan        | Type | Example | Transliteration |
@@ -1422,6 +1418,18 @@ These are the examples of the participle in the masculine singular for each of t
 | [[_Hif’il_]] | [[causative]], [[active]] | מַכְתִּיב | _machtiv_ | Hif’il#Participle |
 | [[_Huf’al_]] | [[causative]], [[passive]] | מֻכְתָּב | _muchtov_ | Huf’al#Participle |
 | [[_Hispa’el_]] | [[reflexive]] | מִתְכַּתֵּב | _miskat’teiv_ | Hispa’el#Participle |
+
+
+* Active Participle: The active participle, usually just called “the participle” (and sometimes called the present participle or _lashon po’el)_ is one of the [["tenses" of Hebrew and Aramaic]].
+- In English, an example of the active participle is the word “running.”
+- The active participle can be used to make sentences like “I am running,” or “I was running.”
+- Students interested in grammar can read [[additional information about the active participle]].
+
+Additional information about the active participle:
+This is additional information about the active participle:
+- The active participle describes an ongoing action, as opposed to [[the {{passive participle}}]].
+- Participles can only be used when combined with other words in special combinations called [[participle {constructions}]].
+- The active participle has [[{forms } of the active participle {in Hebrew}]] and [[{forms } of the active participle {in Aramaic}]].
 
 
 * Future Tense: The future tense is one of the [["tenses" of Hebrew and Aramaic]].
@@ -2372,6 +2380,16 @@ The [[_pu’al_ past tense]] follows these conjugations for [[regular shorushim]
 
 [Dikduk/Nouns]
 
+* Relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern:
+There is a standard difference between nouns in [[the _hektel_ noun pattern]] and [[the _haktala_ noun pattern]]:
+| *_Shoresh_* | *_Hif’il_ verb* | *_Hektel_ noun* | *_Haktala_ noun* |
+|-|-|-|-|
+| בדל <br> seperation | הִבְדִיל <br><br> _hivdil_ <br><br><br> he seperated | הֶבְדֵּל <br><br> _hevdel_ <br><br><br> a difference / seperation | הַבְדָּלָה <br><br> _havdalah_ <br><br><br> an act of seperation |
+| קדש <br> holiness | הִקְדִּישׁ <br><br> _hikdish_ <br><br><br> he donated to the temple | הֶקְדֵּשׁ <br><br> _hekdesh_ <br><br><br> property of the temple |  הַקְדָּשָׁה <br><br> _hakdasha_ <br><br><br> an act of donation <br> to the temple |
+| קשר <br> connection | הִקְשִׁיר <br><br> _hikshir_ <br><br><br> he connected | הֶקְשֵׁר <br><br> _heksher_ <br><br><br> a connection | הַקְשָׁרָה <br><br> _hakshara_ <br><br><br> an act of connecting |
+As you can see, the _hif’il_ verb represents an action, the _haktala_ noun represents an instance of that action, and the _hektel_ noun will represent the _result_ of that action. Not every _hif’il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
+
+
 * Hebrew noun patterns: Hebrew has several noun patterns, which are letter and vowel templates that accept shorushim to produce nouns. Nouns formed from a certain pattern often have a similar meaning relative to the shoresh. Noun patterns [[have a naming convention]]. These are some of the noun patterns in Hebrew:
 - [[Noun patterns that come from _Pa’al_ verbs]]
 - [[Noun patterns that come from _Pi’el_ verbs]]
@@ -2404,16 +2422,6 @@ The noun patterns that come from [[_pa’al_]] verbs include:
 * Noun patterns that come from _Pi’el_ verbs:
 The noun patterns that come from [[_pi’el_]] verbs include:
 - [[the _kittul_ noun pattern]]
-
-
-* Relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern:
-There is a standard difference between nouns in [[the _hektel_ noun pattern]] and [[the _haktala_ noun pattern]]:
-| *_Shoresh_* | *_Hif’il_ verb* | *_Hektel_ noun* | *_Haktala_ noun* |
-|-|-|-|-|
-| בדל <br> seperation | הִבְדִיל <br><br> _hivdil_ <br><br><br> he seperated | הֶבְדֵּל <br><br> _hevdel_ <br><br><br> a difference / seperation | הַבְדָּלָה <br><br> _havdalah_ <br><br><br> an act of seperation |
-| קדש <br> holiness | הִקְדִּישׁ <br><br> _hikdish_ <br><br><br> he donated to the temple | הֶקְדֵּשׁ <br><br> _hekdesh_ <br><br><br> property of the temple |  הַקְדָּשָׁה <br><br> _hakdasha_ <br><br><br> an act of donation <br> to the temple |
-| קשר <br> connection | הִקְשִׁיר <br><br> _hikshir_ <br><br><br> he connected | הֶקְשֵׁר <br><br> _heksher_ <br><br><br> a connection | הַקְשָׁרָה <br><br> _hakshara_ <br><br><br> an act of connecting |
-As you can see, the _hif’il_ verb represents an action, the _haktala_ noun represents an instance of that action, and the _hektel_ noun will represent the _result_ of that action. Not every _hif’il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
 
 
 * The _haktala_ noun pattern: The _haktala_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
@@ -2483,7 +2491,7 @@ Nouns in the _taktil_ noun pattern come from [[_hif’il_]] verbs. More examples
 
 [Dikduk/Shoresh]
 
-* Shoresh: Shoresh is a grammatical entity in Hebrew and Aramaic.
+* Shoresh: [[Shoresh]] is a grammatical entity in Hebrew and Aramaic.
 - An example of a shoresh is “א-כ-ל,” which represents the idea of “eating.”
 - A shoresh is used to produce many related words, like אוֹכֶל, which means “food,” or אֲכִילָה, which means “the act of eating.”
 - The shoresh is just a series of letters and is not itself a word, and has no vowels or pronunciation.
@@ -2643,9 +2651,12 @@ The first section of the second chapter of Tractate Kiddushin is called _Hashta 
 ===
 
 See the daf: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_everything.jpg “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)
+===
+- [[Hashta b’shlucho mekadesh#Learn the sugya]]
+===
 
 Learn the sugya:
-_“Sugyas”_ in Hisbonen! are learned in four steps:
+_“Sugyas”_ in Hisbonen are learned in four steps:
 ===
 - [[{{First Pass}}{ of _hashta b’shlucho_|}: <br> _The Pashut Pshat_ <br> ("The Simple Understanding") <br><br><br><br> <span style="font-size: 18px;">A literal translation of the Gemara, with grammar and comprehension questions  </span>]]
 - [[{{Second Pass}}{ of _hashta b’shlucho_|}: <br> _Eimek Hadavar_ <br> ("The Depth Of The Matter") <br><br><br><br> <span style="font-size: 18px;">A deeper analysis with hints to anticipate the difficulties discussed by later authorities </span>]]
@@ -2723,6 +2734,10 @@ Haaras
 
 * First Pass of _hashta b’shlucho_:
 For the first pass, we'll translate the Gemara word for word using Rashi to clarify ambiguities in the text, and then ask clarification questions:
+< [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
+< מתקדשת בה ובשלוחה}]] [[First pass of {האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
+
 ===
 1. [[Mishnah]]
 2. [[Hashta B'Shlucho]]
@@ -2730,7 +2745,7 @@ For the first pass, we'll translate the Gemara word for word using Rashi to clar
 4. [[Ha’Ish Mekadesh Es Bito]]
 ===
 
-Mishnah:
+- Mishnah:
 < [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
 < מתקדשת בה ובשלוחה}]] [[First pass of {האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו}]]
@@ -2916,7 +2931,91 @@ Here's how you could figure out the meaning of מקדש yourself:
 Translate the full sentence: Work in progress.
 
 Comprehension Questions:
-Now that we've read the first clause, we will ask some clarifying questions.
+Now that we've read the first clause of the Mishnah, let's ask some questions.
+===
+1. [[How should we understand lists in the Mishnah?]]
+===
+
+How should we understand lists in the Mishnah?
+The first clause of the Mishnah says a man can be _mekadesh_ a woman via himself or via a shaliach.
+===
+> [[Comprehension 1|Okay]]
+===
+
+Comprehension 1:
+So, we find a list of ways the man can be _mekadesh_.
+===
+> [[Comprehension 2|Okay]]
+===
+
+Comprehension 2:
+So when someone makes a list of options, what might they mean by it?
+===
+> [[Comprehension 3|Hmm?]]
+===
+
+Comprehension 3:
+Lets say I invite you to "come drive down to my wedding" – what might I mean practically speaking?
+===
+> [[Comprehension 4|Let me think]]
+===
+
+Comprehension 4:
+Take your time.
+===
+> [[Comprehension 5|I give up]]
+===
+
+Comprehension 5:
+Maybe I might mean I am _only_ allowing you to come if you drive.
+===
+> [[Comprehension 6|Right]]
+===
+
+Comprehension 6:
+So, that's option #0 how to understand a specificity, that I meant it "b'davka", as the only that way is acceptable.
+===
+> [[Comprehension 7|Right]]
+===
+
+Comprehension 7:
+Ok, so, when I said "come drive to my wedding," what else might I have meant besides that you _have_ to drive?
+===
+> [[Comprehension 8|Let me think]]
+===
+
+Comprehension 8:
+Take your time.
+===
+> [[Comprehension 9|I give up]]
+===
+
+Comprehension 9:
+Well, maybe I just meant you can drive, for example.
+===
+> [[Comprehension 10|Right]]
+===
+
+Comprehension 10:
+So now, ask yourself, how should we understand in general when a Tana makes a list in a Mishnah?
+- Should we generally understand the Tana to mean that this is an _exhaustive_ list, and there are no other options?
+- Or, should we understand the Tana to mean this is an _illustrative_ list, and there may be other options?
+===
+> [[Comprehension 11|Interesting]]
+===
+
+Comprehension 11:
+Yes, very interesting! Hold that thought, and we'll check back in later to see what the Gemara seems to think about it.
+===
+> [[Comprehension 12|I can't wait that long!]]
+===
+
+Comprehension 12:
+Sometimes in life we have to be patient! 🐢⏳
+===
+> [[#Comprehension Questions|Continue]]
+===
+
 ===
 - [[How can we understand the specificity of the Mishnah?]]
 - [[What would I have thought in the absence of this Mishnah?]]
@@ -3029,6 +3128,10 @@ In order to learn the first line of the Gemara:
 
 * Second Pass of _hashta b’shlucho_:
 For the second pass, we'll look at the Gemara and consider what questions it raises:
+< [[Second pass of {האיש מקדש בו ובשלוחו}]] [[Second pass of {האשה
+< מתקדשת בה ובשלוחה}]] [[Second pass of {האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
+
 ===
 1. [[Mishnah]]
 2. [[Hashta B'Shlucho]]
@@ -3036,7 +3139,7 @@ For the second pass, we'll look at the Gemara and consider what questions it rai
 4. [[Ha’Ish Mekadesh Es Bito]]
 ===
 
-Mishnah:
+-Mishnah:
 < [[Second pass of {האיש מקדש בו ובשלוחו}]] [[Second pass of {האשה
 < מתקדשת בה ובשלוחה}]] [[Second pass of {האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו}]]
@@ -3142,71 +3245,75 @@ Ha'Ish Mekadesh Es Bito:
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Mishnah/Sentence 01]
 
 * Second pass of האיש מקדש בו ובשלוחו:
-On the second pass, lets consider further questions we might have with this line:
+On the second pass, let's look at the first clause of the Mishnah:
 < האיש מקדש בו ובשלוחו
-- (You can [[First pass of האיש מקדש בו ובשלוחו|review the literal meaning of the line if you need to first]].)
-- Think for yourself, and then [[consider these hints]]. (Think before clicking!)
+===
+> [[First pass of האיש מקדש בו ובשלוחו|Remind me what the words mean]]
+> [[Help me guess the question]]
+===
 
-Consider these Hints:
-This clause of the Mishnah teaches that there are two permissible ways for a man to be _makdesh_ a woman.
-- [[What questions might we have on {there are two permissible ways for a man to be _makdesh_ a woman|that}]]? (Think before clicking!)
+Help me guess the question:
+This clause of the Mishnah teaches that a man can be _mekadesh_ a woman either himself or with a messenger.
+===
+> [[Hints 2|Ok]]
+===
 
-What questions might we have on there are two permissible ways for a man to be _makdesh_ a woman:
-Let's think. R Yehuda HaNasi was the compiler of the Mishnah.
-- We might ask, [[what sorts of things did R Yehuda HaNasi put in The Mishnah?]]
+Hints 2: What questions might you have on the Mishnah teaching that?
+===
+> [[Hints 3|Not sure]]
+===
 
-What sorts of things did R Yehuda HaNasi put in The Mishnah?
-When R Yehuda HaNasi was writing the Mishnah, [[did {R Yehuda HaNasi|he} just write his personal opinions about various things?]]
+Hints 3: Lets remember that the Mishnah is the first written encapsulation of the Oral Torah.
+===
+> [[Hints 4|Ok]]
+===
 
-Did R Yehuda HaNasi just write his personal opinions about various things?
-Let's remember that when R Yehuda HaNasi wrote the Mishnah, he was encoding the oral understandings of Torah that had existed long before him.
-- Lets see if [[{the fact that the Mishnah encodes the Oral Torah helps us think of a question on this Mishnah]].
+Hints 4: And, let's remember that  is the oral explanations of the the written Torah.
+===
+> [[Hints 5|Ok]]
+===
 
-The fact that the Mishnah encodes the Oral Torah helps us think of a question on this Mishnah:
-We might ask tangentially, [[what sorts of things are in the Oral Torah?]]
+Hints 5: Now what does it mean for Oral Torah to be an explanation of written Torah?
+===
+> [[Hints 6|What does it mean?]]
+===
 
-What sorts of things are in the Oral Torah?
-Generally, we say that the Oral Torah contains the details of mitzvos we find in the written Torah.
-- If so, [[what is something you wouldn't find in the Oral Torah?]]
+Hints 6: Well, if Oral Torah is an explanation of written Torah, then we might expect every statement of Oral Torah to relate to something mentioned in the written Torah.
+===
+> [[Hints 7|Makes sense]]
+===
 
-What is something you wouldn't find in the Oral Torah?
-Perhaps we wouldn't expect the Oral Torah to discuss things we've never heard about from the written Torah.
-- [[Does the fact the Oral Torah discusses the written Torah specifically help us formulate a question on our Mishnah?]]
+Hints 7: So lets think:
+- We have a Mishnah teaching that a man can be _mekadesh_ a woman himself or with messenger
+- We know that the Mishnah is the encoding of the Oral Torah
+- We know that the Oral Torah is an explanation of the written Torah
+Now, what question might we have on this Mishnah?
+===
+> [[Hints 8|What question?]]
+===
 
-Does the fact the Oral Torah discusses the written Torah specifically help us formulate a question on our Mishnah?
-So we have established thus far:
-- The Mishnah includes the Oral Torah.
-- The Oral Torah elaborates on what is in the written Torah.
-- Our Mishnah speaks about a man being allowed to make _kiddushin_ via a shaliach.
-- [[Can we think of a question yet?]]
+Hints 8: If the Mishnah is Oral Torah, and the Oral Torah is an explanation of the written Torah, and we have a ruling in the Mishnah that a man can be _mekadesh_ with a _shaliach_, we might ask where in the written Torah we find a mention of the concept of _shlichus_.
+===
+> [[Hints 9|That's a good question]]
+===
 
-Can we think of a question yet?
-Perhaps we would expect things written in the Mishnah to relate to something written in the Torah.
-- [[Does this give us a question about our Mishnah?]]
+Hints 9: Well, is it a actually good question? Doesn't it just mean that you don't know where psukim are in chumash?
+===
+> [[Hints 10|Fair point]]
+===
 
-Does this give us a question about our Mishnah?
-So, the Mishnah encodes the Oral Law which contains details of the things written in the written Torah.
-- As another hint, our Mishnah is the first Mishnah to mention the idea that you can use a _shaliach_ to do a mitzvah.
-- [[Does this help us formulate a question on our Mishnah?]]
+Hints 10: Now, what if I told you there was no obvious verse in chumash teaching the din of shlichus?
+===
+> [[Hints 11|Interesting]]
+===
 
-Does this help us formulate a question on our Mishnah?
-We said that the Mishnah encodes the Oral Law which includes details of halachos written in the written Torah.
-- We said that our Mishnah is the first to mention that you can do a mitzvah via _shaliach_.
-- So, a question we might have is, [[where in the _written_ Torah do we find a source for the ability to use a _shaliach_?]]
+Hints 11: _Now_, maybe we have a good question:
+- If the Mishnah is an encapsulation of Oral Torah, and Oral Torah is an explanation on written Torah, how can our Mishnah teach that a man can use a shaliach if there's no obvious verse mentioning that idea?
+===
+> [[Hints 12|Just like I said]]
+===
 
-Where in the _written_ Torah do we find a source for the ability to use a _shaliach_?
-[[Can you think of any verses that say you can use a _shaliach_?]]
-
-Can you think of any verses that say you can use a _shaliach_?
-[[Think very hard]].
-
-Think very hard:
-[[Now, what if I told you there was no such verse?]]
-
-Now, what if I told you there was no such verse?
-Then, you might have a good question on the Mishnah!
-- “Where is the Mishnah getting the concept of using a _shaliach_ from, if there is no such verse explicit in the Torah?”
-- 🎉🎉🎉
+Hints 12: Congrats! 🎉🎉🎉
 
 
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 2/Mishnah/Sentence 02]
@@ -3223,11 +3330,11 @@ Then, you might have a good question on the Mishnah!
 
 * Rashi on the sugya of _hashta b’shlucho_:
 ===
-- [[See on daf]]
-- [[See commentary]]
+- [[Rashi on the sugya of hashta b’shlucho#See all/Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו|Get started]]
+- [[See all]]
 ===
 
-See commentary:
+See all:
 ===
 1. [[{Rashi on} Kiddushin 41a { האיש מקדש בו ובשלוחו}]]
 2. [[{Rashi on} Kiddushin 41a { כשהיא נערה}]]
@@ -3260,6 +3367,11 @@ For the third pass, learn different commentators on the sugya:
 - [[{Makneh} on the sugya of _hashta b’shlucho_]]
 - [[{Pnei Yoshua} on the sugya of _hashta b’shlucho_]]
 - [[{Nitziv} on the sugya of _hashta b’shlucho_]]
+- [[{Elya Rabah} on the sugya of _hashta b’shlucho_]]
+- [[{R Boruch Ber} on the sugya of _hashta b’shlucho_]]
+- [[{Ayeles Hashachar} on the sugya of _hashta b’shlucho_]]
+- Haaros R' Elyashiv
+- Yam Shel Shlomo
 ===
 
 
@@ -3268,14 +3380,14 @@ For the third pass, learn different commentators on the sugya:
 * Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו:
 Lets learn the Rashi.
 ===
-- [[Mishnah|Okay]]
+> [[Mishnah|Ok]]
 ===
 
 Mishnah: The Mishnah said:
 < האיש מקדש בו ובשלוחו
 ===
-- [[First pass of האיש מקדש בו ובשלוחו|Remind me what that means]]
-- [[What does Rashi say?]]
+> [[First pass of האיש מקדש בו ובשלוחו|Remind me what that means]]
+> [[What does Rashi say?]]
 ===
 
 What does Rashi say?
@@ -3420,12 +3532,12 @@ Are there problems with Rashi's answer?
 * Rashi on Kiddushin 41a דו:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Ran]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Ran]
 
 * Ran on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos]
 
 * Tosofos on the sugya of _hashta b’shlucho_:
 ===
@@ -3446,74 +3558,89 @@ See commentary:
 ===
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/01-האיש מקדש. השתא השלוחו מקדש בו מיבעיא]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos/01-האיש מקדש. השתא השלוחו מקדש בו מיבעיא]
 
 * Tosofos on Kiddushin 41a האיש מקדש:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/02-אי איתמר דרב יוסף אסיפא איתמר]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos/02-אי איתמר דרב יוסף אסיפא איתמר]
 
 * Tosofos on Kiddushin 41a אי איתמר דרב יוסף אסיפא איתמר:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/03-אסור לאדם שיקדש אשה כו'‏]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos/03-אסור לאדם שיקדש אשה כו'‏]
 
 * Tosofos on Kiddushin 41a אסור לאדם שיקדש אשה כו'‏:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/04-כשהיא נערה אין כשהיא קטנה לא]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos/04-כשהיא נערה אין כשהיא קטנה לא]
 
 * Tosofos on Kiddushin 41a כשהיא נערה אין כשהיא קטנה לא:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/2-Tosofos/05-אסור לאדם שיקדש את בתו כשהיא קטנה]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/02-Tosofos/05-אסור לאדם שיקדש את בתו כשהיא קטנה]
 
 * Tosofos on Kiddushin 41a אסור לאדם שיקדש את בתו כשהיא קטנה:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/3-Ritva]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/03-Ritva]
 
 * Ritva on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/4-Tosofos HaRosh]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/04-Tosofos HaRosh]
 
 * Tosofos HaRosh on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/5-Meiri]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/05-Meiri]
 
 * Meiri on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/6-Shita Lo Nodeh L’mi]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/06-Shita Lo Nodeh L’mi]
 
 * Shita Lo Nodeh L’Mi on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Atzmos Yosef]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/07-Atzmos Yosef]
 
 * Atzmos Yosef on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Maharit]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/08-Maharit]
 
 * Maharit on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Makneh]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/09-Makneh]
 
 * Makneh on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Nitziv]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/10-Pnei Yoshua]
+
+* Pnei Yoshua on the sugya of _hashta b’shlucho_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/11-Nitziv]
 
 * Nitziv on the sugya of _hashta b’shlucho_:
 
 
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/7-Pnei Yoshua]
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/12-Elya Rabah]
 
-* Pnei Yoshua on the sugya of _hashta b’shlucho_:
+* Elya Rabah on the sugya of _hashta b’shlucho_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/13-R Boruch Ber]
+
+* R Boruch Ber on the sugya of _hashta b’shlucho_:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 3/14-Ayeles Hashachar]
+
+* Ayeles Hashachar on the sugya of _hashta b’shlucho_:
 
 
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4]
@@ -3528,6 +3655,148 @@ For the fourth pass:
 
 - Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.
 
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line]
+
+* Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy:
+For the fourth pass, we'll summarize everything we've said so far on each line:
+< [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
+< מתקדשת בה ובשלוחה}]] [[First pass of {האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
+
+===
+1. [[Mishnah]]
+2. [[Hashta B'Shlucho]]
+3. [[Ika D’Amri]]
+4. [[Ha’Ish Mekadesh Es Bito]]
+===
+
+-Mishnah:
+< [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
+< מתקדשת בה ובשלוחה}]] [[First pass of {האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
+
+Hashta B'Shlucho:
+< [[First pass of {גמ‘ השתא בשלוחו מקדש בו מיבעיא}]] [[First pass of {אמר
+< רב יוסף מצוה בו יותר מבשלוחו}]] [[First pass of {כי הא דרב
+< ספרא מחריך רישא רבא מלח שיבוטא}]]
+
+Ika D’Amri:
+< [[First pass of {איכא דאמרי בהא איסורא נמי אית בה
+< כדרב יהודה אמר רב}]] [[First pass of {דאמר רב יהודה
+< אמר רב אסור לאדם שיקדש את האשה
+< עד שיראנה}]] [[First pass of {שמא יראה בה דבר מגונה
+< ותתגנה עליו}]] [[First pass of {ורחמנא אמר ואהבת לרעך
+< כמוך}]] [[First pass of {וכי איתמר דרב יוסף אסיפא איתמר}]]
+< [[First pass of {האשה מתקדשת בה ובשלוחה השתא
+< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
+< מצוה בה יותר מבשלוחה כי הא דרב ספרא
+< מחריך רישא רבא מלח שיבוטא}]] [[First pass of {אבל בהא
+< איסורא לית בה כדר״ל דאמר ר״ל טב
+< למיתב טן דו מלמיתב ארמלו:}]]
+
+Ha'Ish Mekadesh Es Bito:
+< ... [[First pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
+< נערה אין כשהיא קטנה לא}]] [[First pass of {מסייע ליה
+< לרב דאמר רב יהודה אמר רב ואיתימא
+< רבי אלעזר}]] [[First pass of {אסור לאדם שיקדש את בתו
+< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
+< רוצה:}]]
+
+-First pass is also for guessing shakla vtaria
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/01-Mishnah/Sentence 01]
+
+* Fourth pass of האיש מקדש בו ובשלוחו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/01-Mishnah/Sentence 02]
+
+* Fourth pass of האשה מתקדשת בה ובשלוחה:
+In order to understand the second clause of the Mishnah:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/01-Mishnah/Sentence 03]
+
+* Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
+In order to understand the third clause of the Mishnah:
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/02-Gemara/Sentence 01]
+
+* Fourth pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא:
+In order to learn the first line of the Gemara:
+< השתא בשלוחו מקדש בו מיבעיא
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/02-Gemara/Sentence 02]
+
+* Fourth pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/02-Gemara/Sentence 03]
+
+* Fourth pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 01]
+
+* Fourth pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 02]
+
+* Fourth pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 03]
+
+* Fourth pass of שמא יראה בה דבר מגונה ותתגנה עליו:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 04]
+
+* Fourth pass of ורחמנא אמר ואהבת לרעך כמוך:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 05]
+
+* Fourth pass of וכי איתמר דרב יוסף אסיפא איתמר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 06]
+
+* Fourth pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/03-Ika D'Amri/Sentence 07]
+
+* Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 01]
+
+* Fourth pass of האיש מקדש את ביתו כשהיא נערה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 02]
+
+* Fourth pass of כשהיא נערה אין כשהיא קטנה לא:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 03]
+
+* Fourth pass of מסייע ליה לרב דאמר רב יהודה אמר רב ואיתימא רבי אלעזר:
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 04]
+
+* Fourth pass of אסור לאדם שיקדש את בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה\::
+
+
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Halachos]
 
 * Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy:
 The Torah created a relationship called marriage, and created [[steps for initiating marriage]].
@@ -3574,159 +3843,57 @@ It is _assur_ for a man to marry a woman without seeing her first: Tosofos seems
 The state of _nisuyin_ and means to establish it:
 
 
-* Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy:
-[[The Mishnah teaches that a man can be _mekadesh_ a woman himself or with a shaliach]].
+[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Prose]
 
-The Mishnah teaches that a man can be _mekadesh_ a woman himself or with a shaliach:
+* Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy:
+The Mishnah taught three dinim.
+1. A man can be _mekadesh_ a woman either himself or with a _shaliach_
+2. A woman can accept _kiddushin_ either herself or with a _shaliach_
+3. A father can produce kiddushin between his daughter and another man, “when she is a naara,” himself or with a shaliach
+We had various questions.
+===
+- [[Questions on the first clause]]
+- [[Questions on the second clause]]
+- [[Questions on the third clause]]
+===
+
+Questions on the first clause:
+The first clause of the Mishnah teaches “a man can be _mekadesh_ a woman either himself or with a _shaliach_.”
+===
+- [[What psukim does shlichus come from?]]
+- [[Why bo and bshlucho?]]
+- [[Stira between lashon lechatchila and issur of Rav]]
+===
+
+What psukim does shlichus come from?
+Rashi asked by implication what psukim the Mishnah is getting the idea of slichus from, and answered that the Gemara would address it later.
+
+Why bo and bshlucho?
+The Gemara asked why the Mishnah had to say he can be _mekadesh_ both "bo" and "bshlucho", when if I know he can use a shaliach, I could infer he can do it himself.
+
+Stira between lashon lechatchila and issur of Rav:
+Many Rishonim pointed out that the "present tense" language suggests that it is _mutar lechatchila_ to use a _shaliach_, but the Gemara later teaches a halachah from R Yehuda Amar Rav that
+
+Questions on the second clause:
+
+Questions on the third clause:
+
+- [[The Mishnah teaches that a man can be _mekadesh_ a woman himself or with a shaliach]].
+
+- The Mishnah teaches that a man can be _mekadesh_ a woman himself or with a shaliach:
 [[The Gemara asks why the Mishnah needed to specify a man can be _mekadesh_ himself]].
 
-The Gemara asks why the Mishnah needed to specify a man can be _mekadesh_ himself:
+- The Gemara asks why the Mishnah needed to specify a man can be _mekadesh_ himself:
 The Gemara brings two traditions of answers to the question why the tana included בו:
 - [[R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of _mitzvah bo yoser m'b'shlucho_]].
 - [[An unnamed Amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her]].
 
-R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of _mitzvah bo yoser m'b'shlucho_:
+- R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of _mitzvah bo yoser m'b'shlucho_:
 
-An unnamed amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her:
+- An unnamed amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her:
 The suggestion that בו is to teach a man must see the woman before marrying her presents several problems:
 - What happened to R Yosef?
 - Isn't that a stira to the Mishnah?
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 01]
-
-* Fourth pass of האיש מקדש בו ובשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 02]
-
-* Fourth pass of האשה מתקדשת בה ובשלוחה:
-In order to understand the second clause of the Mishnah:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/01-Mishnah/Sentence 03]
-
-* Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
-In order to understand the third clause of the Mishnah:
-< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 01]
-
-* Fourth pass of גמ‘ השתא בשלוחו מקדש בו מיבעיא:
-In order to learn the first line of the Gemara:
-< השתא בשלוחו מקדש בו מיבעיא
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 02]
-
-* Fourth pass of אמר רב יוסף מצוה בו יותר מבשלוחו:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/02-Gemara/Sentence 03]
-
-* Fourth pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 01]
-
-* Fourth pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 02]
-
-* Fourth pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 03]
-
-* Fourth pass of שמא יראה בה דבר מגונה ותתגנה עליו:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 04]
-
-* Fourth pass of ורחמנא אמר ואהבת לרעך כמוך:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 05]
-
-* Fourth pass of וכי איתמר דרב יוסף אסיפא איתמר:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 06]
-
-* Fourth pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/03-Ika D'Amri/Sentence 07]
-
-* Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו\::
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 01]
-
-* Fourth pass of האיש מקדש את ביתו כשהיא נערה\::
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 02]
-
-* Fourth pass of כשהיא נערה אין כשהיא קטנה לא:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 03]
-
-* Fourth pass of מסייע ליה לרב דאמר רב יהודה אמר רב ואיתימא רבי אלעזר:
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/04-Ha'Ish Mekadesh Es Bito K’sh’hi Naara/Sentence 04]
-
-* Fourth pass of אסור לאדם שיקדש את בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה\::
-
-
-[Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 4/Discussions By Line]
-
-* Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy:
-For the fourth pass, we'll summarize everything we've said so far on each line:
-===
-1. [[Mishnah]]
-2. [[Hashta B'Shlucho]]
-3. [[Ika D’Amri]]
-4. [[Ha’Ish Mekadesh Es Bito]]
-===
-
-Mishnah:
-< [[First pass of {האיש מקדש בו ובשלוחו}]] [[First pass of {האשה
-< מתקדשת בה ובשלוחה}]] [[First pass of {האיש
-< מקדש את בתו כשהיא נערה בו ובשלוחו}]]
-
-Hashta B'Shlucho:
-< [[First pass of {גמ‘ השתא בשלוחו מקדש בו מיבעיא}]] [[First pass of {אמר
-< רב יוסף מצוה בו יותר מבשלוחו}]] [[First pass of {כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא}]]
-
-Ika D’Amri:
-< [[First pass of {איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב}]] [[First pass of {דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה}]] [[First pass of {שמא יראה בה דבר מגונה
-< ותתגנה עליו}]] [[First pass of {ורחמנא אמר ואהבת לרעך
-< כמוך}]] [[First pass of {וכי איתמר דרב יוסף אסיפא איתמר}]]
-< [[First pass of {האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא}]] [[First pass of {אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו:}]]
-
-Ha'Ish Mekadesh Es Bito:
-< ... [[First pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
-< נערה אין כשהיא קטנה לא}]] [[First pass of {מסייע ליה
-< לרב דאמר רב יהודה אמר רב ואיתימא
-< רבי אלעזר}]] [[First pass of {אסור לאדם שיקדש את בתו
-< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
-< רוצה:}]]
-
--First pass is also for guessing shakla vtaria
 
 
 [Inbox]

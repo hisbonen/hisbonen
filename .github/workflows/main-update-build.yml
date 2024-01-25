@@ -33,6 +33,8 @@ jobs:
         git config --global user.name "$AUTHOR_NAME"
         git config --global user.email "$AUTHOR_EMAIL"
 
+        cat ./google_analytics_tag.txt >> index.html
+
         git remote add origin "https://$OWNER:${GITHUB_TOKEN}@github.com/$GITHUB_REPO.git"
         git fetch origin
         build_branch_exists="$(git ls-remote --heads origin build)"
