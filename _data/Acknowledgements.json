@@ -1,17 +1,1 @@
-{
- "displayTopicName": "Acknowledgements",
- "topicTokens": [
-  {
-   "text": "Acknowledgements",
-   "type": "text"
-  }
- ],
- "paragraphsBySubtopic": {
-  "Acknowledgements": [
-   {
-    "text": "Hisbonen! was made possible by the assistance of many individuals.",
-    "type": "text"
-   }
-  ]
- }
-}
+{"displayTopicName":"Acknowledgements","topicTokens":[{"text":"Acknowledgements","type":"text"}],"paragraphsBySubtopic":{"Acknowledgements":[{"text":"Hisbonen was made possible by the assistance of many individuals.","type":"text"}]}}
