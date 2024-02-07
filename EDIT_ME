@@ -12,10 +12,7 @@ You can learn more about the Hisbonen project:
 ===
 - [[Dedication]]
 - [[Disclaimers]]
-- [[Acknowledgements]]
-- [[Status]]
 - [[Submit {{Feedback}}]]
-- [[Email updates]]
 - [[Desktop app]]
 - [Canopy.js](https://github.com/canopy-js/canopy-js)
 ===
@@ -60,6 +57,8 @@ Hisbonen is published without expert endorsement and is a product of novice effo
 4: Hisbonen can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 ===
 > [[Disclaimers|Back]]
+===
+
 > [[Hisbonen#Learn about the project/Acknowledgements]]
 > [[Shoresh#Appear to have two letters]]
 ===
@@ -74,9 +73,10 @@ Hisbonen is published without expert endorsement and is a product of novice effo
 
 
 * Feedback:
+Submit feedback via the following methods:
 ===
-- [Submit feedback via Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link)
-- [Submit feedback by email](mailto:admin@hisbonen.org?subject=Feedback)
+- [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link)
+- [Email](mailto:hello@hisbonen.org?subject=Feedback)
 ===
 
 
@@ -2653,10 +2653,10 @@ Steps: We're going to learn a section of Talmud by going through a series of ste
 - 1. We're going to articulate our expectations before seeing the text.
 - 2. We're going to make a literal translation of the text. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Go]])
 - 3. We're going to identify difficulties in the text. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho|Go]])
-- 4. We're going to analyze the major commentaries. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho/Step 4 of hashta b’shlucho|Go]])
+- 4. We're going to analyze the major commentaries on the text. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho/Step 4 of hashta b’shlucho|Go]])
 - 5. We're going to summarize all the points we saw. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho/Step 4 of hashta b’shlucho/Step 5 of hashta b’shlucho|Go]])
 ===
-> [[Step 1 of hashta b’shlucho|Lets start]]
+> [[Step 1 of hashta b’shlucho|Let's begin]]
 ===
 
 
@@ -2667,7 +2667,7 @@ Let's learn the first clause of the Mishnah:
 < האיש מקדש בו ובשלוחו
 ===
 > [[First Pass 2|Let's go]]
-> [[First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
 First Pass 2:
@@ -2677,7 +2677,7 @@ Let's clarify background concepts, and then translate the clause and ask compreh
 - [[Identify Break]]
 - [[Translate Words]]
 - [[Translate Clause]]
-- [[Comprehension Questions]]
+- [[Comprehension <br>Questions]]
 ===
 
 Background:
@@ -2848,7 +2848,9 @@ How do we know where the first clause of the Mishnah ends?
 
 Identify Break 2:
 Even if we don't know the meaning of the words, we should be able to notice some similar-looking patterns being repeated:
-< *האיש מקדש* בו ובשלוחו *האשה מתקדשת* בה ובשלוחה *האיש מקדש* את בתו כשהיא נערה בו ובשלוחו
+< *האיש מקדש* בו ובשלוחו *האשה
+< מתקדשת* בה ובשלוחה *האיש
+< מקדש* את בתו כשהיא נערה בו ובשלוחו
 ===
 > [[Identify Break 3|I see a pattern!]]
 ===
@@ -2941,116 +2943,124 @@ Translate Clause:
 Now that we've translated the individual words, lets translate the first clause as a whole.
 < האיש מקדש בו ובשלוחו
 ===
-> [[#Comprehension Questions]]
-> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
+> [[#Comprehension<br>Questions|Continue]]
 ===
+
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 
 Comprehension Questions:
 Now that we've read the first clause of the Mishnah, let's ask some questions.
 ===
-- [#Lists in the Mishnah|Get started]
+- [[#Lists in the Mishnah|Get started]]
 - [[{See all} comprehension questions]]
 ===
 
 See all comprehension questions:
+This is a list of comprehension questions:
 ===
 1. [[Lists in the Mishnah]]
+2. More to come
 ===
 
 Lists in the Mishnah:
 The first clause of the Mishnah says a man can be _mekadesh_ a woman via himself or via a shaliach.
 ===
-> [[Comprehension 1|Okay]]
-> [[Just Summarize]]
+> [[Comprehension 1-1|Okay]]
+> [[Summarize]]
 ===
 
-Just Summarize:
-When we see a list of options in the Mishnah, does it mean that those options are the only options, is it an illustrative list, or might there even be some third way of interpreting the list? Stay tuned.
+Summarize:
+When we see a list of options in the Mishnah, does it mean:
+- Those options are the only options
+- Those options are examples
+- Some third way of understanding it?
+Stay tuned.
 ===
-> [[See all comprehension questions|Back to questions]]
+> [[#See all comprehension questions|Back to questions]]
 ===
 
-Comprehension 1:
+Comprehension 1-1:
 So, we find a list of ways the man can be _mekadesh_, ie himself or with a _shaliach_.
 ===
-> [[Comprehension 2|Okay]]
+> [[Comprehension 1-2|Okay]]
 ===
 
-Comprehension 2:
+Comprehension 1-2:
 So, when someone makes a list of options, what might they mean by it?
 ===
-> [[Comprehension 3|What?]]
+> [[Comprehension 1-3|What?]]
 ===
 
-Comprehension 3:
+Comprehension 1-3:
 Let’s use a simpler example. If I send you an invitation to “come drive down to my wedding” – what might I mean by that, practically speaking?
 ===
-> [[Comprehension 4|Let me think]]
+> [[Comprehension 1-4|Let me think]]
 ===
 
-Comprehension 4:
+Comprehension 1-4:
 Take your time.
 ===
-> [[Comprehension 5|I give up]]
+> [[Comprehension 1-5|I give up]]
 ===
 
-Comprehension 5:
+Comprehension 1-5:
 Maybe I mean I am _only_ allowing you to come if you drive.
 ===
-> [[Comprehension 6|Right]]
+> [[Comprehension 1-6|Right]]
 ===
 
-Comprehension 6:
+Comprehension 1-6:
 So, that’s option #1 how to understand a specificity, that I meant it “b’davka”, as the only that way that is acceptable.
 ===
-> [[Comprehension 7|Right]]
+> [[Comprehension 1-7|Right]]
 ===
 
-Comprehension 7:
+Comprehension 1-7:
 Now, what would it mean to interpret a list in the Mishnah this way, as being meant “b’davka?”
 ===
-> [[Comprehension 8|What?]]
+> [[Comprehension 1-8|What?]]
 ===
 
-Comprehension 8:
+Comprehension 1-8:
 We might say such a list would be meant as “exhaustive” – the things on the list would be your only options, and all options would be on the list.
 ===
-> [[Comprehension 9|Makes sense]]
+> [[Comprehension 1-9|Makes sense]]
 ===
 
-Comprehension 9:
+Comprehension 1-9:
 Ok, so, when I said “come drive to my wedding,” what *else* might I have meant besides that you _have_ to drive?
 ===
-> [[Comprehension 10|Let me think]]
+> [[Comprehension 1-10|Let me think]]
 ===
 
-Comprehension 10:
+Comprehension 1-10:
 Take your time.
 ===
-> [[Comprehension 11|I give up]]
+> [[Comprehension 1-11|I give up]]
 ===
 
-Comprehension 11:
+Comprehension 1-11:
 Well, maybe I just meant you _can_ drive, as an example.
 ===
-> [[Comprehension 12|Right]]
+> [[Comprehension 1-12|Right]]
 ===
 
-Comprehension 12:
+Comprehension 1-12:
 So now, ask yourself, how should we understand a list in the Mishnah?
 - Should we understand it as an _exhaustive_ list, and there are no other options?
 - Or, should we understand it as an _illustrative_ list, and there may be other options also?
+- Could there be more options than those two?
 ===
-> [[Comprehension 13|Good question]]
+> [[Comprehension 1-13|Good question]]
 ===
 
-Comprehension 13:
+Comprehension 1-13:
 Indeed! Hold that thought, and we'll check back in later to see what the Gemara seems to think about it.
 ===
-> [[Comprehension 14|I can't wait that long!]]
+> [[Comprehension 1-14|I can't wait that long!]]
 ===
 
-Comprehension 14:
+Comprehension 1-14:
 Sometimes in life we have to be patient! 🐢⏳
 ===
 > [[#See all comprehension questions|Back to questions]]
@@ -3097,7 +3107,7 @@ Let's clarify background concepts, and then translate the clause and ask compreh
 - [[Identify Break]]
 - [[Translate Words]]
 - [[Translate Clause]]
-- [[Comprehension Questions]]
+- [[Comprehension<br>Questions]]
 ===
 
 
@@ -3263,7 +3273,7 @@ Good. Should the age of the girl affect whether the father should engage her to 
 
 Expectations-13: Great, those are some of the questions our sugya will address.
 ===
-> [[#Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Continue to next step]]
+> [[#Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Continue to translation]]
 ===
 
 -Learn the sugya:
@@ -3352,6 +3362,7 @@ Haaras
 ===
 
 Pick a line:
+These are the major components of the text:
 ===
 1. [[Mishnah]]
 2. [[First Gemara]]
@@ -3381,7 +3392,8 @@ First Gemara:
 < למיתב טן דו מלמיתב ארמלו:}]]
 
 Second Gemara:
-< ... [[First pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
+< [[First pass of {האיש
+< מקדש את ביתו כשהיא נערה\:}]] [[First pass of {כשהיא
 < נערה אין כשהיא קטנה לא}]] [[First pass of {מסייע ליה
 < לרב דאמר רב יהודה אמר רב ואיתימא
 < רבי אלעזר}]] [[First pass of {אסור לאדם שיקדש את בתו
@@ -3396,10 +3408,16 @@ Second Gemara:
 * Step 3 of _hashta b’shlucho_:
 *Step 3:* For the third step, we'll look at the text and consider difficulties:
 ===
+> [[#Mishnah/Second pass of האיש מקדש בו ובשלוחו|Get Started]]
+> [[Pick a line]]
+> [[Step 4 of hashta b’shlucho|Next: Commentaries]]
+===
+
+Pick a line:
+===
 1. [[Mishnah]]
 2. [[First Gemara]]
 3. [[Second Gemara]]
-- [[Step 4 of hashta b’shlucho|Next: Commentaries]]
 ===
 
 Mishnah:
@@ -3407,7 +3425,7 @@ Mishnah:
 < מתקדשת בה ובשלוחה}]] [[Second pass of {האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו}]]
 ===
-- [[#First Gemara|Next: First Gemara]]
+> [[#First Gemara|Next: First Gemara]]
 ===
 
 First Gemara:
@@ -3427,18 +3445,19 @@ First Gemara:
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו:}]]
 ===
-- [[#Second Gemara|Next: Second Gemara]]
+> [[#Second Gemara|Next: Second Gemara]]
 ===
 
 Second Gemara:
-< ... [[Second pass of {האיש מקדש את ביתו כשהיא נערה\:}]] [[Second pass of {כשהיא
+< [[Second pass of {האיש
+< מקדש את ביתו כשהיא נערה\:}]] [[Second pass of {כשהיא
 < נערה אין כשהיא קטנה לא}]] [[Second pass of {מסייע ליה
 < לרב דאמר רב יהודה אמר רב ואיתימא
 < רבי אלעזר}]] [[Second pass of {אסור לאדם שיקדש את בתו
 < כשהיא קטנה עד שתגדל ותאמר בפלוני אני
 < רוצה:}]]
 ===
-- [[Step 4 of hashta b’shlucho|Next: Commentaries]]
+> [[Step 4 of hashta b’shlucho|Next: Commentaries]]
 ===
 
 
