@@ -7,22 +7,20 @@ Let's learn the first clause of the Mishnah:
 ===
 
 First Pass 2:
-Let's clarify background concepts, and then translate the clause and ask comprehension questions.
+Let's clarify key terms, and then translate the clause and ask comprehension questions.
 ===
-- [[Background]]
-- [[Identify Break]]
-- [[Translate Words]]
-- [[Translate Clause]]
+- [[Key terms]]
+- [[Translation]]
 - [[Comprehension <br>Questions]]
 ===
 
-Background:
+Key terms:
 There are various concepts you should be familiar with before trying to read the first clause:
 ===
 - [[Kiddushin]]
 - [[Nisuyin]]
 - [[Shlichus]]
-- [[#Identify Break|Next]]
+- [[#Identify clause break|Translate]]
 ===
 
 Kiddushin:
@@ -152,13 +150,13 @@ Shlichus 3:
 ===
 
 Shlichus 4:
-Someone who is designated to do something for someone else is called a “shaliach.”
+Someone who is designated to do something for someone else is called a “shaliach” (שליח) The plural is “shluchim” (שלוחים.)
 ===
 > [[Shlichus 5|Okay]]
 ===
 
 Shlichus 5:
-A person who sends an appointed person to accomplish a task can be called a “sholeach” or a “mishaleach.”
+The one sending the shliach can be called a “sholeach” (שולח) or a “mishaleach” (משלח.)
 ===
 > [[Shlichus 6|Okay]]
 ===
@@ -170,13 +168,21 @@ We will see when and under what circumstances a person may use a shaliach.
 ===
 
 Shlichus 7:
-Great! Now lets continue to word translation, or skip to translating the first clause as a whole.
+Great! Now lets continue to word translation, or skip to translating the words of the clause.
 ===
+> [[#Identify Clause break]]
 > [[#Translate words]]
-> [[#Translate clause]]
 ===
 
-Identify Break:
+Translation:
+Let's identify the first clause, translate the words, then translate the sentence.
+===
+- [[Identify clause break]]
+- [[Translate words]]
+- [[Translate clause]]
+===
+
+Identify clause break:
 How do we know where the first clause of the Mishnah ends?
 ===
 > [[Identify Break 2|How?]]
@@ -199,91 +205,410 @@ Great! Based on this pattern, we should be able to recognize that the Mishnah is
 ===
 
 Translate Words:
-Let's translate the individual words, then the clause as a whole.
+Let's translate the individual words, then [[#Translate clause|translate the clause as a whole]]
 <==
 - [[1. {{האיש}}]]
 - [[2. {{מקדש}}]]
 - [[3. {{בו}}]]
 - [[4. {{ובשלוחו}}]]
 ===
-[[#Translate Clause|Translate the clause as a whole]]
 
 האיש:
-To understand the word “האיש”:
+Let's translate the word “האיש”:
 ===
-- [[{General translation} of האיש]]
-- [[{Contextual translation} of האיש]]
-- [[{Grammatical explanation} of האיש]]
+> [[Ha'ish 2|Okay]]
 ===
 
-General translation of האיש: In general the word “האיש” means “the man.”
+Ha'ish 2:
+How might we figure out the meaning of the word “האיש”?
+===
+> [[Ha'ish 3|How]]
+> [[#Ha'ish 5|Just tell me]]
+===
 
-Contextual translation of האיש: In this context, it means “a man” because we’re not speaking about any one man in particular. Sometimes the Mishnah will use the word “the” slightly differently than we would in English.
+Ha'ish 3:
+We see that the first letter is ה, which tips us off to the fact that “האיש” is either:
+1. A noun starting with “the” which is ה in Hebrew ([[Hebrew definite article|learn more]])
+2. A type of past-tense verb that begins with ה ([[Verb forms beginning with ה|learn more]])
+3. A proper noun and ה is part of the actual name or shoresh ([[learn more about {{shoresh}}]]).
+===
+> [[Ha'ish 4|Ok]]
+===
 
-Grammatical explanation of האיש:
-We can giev a grammatical explanation of האיש:
-- האיש is the [[{{Hebrew definite article}} “ה”]] before the noun “איש”.
+Ha'ish 4:
+If we know that איש means man, then we can narrow it down to probably being the first option, ה meaning “the.”
+- We can tell it isn't a verb if we recognize that there isn't a [[shoresh]] that would produce that letter combination. ([[Ha'ish 4-1|More]])
+===
+> [[Ha'ish 5|Ok]]
+===
 
-How you could figure the meaning of האיש out yourself:
-Here’s how you could figure out the meaning of האיש yourself:
-- First, let's remember that we're reading a Mishnah and so the language is going to be Hebrew and not Aramaic.
-- Next, we should see if any of the letters are potentially prefixes or suffixes rather than being part of the underlying word.
-- ה is sometimes a prefix, but ש is never a suffix, so we can conclude that either “האיש” is one big word, or the ה is a prefix, and the real word is איש.
-- (It could also be that ה is a prefix and א is another prefix after that, but א is only a prefix in the Hebrew future tense first person (e.g. “I will run”), and there’s no situation in Hebrew where you can have a ה prefix followed by a future tense verb.)
-- Thus, we can look up the word “האיש” in the dictionary, see that it doesn’t exist, and then try “איש,” and we would see that it does exist and is a noun meaning “man.”
-- Once we know איש is a noun, the ה prefix can't be any of the [[verb forms beginning with ה|verb-related ה prefixes]], and so by process of elimination we know it is the [[Hebrew definite article]].
+Ha'ish 4-1:
+Just for purely theoretical interest, if there would be a [[shoresh]] with a weak first letter like נאש, then putting that shoresh into the [[hifil past tense]] could indeed produce a past tense “האיש” but, there is no such shoresh.
+===
+> [[#Ha'ish 5|Ok]]
+===
+
+Ha'ish 5:
+So literally “האיש” _ha’ish_ means “the man.”
+===
+> [[Ha'ish 6|Ok]]
+===
+
+Ha'ish 6:
+Now, the phrase “the man [such and such]” sounds more like we’re telling a story than giving a legal ruling, so we can see from context that it probably means “all men [have the following something].”
+===
+> [[Ha'ish 7|Ok]]
+===
+
+Ha'ish 7:
+Great, that's all for now. You can read more about the word איש or the Hebrew prefix ה, or move on to the next word, or skip to the sentence-translation.
+===
+> [איש in the Klein dictionary](https://www.sefaria.org/Klein_Dictionary%2C_%D7%90%D6%B4%D7%99%D7%A9%D7%81.1)
+> [איש in the Jastrow dictionary](https://www.sefaria.org/Jastrow%2C_%D7%90%D6%B4%D7%99%D7%A9%D7%81)
+> [[The {{Hebrew definite article}} ie ה prefix]]
+> [[#מקדש|Next:<br>Translate מקדש]]
+> [[#Translate Clause|Continue:<br>Translate Clause]]
+===
 
 מקדש:
-To understand the word “מקדש”:
+Let's translate the word מקדש.
 ===
-- [[{General translation} of מקדש]]
-- [[{Contextual translation} of מקדש]]
-- [[{Grammatical explanation} of מקדש]]
+> [[Mekadesh 2|Great!]]
 ===
 
-General translation of מקדש:
-To translate the word מקדש in general, first we should note that it is an ongoing “ing” verb like “running,” and it refers to someone who is making holiness in some way. For example:
-- Hashem is _mekadesh es hashabos_, which means Hashem makes the Sabbath holy by designating it as special.
-- When we say _kiddush_ before a holiday meal, this is referred to as “being _mekadesh_.”
-- When a man wants to marry a woman, he must first create the “binding engagement” stage called _kiddushin_, and doing so is refered to as the man “being _mekadesh_” a woman.
-The word מקדש is also in the “masculine singular,” so we are speaking about one man doing the action. So, מקדש means some man or masculine entity is doing one of the previously mentioned actions in an ongoing way.
+Mekadesh 2:
+How could you figure out yourself what it means?
+===
+> [[Mekadesh 3|How?]]
+> [[#Mekadesh 17|Just tell me]]
+===
 
-Contextual translation of מקדש:
-We can give a contextual translation of the word מקדש.
-- In this context, we are in _Meseches Kiddushin_ so we know we are probably speaking about marriage, and so even though “מקדש” can have several meanings, here we are probably referring to a man who is creating the binding engagement stage of marriage called _kiddushin_ with one woman.
-- However, the ongoing nature of the verb makes it sound like we are telling a story about a particular man doing this, but that seems a bit out of place here, and so we’ll have to remember that in the Mishnah, the ongoing “present tense” is used to communicate halachic rulings, and so if it says “we are making _kiddush_” that might mean “individuals are obligated to make kiddush” and if it says “a man is buying an item with a contract,” that would mean “a man is _able_ to buy an item using a contract.”
-- Thus, the word מקדש here means “[a man is] able to create the _kiddushin_ stage of marriage [...],” and we are anticipating further details about how this is done.
+Mekadesh 3:
+First we might notice that the word begins with מ. Given that the Mishnah is in Hebrew, that should tip us off that it could be:
+1. A Hebrew verb form that begins with a מ prefix ([[Hebrew verb forms beginning with מ|More]])
+2. Some Hebrew noun formed by adding מ prefix to a shoresh ([[Noun patterns that begin with מ|More]])
+3. A proper noun that just happens to start with מ
+4. A word formed from a [[shoresh]] that happens to begin with מ
+===
+> [[Mekadesh 4|Okay]]
+===
 
-Grammatical explanation of מקדש:
-We can give a grammatical explanation of the word מקדש:
-- מקדש comes from the [[shoresh]] קדש
-- מקדש is from the [[{{pi’el}} binyan]]. ([[{{Binyan}} is a grammatical concept in Hebrew and Aramaic]].)
-- The meaning of מקדש is determined by the meanings of [the shoresh קדש in the pi’el].
-- מקדש is a [[pi'el active participle]], an example of an [[active participle]] which is one of [[the two types of {{participle}}]], which are two of the [[“tenses” of Hebrew and Aramaic]].
-- מקדש is in the masculine singular, so we are speaking about one man or one masculine entity.
+Mekadesh 4:
+Now, we also have to be careful, because there may be multiple words that are spelled מקדש.
+===
+> [[Mekadesh 5|Okay]]
+===
 
-How you could figure the meaning of מקדש out yourself:
-Here's how you could figure out the meaning of מקדש yourself:
-- First, let's remember that we're reading a Mishnah, and so the language is going to be Hebrew.
-- We might know that there is a noun spelled מקדש, מִקְדָּשׁ meaning temple or sanctuary, but because we just saw האיש which is a noun, now we are probably looking for a verb.
-- So, every verb should have 2-3 visible letters of the [[shoresh]], so we'll want to identify what shoresh this is.
-- We have 4 [[strong letters]], so only three of those can be part of the verb, so either the מ is a prefix, or the ש is a suffix.
-- There are [[several {{Hebrew verb forms beginning with מ}}]], but ש is never a suffix, so we've narrowed it down to those verb forms.
-- The only one of those forms that has only a מ prefix and not an extra ת or י or ו is the [[{{pi'el active participle}} for regular shorushim]].
-- Once we know the binyan and tense, we can see that the lack of a suffix indicates this is a masculine singular.
+Mekadesh 5:
+If we assume the מ of מקדש is some kind of prefix, we are left with קדש which are three strong letters ([[Strong letters|learn more]]) suggesting that the [[shoresh]] of the word could be קדש.
+===
+> [[Mekadesh 6|Okay]]
+===
+
+Mekadesh 6:
+If we look up the shoresh קדש in the dictionary we will find that it is indeed a real shoresh, related to the idea of "holiness."
+- [See in Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1)
+- [See in Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1)
+===
+> [[Mekadesh 7|Okay]]
+===
+
+Mekadesh 7:
+Now, even if we recognize the shoresh is קדש, we're still not sure if this is a noun or a verb.
+===
+> [[Mekadesh 8|Okay]]
+===
+
+Mekadesh 8:
+If it is a verb, we can look at the five Hebrew verb forms that start with מ, and see if any of them fit this spelling:
+- מְקַדֵּשׁ, _mekadeish,_ “he makes holy/creates _kiddushin_” [[pi’el active participle for regular shorushim|(More)]]
+- מְקוּדָּשׁ, _mekudash_ “he/it is made holy, receives _kiddushin_ status” [[pu’al active participle for regular shorushim|(More)]]
+- מַקְדִּישׁ, _makdish_ “he sets aside for a holy purpose” [[hif’il active participle for regular shorushim|(More)]]
+- מוּקְדָּשׁ, _mukdash,_ “it is set aside for holy purpose” [[huf’al active participle for regular shorushim|(More)]]
+- מִתְקַדֵּשׁ, _miskadeish_ “he makes himself holy” [[hispa’el active participle for regular shorushim|(More)]]
+===
+> [[Mekadesh 9|I see a match]]
+===
+
+Mekadesh 9:
+Great, we should notice that only one verb form produces a word spelled מקדש, namely מְקַדֵּשׁ, meaning either "he creates holiness" or as a technical term "he creates the _kiddushin_ stage prior to marriage"
+- So, if מקדש is a verb, it is probably מְקַדֵּשׁ.
+===
+> [[Mekadesh 10|Okay]]
+===
+
+Mekadesh 10:
+Now, are we sure that מקדש is actually a verb? We can check the dictionary and see if there are any nouns spelled that way.
+===
+> [[Mekadesh 11|Okay]]
+===
+
+Mekadesh 11:
+We can do it together:
+- [מקדש in Klein dictionary](https://www.sefaria.org/Klein_Dictionary%3C_%D8%10E%D7%B5%D8%A8%D7%B1%D8%94%D7%B6%D7%BC%D8%A10%D8%82.2)
+- [מקדש in Jastrow dictionary](https://www.sefaria.org/Jastrow%3C_%D8%10E%D7%B5%D8%A8%D7%B1%D8%94%D7%B9%D7%BC%D8%A10%D8%82.2)
+===
+> [[Mekadesh 12|Okay]]
+===
+
+Mekadesh 12:
+Great, so we actually find that there is also a noun spelled מקדש,‎ “מִקְדָּשׁ” meaning “sanctuary.” We also don't find any proper nouns or names spelled מקדש.
+===
+> [[Mekadesh 13|Okay]]
+===
+
+Mekadesh 13:
+So, we found a verb form that would fit, מְקַדֵּשׁ _mekadesh_, “he makes holiness/creates _kiddushin_” and a noun that it might be, מִקְדָּשׁ _mikdash_, “sanctuary.”
+===
+> [[Mekadesh 14|Okay]]
+===
+
+Mekadesh 14:
+Now, let's remember that we are in Maseches Kiddushin, which speaks about how a man produces the _kiddushin_ stage prior to marriage.
+===
+> [[Mekadesh 15|Okay]]
+===
+
+Mekadesh 15:
+So, it would seem that the verb we identified מְקַדֵּשׁ, which can mean “he creates the _kiddushin_ stage prior to marriage” is the most likely meaning.
+===
+> [[Mekadesh 16|Okay]]
+===
+
+Mekadesh 16:
+Additionally, we already saw a noun in the sentence, “האיש”, so it makes sense that what would come next is a verb. [[Mekadesh 16-3|(More)]]
+===
+> [[Mekadesh 17|Okay]]
+===
+
+Mekadesh 16-3:
+We just said because האיש is a noun then we should be expecting a verb, but it isn't actually so simple.
+- You could have two nouns back-to-back in a form called the [[construct state]]
+- You also have [[more flexible {{word-order in Hebrew and Aramaic}}]] so even in a simple sentence there's no guarantee the verb would be next.
+===
+> [[#Mekadesh 17|Okay]]
+===
+
+Mekadesh 17:
+*Great:* So we've settled on the word מקדש being the Hebrew verb מְקַדֵּשׁ, in its meaning of “he produces/is producing kiddushin,” and for those interested, identified that form as the [[{{active participle}} form]] of the [[{{pi’el}} binyan]].
+===
+> [[Mekadesh 18|Great]]
+===
+
+Mekadesh 18:
+Sounds good. Now you can read more about the shoresh קדש, move on to the next word in the clause בו, or skip to translating the sentence as a whole.
+===
+- [קדש in Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1)
+- [קדש in Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1)
+> [[#בו|Next:<br>Translate בו]]
+> [[#Translate Clause|Continue:<br>Translate Clause]]
+===
 
 בו:
+Let's translate the word בו.
+===
+> [[Bo 2|Great!]]
+===
+
+Bo 2:
+How could you figure out what בו means yourself?
+===
+> [[Bo 3|How]]
+> [[#Bo 13|Just tell me]]
+===
+
+Bo 3:
+So, you might know that there is a word “bo” that means he comes or he came, but that word is always spelled with an א as in בוא
+===
+> [[Bo 4|Okay]]
+===
+
+Bo 4:
+So, you might also know that that there is a prefix ב that comes before nouns and can mean in/with/for/on/at and a few other options.
+- You can see the full list [[The prefix ב#Meanings|here]]
+===
+> [[Bo 5|Okay]]
+===
+
+Bo 5:
+For example, _babayis_, בבית, means “in the house.”
+===
+> [[Bo 6|Okay]]
+===
+
+Bo 6:
+Now, it is common for prefixes to also exist in a standalone form using certain standard suffixes for person.
+===
+> [[Bo 7|Okay]]
+===
+
+Bo 7:
+So, for example, the prefix ל usually means “to,” the suffix י usually means “me,” and so לי will mean “to me.”
+===
+> [[Bo 8|Okay]]
+===
+
+Bo 8:
+So, a ו after a prefix usually means “him/it.” לו would mean “to him/it.”
+===
+> [[Bo 9|Okay]]
+===
+
+Bo 9:
+So, over here can you guess what בו means?
+===
+> [[Bo 10|I can try]]
+===
+
+Bo 10:
+Great! So, however you translate the ב prefix in this context, ie with/in/at/for etc, adding ו to get בו would mean with/in/at/for _*him/it*_.
+===
+> [[Bo 11|Okay]]
+===
+
+Bo 11:
+Great, so now at least we know what word it is, the prefix ב with a third-person masculine ו suffix, we just don't know which meaning of ב it is, ie with/in/at/for etc.
+===
+> [[Bo 12|Okay]]
+===
+
+Bo 12:
+So, how can we figure out what ב means here? We can go through the list and try which ones fit.
+- The man makes kiddushin *in* himself ❌
+- The man makes kiddushin *at* himself ❌
+- The man makes kiddushin *with* himself 🤔
+- The man makes kiddushin *for* himself 🤔
+===
+> [[Bo 13|Okay]]
+===
+
+Bo 13:
+*Okay so:* we might not actually have enough information at this point to figure out the exact meaning, so for now, we’ll translate בו as “with/for himself.”
+===
+> [[Bo 14|Okay]]
+===
+
+Bo 14:
+Great! You can read more about the prefix ב, or continue to the translation of the next word.
+===
+> [[The prefix ב]]
+> [Prefix ב in Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%91%D6%B0%D6%BC%E2%97%8C.1)
+> [[#ובשלוחו|Next:<br>Translate ובשלוחו]]
+===
 
 ובשלוחו:
+Let's translate ובשלוחו.
+===
+> [U’b’shlucho|Okay]
+===
+
+U’b’shlucho 2:
+*Okay so:* we might not actually have enough information at this point to figure out the exact meaning, so for now, we’ll translate בו as “with/for himself.”
+===
+> [[U’b’shlucho 3|Okay]]
+===
+
+U’b’shlucho 2:
+*Okay so:* we might not actually have enough information at this point to figure out the exact meaning, so for now, we’ll translate בו as “with/for himself.”
+===
+> [[U’b’shlucho 3|Okay]]
+===
 
 Translate Clause:
 Now that we've translated the individual words, lets translate the first clause as a whole.
-< האיש מקדש בו ובשלוחו
 ===
-> [[#Comprehension<br>Questions|Continue]]
+> [[Translate clause 2|Okay]]
 ===
 
-> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
+Translate clause 2:
+So the Mishnah says:
+< האיש מקדש בו ובשלוחו
+> _ha’ish mekadesh bo u’b’shlucho_
+===
+> [[Translate clause 3|Okay]]
+===
+
+Translate clause 3:
+We saw that _ha’ish_ האיש literally means “the man.” It seems clear from context that it means any man, so we’ll translate it as “a man” and think about the difference later.
+===
+> [[Translate clause 4|Okay]]
+===
+
+Translate clause 4:
+We saw that _mekadesh_ מקדש literally means “produces/is producing a state of _kiddushin_” ([[#Kiddushin|Feel free to refresh your memory on what _kiddushin_ means]])
+===
+> [[Translate clause 5|Okay]]
+===
+
+Translate clause 5:
+We saw that “bo” בו literally meant with/via/in/on, himself/itself.
+===
+> [[Translate clause 6|Okay]]
+===
+
+Translate clause 6:
+We saw that _u’b’shlucho_, ובשלוחו literally means "and/or with/via/in/on his/its shaliach"
+===
+> [[Translate clause 7|Okay]]
+===
+
+Translate clause 7:
+So putting that all together, the clause probably should be translated:
+> The man produces kiddushin via himself or via his shaliach.
+===
+> [[Translate clause 8|Okay]]
+===
+
+Translate clause 8:
+This might be a good time to learn a rule of the Mishnah which hopefully we will get even clearer later on.
+===
+> [[Translate clause 9|Okay]]
+===
+
+Translate clause 9:
+The rule is: a “present tense” verb in a Mishnah implies that we are permitted to do the given action “lechatchila” (literally "from the beginning,") ie as a perfectly acceptable option.
+- ([[Tangent: Learn about the grammar of the {{present tense}} here]].)
+===
+> [[Translate clause 10|Okay]]
+===
+
+Translate clause 10:
+On the other hand, what if the Mishnah were to use a past tense verb, eg “a man produced kiddushin via a shaliach, and it worked”?
+===
+> [[Translate clause 11|Okay]]
+===
+
+Translate clause 11:
+So, the past tense version would mean that the given action was “bedieved” (literally, “at the time of later”), ie something that only is acceptable if already done by accident, or in a situation where there are no other options.
+===
+> [[Translate clause 12|Okay]]
+===
+
+Translate clause 12:
+So, given that rule, how might we improve our current translation?
+> The man produces _kiddushin_ via himself or via his shaliach
+===
+> [[Translate clause 13|Let me think]]
+===
+
+Translate clause 13:
+If the present tense implies a “psak” ie legal ruling that something is “mutar lechatchila” ie totally permissible, then we might change our translation to:
+> It is perfectly acceptable for the man to produce _kiddushin_ via himself, or via his shaliach.
+===
+> [[Translate clause 14|Got it]]
+===
+
+Translate clause 14:
+Great! You can see how we began with a literal translation of the words, ended up with a literal translation of the sentence, and then used rules of language in the Mishnah to improve our translation further.
+===
+> [[Translate clause 15|Yes]]
+===
+
+Translate clause 15:
+Great. Now you can continue on to comprehension questions about this clause.
+===
+> [[#Comprehension Questions]]
+===
 
 Comprehension Questions:
 Now that we've read the first clause of the Mishnah, let's ask some questions.
@@ -296,7 +621,8 @@ See all comprehension questions:
 This is a list of comprehension questions:
 ===
 1. [[Lists in the Mishnah]]
-2. More to come
+2. [[“The” man]]
+- [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
 Lists in the Mishnah:
@@ -399,6 +725,61 @@ Indeed! Hold that thought, and we'll check back in later to see what the Gemara 
 
 Comprehension 1-14:
 Sometimes in life we have to be patient! 🐢⏳
+===
+> [[#See all comprehension questions|Back to questions]]
+===
+
+“The” man:
+The Mishnah begins with the word _ha’ish_, האיש, which we translated as “the man.”
+===
+> [[Comprehension 2-2|Okay]]
+===
+
+Comprehension 2-2:
+But, we saw that in context, the Mishnah is teaching a rule that applies to all men.
+===
+> [[Comprehension 2-3|Okay]]
+===
+
+Comprehension 2-3:
+So why doesn’t the Mishnah say _ish mekadesh bo u’bshlucho_ “איש מקדש בו ובשלוחו,” _a_ man may _mekadesh_ himself or with a _shaliach_?
+- (Tangent: You can learn more about [[the word “a” ie the {{indefinite article}}]].)
+===
+> [[Comprehension 2-4|Okay]]
+===
+
+Comprehension 2-4:
+Or, it could say _anashim mekadshim_, (אנשים מקשים) _men_ may be _mekadesh_ in these two ways.
+===
+> [[Comprehension 2-5|Okay]]
+===
+
+Comprehension 2-5:
+Or, it could have just said _mekadshim banu u'b'shlucheinu_, (מקדשים בנו ובשלוחינו) “we” are _mekadesh_, either via ourselves and via our _shluchim_.
+===
+> [[Comprehension 2-6|Okay]]
+===
+
+Comprehension 2-6:
+So, in summary, we have a difficulty, why did the Mishnah say "the man" when it seems as if there would have been more fitting ways to express the idea?
+===
+> [[Comprehension 2-7|Okay]]
+===
+
+Comprehension 2-7:
+We could say that this is just the style of the Mishnah.
+===
+> [[Comprehension 2-8|Okay]]
+===
+
+Comprehension 2-8:
+We could also say that maybe it means “the” man as in “the man in the situation, as opposed to the woman in the situation.”
+===
+> [[Comprehension 2-9|Okay]]
+===
+
+Comprehension 2-9:
+So, it doesn't end up making a big difference, but it is something interesting to notice.
 ===
 > [[#See all comprehension questions|Back to questions]]
 ===
