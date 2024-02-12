@@ -116,9 +116,8 @@ There are no major forms in Aramaic that begin with ה because the Aramaic equiv
 There are [[several {{Hebrew verb forms beginning with מ}}]], and [[several {{Aramaic verb forms beginning with מ}}]].
 
 
-* Vowel shift for ח and ע: When ח or ע are after a vowel sound like “ei,” sometimes a second vowel sound “ah” is added.
-- For example, the [[_pa’al_ active participle for regular shorushim]] has an “ei” vowel sound, eg כּוֹתֵב (_koseiv_, he is writing.)
-- However, the [[pa’al active participle for shorushim ending with ח or ע]] has two vowel sounds, eg פּוֹתֵחַ (_posei-ach_, he is opening.)
+* Vowel shift for ח and ע: When ח or ע are present after a vowel sound like “ei,” or “oo,” sometimes a second vowel sound “ah” is added.
+- For example, the [[_pa’al_ active participle for regular shorushim]] has an “ei” vowel sound, eg כּוֹתֵב (_koseiv_, he is writing.) However, the [[pa’al active participle for shorushim ending with ח or ע]] has two vowel sounds, eg פּוֹתֵחַ (_posei-ach_, he is opening.)
 - Some linguists bring this as [[evidence for the shift of the pronunciation of these letters]].
 
 Evidence for the shift of the pronunciation of these letters:
@@ -126,7 +125,10 @@ Some linguists bring vowel changes for shorushim ending in ח or ע as evidence 
 - We generally pronounce ח like we do כ, and ע like we do א.
 - However, some linguists point to the fact that “gutteral” letters like ח or ע receive an “extra” vowel sound (_po-say-ach_ as opposed to, e.g. _kos-eiv)_ as evidence that the original sounds of ח and ע were different from כ and א.
 - The real sound for a ח or ע might have been so low in the throat, that the jaw would need to open fully to pronounce them, causing the vowel shift from “ei” to “ah.”
-- This is as opposed to the כ or א letters which are similar to ח and ע but which are pronounced at the back of the mouth, without opening the throat, and can therefore accomidate an “ei” vowel, eg הוֹלֵךְ (_holeich_, [he] is walking), or בּוֹרֵא (_borei_, [he] is creating.)
+- This is as opposed to the כ or א letters which are similar to ח and ע but which are pronounced at the back of the mouth, without opening the throat, and can therefore accomidate an “ei” vowel, eg הוֹלֵךְ (_holeich_, [he] is walking), or בּוֹרֵא (_borei_, [he] is creating, not requiring _hole-a-ch_ or _borei-ach_)
+===
+> [[#|Back]]
+===
 
 
 * Weak letters: In Hebrew and Aramaic, some letters are considered “weak” in that it is not clear if they are part of a word’s [[shoresh]] or whether they are added as vowels or part of a conjugation. Sometimes, weak letters act as consonants, and are pronounced strongly.
@@ -1278,13 +1280,15 @@ There are several “simple” binyanim in Hebrew and Aramaic. ([[{{Binyan}} is 
 - The ב prefix can be followed [[by a noun]], or by [[various suffixes]].
 
 Meanings: The prefix ב can mean:
+===
 - [[“inside”]]
-- [[“with”]]
-- [[“by” or “via”]]
+- [[“along with”]]
+- [[“via”]]
 - [[“on”]]
 - [[“because of”]]
 - [[“using”]]
 - [[“at the time of”]]
+===
 ===
 > [[#|Back]]
 ===
@@ -1292,10 +1296,10 @@ Meanings: The prefix ב can mean:
 “inside”: The prefix ב can be short for the word בתוך meaning “inside.”
 - For example, *ב*בית, _*b*’bayis,_ “*in* the house.”
 
-“with”: The prefix ב can mean something that is “with” something else.
+“along with”: The prefix ב can mean something that is “with” something else.
 - For example, הוא בא *ב*חבריו, _hu ba *b*chaverav,_ “he came *with* his friends”
 
-“by” or “via”: The prefix ב can mean doing something “by” or “via” a certain method, eg:
+“via”: The prefix ב can mean doing something “by” or “via” a certain method, eg:
 - הוא עושה *ב*שליח - _hu ose *b*shlucho_ “he acted *via* his messenger”
 - הוא בא *ב*חמור - _hu ba *b*chamor,_ “he came *by* donkey.”
 
@@ -1542,6 +1546,7 @@ The Hebrew and Aramaic “present tense” correspond to both the English presen
 * Hebrew definite article: The Hebrew definite article is a grammatical entity in the Hebrew language.
 - Most languages have a concept called [[the {{definite article}}]].
 - In Hebrew, the definite article is a ה prefix before a noun, usually pronounced הַ, _ha_.
+- The term in traditional grammar for the Hebrew definite article is the ה"א הידיעה, _hay hayediah_, literally the ה of knowledge ie because it indicates we are speaking about an already-known entity.
 - Sometimes, the הַ gets combined with [[the prefix ב]] or [[the prefix ל]] and becomes a בַ or לַ.
 - Aramaic also has a [[Aramaic {definite article}]], but it is an א suffix, like עָלְמָא (_alma,_ “the world”)
 
@@ -2101,7 +2106,7 @@ The [[{{_pa’al_ infinitive}} form]] has the following conjugation pattern for 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Passive Participle]
 
-* _Pa’al_ Passive Participle: The _pa’al_ has a [[{{passive participle}} form]], which is one of the [[_Pa’al_ tenses|“tenses” of the _pa’al_ binyan]].
+* _Pa’al_ Passive Participle: The [[_pa’al_]] has a [[{{passive participle}} form]], which is one of the [[_Pa’al_ tenses|“tenses” of the _pa’al_ binyan]].
 - The _pa’al_ passive participle has [[_pa’al_ passive participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’al_ passive participle describes the result of a finished action, as opposed to the [[_pa’al{|’s}_ active participle]].
 - The _pa’al_ passive participle corresponds to the [[_pe’al_ passive participle]] of Aramaic.
@@ -2330,6 +2335,30 @@ The [[_pu’al_ past tense]] follows these conjugations for [[regular shorushim]
 | *Third-Person* | זֻמַּן <br><br> _zuman_ <br><br><br> He was invited | זֻמְּנָה <br><br> _zumno_ <br><br><br> She was invited  | זֻמְּנוּ <br><br> _zumnu_ <br><br><br> They [male or female] were invited  | \< |
 
 
+[Dikduk/Interrogatives]
+
+* Interrogative particles:
+There are several words and prefixes that can turn a statement into a question.
+- These constructs are helpful because traditional Hebrew and Aramaic have no question mark.
+- The most common such construct is the Hebrew [[ה interrogative particle]].
+- Another example is the [[מי interrogative participle]] which exists in Hebrew and Aramaic.
+
+
+* ה interrogative particle:
+Hebrew has a ה prefix that turns a given sentence into a question.
+- In traditional grammar it is called the _hei hashayla_, ה"א השאלה, "question ה."
+- This is not to be confused with the [[Hebrew definite article|Hebrew ה prefix meaning “the”]].
+- An example of the _hei hashayla_ would be הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח, _hayesh lechem ach_. Alone, _yesh lechem ach_, יֵ֣שׁ לָכֶ֣ם אָ֔ח would mean “you all have a brother.” With the ה prefix, it means “do you all have a brother?”
+- The ה question prefix is usually vowelized as -הֲ, “ha.”
+- Sometimes the ה question prefix is found as a standalone word, הַאִם, _ha’im_ which begins a question.
+
+
+* מי interrogative participle:
+The word מִי in Hebrew and Aramaic can be used to convert a statement into a question.
+- This is separate from the meaning of מִי as “who.”
+- An example would be מי כאן הלל, “is Hillel here?”
+
+
 [Dikduk/Nouns]
 
 * Relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern:
@@ -2354,8 +2383,19 @@ Nouns in the _haktala_ noun pattern come from _hif’il_ verbs: The _haktala_ no
 
 
 * Hebrew noun patterns: Hebrew has several noun patterns, which are letter and vowel templates that accept shorushim to produce nouns. Nouns formed from a certain pattern often have a similar meaning relative to the shoresh. Noun patterns [[have a naming convention]]. These are some of the noun patterns in Hebrew:
+===
+- [[By first letter]]
+- [[By binyan]]
+===
+
+By first letter:
+These are Hebrew noun patterns by first letter:
 - [[Noun patterns that begin with מ]]
 - [[Noun patterns that begin with ה]]
+- [[Noun patterns that begin with with the first shoresh letter]]
+
+By Binyan:
+These are Hebrew noun patterns by binyan:
 - [[Noun patterns that come from _Pa’al_ verbs]]
 - [[Noun patterns that come from _Pi’el_ verbs]]
 - [[Noun patterns that come from _Hif’il_ verbs]]
@@ -2391,6 +2431,17 @@ Words in the _hiskattlut_ noun pattern come from verbs in the [[_hispa’el_]] b
 | תקן <br> fixing | תִּקֵּן <br><br> _tikein_ <br><br><br> he fixed | תַּקָּנָה <br><br> _takkana_ <br><br><br> an instituted rule |
 | כפר <br> atonement | כִּפֵּר <br><br> _kipeir_ <br><br><br> he granted atonement | כַּפָּרָה <br><br> _nechama_ <br><br><br> an atonement |
 The _kattala_ pattern is one of the [[noun patterns that come from _pi’el_ verbs]]. More examples of words in the _ktila_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qattala).
+
+
+* _Ketul_ noun pattern:
+The _ketul_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
+| *Shoresh* | *_Ketul_ Noun* |
+|-|-|
+| גבל <br> boundaries | גְּבוּל <br><br> _gevul_ <br><br><br> boundary/border |
+| יצר <br> creation | יְצוּר <br><br> _yezur_ <br><br><br> creature |
+| לבש <br> clothing | לְבוּשׁ <br><br> _levush_ <br><br><br> attire |
+| תחם <br> domain | תְּחוּם <br><br> _techum_ <br><br><br> area/zone |
+Nouns in the _ketul_ noun pattern probably come from [[{{_pa'al_}} verbs]]. More examples of words in the _ketul_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtul)
 
 
 * _Kittul_ noun pattern: The _kittul_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
@@ -2430,6 +2481,11 @@ Nouns in the _miktal_ noun pattern come from [[{{_pa’al_}} verbs]]. More examp
 
 
 * Noun Patterns: There are [[Hebrew noun patterns]] and Aramaic noun patterns.
+
+
+* Noun patterns that begin with with the first shoresh letter:
+Noun patters that begin with the first shoresh letter include:
+- [[the {{_ketul_ noun pattern}}]]
 
 
 * Noun patterns that begin with ה:
@@ -2479,7 +2535,7 @@ Nouns in the _taktil_ noun pattern come from [[_hif’il_]] verbs. More examples
 
 [Dikduk/Shoresh]
 
-* Shoresh: [[Shoresh]] is a grammatical entity in Hebrew and Aramaic.
+* Shoresh: [[Shoresh]] or “root” is a grammatical entity in Hebrew and Aramaic.
 - An example of a shoresh is “א-כ-ל,” which represents the idea of “eating.”
 - A shoresh is used to produce many related words, like אוֹכֶל, which means “food,” or אֲכִילָה, which means “the act of eating.”
 - The shoresh is just a series of letters and is not itself a word, and has no vowels or pronunciation.
@@ -2632,7 +2688,7 @@ It has context, content, and commentary.
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy]
 
 * Hashta b’shlucho mekadesh:
-Welcome! Lets begin the first page of the second chapter of the Talmud tractate called “Kiddushin,” page 41a.
+Welcome! Let’s begin the first page of the second chapter of the Talmud tractate called “Kiddushin,” page 41a.
 ===
 > [[Steps|Okay]]
 ===
@@ -2644,14 +2700,14 @@ Steps: We're going to learn a section of Talmud by going through a series of ste
 - 4. We're going to analyze the major commentaries on the text. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho/Step 4 of hashta b’shlucho|Skip]])
 - 5. We're going to summarize all the points we saw. ([[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho/Step 3 of hashta b’shlucho/Step 4 of hashta b’shlucho/Step 5 of hashta b’shlucho|Skip]])
 ===
-> [[Step 1 of hashta b’shlucho|Let’s begin Step #1]]
+> [[Step 1 of hashta b’shlucho|Let’s begin *Step #1*]]
 ===
 
 
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/01-Mishnah/Sentence 01]
 
 * First pass of האיש מקדש בו ובשלוחו:
-The text begins with a Mishnah, lets learn the first clause:
+The text begins with a Mishnah, let’s learn the first clause:
 < האיש מקדש בו ובשלוחו
 ===
 > [[First Pass 2|Let's go]]
@@ -2672,7 +2728,7 @@ There are various concepts you should be familiar with before trying to read the
 - [[Kiddushin]]
 - [[Nisuyin]]
 - [[Shlichus]]
-- [[#Identify clause break|Translate]]
+- [[#Identify break|Translate]]
 ===
 
 Kiddushin:
@@ -2802,15 +2858,27 @@ Shlichus 3:
 ===
 
 Shlichus 4:
-Someone who is designated to do something for someone else is called a “shaliach” (שליח) The plural is “shluchim” (שלוחים.)
+Someone who is designated to do something for someone else is called a “shaliach,” שְׁלִיחַ. The plural is “shluchim,” שְׁלוּחִים. [[Shlichus 4-1|(More)]]
 ===
 > [[Shlichus 5|Okay]]
 ===
 
+Shlichus 4-1:
+For more grammatical information:
+- שְׁלִיחַ and שְׁלוּחִים are probably [[{{pe’al passive participle}}s]].
+
 Shlichus 5:
-The one sending the shliach can be called a “sholeach” (שולח) or a “mishaleach” (משלח.)
+The one sending the shliach can be called a “sholeach” (שׁוֹלֵחַ) or a “mishaleach” (מְשַׁלֵּחַ). [[Shlichus 5-1(More)]]
 ===
 > [[Shlichus 6|Okay]]
+===
+
+Shlichus 5-1(More):
+For more grammatical information:
+-שׁוֹלֵחַ is a [[pa’al active participle]].
+-מְשַׁלֵּחַ is a [[pi’el active participle]].
+===
+> [[#Shlichus 6|Okay]]
 ===
 
 Shlichus 6:
@@ -2820,21 +2888,25 @@ We will see when and under what circumstances a person may use a shaliach.
 ===
 
 Shlichus 7:
-Great! Now lets continue to word translation, or skip to translating the words of the clause.
+Great! Now let’s continue to identifying the first clause break, or skip to translating the words of the clause.
 ===
-> [[#Identify Clause break]]
+> [[#Identify break]]
 > [[#Translate words]]
 ===
 
 Translation:
 Let's identify the first clause, translate the words, then translate the sentence.
 ===
-- [[Identify clause break]]
-- [[Translate words]]
-- [[Translate clause]]
+1. [[Identify break]]
+2. [[Translate words]]
+3. [[Translate clause]]
 ===
 
-Identify clause break:
+Identify break:
+This is the full text of the Mishnah:
+< האיש מקדש בו ובשלוחו האשה
+< מתקדשת בה ובשלוחה האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו
 How do we know where the first clause of the Mishnah ends?
 ===
 > [[Identify Break 2|How?]]
@@ -2851,7 +2923,9 @@ Reading the Mishnah, even if we don't know the meaning of the words, we should b
 
 Identify Break 3:
 Great! Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can begin by focusing on the first one:
-< *האיש מקדש בו ובשלוחו* האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו
+< *האיש מקדש בו ובשלוחו* האשה
+< מתקדשת בה ובשלוחה האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו
 ===
 > [[#Translate Words]]
 ===
@@ -2866,7 +2940,8 @@ Let's translate the individual words, then [[#Translate clause|translate the cla
 ===
 
 האיש:
-Let's translate the word “האיש”:
+Let's translate the word האיש in the first clause of the Mishnah:
+< *האיש* מקדש בו ובשלוחו
 ===
 > [[Ha'ish 2|Okay]]
 ===
@@ -2879,23 +2954,27 @@ How might we figure out the meaning of the word “האיש”?
 ===
 
 Ha'ish 3:
-We see that the first letter is ה, which tips us off to the fact that “האיש” is either:
-1. A noun starting with “the” which is ה in Hebrew ([[Hebrew definite article|learn more]])
-2. A type of past-tense verb that begins with ה ([[Verb forms beginning with ה|learn more]])
-3. A proper noun and ה is part of the actual name or shoresh ([[learn more about {{shoresh}}]]).
+We see that the first letter is ה, which tips us off to the fact that “האיש” is probably:
+1. A noun starting with “the” which is ה in Hebrew ([[Hebrew definite article|More]])
+2. A type of past-tense verb that begins with ה ([[Verb forms beginning with ה|More]])
+3. A proper noun and ה is part of the actual name or [[shoresh]].
+4. A special ה prefix that turns a sentence into a question. [[ה interrogative particle|(More)]]
 ===
 > [[Ha'ish 4|Ok]]
 ===
 
 Ha'ish 4:
 If we know that איש means man, then we can narrow it down to probably being the first option, ה meaning “the.”
-- We can tell it isn't a verb if we recognize that there isn't a [[shoresh]] that would produce that letter combination. ([[Ha'ish 4-1|More]])
+- We can tell it isn't a verb if we recognize that there is no [[shoresh]] that would produce a conjugation with that spelling. ([[Ha'ish 4-1|More]])
 ===
 > [[Ha'ish 5|Ok]]
 ===
 
 Ha'ish 4-1:
-Just for purely theoretical interest, if there would be a [[shoresh]] with a weak first letter like נאש, then putting that shoresh into the [[hifil past tense]] could indeed produce a past tense “האיש” but, there is no such shoresh.
+Just for purely theoretical interest, you might think that if there would be a [[shoresh]] with a weak first letter like נאש, maybe putting that shoresh into a form called [[the {{hifil past tense}}]] could indeed produce a conjugation that would be spelled “האיש.”
+- This is because the ה prefix of the [[hifil]] sometimes causes weak letters to drop off the front of a shoresh, eg how adding a ה to the shoresh נפל would produce the conjugation הִפִּיל, “he fell.”
+- However, this dropping of נ only occurs if the letter after the נ can take a dagesh, (a dot in the middle of the letter that can indicate a doubled sound,) because the נ is sort of being compressed into a doubling of the sound of the second letter. For example, putting נפל into the [[hifil past tense]] should really produce הִנְפִּיל, _hinpil_, but that is hard to pronounce and so gets simplified to הִפִּיל _hip-pil_ ie turning the נ into a doubling of the פ by adding a dagesh to the פ.
+- In our theoretical example of the shoresh נאש producing the conjugation האיש, the second shoresh letter would be א which cannot take a dagesh ie cannot be doubled in this way, and so the נ would always remain visible, and so there is no such shoresh that when put in the [[hifil]] could produce the spelling האיש.
 ===
 > [[#Ha'ish 5|Ok]]
 ===
@@ -2917,7 +2996,8 @@ Great, that's all for now. You can read more about the word איש or the Hebrew
 ===
 
 מקדש:
-Let's translate the word מקדש.
+Let's translate the word מקדש in the first clause of the Mishnah:
+< האיש *מקדש* בו ובשלוחו
 ===
 > [[Mekadesh 2|Great!]]
 ===
@@ -2946,7 +3026,7 @@ Now, we also have to be careful, because there may be multiple words that are sp
 ===
 
 Mekadesh 5:
-If we assume the מ of מקדש is some kind of prefix, we are left with קדש which are three strong letters ([[Strong letters|learn more]]) suggesting that the [[shoresh]] of the word could be קדש.
+If we assume the מ in front of מקדש is some kind of prefix, we are left with קדש which are three strong letters, suggesting that the [[shoresh]] of the word could be קדש. [[Strong letters|(More)]]
 ===
 > [[Mekadesh 6|Okay]]
 ===
@@ -3052,7 +3132,8 @@ Sounds good. Now you can read more about the shoresh קדש, move on to the next
 ===
 
 בו:
-Let's translate the word בו.
+Let's translate the word בו in the first clause of the Mishnah:
+< האיש מקדש *בו* ובשלוחו
 ===
 > [[Bo 2|Great!]]
 ===
@@ -3090,7 +3171,7 @@ Now, it is common for prefixes to also exist in a standalone form using certain 
 ===
 
 Bo 7:
-So, for example, the prefix ל usually means “to,” the suffix י usually means “me,” and so לי will mean “to me.”
+So, for example, the prefix ל usually means “to,” the suffix י usually means “me” or “mine,” and so לי will mean “to me.”
 ===
 > [[Bo 8|Okay]]
 ===
@@ -3120,10 +3201,11 @@ Great, so now at least we know what word it is, the prefix ב with a third-perso
 ===
 
 Bo 12:
-So, how can we figure out what ב means here? We can go through the list and try which ones fit.
+So, how can we figure out what ב means here? We can go through the list of possible meanings and see which ones fit.
 - The man makes kiddushin *in* himself ❌
 - The man makes kiddushin *at* himself ❌
-- The man makes kiddushin *with* himself 🤔
+- The man makes kiddushin *along with* himself ❌
+- The man makes kiddushin *via* himself 🤔
 - The man makes kiddushin *for* himself 🤔
 ===
 > [[Bo 13|Okay]]
@@ -3144,25 +3226,319 @@ Great! You can read more about the prefix ב, or continue to the translation of 
 ===
 
 ובשלוחו:
-Let's translate ובשלוחו.
+Let's translate the word ובשלוחו in the first clause of the Mishnah:
+< האיש מקדש בו *ובשלוחו*
 ===
-> [U’b’shlucho|Okay]
-===
-
-U’b’shlucho 2:
-*Okay so:* we might not actually have enough information at this point to figure out the exact meaning, so for now, we’ll translate בו as “with/for himself.”
-===
-> [[U’b’shlucho 3|Okay]]
+> [[U’b’shlucho 2|Okay]]
 ===
 
 U’b’shlucho 2:
-*Okay so:* we might not actually have enough information at this point to figure out the exact meaning, so for now, we’ll translate בו as “with/for himself.”
+How could you figure out yourself what ובשלוחו means?
 ===
-> [[U’b’shlucho 3|Okay]]
+> [[U’b’shlucho 3|How?]]
+> [[#U’b’shlucho 46|Just tell me]]
+===
+
+U’b’shlucho 3:
+So we're looking at the last word of the first clause of the Mishnah. To recap, we saw that האיש probably means “the man,” מקדש probably means “makes kiddushin,” and בו means “with/via/for, himself.”
+===
+> [[U’b’shlucho 4|Okay]]
+===
+
+U’b’shlucho 4:
+So now, lets analyze the word ובשלוחו.
+< האיש מקדש בו *ובשלוחו*
+===
+> [[U’b’shlucho 5|Okay]]
+===
+
+U’b’shlucho 5:
+The first thing that should jump out at us is that a ו at the beginning of a word is almost always a prefix and almost never part of the actual word.
+===
+> [[U’b’shlucho 6|Okay]]
+===
+
+U’b’shlucho 6:
+The prefix ו usually means “and,” but it can also mean “or” as a shorthand for the standalone word אוֹ, _oh_, meaning “or.”
+===
+> [[U’b’shlucho 7|Okay]]
+===
+
+U’b’shlucho 7:
+Whether this ו means “and” or “or,” either way we see that this word is probably connected to what came before it in some kind of list or comparison, such as “apples and oranges” or “apples or oranges.”
+===
+> [[U’b’shlucho 8|Okay]]
+===
+
+U’b’shlucho 8:
+Lets look at the word again: ובשלוחו. If we remove the first ו, we are left with בשלוחו.
+===
+> [[U’b’shlucho 9|Okay]]
+===
+
+U’b’shlucho 9:
+Almost all words in Hebrew and Aramaic are formed from [[shoresh|3-4 letter roots]], so we should keep an eye out for letters that could be part of a word's root.
+===
+> [[U’b’shlucho 10|Okay]]
+===
+
+U’b’shlucho 10:
+[[Strong letters]] are more likely to be part of a word's root. Here, we see four strong letters, ב, ‎ש, ‎ל, and ‎ח.
+===
+> [[U’b’shlucho 11|Okay]]
+===
+
+U’b’shlucho 11:
+That's usually too many letters to be part of one [[shoresh]], so one of the letters בשלח is probably a prefix or suffix. There is no such suffix as ח, so the first letter ב is probably a prefix and not part of the word itself.
+===
+> [[U’b’shlucho 12|Okay]]
+===
+
+U’b’shlucho 12:
+That would make a lot of sense, because we know there is [[The prefix ב|a prefix ב]], and we just saw it recently in the previous word, בו.
+===
+> [[U’b’shlucho 13|Okay]]
+===
+
+U’b’shlucho 13:
+So, lets assume ב is a prefix. We started with ובשלוחו, then we said the first ו was either "and" or "or," and then we just said that the next ב is [[the prefix ב]], and that can mean in/at/on/along with/via/for etc.
+===
+> [[U’b’shlucho 14|Okay]]
+===
+
+U’b’shlucho 14:
+So, if we remove the first two letters of ובשלוחו, ie the letters וב, we are left with שלוחו.
+===
+> [[U’b’shlucho 15|Okay]]
+===
+
+U’b’shlucho 15:
+We said that a [[shoresh]] usually has three [[strong letters]], and here we find ‎ש, ‎ל, and ‎ח which are three strong letters.
+===
+> [[U’b’shlucho 16|Okay]]
+===
+
+U’b’shlucho 16:
+So, looking at our word שלוחו, that would mean our shoresh is שלח and that the two instances of the letter ו on either side of the letter ח are part of some kind of conjugation or suffix.
+===
+> [[U’b’shlucho 17|Okay]]
+===
+
+U’b’shlucho 17:
+So, if our shoresh is שלח, let's take a moment to look it up and see what it means.
+- [שלח in Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A9%D7%81%D7%9C%D7%97_%E1%B4%B5.1)
+- [שלח in Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A9%D6%B8%D7%81%D7%9C%D6%B7%D7%97.1)
+===
+> [[U’b’shlucho 18|Okay]]
+===
+
+U’b’shlucho 18:
+So, we should notice that in general the shoresh שלח has connotations of sending something or someone.
+- However, until we know specifically what type of word this is, we wont be able to narrow down which meaning of the shoresh is being embodied here.
+===
+> [[U’b’shlucho 19|Okay]]
+===
+
+U’b’shlucho 19:
+So, if our shoresh is שלח, and our word is שלוחו, then that means we're seeing two extra instances of the letter ו, one at the end of the word and one between the ל and ח.
+===
+> [[U’b’shlucho 20|Okay]]
+===
+
+U’b’shlucho 20:
+Now, a ו at the end of a word can mean a lot of things, and due to its position at the end of the word, it is more likely than the middle ו to be some kind of add-on, so let's ignore it for the moment and focus on the ו between ל and ח, ie של[*ו*]חו.
+===
+> [[U’b’shlucho 21|Okay]]
+===
+
+U’b’shlucho 21:
+So, because our shoresh is שלח and the ו is occuring between letters two and three, let’s ask, are there any standard types of word that have a ו between the second and third letters of a shoresh?
+===
+> [[U’b’shlucho 22|Okay]]
+===
+
+U’b’shlucho 22:
+The answer is, there are only two common types of word in Hebrew or Aramaic that insert a ו between the second and third shoresh letters.
+===
+> [[U’b’shlucho 23|Great!]]
+===
+
+U’b’shlucho 23:
+The first possibility is a type of word that represents the result of a finished action. For example:
+- The shoresh שרף is means burning, and the word שרוף means “burnt.”
+- The shoresh אמר is means speech, and the word אמור means something is “said.”
+- The shoresh אכל is means eating, and the word אכול means something is “eaten.”
+- [[Pa’al Passive Participle|(Learn more about this word form)]]
+===
+> [[U’b’shlucho 24|Great!]]
+===
+
+U’b’shlucho 24:
+So, if our shoresh is שלח which means “sending,” and putting a ו between ל and ח would mean a finished action, what would the resulting word be?
+===
+> [[U’b’shlucho 25|What?]]
+===
+
+U’b’shlucho 25:
+The resulting word might be, “sent,” as in, something is sent.
+===
+> [[U’b’shlucho 26|Great]]
+===
+
+U’b’shlucho 26:
+Wonderful, so the first possible meaning of שלוח is “sent.” It would be pronounced _shaluach_. [[Vowel shift for ח and ע|(Why?)]]
+===
+> [[U’b’shlucho 27|Great]]
+===
+
+U’b’shlucho 27:
+So, we said there are two types of word that have a ו between the second and third shoresh letters. The first is the “finished action” type of word we just saw. The second is a type of noun.
+===
+> [[U’b’shlucho 28|Okay]]
+===
+
+U’b’shlucho 28:
+For example, the shoresh לבש is related to the idea of clothing, and the word לְבוּשׁ, _levush_, means “clothing.”
+- [[Ketul noun pattern|(See more examples of this type of noun)]]
+===
+> [[U’b’shlucho 29|Okay]]
+===
+
+U’b’shlucho 29:
+However, this type of noun has a vowel called a _sheva_ under the first letter, for example לְבוּשׁ, and when we look for words in the dictionary spelled שלוח with a _sheva_ under the first letter ש, we don't find anything.
+- [שלוח in Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A9%D6%B8%D7%81%D7%9C%D6%BD%D7%95%D6%BC%D7%97%D6%B7.1)
+- [שלוח in Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A9%D6%B8%D7%81%D7%9C%D7%95%D6%BC%D7%97%D6%B7.1)
+===
+> [[U’b’shlucho 30|Okay]]
+===
+
+U’b’shlucho 30:
+So, we can conclude that the shoresh שלח doesn't happen to have an actual instantiation of this type of noun, even though it would be theoretically possible for one to exist.
+===
+> [[U’b’shlucho 31|Okay]]
+===
+
+U’b’shlucho 31:
+Great! So, we had said there were two common types of word that exhibit a ו between the second and third letters of a shoresh.
+- One was an adjective representing a finished action ie “sent.”
+- One was a type of noun that doesn't seem to exist for this shoresh.
+===
+> [[U’b’shlucho 32|Okay]]
+===
+
+U’b’shlucho 32:
+So, we can conclude that שלוח here is the type of word that represents a finished action, ie “sent.”
+===
+> [[U’b’shlucho 33|Okay]]
+===
+
+U’b’shlucho 33:
+However, there is one last wrinkle, which is that adjectives in Hebrew and Aramaic are a bit more flexible than in English.
+===
+> [[U’b’shlucho 34|Okay]]
+===
+
+U’b’shlucho 34:
+So, even if we know that שלוח means “sent,” in Hebrew and Aramaic, adjectives can generally be translated in three ways:
+- שלוח can be an adjective, as in הוא היה *שלוח*, _hu haya *shaluach*_, “he was *sent*.”
+- שלוח can act as a present tense verb, as in הוא *שלוח*, _hu *shaluach*_, “he *is sent*.”
+- שלוח can be a noun, as in שלוח בא, _shaluach ba_, “a sent thing/person is coming”
+===
+> [[U’b’shlucho 35|Okay]]
+===
+
+U’b’shlucho 35:
+So, we see that שלוח has something to do with the adjective “sent,” but we're not sure how it is functioning in this sentence.
+===
+> [[U’b’shlucho 36|Okay]]
+===
+
+U’b’shlucho 36:
+Let’s zoom out and look at the ו at the end we ignored temporarily. Our word was שלוחו. Given that we now think “שלוח” has to do with the word “sent,” we can use that information to narrow down the possibilities as to what the ו at the end might mean.
+===
+> [[U’b’shlucho 37|Exciting]]
+===
+
+U’b’shlucho 37:
+So, let's ask in general, what are the common meanings of a ו at the end of a word?
+- We a וּ at the end of many past-tense plural verbs, like כָּתְבוּ _katvu_, “they wrote.”
+- We וּ at the end of many plural command verbs, like כִּתְבוּ, _kitvu_, “write, you all!”
+- We find a וֹ or יו at the end of some nouns, meaning “his.”
+===
+> [[U’b’shlucho 38|Okay]]
+===
+
+U’b’shlucho 38:
+So, putting all this together, if we think שלוח has to do with the adjective “sent,” then it doesn't make sense to think that the final ו is part of a verb conjugation, because שלוח itself is a fully conjugated word form and can't be combined with either of the verb forms we just mentioned.
+===
+> [[U’b’shlucho 39|Okay]]
+===
+
+U’b’shlucho 39:
+So, only one of the three ו meanings we listed seems to fit:
+- We find a וֹ or יו at the end of some nouns, meaning “his.”
+===
+> [[U’b’shlucho 40|Okay]]
+===
+
+U’b’shlucho 40:
+So, to recap, we're trying to figure out what the ו and the end of שלוחו means.
+- We identified that שלוח was the word “sent,” but mentioned that this type of word can be used either as an adjective, “sent,” or as a verb, “is sent,” or as a noun, “someone/something that is sent.”
+- We identified three common meanings of a ו at the end of a word, but two of them were parts of verb forms that wouldn't make sense coming after the word שלוח
+- That left us with the third meaning of a final ו, a suffix that can come after a noun that would mean “his/its.”
+===
+> [[U’b’shlucho 41|Okay]]
+===
+
+U’b’shlucho 41:
+So, perhaps you noticed that one of the possible meanings of שלוח is a noun, “someone/something that is sent,” and the only possible meaning here of the final ו is a suffix that would come after a noun, meaning “his/its.”
+===
+> [[U’b’shlucho 42|Okay]]
+===
+
+U’b’shlucho 42:
+So, put those things together, and we can translate שלוחו as “his/its someone/something that is sent.”
+===
+> [[U’b’shlucho 43|Okay]]
+===
+
+U’b’shlucho 43:
+Now, let’s try to think of what sorts of real-life things might get called “someone/something that is sent.”
+===
+> [[U’b’shlucho 44|Okay]]
+===
+
+U’b’shlucho 44:
+If שלוח means “something that is sent,” it could mean “package” or “delivery,” because those are things that are sent.
+- Alternatively, if it means “someone who is sent”, that could refer to a “messenger” or “emissary,” because those are people who “are sent.”
+===
+> [[U’b’shlucho 45|Okay]]
+===
+
+U’b’shlucho 45:
+So, putting that all together, we’ve determined that ובשלוחו means:
+- and/or (ו)
+- in/at/on/with/via/for (ב)
+- sent person/thing (שלוח)
+- his/its (ו)
+===
+> [[U’b’shlucho 46|Okay]]
+===
+
+U’b’shlucho 46:
+*So:* We’ve established that ובשלוחו means “and/or in/at/on/with/via/for his sent person/thing.”
+===
+> [[U’b’shlucho 47|Okay]]
+===
+
+U’b’shlucho 47:
+Great! Now that we've translated all the words individually, we can try to put them together and translate the clause.
+===
+> [[#Translate clause]]
 ===
 
 Translate Clause:
-Now that we've translated the individual words, lets translate the first clause as a whole.
+Now that we’ve translated the individual words, let’s translate the first clause as a whole.
 ===
 > [[Translate clause 2|Okay]]
 ===
@@ -3176,253 +3552,435 @@ So the Mishnah says:
 ===
 
 Translate clause 3:
-We saw that _ha’ish_ האיש literally means “the man.” It seems clear from context that it means any man, so we’ll translate it as “a man” and think about the difference later.
+We saw that _ha’ish_ האיש literally means “the man.”
 ===
 > [[Translate clause 4|Okay]]
 ===
 
 Translate clause 4:
-We saw that _mekadesh_ מקדש literally means “produces/is producing a state of _kiddushin_” ([[#Kiddushin|Feel free to refresh your memory on what _kiddushin_ means]])
+We saw that _mekadesh_ מקדש literally means “produces/is producing a state of _kiddushin_.”
 ===
 > [[Translate clause 5|Okay]]
 ===
 
 Translate clause 5:
-We saw that “bo” בו literally meant with/via/in/on, himself/itself.
+We saw that בו, _bo_, literally meant “with/via himself/itself.”
 ===
 > [[Translate clause 6|Okay]]
 ===
 
 Translate clause 6:
-We saw that _u’b’shlucho_, ובשלוחו literally means "and/or with/via/in/on his/its shaliach"
+We saw that ובשלוחו, _u’b’shlucho_, literally meant:
+- and/or (ו)
+- in/at/on/with/via/for (ב)
+- his/its sent person/thing (שלוחו)
 ===
 > [[Translate clause 7|Okay]]
 ===
 
 Translate clause 7:
-So putting that all together, the clause probably should be translated:
-> The man produces kiddushin via himself or via his shaliach.
+Now, because ובשלוחו begins with ו which means “or/and,” whatever the ב means in בו, it probably means the same thing in ובשלוחו.
+< האיש מקדש *בו ובשלוחו*
 ===
 > [[Translate clause 8|Okay]]
 ===
 
 Translate clause 8:
-This might be a good time to learn a rule of the Mishnah which hopefully we will get even clearer later on.
+So, lets narrow it down by trying all the meanings of ב:
+- The man produces kiddushin *in* himself and/or *in* his sent person/thing ❌
+- The man produces kiddushin *at* himself and/or *at* his sent person/thing ❌
+- The man produces kiddushin *along with* himself and/or *along with* his sent person/thing ❌
+- The man produces kiddushin *for* himself and/or *for* his sent person/thing 🤔
+- The man produces kiddushin *via* himself and/or *via* his sent person/thing 🤔
 ===
 > [[Translate clause 9|Okay]]
 ===
 
 Translate clause 9:
-The rule is: a “present tense” verb in a Mishnah implies that we are permitted to do the given action “lechatchila” (literally "from the beginning,") ie as a perfectly acceptable option.
-- ([[Tangent: Learn about the grammar of the {{present tense}} here]].)
+Of these last two, it makes more sense that the Mishnah would be telling us _via whom_ the man does something, rather than _for whom_. [[Translate clause 9A|(More)]]
 ===
 > [[Translate clause 10|Okay]]
 ===
 
+Translate clause 9A:
+Additionally, it doesn’t really make sense to say someone is producing kiddushin _for_ “a sent person/thing”:
+- If one person is making kiddushin for someone else, then the one making kiddushin is the one being sent by the other one, so why would the Mishnah be calling the second person a “sent person” ie when it says ובשלוחו, _u’b’shlucho_, “and/or for his sent person.”
+===
+> [[#Translate clause 10|Okay]]
+===
+
 Translate clause 10:
-On the other hand, what if the Mishnah were to use a past tense verb, eg “a man produced kiddushin via a shaliach, and it worked”?
+So putting that all together, the clause should probably be translated:
+> The man produces kiddushin via himself or via his sent person/thing.
 ===
 > [[Translate clause 11|Okay]]
 ===
 
 Translate clause 11:
-So, the past tense version would mean that the given action was “bedieved” (literally, “at the time of later”), ie something that only is acceptable if already done by accident, or in a situation where there are no other options.
+If so, then we can also narrow down שלוחו to mean “his sent person,” because it wouldn’t make sense for him to be able to create kiddushin via a sent thing.
 ===
-> [[Translate clause 12|Okay]]
+> [[Translate clause 12|Makes sense]]
 ===
 
 Translate clause 12:
-So, given that rule, how might we improve our current translation?
-> The man produces _kiddushin_ via himself or via his shaliach
+To simplify things further, we can call a “sent person” a messenger, so the translation would become:
+> The man produces kiddushin via himself or via his messenger
 ===
-> [[Translate clause 13|Let me think]]
+> [[Translate clause 13|Makes sense]]
 ===
 
 Translate clause 13:
-If the present tense implies a “psak” ie legal ruling that something is “mutar lechatchila” ie totally permissible, then we might change our translation to:
-> It is perfectly acceptable for the man to produce _kiddushin_ via himself, or via his shaliach.
+This might be a good time to learn a rule of the Mishnah which hopefully we will get even clearer later on.
 ===
-> [[Translate clause 14|Got it]]
+> [[Translate clause 14|Okay]]
 ===
 
 Translate clause 14:
-Great! You can see how we began with a literal translation of the words, ended up with a literal translation of the sentence, and then used rules of language in the Mishnah to improve our translation further.
+The rule is: a “present tense” verb in a Mishnah such as implies that we are permitted to do the given action “lechatchila” (literally "from the beginning,") ie as a totally permissible option.
+- For example: “the man produces kiddushin via his messenger.”
+- ([[More about the {{present tense}}]])
 ===
-> [[Translate clause 15|Yes]]
+> [[Translate clause 15|Okay]]
 ===
 
 Translate clause 15:
-Great. Now you can continue on to comprehension questions about this clause.
+On the other hand, what if the Mishnah were to use a past tense verb?
+- Eg “the man produced kiddushin via a messenger, and it worked”?
 ===
-> [[#Comprehension Questions]]
+> [[Translate clause 16|What?]]
+===
+
+Translate clause 16:
+So, the past tense version would mean that the given action was “bedieved” (literally, “at [the time of] later”), ie something that only is acceptable if it was already done by accident, or in a situation where there were no other options.
+===
+> [[Translate clause 17|Okay]]
+===
+
+Translate clause 17:
+So, given that rule, how might we improve our current translation?
+> The man produces _kiddushin_ via himself or via his shaliach
+===
+> [[Translate clause 18|Let me think]]
+===
+
+Translate clause 18:
+If the present tense implies a that an action is totally permissible, then we might change our translation to:
+> It is totally permissible for the man to produce _kiddushin_ via himself, or via his shaliach.
+===
+> [[Translate clause 19|Got it]]
+===
+
+Translate clause 19:
+Great! You can see how we began with a literal translation of the words, ended up with a literal translation of the sentence, and then used rules of the Mishnah to improve our translation further.
+===
+> [[Translate clause 20|We did that]]
+===
+
+Translate clause 20:
+Great. Now you can continue on to comprehension questions about the Mishnah’s first clause, or continue to the second clause.
+===
+> [[#Comprehension<br>Questions]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next<br>clause]]
 ===
 
 Comprehension Questions:
 Now that we've read the first clause of the Mishnah, let's ask some questions.
 ===
-- [[#Lists in the Mishnah|First question]]
+- [[#Lists|First question]]
 - [[{See all} comprehension questions]]
+- [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
 See all comprehension questions:
 This is a list of comprehension questions:
 ===
-1. [[Lists in the Mishnah]]
+1. [[Lists]]
 2. [[“The” man]]
+3. [[Why more]]
+4. [[And without?]]
 - [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
-Lists in the Mishnah:
+Lists:
 The first clause of the Mishnah says a man can be _mekadesh_ a woman via himself or via a shaliach.
 ===
-> [[Comprehension 1-1|Okay]]
-> [[Summarize]]
+> [[Lists 1|Okay]]
+> [[#Lists 11|Just summarize]]
 ===
 
-Summarize:
-When we see a list of options in the Mishnah, does it mean:
-- Those options are the only options
-- Those options are examples
-- Some third way of understanding it?
-Stay tuned.
-===
-> [[#See all comprehension questions|Back to questions]]
-===
-
-Comprehension 1-1:
+Lists 1:
 So, we find a list of ways the man can be _mekadesh_, ie himself or with a _shaliach_.
 ===
-> [[Comprehension 1-2|Okay]]
+> [[Lists 2|Okay]]
 ===
 
-Comprehension 1-2:
+Lists 2:
 So, when someone makes a list of options, what might they mean by it?
 ===
-> [[Comprehension 1-3|What?]]
+> [[Lists 3|What?]]
 ===
 
-Comprehension 1-3:
+Lists 3:
 Let’s use an example. If I send you an invitation to “come drive down to my wedding,” what might I mean by that, practically speaking?
 ===
-> [[Comprehension 1-4|Let me think]]
+> [[Lists 4|Let me think]]
 ===
 
-Comprehension 1-4:
+Lists 4:
 Good. So, maybe I mean I am _only_ allowing you to come if you drive.
 ===
-> [[Comprehension 1-5|Right]]
+> [[Lists 5|Right]]
 ===
 
-Comprehension 1-5:
+Lists 5:
 So, that is way #1 of understanding when someone gives you an option, that they are implying it is the only acceptable way of doing something.
 ===
-> [[Comprehension 1-6|Right]]
+> [[Lists 6|Right]]
 ===
 
-Comprehension 1-6:
-Now, what would it mean to interpret a list in the Mishnah this way, that it is “telling you the only acceptable way of doing something”?
+Lists 6:
+Now, what would it mean to interpret a list this way, that it is “telling you the only acceptable way of doing something”?
 ===
-> [[Comprehension 1-7|What?]]
+> [[Lists 7|What?]]
 ===
 
-Comprehension 1-7:
+Lists 7:
 We might say such a list is meant as “exhaustive” – the things on the list would be your only options, and all options would be on the list.
 ===
-> [[Comprehension 1-8|Makes sense]]
+> [[Lists 8|Makes sense]]
 ===
 
-Comprehension 1-8:
+Lists 8:
 Ok, so, when I said “come drive to my wedding,” what *else* might I have meant besides that you _have_ to drive?
 ===
-> [[Comprehension 1-9|Let me think]]
+> [[Lists 9|Let me think]]
 ===
 
-Comprehension 1-9:
+Lists 9:
 Well, maybe I just meant you _can_ drive, as an example.
 ===
-> [[Comprehension 1-10|Right]]
+> [[Lists 10|Right]]
 ===
 
-Comprehension 1-10:
+Lists 10:
 So, way #2 of understanding when someone gives you a list of options is that they are just examples, but there may be others.
 ===
-> [[Comprehension 1-11|Right]]
+> [[Lists 11|Right]]
 ===
 
-Comprehension 1-11:
-So now, ask yourself, how should we understand a list in the Mishnah?
-- Should we understand it as an _exhaustive_ list, and assume there are no other options?
-- Should we understand it as an _illustrative_ list, and there may be other options also?
-- Might there be more possibilities than just those two?
+Lists 11:
+*So:* the question is, how should we understand a list of options in the Mishnah?
+- Is it as an _exhaustive_ list, and there are no other options?
+- Is it as an _illustrative_ list, and there may be other options also?
+- Are there other possibilities besides just those two?
 ===
-> [[Comprehension 1-12|Good question]]
+> [[Lists 12|Good question]]
 ===
 
-Comprehension 1-12:
+Lists 12:
 Indeed! Hold that thought, and we'll check back in later to see what the Gemara seems to think about it.
 ===
-> [[Comprehension 1-13|I can't wait that long!]]
+> [[Lists 13|I can't wait that long!]]
 ===
 
-Comprehension 1-13:
+Lists 13:
 Sometimes in life we have to be patient! 🐢⏳
 ===
-> [[#See all comprehension questions|Back to questions]]
+> [[Lists 14|Fine]]
+===
+
+Lists 14:
+Great! Now you can continue to the next question, review all questions, or go on to the next clause of the Mishnah.
+===
+> [[#"The" man|Next question]]
+> [[#See all comprehension questions|All questions]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
 “The” man:
 The Mishnah begins with the word _ha’ish_, האיש, which we translated as “the man.”
 ===
-> [[Comprehension 2-2|Okay]]
+> [[“The” man 2|Okay]]
 ===
 
-Comprehension 2-2:
+“The” man 2:
 But, we saw that in context, the Mishnah is teaching a rule that applies to all men.
 ===
-> [[Comprehension 2-3|Okay]]
+> [[“The” man 3|Okay]]
 ===
 
-Comprehension 2-3:
+“The” man 3:
 So why doesn’t the Mishnah say _ish mekadesh bo u’bshlucho_ “איש מקדש בו ובשלוחו,” _a_ man may _mekadesh_ himself or with a _shaliach_?
 - (Tangent: You can learn more about [[the word “a” ie the {{indefinite article}}]].)
 ===
-> [[Comprehension 2-4|Okay]]
+> [[“The” man 4|Okay]]
 ===
 
-Comprehension 2-4:
+“The” man 4:
 Or, it could say _anashim mekadshim_, (אנשים מקשים) _men_ may be _mekadesh_ in these two ways.
 ===
-> [[Comprehension 2-5|Okay]]
+> [[“The” man 5|Okay]]
 ===
 
-Comprehension 2-5:
+“The” man 5:
 Or, it could have just said _mekadshim banu u'b'shlucheinu_, (מקדשים בנו ובשלוחינו) “we” are _mekadesh_, either via ourselves and via our _shluchim_.
 ===
-> [[Comprehension 2-6|Okay]]
+> [[“The” man 6|Okay]]
 ===
 
-Comprehension 2-6:
+“The” man 6:
 So, in summary, we have a difficulty, why did the Mishnah say "the man" when it seems as if there would have been more fitting ways to express the idea?
 ===
-> [[Comprehension 2-7|Okay]]
+> [[“The” man 7|Okay]]
 ===
 
-Comprehension 2-7:
+“The” man 7:
 We could say that this is just the style of the Mishnah.
 ===
-> [[Comprehension 2-8|Okay]]
+> [[“The” man 8|Okay]]
 ===
 
-Comprehension 2-8:
+“The” man 8:
 We could also say that maybe it means “the” man as in “the man in the situation, as opposed to the woman in the situation.”
 ===
-> [[Comprehension 2-9|Okay]]
+> [[“The” man 9|Okay]]
 ===
 
-Comprehension 2-9:
+“The” man 9:
+One final possibility is that our Mishnah is coming a bit after another Mishnah that began by speaking about “the” woman, _ha’isha niknas b’shalosh derachim_, “the woman is acquired for marriage via three methods.” So, the use of the word “the” in our Mishnah could be due to a continuation of this first sentence: “The woman is acquired via such and such ... [as opposed to] the man [who] acquires via such and such” etc.
+===
+> [[“The” man 10|Okay]]
+===
+
+“The” man 10:
 So, it doesn't end up making a big difference, but it is something interesting to notice.
 ===
-> [[#See all comprehension questions|Back to questions]]
+> [[#Why more|Next question]]
+> [[#See all comprehension questions|All questions]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
+===
+
+Why more:
+Okay, so now we understand the first clause of the Mishnah very well.
+===
+> [[Why more 2|Yes]]
+===
+
+Why more 2:
+Great. So, what did we learn from the first clause of the Mishnah?
+===
+> [[Why more 3|What?]]
+===
+
+Why more 3:
+The Mishnah told us that a man can be mekadesh a woman either via himself or via a shaliach.
+===
+> [[Why more 4|Yes]]
+===
+
+Why more 4:
+Theoretically, maybe we can infer from that that it is okay to use a shaliach to do things in general.
+===
+> [[Why more 5|Okay]]
+===
+
+Why more 5:
+So here’s a question: why isn’t this the end of the Mishnah?
+===
+> [[Why more 6|What?]]
+===
+
+Why more 6:
+If we’ve learned that a man can use a shaliach for kiddushin, and possibly also that using a shliach in general is okay, what more can the Mishnah teach me about this topic that I don't already know?
+===
+> [[Why more 7|Interesting]]
+===
+
+Why more 7:
+Yes, very interesting. So think about that, and when we see what the Mishnah goes on to say, you can check if you predicted what more needed to be said.
+===
+> [[Why more 8|Okay]]
+===
+
+Why more 8:
+Great! That’s all for now.
+===
+> [[#And without?|Next question]]
+> [[#See all comprehension questions|All questions]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
+===
+
+And without?:
+So, we just saw the Mishnah tell us “a man is entirely permitted to produce kiddushin via himself or via his messenger.”
+===
+> [[And without 2|We did]]
+===
+
+And without 2:
+So, there is a principle that we find the Gemara assumes in many places, which is that every statement of the Mishnah is a “chiddush” or innovation.
+===
+> [[And without 3|Okay]]
+===
+
+And without 3:
+This means that every statement of the Mishnah should be telling me something that I wouldn’t have known otherwise.
+===
+> [[And without 4|Okay]]
+===
+
+And without 4:
+Put another way: the existence of this Mishnah implies there is something counterintuitive or nonobvious about the fact that a man can make kiddushin via himself or a via a messenger.
+===
+> [[And without 5|Okay]]
+===
+
+And without 5:
+It doesn't seem possible that I would have thought a man can't produce kiddushin with a woman via himself, because there is an explicit verse in the Torah that says he can [(Devarim 24:1)](https://www.sefaria.org/Deuteronomy.24.1?ven=The_Rashi_chumash_by_Rabbi_Shraga_Silverstein&lang=he&aliyot=1).
+===
+> [[And without 6|Okay]]
+===
+
+And without 6:
+So, it would seem the existence of this Mishnah is implying that without it I would think that it would not be entirely permissible for a man to create kiddushin via a messenger.
+===
+> [[And without 7|Okay]]
+===
+
+And without 7:
+Now, let's think about this. How do things work in this presumed world without our Mishnah?
+===
+> [[And without 8|Okay]]
+===
+
+And without 8:
+Without our Mishnah, would I assume that a man is not permitted to use a messenger to produce kiddushin?
+===
+> [[And without 9|Maybe]]
+===
+
+And without 9:
+Or, would I assume that it doesn't work or accomplish anything to use a messenger to produce kiddushin?
+===
+> [[And without 10|Interesting]]
+===
+
+And without 10:
+Are there other possibilities than those?
+===
+> [[And without 11|Let me think]]
+===
+
+And without 11:
+So, we may never actually get an answer to this question, but it is a useful type of question to be asking when you learn a Mishnah.
+===
+> [[And without 12|Great.]]
+===
+
+And without 12:
+Wonderful. Now you can return to the list of questions, or move on to the next clause of the Mishnah.
+===
+> [[#See all comprehension questions|All questions]]
+> [[Step 2 of hashta b’shlucho#Mishnah/First pass of האשה מתקדשת בה ובשלוחה|Next clause]]
 ===
 
 ===
@@ -3451,7 +4009,7 @@ Is there someone whose mind we could read to see if R Yosef is correct about wha
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/01-Mishnah/Sentence 02]
 
 * First pass of האשה מתקדשת בה ובשלוחה:
-Now lets learn the second clause of the Mishnah:
+Now let’s learn the second clause of the Mishnah:
 < האשה מתקדשת בה ובשלוחה
 ===
 > [[First Pass 2|Let's go]]
@@ -3552,94 +4110,94 @@ In order to learn the first line of the Gemara:
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 1]
 
 * Step 1 of _hashta b’shlucho_:
-*Step 1:* Before looking at the text we're going to articulate our expectations about what the Mishnah and Gemara will say.
+*Step #1:* Before looking at the text we're going to articulate our expectations about what the Mishnah and Gemara will say.
 ===
 > [[Expectations|Let's do it]]
-> [[Step 2 of hashta b’shlucho|Step #2: Translation]]
+> [[Step 2 of hashta b’shlucho|*Step #2:* Translation]]
 ===
 
 Expectations:
 Okay. First, do you think it works to appoint someone else to do a mitzvah for you?
 ===
 > [[Expectations-2|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-2:
 Good. Assuming it works sometimes, do you think it makes a difference what kind of mitzvah it is?
 ===
 > [[Expectations-3|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-3:
 Good. Do you think there's a difference between using an appointee to do a mitzvah like giving tzedukkah versus a transaction like buying a house?
 ===
 > [[Expectations-4|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-4:
 Good. Do you think someone can become engaged to be married via an appointee?
 ===
 > [[Expectations-5|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-5:
 Good. Do you think it makes a difference whether the man uses an appointee to engage the woman or vice versa?
 ===
 > [[Expectations-6|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-6:
 Good. Do you think there should be any conditions that might have to be met before using an appointee to get engaged?
 ===
 > [[Expectations-7|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-7:
 Good. Do you think the Torah's concerns about using an appointee to get engaged are the same for men and for women?
 ===
 > [[Expectations-8|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-8:
 Good. If it is acceptable to use an appointee for a mitzvah, do you think there is any difference between using an appointee and doing the mitzvah yourself?
 ===
 > [[Expectations-9|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-9:
 Good. Assuming a father can sometimes engage his daughter to someone, do you think it matters what age she is?
 ===
 > [[Expectations-10|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-10:
 Good. Assuming a father can sometimes engage his daughter to someone, is it more likely he is allowed to for an older girl or for a younger girl?
 ===
 > [[Expectations-11|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-11:
 Good. If a father can engage his daughter, do you think he has to do it himself, or can he appoint someone to do so?
 ===
 > [[Expectations-12|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-12:
 Good. Assuming the father can engage his daughter to someone, should the age of the girl affect whether the father _should_ do it?
 ===
 > [[Expectations-13|Let me think]]
-> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip to Translation]]
+> [[Step 1 of hashta b’shlucho/Step 2 of hashta b’shlucho|Skip]]
 ===
 
 Expectations-13: Great, those are some of the questions our sugya will address.
@@ -3725,11 +4283,11 @@ Haaras
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 2]
 
 * Step 2 of _hashta b’shlucho_:
-*Step 2:* Next, we'll translate the Gemara and ask clarification questions:
+*Step 2:* Next, we'll translate the text and ask clarification questions:
 ===
-- [[#Mishnah/First pass of האיש מקדש בו ובשלוחו|Lets start]]
+- [[#Mishnah/First pass of האיש מקדש בו ובשלוחו|Let’s start]]
 - [[Pick a line]]
-- [[Step 3 of hashta b’shlucho|Step #3: Difficulties]]
+- [[Step 3 of hashta b’shlucho|*Step #3:* Difficulties]]
 ===
 
 Pick a line:
@@ -3781,7 +4339,7 @@ Second Gemara:
 ===
 > [[#Mishnah/Second pass of האיש מקדש בו ובשלוחו|Get Started]]
 > [[Pick a line]]
-> [[Step 4 of hashta b’shlucho|Step #4: Commentaries]]
+> [[Step 4 of hashta b’shlucho|*Step #4:* Commentaries]]
 ===
 
 Pick a line:
@@ -3923,7 +4481,7 @@ Hints 2: What questions might you have on the Mishnah teaching that?
 > [[Hints 3|Not sure]]
 ===
 
-Hints 3: Lets remember that the Mishnah is the first written encapsulation of the Oral Torah.
+Hints 3: Let’s remember that the Mishnah is the first written encapsulation of the Oral Torah.
 ===
 > [[Hints 4|Ok]]
 ===
@@ -3943,7 +4501,7 @@ Hints 6: Well, if Oral Torah is an explanation of written Torah, then we might e
 > [[Hints 7|Makes sense]]
 ===
 
-Hints 7: So lets think:
+Hints 7: So let’s think:
 - We have a Mishnah teaching that a man can be _mekadesh_ a woman himself or with messenger
 - We know that the Mishnah is the encoding of the Oral Torah
 - We know that the Oral Torah is an explanation of the written Torah
@@ -3974,7 +4532,7 @@ Hints 11: _Now_, maybe we have a good question:
 ===
 
 Hints 12: Congrats! 🎉🎉🎉
-- Lastly, lets see if we can think what categories of answer are possible
+- Lastly, let’s see if we can think what categories of answer are possible
 ===
 > [[Hints 13|Okay]]
 ===
@@ -4024,12 +4582,19 @@ Hints 17: Good! Hold that thought and we'll revisit the topic down the road.
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 4]
 
 * Step 4 of _hashta b’shlucho_:
-*Step 4:* For step 4, we will read various commentators on the Gemara.
+*Step 4:* For step 4, we will read various commentators on the text of the Gemara.
+===
+- [[#See commentaries/Rashi on the sugya of hashta bshlucho|Get started]]
+- [[See commentaries]]
+- [[Step 5 of _hashta b’shlucho_|*Step #5:* Summary]]
+===
+
+See commentaries:
 ===
 - [[{Rashi} on the sugya of _hashta b’shlucho_]]
 - [[{Tosofos} on the sugya of _hashta b’shlucho_]]
 - [[{Other} commentators on the sugya of _hashta b’shlucho_]]
-- [[Step 5 of _hashta b’shlucho_|Step 5: Summary]]
+- [[Step 4 of hashta bshlucho/Step 5 of hashta bshlucho|Finish]]
 ===
 
 
@@ -4079,12 +4644,14 @@ These are commentaries that may be added later.
 
 
 * Rashi on the sugya of _hashta b’shlucho_:
+Let’s begin with the commentary of Rashi on the sugya of _hashta b’slucho mekadesh_.
 ===
-- [[Rashi on the sugya of hashta b’shlucho#See all/Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו|Get started]]
+- [[Rashi on the sugya of hashta b’shlucho#See all/Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו|First Rashi]]
 - [[See all]]
 ===
 
 See all:
+These are the comments of Rashi on the sugya of _hashta b’shlucho mekadesh_:
 ===
 1. [[{Rashi on} Kiddushin 41a { האיש מקדש בו ובשלוחו}]]
 2. [[{Rashi on} Kiddushin 41a { כשהיא נערה}]]
@@ -4105,7 +4672,7 @@ See on daf: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_Rashi.jp
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 4/01-Rashi/01-האיש מקדש בו ובשלוחו]
 
 * Rashi on Kiddushin 41a האיש מקדש בו ובשלוחו:
-Lets learn the first Rashi.
+Let’s learn the first Rashi.
 ===
 > [[Mishnah|Ok]]
 ===
@@ -4113,7 +4680,7 @@ Lets learn the first Rashi.
 Mishnah: The Mishnah said:
 < האיש מקדש בו ובשלוחו
 ===
-> [[First pass of האיש מקדש בו ובשלוחו|Remind me what that means]]
+> [[Step 2 of hashta bshlucho#Mishnah/First pass of האיש מקדש בו ובשלוחו|Review translation]]
 > [[What does Rashi say?]]
 ===
 
@@ -4121,15 +4688,15 @@ What does Rashi say?
 Says Rashi:
 < מתני' האיש מקדש בו ובשלוחו - בגמ' יליף לה
 ===
-1. [[Translate Rashi's answer]]
-2. [[What is bothering Rashi?]]
-3. [[What is Rashi's answer?]]
-4. [[Are there problems with Rashi's answer?]]
+1. [[Translate Rashi's comment]]
+2. [[What is Rashi’s question?]]
+3. [[What is Rashi’s answer?]]
+4. [[What do we think of Rashi’s answer?]]
 ===
 
-Translate Rashi's answer:
+Translate Rashi's comment:
 
-What is bothering Rashi?
+What is Rashi's question?
 Rashi is telling us the Gemara will later explain the scriptural source for the first ruling of the Mishnah.
 - If so, [[what question does Rashi think I have right now?]] (Think before clicking!)
 
@@ -4204,9 +4771,9 @@ You might not be able to wait until the Gemara for an answer:
 So, that might be what is bothering Rashi!
 - 🎉 🎉 🎉
 
-What is Rashi's answer?
+What is Rashi’s answer?
 
-Are there problems with Rashi's answer?
+What do we think of Rashi’s answer?
 
 
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 4/01-Rashi/02-כשהיא נערה]
@@ -4268,14 +4835,14 @@ Are there problems with Rashi's answer?
 
 * Tosofos on the sugya of _hashta b’shlucho_:
 ===
-- [[See on daf]]
-- [[See commentary]]
+- [[#See all/Tosofos on Kiddushin 41a האיש מקדש|First Tosofos]]
+- [[See all]]
 ===
 
 See on daf:
 ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_Tosofos.jpg “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)
 
-See commentary:
+See all:
 ===
 1. [[{Tosofos on} Kiddushin 41a { האיש מקדש}]]
 2. [[{Tosofos on} Kiddushin 41a { אי איתמר דרב יוסף אסיפא איתמר}]]
@@ -4373,11 +4940,11 @@ See commentary:
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 5]
 
 * Step 5 of _hashta b’shlucho_:
-*Step 5:* Lets summarize all of the points we saw.
+*Step 5:* Let’s summarize all of the points we saw.
 ===
 - [[{Prose Summary} of Hashta B’shlucho Mekadesh Bo Meboy]]
 - [[{Discussions By Line} of Hashta B’shlucho Mekadesh Bo Meboy]]
-- [[{Halachos So Far} for Hashta B’shlucho Mekadesh Bo Meboy]]
+- [[{Halachos} for Hashta B’shlucho Mekadesh Bo Meboy]]
 ===
 
 - Also a summary not of the shakla vtaria, but platonic description of what happened in the perek.
@@ -4519,7 +5086,7 @@ In order to learn the first line of the Gemara:
 
 [Gemara/Kiddushin/Perek Ha’ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Step 5/Halachos]
 
-* Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy:
+* Halachos for Hashta B’shlucho Mekadesh Bo Meboy:
 The Torah created a relationship called marriage, and created [[steps for initiating marriage]].
 
 Steps for initiating marriage:
@@ -4568,15 +5135,9 @@ The state of _nisuyin_ and means to establish it:
 
 * Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy:
 The Mishnah taught three dinim.
-1. A man can be _mekadesh_ a woman either himself or with a _shaliach_
-2. A woman can accept _kiddushin_ either herself or with a _shaliach_
-3. A father can produce kiddushin between his daughter and another man, “when she is a naara,” himself or with a shaliach
-We had various questions.
-===
-- [[Questions on the first clause]]
-- [[Questions on the second clause]]
-- [[Questions on the third clause]]
-===
+1. A man can be _mekadesh_ a woman either himself or with a shaliach. [[Questions on the first clause|(Questions)]]
+2. A woman can accept _kiddushin_ either herself or with a shaliach [[Questions on the second clause|(Questions)]]
+3. A father can produce kiddushin for his daughter, “when she is a na’ara,” himself, or with a shaliach. [[Questions on the third clause|(Questions)]]
 
 Questions on the first clause:
 The first clause of the Mishnah teaches “a man can be _mekadesh_ a woman either himself or with a _shaliach_.”
