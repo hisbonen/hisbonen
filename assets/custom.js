@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Create the mailto link with the current URL in the subject
     const email = "submissions@hisbonen.org";
     const subject = decodeURIComponent("Submission related to: " + lastSegment);
-    const body = decodeURIComponent("Context: " + url) + '%0A%0ASubmission:%0A%0A';
+    const body = decodeURIComponent("Context: " + url) + '%0A%0AYour comment/submission:%0A%0A%0A';
     
     // Set the href attribute for the mailto link
     contactIcon.href = `mailto:${email}?subject=${subject}&body=${body}`;
