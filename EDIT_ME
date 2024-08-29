@@ -1,21 +1,12 @@
 [Hisbonen]
 
-** Hisbonen: This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for improving Gemara skills. <img src="/_assets/exclamation.png" alt="Logo" style="position: absolute;height: 190px;top: -43px;right: -145px;">
+** Hisbonen:
+<img src="/_assets/exclamation.png" alt="Logo" style="position: absolute;height: 190px;top: -43px;right: -145px; background-color: rgb(255,255,255);">
+This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for improving Gemara skills.
 ===
 - [[Sefarim]]
-- [[Topics]]
-- [[Info]]
-===
-
-
-* Desktop app:
-You can download the Hisbonen desktop app for different platforms here:
-===
-- [Mac](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip)
-- [Windows (exe)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe)
-- [Windows (nupkg)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg)
-- [Linux x64](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip)
-- [AMD 64 / Debian](https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb)
+- [![Topics]]
+- [![Info]]
 ===
 
 
@@ -62,7 +53,7 @@ Hebrew and Aramaic have different word-order rules than English:
 - In English, you almost always have a subject, then a verb, then an object, eg “The man eats the apple.”
 - In Hebrew and Aramaic, these rules are more flexible.
 - The existence of the direct object marker את allows the object to precede the subject more easily than in English.
-- E.g, את התפוח אוכל האיש, "the apple, the man eats" is perfectly valid Hebrew but is awkward in English.
+- E.g, את התפוח אוכל האיש, “the apple, the man eats” is perfectly valid Hebrew but is awkward in English.
 - Keep a heads up when reading Rishonim like Rashi and Tosofos that sentences frequently begin with a verb or object rather than the subject.
 
 
@@ -98,8 +89,11 @@ Several of the [[verb forms beginning with מ]] are from Aramaic:
 * Aramaic binyanim: There six binyanim in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | *Aramaic* | [[Simple]] | [[Intensive]] | [[Causative]] |
 | [[Active]]  | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
-| [[Passive]] / [[Reflexive]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
+| [[Aramaic {Passive \/ Reflexive}]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
 The binyanim of Aramaic mostly align with the [[Hebrew binyanim]].
+
+
+* Aramaic Passive / Reflexive: Aramaic binyanim which are [[passive]] can also have a [[reflexive]] meaning.{! R Yitchok Frank, Grammar for Gemara, 2003}
 
 
 [Dikduk/Aramaic/Binyanim/Af’el]
@@ -162,7 +156,7 @@ The [[{{_af’el_ active participle}} form]] has the following conjugation patte
 | *Plural* | מַפְקְדִינַן <br> (מַפְקְדִי + אֲנַן) <br><br> _maf’k’dinan_ <br><br><br> (maf’k’di + anan) <br><br><br><br><br> We are making holy | ‎מְקַדְּשִׁיתוּ/ן <br> (מַפְקְדִי + אַתּוּ/ן) <br><br> _maf’k’disu/n <br> (maf’k’di + atu/n)_ <br><br><br><br><br> You [men or women] <br> are making holy |
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_af’el_ active participle for regular shorushim without pronoun suffixes]].
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Af’el_ Active Participle for Regular Shorushim without pronoun suffixes:
@@ -172,7 +166,7 @@ The [[{{_af’el_ active participle}} form]] has the following conjugation patte
 | *Plural*   | ‎מַפְקְדִי/ן <br><br> _maf’k’di/n_ <br><br><br> [those men are] <br> despositing | מַפְקְדָן <br><br> _maf’k’dan_ <br><br><br> [those women are] <br> despositing |
 - There is also a form of the [[_af’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Af’el/Tenses/Future]
@@ -189,7 +183,7 @@ The [[_af’el_ future tense]] follows these conjugations for [[regular shorushi
 | *Second-Person* | תַּפְקֵיד <br><br> _tafkeid_ <br><br><br> You [male] <br> will desposit | ‎תַּפְקְדִי <br><br> _tafkidi_ <br><br><br> You [female] <br> will desposit  | תַּפְקְדוּ <br><br> _taf’k’du_ <br><br><br> You [males or females] <br> will desposit | \< |
 | *Third- <br> Person* | ‎נַפְקֵיד, ‎לִפְקֵיד, ‎לַפְקֵיד <br><br> _lafkeid, lifkeid, nafkeid_ <br><br><br> He will desposit | תַּפְקֵיד <br><br> _tafkeid_ <br><br><br> She will desposit  | נַפְקְדוּ, ‎לִפְקְדוּ, ‎לַפְקְדוּ <br><br> _laf’k’du, lif’k’du, naf’k’du_ <br><br><br> They will desposit | \< |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Af’el/Tenses/Imperative]
@@ -214,8 +208,8 @@ The [[{{_af’el_ imperative}} form]] follows these conjugations for [[regular s
 
 * _Af’el_ Infinitive for regular shorushim:
 The [[{{_af’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְאַפְקוֹדֵי <br><br> _l'afkodei_ <br><br><br> to desposit |
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+| לְאַפְקוֹדֵי <br><br> _l’afkodei_ <br><br><br> to desposit |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 - The _af’el_ infinitive form corresponds to the [[_hif’il_ infinitive]] of Hebrew.
 
 
@@ -241,16 +235,16 @@ The [[{{_af’el_ passive participle}} form]] has the following conjugation patt
 | *Plural* | מַלְבְּשִׁינַן <br> (מַלְבְּשִׁי + אֲנַן) <br><br> _mal’b’shinan_ <br><br><br> (mal’b’shi + anan) <br><br><br><br> We are dressed | ‎מַלְבְּשִׁיתוּ <br> מַלְבְּשִׁיתוּן <br> (מַלְבְּשִׁי + אַתּוּ) <br><br> _mal’b’shisu <br> (mal’b’shi + atu)_ <br><br><br><br> You [men or women] <br> are dressed |
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_af’el_ passive participle for regular shorushim without pronoun suffixes]].
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Af’el_ Passive Participle for Regular Shorushim without pronoun suffixes:
 The [[_af’el_ passive participle]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | מַלְבַּשׁ <br><br> _malbash_ <br><br><br> [he/it is] dressed | מַלְבְּשָׁא <br><br> _mal'b'shau_ <br><br><br> [she/it is] dressed |
+| *Singular* | מַלְבַּשׁ <br><br> _malbash_ <br><br><br> [he/it is] dressed | מַלְבְּשָׁא <br><br> _mal’b’shau_ <br><br><br> [she/it is] dressed |
 | *Plural*   | מַלְבְּשׁוּ, ‎מַלְבְּשִׁי/ן <br><br> _mal’b’shi/n, mal’b’shu_ <br><br><br> [those men / things are] dressed | מַלְבְּשָׁן <br><br> _mal’b’shaun_ <br><br><br> [those women / things are] dressed |
 - There is also a form of the [[_af’el_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Af’el/Tenses/Past]
@@ -332,7 +326,7 @@ The [[{{_ispa’al_ active participle}} form]] has the following conjugation pat
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_ispa’al_ active participle for regular shorushim without pronoun suffixes]].
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Square brackets indicate letters that sometimes are omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Ispa’al_ Active Participle for Regular Shorushim without pronoun suffixes:
@@ -342,7 +336,7 @@ The [[{{_ispa’al_ active participle}} form]] has the following conjugation pat
 | *Plural*   | ‎מִ(תְ)קַדְשִׁי(ן) <br><br> _mi(s)kadshi(n)_ <br><br><br> [those men are] <br> being sanctified | מִ(תְ)קַדְשָׁן <br><br> _miskadshan_ <br><br><br> [those women are] <br> being sanctified |
 - There is also a form of the [[_ispa’al_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that sometimes are omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Ispa’al/Tenses/Future]
@@ -384,7 +378,7 @@ The [[{{_ispa’al_ imperative}} form]] follows these conjugations for [[regular
 
 * _Ispa’al_ Infinitive for regular shorushim:
 The [[{{_ispa’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְאִי(תְ)קַדּוּשֵׁי <br><br> _l'i(s)kadushei_ <br><br><br> to be made holy |
+| לְאִי(תְ)קַדּוּשֵׁי <br><br> _l’i(s)kadushei_ <br><br><br> to be made holy |
 - The _ispa’al_ active participle may correspond to the [[{_pi’el_} infinitive]] or [[{_hispa’el_} infinitive]] infinitives of Hebrew.
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Letters in parentheses are sometimes omitted.
 [^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
@@ -450,7 +444,7 @@ Verbs in the [[_ispe’el_]] have conjugations conjugations in various “tenses
 * _Ispe’el_ Active Participle:
 The [[{{_ispe’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
 - The _ispe’el_ active participle has [[{_Ispe’el_ Active Participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
-- Even though the _ispe'el_ has an [[active participle]], because the _ispe’el_ is a [[{{passive}} binyan]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject or a quality the subject becomes.
+- Even though the _ispe’el_ has an [[active participle]], because the _ispe’el_ is a [[{{passive}} binyan]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject or a quality the subject becomes.
 - The _ispe’el_ active participle corresponds to the [[_hif’il_ active participle]] of Hebrew.
 
 
@@ -470,7 +464,7 @@ The [[{{_ispe’el_ active participle}} form]] has the following conjugation pat
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_ispe’el_ active participle for regular shorushim without pronoun suffixes]].
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Letters in square brackets are sometimes omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Ispe’el_ Active Participle for Regular Shorushim without pronoun suffixes:
@@ -480,7 +474,7 @@ The [[{{_ispe’el_ active participle}} form]] has the following conjugation pat
 | *Plural*   | ‎מִי(תְ)מַסְרִי(ן) <br><br> _mi(s)masri(n)_ <br><br><br> [those men are] <br> being handed over | מִי(תְ)מַסְרָן <br><br> _mi(s)masraun_ <br><br><br> [those women are] <br> being handed over |
 - There is also a form of the [[_ispe’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Letters in parentheses are sometimes omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Future]
@@ -497,7 +491,7 @@ The [[_ispe’el_ future tense]] follows these conjugations for [[regular shorus
 | *Second-Person* | תִּ(תְ)מְסֵיר <br><br> _ti(s’)m’seir_ <br><br><br> You [male] <br> will be handed over | תִּי(תְ)מַסְרִי(ן) <br><br> _ti(s)masri(n)_ <br><br><br> You [female] <br> will be handed over | תִּי(תְ)מַּסְרוּ <br><br> _tismasru_ <br><br><br> You [all] <br> will be handed over | \< |
 | *Third- <br> Person* | ‎לִי(תְ)מְסֵיר, ‎נִי(תְ)מְסֵיר <br><br> _li(s’)m’seir, ni(s’)m’seir_ <br><br><br> He will be <br> handed over | תִּי(תְ)מְּסֵר <br><br> _ti(s’)m’seir_ <br><br><br> She will be <br> handed over  | לִי(תְ)מַסְרוּ(ן)‎, נִי(תְ)מַסְרוּ <br><br> _li(s)masru(n), ni(s)masru_ <br><br><br> They will be <br> handed over | \< |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that are sometimes omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Imperative]
@@ -525,7 +519,7 @@ The [[{{_ispe’el_ imperative}} form]] follows these conjugations for [[regular
 * _Ispe’el_ Infinitive for regular shorushim:
 The [[{{_ispe’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
 | לְאִי(תְ)מְסוֹרֵי <br><br> _l’i(s’)m’sorei_ <br><br><br> to be handed over |
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 - The _ispe’el_ infinitive form corresponds to the [[_hif’il_ infinitive]] of Hebrew.
 
 
@@ -539,7 +533,7 @@ The [[{{_ispe’el_ infinitive}} form]] has the following conjugation pattern fo
 * _Ispe’el_ Past Tense for regular shorushim:
 The [[_ispe’el_ past tense]] follows these conjugations for [[regular shorushim]] like מסר:
 |                 | *Singular*                        | \< | *Plural*                            | \< |
-| *First- <br> Person* | אִי(תְ)מְסֵירִי(ת) <br><br> _i(s)m'seiri(s)_ <br><br><br> I was <br> handed over | \< | אִי(תְ)מַסְרִינַן <br><br> _i(s)masrinan_ <br><br><br> we were<br> handed over | \< |
+| *First- <br> Person* | אִי(תְ)מְסֵירִי(ת) <br><br> _i(s)m’seiri(s)_ <br><br><br> I was <br> handed over | \< | אִי(תְ)מַסְרִינַן <br><br> _i(s)masrinan_ <br><br><br> we were<br> handed over | \< |
 | *Second-Person* | אִי(תְ)מְסַרְתְּ <br><br> _i(s’)m’sart_ <br><br><br> you [male] <br> were handed over | \< | אִי(תְ)מַסְרִיתוּ <br><br> _i(s)masrisu_ <br><br><br> you [all] were <br> handed over | \< |
 | *Third- <br> Person* | ‎אִי(תְ)מְסֵיר <br><br> _i(s)maseir_ <br><br><br> he was handed over | אִי(תְ)מְסִירָא‎, <br> ‎אִי(תְ)מַסְרָ(א/ה) <br><br> _i(s’)m’sirau, i(s’)masrau_ <br><br><br> she was <br> handed over  | אִי(תְ)מְסִירוּ, ‎אִי(תְ)מְסוּר, ‎אִי(תְ)מַסְרוּ <br><br> _i(s’)m’siru, i(s’)m’sur, i(s’)masru_ <br><br><br> they (men) were handed over | אִי(תְ)מַסְרַן <br><br> _i(s)masran_ <br><br><br> they (women) were handed over |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that sometimes are omitted.
@@ -598,7 +592,7 @@ The [[{{_itaf’al_ active participle}} form]] does not occur frequently enough 
 |            | *Masculine* | *Feminine* |
 | *Singular* | מִיתַּפְקַד <br><br> _mitafkad_ <br><br><br> [he is] <br> being deposited | מִיתַּפְקַדָא <br><br> _mitafkadau_ <br><br><br> [she is] <br> being handed over |
 | *Plural*   | מִיתַּפְקַדִין <br><br> _mitafkadin_ <br><br><br> [those men are] <br> being desposited | מִיתַּפְקַדָן <br><br> _mitafkadaun_ <br><br><br> [those women are] <br> being deposited |
-[^1]: These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Itaf’al/Tenses/Future]
@@ -615,7 +609,7 @@ The [[_itaf’al_ future tense]] does not occur frequently enough in the Talmud 
 | *Second-Person* | תִּתַּפְקַד <br><br> _titafkad_ <br><br><br> You [male] <br> will be deposited | תִּתַּפְקְדִין <br><br> _titaf’k’din_ <br><br><br> You [female] <br> will be deposited | תִּתַּפְקְדָן <br><br> _titaf’k’daun_ <br><br><br> You [all] <br> will be deposited | תִּתַּפְקְדוּן <br><br> _titaf’k’dun_ <br><br><br> You [all] <br> will be deposited |
 | *Third- <br> Person* | יִתַּפְקַד <br><br> _yitafkad_ <br><br><br> He will be <br> deposited | תִּתַּפְקַד <br><br> _titafkad_ <br><br><br> She will be <br> deposited  | יִתַּפְקְדָן <br><br> _yitaf’k’daun_ <br><br><br> They [men] will be <br> deposited | יִתַּפְקְדוּן <br><br> _yitaf’k’adun_ <br><br><br> They [women] will be <br> deposited |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that are sometimes omitted.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Itaf’al/Tenses/Imperative]
@@ -643,7 +637,7 @@ The [[{{_itaf’al_ imperative}} form]] does not occur frequently enough in the 
 * _Itaf’al_ Infinitive for regular shorushim:
 The [[{{_itaf’al_ infinitive}} form]] does not occur frequently enough in the Talmud to determine its regular conjugations. This is the conjugation pattern of the _itaf’al_ in _Targum Onkolos_ for [[regular shorushim]]:
 | לְאִתַּפְקָדָא <br><br> _l’itafkaudau_ <br><br><br> to be desposited |
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 - The _itaf’al_ infinitive form corresponds to the [[_hif’il_ infinitive]] of Hebrew.
 
 
@@ -720,22 +714,22 @@ The _pa’el_ active participle has two conjugations for regular shorushim:
 * _Pa’el_ Active Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |                 | *First-person* | *Second-person* |
-|  *Singular* |  מְקַדֵּישְׁנָא <br> (מְקַדֵּישׁ + אֲנָא) <br><br> _m'kad'd'eishnau <br> (m'kad'deish + anau)_ <br><br><br><br> I am making holy | מְקַדְּשַׁתְּ <br> (מְקַדֵּישׁ + אַתְּ) <br><br> _m'kad'd'shat <br> (m'kad'deish + at)_ <br><br><br><br> You [man or woman] <br> are making holy |
-| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br><br><br> (m'kad'd'shi + anan) <br><br><br><br> We are making holy | מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m'kad'd'shisu <br> (m'kad'd'shi + atu/n)_ <br><br><br><br> You [men or women] <br> are making holy |
+|  *Singular* |  מְקַדֵּישְׁנָא <br> (מְקַדֵּישׁ + אֲנָא) <br><br> _m’kad’d’eishnau <br> (m’kad’deish + anau)_ <br><br><br><br> I am making holy | מְקַדְּשַׁתְּ <br> (מְקַדֵּישׁ + אַתְּ) <br><br> _m’kad’d’shat <br> (m’kad’deish + at)_ <br><br><br><br> You [man or woman] <br> are making holy |
+| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m’kad’d’shinan_ <br><br><br> (m’kad’d’shi + anan) <br><br><br><br> We are making holy | מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m’kad’d’shisu <br> (m’kad’d’shi + atu/n)_ <br><br><br><br> You [men or women] <br> are making holy |
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_pa’el_ active participle for regular shorushim without pronoun suffixes]].
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Pa’el_ Active Participle for Regular Shorushim without pronoun suffixes:
 The [[{{_pa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | מְקַדֵּישׁ <br><br> _m'kad'deish_ <br><br><br> [he is] making holy | מְקַדְּשׁא‎, מְקַדְּשׁה <br><br> _m'kad'd'shau_ <br><br><br> [she is] making holy |
-| *Plural*   | ‎מְקַדְּשִׁי/ן <br> ‎מְקַדְּשִׁוּ <br><br> _m'kad'd'shi/n, m'kad'd'shu_ <br><br><br> [those men are] <br> making holy | מְקַדְּשָׁן <br><br> _m'kad'd'shaun_ <br><br><br> [those women are] <br> making holy |
+| *Singular* | מְקַדֵּישׁ <br><br> _m’kad’deish_ <br><br><br> [he is] making holy | מְקַדְּשׁא‎, מְקַדְּשׁה <br><br> _m’kad’d’shau_ <br><br><br> [she is] making holy |
+| *Plural*   | ‎מְקַדְּשִׁי/ן <br> ‎מְקַדְּשִׁוּ <br><br> _m’kad’d’shi/n, m’kad’d’shu_ <br><br><br> [those men are] <br> making holy | מְקַדְּשָׁן <br><br> _m’kad’d’shaun_ <br><br><br> [those women are] <br> making holy |
 - There is also a form of the [[_pa’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Future]
@@ -748,11 +742,11 @@ The [[{{_pa’el_ active participle}} form]] has the following conjugation patte
 * _Pa’el_ Future Tense for regular shorushim:
 The [[_pa’el_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                 | *Singular*                        | \< | *Plural*                              | \< |
-| *First- <br> Person* | אֲקַדֵּישׁ <br><br> _ekad'deish_ <br><br><br> I will make holy | \< | ‎נְקַדֵּישׁ, ‎לְקַדֵּישׁ <br><br> _n'kad'deish, l'kad'deish_ <br><br><br> We will make holy | \< |
-| *Second-Person* | תְּקַדֵּישׁ <br><br> _t'kad'deish_ <br><br><br> You [male] <br> will make holy | ‎תְקַדְּשׁי/ן <br><br> _t'kad'dshi, t'kad'shin_ <br><br><br> You [female] <br> will make holy  | תְּקַדְּשׁוּ <br><br> _t'kad'd'shu_ <br><br><br> You [males or females] <br> will make holy | \< |
-| *Third- <br> Person* | ‎לְקַדֵּישׁ, ‎לִיקַדֵּישׁ, <br> ‎נְקַדֵּישׁ‎, ‎נִיקַדֵּישׁ <br><br> _l'kadeish, likadesh, n'kadesh, nikadesh_ <br><br><br> He will make holy | תְּיקַדֵּישׁ <br><br> _t'kadeish_ <br><br><br> She will make holy  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br><br> _lichtovu, nichtovu, <br> lichtuv, nichtuv_ <br><br><br> They will make holy | \< |
+| *First- <br> Person* | אֲקַדֵּישׁ <br><br> _ekad’deish_ <br><br><br> I will make holy | \< | ‎נְקַדֵּישׁ, ‎לְקַדֵּישׁ <br><br> _n’kad’deish, l’kad’deish_ <br><br><br> We will make holy | \< |
+| *Second-Person* | תְּקַדֵּישׁ <br><br> _t’kad’deish_ <br><br><br> You [male] <br> will make holy | ‎תְקַדְּשׁי/ן <br><br> _t’kad’dshi, t’kad’shin_ <br><br><br> You [female] <br> will make holy  | תְּקַדְּשׁוּ <br><br> _t’kad’d’shu_ <br><br><br> You [males or females] <br> will make holy | \< |
+| *Third- <br> Person* | ‎לְקַדֵּישׁ, ‎לִיקַדֵּישׁ, <br> ‎נְקַדֵּישׁ‎, ‎נִיקַדֵּישׁ <br><br> _l’kadeish, likadesh, n’kadesh, nikadesh_ <br><br><br> He will make holy | תְּיקַדֵּישׁ <br><br> _t’kadeish_ <br><br><br> She will make holy  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br><br> _lichtovu, nichtovu, <br> lichtuv, nichtuv_ <br><br><br> They will make holy | \< |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Imperative]
@@ -765,8 +759,8 @@ The [[_pa’el_ future tense]] follows these conjugations for [[regular shorushi
 * _Pa’el_ Imperative for regular shorushim:
 The [[{{_pa’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | קַדֵּישׁ <br><br> _kad'deish!_ <br><br><br> [to a man] make holy! | קַדֵּישִׁי <br><br> _kadeishi!_ <br><br><br> [to a woman] make holy! |
-| *Plural*   | קַדֵּישׁוּ <br><br> _kad'deishu!_ <br><br><br> [to men or women] make holy! | \< |
+| *Singular* | קַדֵּישׁ <br><br> _kad’deish!_ <br><br><br> [to a man] make holy! | קַדֵּישִׁי <br><br> _kadeishi!_ <br><br><br> [to a woman] make holy! |
+| *Plural*   | קַדֵּישׁוּ <br><br> _kad’deishu!_ <br><br><br> [to men or women] make holy! | \< |
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Infinitive]
@@ -777,8 +771,8 @@ The [[{{_pa’el_ imperative}} form]] follows these conjugations for [[regular s
 
 * _Pa’el_ Infinitive for regular shorushim:
 The [[{{_pa’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְקַדּוּשֵׁי <br><br> _l'kad'dushei_ <br><br><br> to make holy |
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+| לְקַדּוּשֵׁי <br><br> _l’kad’dushei_ <br><br><br> to make holy |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 - The _pa’el_ infinitive form corresponds to the [[_pi’el_ infinitive]] of Hebrew.
 
 
@@ -800,20 +794,20 @@ The _pa’el_ passive participle has conjugations for regular shorushim:
 * _Pa’el_ Passive Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pa’el_ passive participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |              | *First-person* | *Second-person* |
-|  *Singular* |  מְקַדַּשׁנָא <br> (מְקַדַּשׁ + אֲנָא) <br><br> _m'kad'dashnau <br> (m'kad'dash + anau)_ <br><br><br><br> I am made holy | מְקַדְּשַׁתְּ <br> (מְקַדַּשׁ + אַתְּ) <br><br> _m'kad'd'shat <br> (m'kad'dash + at)_ <br><br><br><br> You [man or woman] <br> are made holy |
-| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br><br><br> (m'kad'd'shi + anan) <br><br><br><br> We are made holy | ‎מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m'kad'd'shisu <br> (m'kad'd'shi + atu / atun)_ <br><br><br><br> You [men or women] <br> are made holy |
+|  *Singular* |  מְקַדַּשׁנָא <br> (מְקַדַּשׁ + אֲנָא) <br><br> _m’kad’dashnau <br> (m’kad’dash + anau)_ <br><br><br><br> I am made holy | מְקַדְּשַׁתְּ <br> (מְקַדַּשׁ + אַתְּ) <br><br> _m’kad’d’shat <br> (m’kad’dash + at)_ <br><br><br><br> You [man or woman] <br> are made holy |
+| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m’kad’d’shinan_ <br><br><br> (m’kad’d’shi + anan) <br><br><br><br> We are made holy | ‎מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m’kad’d’shisu <br> (m’kad’d’shi + atu / atun)_ <br><br><br><br> You [men or women] <br> are made holy |
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_pa’el_ passive participle for regular shorushim without pronoun suffixes]].
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Pa’el_ Passive Participle for Regular Shorushim without pronoun suffixes:
 The [[_pa’el_ passive participle]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | מְקַדַּשׁ <br><br> _m'kad'dash_ <br><br><br> [he/it is] made holy | מְקַדְּשָׁא <br><br> _m'kad'd'shau_ <br><br><br> [she/it is] made holy |
-| *Plural*   | מְקַדְּשִׁי/ן <br><br> _m'kad'd'shi/n_ <br><br><br> [those men / things are] made holy | מְקַדְּשָׁן <br><br> _m'kad'd'shan_ <br><br><br> [those women / things are] made holy |
+| *Singular* | מְקַדַּשׁ <br><br> _m’kad’dash_ <br><br><br> [he/it is] made holy | מְקַדְּשָׁא <br><br> _m’kad’d’shau_ <br><br><br> [she/it is] made holy |
+| *Plural*   | מְקַדְּשִׁי/ן <br><br> _m’kad’d’shi/n_ <br><br><br> [those men / things are] made holy | מְקַדְּשָׁן <br><br> _m’kad’d’shan_ <br><br><br> [those women / things are] made holy |
 - There is also a form of the [[_pa’el_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Past]
@@ -826,11 +820,11 @@ The [[_pa’el_ passive participle]] has the following conjugation pattern for [
 * _Pa’el_ Past Tense for regular shorushim:
 The [[_pa’el_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                          | *Plural* |\< |
-| *First- <br> Person* | ‎קַדֵּישִי‎, <br> קַדֵּישִית <br><br> _kadeishi, kadeishis_ <br><br><br> I made holy | \< | ‎קַדֵּישְנַן‎, <br> קַדֵּישְנָא‎ <br><br> _kad'deish'nan, kad'deish'nau_ <br><br><br> We made holy | \< |
-| *Second-Person*    | קַדֵּישְתְּ <br><br> _kadeish't_ <br><br><br> You [male or female] <br> made holy | \< | קַדֵּישְתּוּ‎, <br> קַדֵּישְתּוּן <br><br> _kad'deish'tu, kad'deish'tun_ <br><br><br> You [males or females] <br> made holy  | \< |
-| *Third-Person*     | קַדֵּיש <br><br> _kad'deish_ <br><br><br> He made holy | קַדִּישָה‎, <br> קַדִּישַת‎ <br><br> _kad'dishau, kad'dishas_ <br><br><br> She made holy | קַדִּישוּ‎, <br> קַדּוּש <br><br> _kad'dishu, kadush_ <br><br><br> They [males] made holy | קַדִּישָא‎, <br> קַדִּישָן <br><br> _kadishau, kadishan_ <br><br><br> They [females] made holy |
+| *First- <br> Person* | ‎קַדֵּישִי‎, <br> קַדֵּישִית <br><br> _kadeishi, kadeishis_ <br><br><br> I made holy | \< | ‎קַדֵּישְנַן‎, <br> קַדֵּישְנָא‎ <br><br> _kad’deish’nan, kad’deish’nau_ <br><br><br> We made holy | \< |
+| *Second-Person*    | קַדֵּישְתְּ <br><br> _kadeish’t_ <br><br><br> You [male or female] <br> made holy | \< | קַדֵּישְתּוּ‎, <br> קַדֵּישְתּוּן <br><br> _kad’deish’tu, kad’deish’tun_ <br><br><br> You [males or females] <br> made holy  | \< |
+| *Third-Person*     | קַדֵּיש <br><br> _kad’deish_ <br><br><br> He made holy | קַדִּישָה‎, <br> קַדִּישַת‎ <br><br> _kad’dishau, kad’dishas_ <br><br><br> She made holy | קַדִּישוּ‎, <br> קַדּוּש <br><br> _kad’dishu, kadush_ <br><br><br> They [males] made holy | קַדִּישָא‎, <br> קַדִּישָן <br><br> _kadishau, kadishan_ <br><br><br> They [females] made holy |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al]
@@ -893,7 +887,7 @@ The [[{{_pe’al_ active participle}} form]] has the following conjugation patte
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_pe’al_ active participle for regular shorushim without pronoun suffixes]].
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Pe’al_ Active Participle for Regular Shorushim without pronoun suffixes:
@@ -903,7 +897,7 @@ The [[{{_pe’al_ active participle}} form]] has the following conjugation patte
 | *Plural*   | ‎כָּתְבִי/ן, ‎כָּתְבוּ <br><br> _kausvi/n, kasvu_ <br><br><br> [those men are] writing | כָּתְבָן <br><br> _kausvaun_ <br><br><br> [those women are] writing |
 - There is also a form of the [[_pe’al_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Future]
@@ -920,7 +914,7 @@ The [[_pe’al_ future tense]] follows these conjugations for [[regular shorushi
 | *Second-Person* | תִּיכְתּוֹב <br><br> _tichtov_ <br><br><br> You [male] <br> will write | ‎תִּיכְתְּבִי/ן <br><br> _tichtevi/n_ <br><br><br> You [female] <br> will write  | תִּיכְתְּבוּן <br><br> _tichtevun_ <br><br><br> You [males or females] <br> will write  | \< |
 | *Third- <br> Person* | ‎לִיכְתּוֹב, ‎נִיכְתּוֹב <br><br> _lichtov, nichtov_ <br><br><br> He will write | תִּיכְתּוֹב <br><br> _tichtov_ <br><br><br> She will write  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br><br> _lichtovu, nichtovu, <br> lichtuv, nichtuv_ <br><br><br> They will write | \< |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Imperative]
@@ -945,8 +939,8 @@ The [[{{_pe’al_ imperative}} form]] follows these conjugations for [[regular s
 
 * _Pe’al_ Infinitive for regular shorushim:
 The [[{{_pe’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| ‎לְמִכְתְּבָא‎, לְמִכְתַּב <br><br> _l'michtav, l'micht'vau_ <br><br><br> to write |
-- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+| ‎לְמִכְתְּבָא‎, לְמִכְתַּב <br><br> _l’michtav, l’micht’vau_ <br><br><br> to write |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 - The _pe’al_ infinitive form corresponds to the [[_pa’al_ infinitive]] of Hebrew.
 
 
@@ -972,7 +966,7 @@ The [[{{_pe’al_ passive participle}} form]] has the following conjugation patt
 | *Plural* | שְׁבִיקִינַן <br> (שָׁבְקִי + אֲנַן) <br><br> _sh’vikinan_ <br><br><br> (sh’viki + anan) <br><br><br><br> We are abandoned | שְׁבִיקִיתוּ <br> (שָׁבְקִי + אַתּוּ) <br><br> _sh’vikisu <br> (sh’viki + atu)_ <br><br><br><br> You [men or women] <br> are abandoned |
 - A participle with a pronoun suffix forms a [[{{present tense}} sentence]].
 - There is also a form of the [[_pe’al_ passive participle for regular shorushim without pronoun suffixes]].
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 * _Pe’al_ Passive Participle for Regular Shorushim without pronoun suffixes:
@@ -982,7 +976,7 @@ The [[_pe’al_ passive participle]] has the following conjugation pattern for [
 | *Singular* | שְׁבִיק <br><br> _sh’vik_ <br><br><br> [he/it is] abandoned | שְׁבִיקָא‎, שְׁבִיקָה <br><br> _sh’vikau_ <br><br><br> [she/it is] abandoned |
 | *Plural*   | שְׁבִיקִי/ן <br><br> _sh’viki/n_ <br><br><br> [those men / things are] abandoned | שְׁבִיקָן <br><br> _sh’vikaun_ <br><br><br> [those women / things are] abandoned |
 - There is also a form of the [[_pe’al_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
-[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^1]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Past]
@@ -999,12 +993,12 @@ The [[_pe’al_ past tense]] follows these conjugations for [[regular shorushim]
 | *Second-Person*    | כְּתַבְתְּ <br><br> _ksavt_ <br><br><br> You wrote | \< | כְּתַבְתּוּן‎, <br> כְּתַבִיתוּ <br><br> _ksavtun, <br> ksavisu_ <br><br><br> You [males] wrote  | כְּתַבְתִּין <br><br> _kesavtin_ <br><br><br> You [females] wrote |
 | *Third-Person*     | כְּתַב <br><br> _kesav_ <br><br><br> He<span>&nbsp;</span>wrote | כְּתַבָה‎, כְּתַבָא,‎ כְּתַבַת‎ <br><br> _ksavas, ksavau_ <br><br><br> She wrote  | כְּתוּב‎, כְּתַבוּ <br><br> _ksavu, ksuv_ <br><br><br> They [males] wrote | כְּתַבָן‎, כְּתַבָה <br><br> _ksavau, ksavaun_ <br><br><br> They [females] wrote |
 [^1]: Because Aramaic was a less-formal spoken language, it often has several versions of the same word.
-[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+[^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Binyan]
 
-* Binyan: “Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English.
+* Binyan: “Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A shoresh is put in a binyan to produce a verb:
 - If you take a [[shoresh]], for example אכל, which represents “eating,” and put it into a certain “binyan,” you produce a verb, for example לְהַאֲכִיל (_l’ha’achil)_, which means “to feed.”
 - You can identify the binyan of a verb by its vowel sounds. Other verbs that rhyme with לְהַאֲכִיל (_l’ha’achil)_ will have similar meanings, because they are from the same “binyan.”
 - Every conjugated verb has one shoresh and one binyan.
@@ -1119,11 +1113,10 @@ There are several intensive binyanim in Hebrew and Aramaic:
 
 
 * Passive: “Passive” is a category of verb in Hebrew and Aramaic.
-- Passive verbs usually represent actions where [[the person being described is having an action done to them]], as opposed to [[{{active}} verbs]]
-- A binyan that is passive has verbs that are passive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- Passive verbs usually represent actions where [[action done to them|the person being described is having an action done to them]], as opposed to [[{{active}} verbs]].
 - There are several [[{{passive binyanim}} in Hebrew and Aramaic]].
 
-The person being described is having an action done to them: Passive verbs represent actions where the thing being described is having an action done to them, as opposed to verbs that are [[active]]. For example:
+Action done to them: Passive verbs represent actions where the thing being described is having an action done to them, as opposed to verbs that are [[active]]. For example:
 | *Shoresh* | *Active verb* | *Passive verb* |
 |-|-|-|
 | אכל | to eat | to be eaten |
@@ -1131,28 +1124,33 @@ The person being described is having an action done to them: Passive verbs repre
 | זכר | to remember | to be remembered |
 | אמר | to say | to be said |
 This is a rule of thumb, although sometimes passive verbs have [[{{reflexive}} meanings]].
+===
+> [[#]]
+===
 
 
 * Reflexive: “Reflexive” is a category of verb in Hebrew and Aramaic.
-- Reflexive verbs often refer to [[circular]] or [[transformative actions]].
-- A binyan that is reflexive has verbs that are reflexive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- Reflexive verbs often refer to circular or transformative actions. [[Circular or transformative|<small>(→)</small>]]
 - There are [[several reflexive binyanim in Hebrew and Aramaic]].
 
-Circular: Reflexive verbs often describe an action where the doer does something to themselves, for example:
+Circular or transformative:
+Reflexive verbs often describe an action where the doer does something to themselves.
+For example, the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means “to dress oneself.”
 | *Shoresh* | *Simple verb* | *Reflexive verb* |
 |-|-|-|
 | לבש | to dress | to dress oneself |
 | בדד | to seperate | to go into isolation |
 | בלל | to mix | to assimilate |
 | גדר | to fence | to limit oneself to something |
- the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means “to dress oneself.”
-
-Transformative actions: Reflexive verbs can also refer to situations where an entity undergoes a transformation, for example:
+Reflexive verbs can also refer to situations where an entity undergoes a transformation, for example:
 | *Shoresh* | *Simple verb* | *Reflexive verb* |
 |-|-|-|
 | חדש | to be new | to revitalize |
 | זקן | to be old | to grow old |
 | חרש | to be deaf | to become deaf |
+===
+> [[#]]
+===
 
 Several reflexive binyanim in Hebrew and Aramaic:
 There are several reflexive binyanim in Hebrew and Aramaic:
@@ -1233,7 +1231,7 @@ Meanings: The prefix ב can mean:
 - For example, הוא הגיע *ב*צהריים, _hu higia *b*’tzahorayim_, “he came *at* noon.”
 
 By a noun: The prefix ב can be followed by a noun.
-- For example, “*בְ*שִׁמְעֹון”, _b’Shimeon_, which is the prefix ב followed by the name Shimeon which together means "with Shimeon."
+- For example, “*בְ*שִׁמְעֹון”, _b’Shimeon_, which is the prefix ב followed by the name Shimeon which together means “with Shimeon.”
 
 Various suffixes: The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to.
 | ‎ *ב with suffix* | *Transliteration* | *Person* | *Example meaning* |
@@ -1248,16 +1246,20 @@ Various suffixes: The prefix ב in Hebrew has several suffixes that can be attac
 | בָּהּ        | _bah_            | She / it (feminine)      | with her |
 | בָּהֶם or בָּם | _bahem_ or _bam_ | Them / those (masculine) | with those men |
 | בָּהֶן or בָּן | _bahen_ or _ban_ | Them / those (feminine)  | with those women |
-[^1]: This table translates ב as “with,” but each of these words can also mean “on,” “in,” “with”, “via,” etc.
+[^1]: This table translates ב as “with,” but each can also mean “on,” “in,” “with”, “via,” etc. ([[Prefix ב#Meanings|See “meanings”]])
 ===
 > [[#|Back]]
 ===
 
 
+* Prefix ו:
+The prefix ו can appear before almost any type of word. It can mean “and,” but also can be short for the word [[או]] meaning “or.”
+
+
 * Prefix ל: There is a prefix ל in Hebrew and Aramaic.
 - The ל prefix has [[various {{meanings}}]]
 - The ל prefix can be followed [[by a noun]], or by [[various suffixes]].
-- The prefix is normally vowelized לְ, “le.” When it is vowelized לַ “la” it can mean "to *the*"
+- The prefix is normally vowelized לְ, “le.” When it is vowelized לַ “la” it can mean “to *the*”
 
 Meanings: The prefix ל can mean:
 ===
@@ -1276,7 +1278,7 @@ Meanings: The prefix ל can mean:
 “Belongs to”:
 
 By a noun: The prefix ל can be followed by a noun.
-- For example, “*בְ*שִׁמְעֹון”, _b’Shimeon_, which is the prefix ל followed by the name Shimeon which together means "with Shimeon."
+- For example, “*בְ*שִׁמְעֹון”, _b’Shimeon_, which is the prefix ל followed by the name Shimeon which together means “with Shimeon.”
 
 Various suffixes: The prefix ל in Hebrew has several suffixes that can be attached to indicate who or what is being referred to.
 | ‎ *ל with suffix* | *Transliteration* | *Person* | *Example meaning* |
@@ -1314,7 +1316,7 @@ Meanings: The prefix מ can mean:
 The prefix מ is often used to express geographic origin, for example, אני *מ*ירושלים, _ani m’yerushalayim_, “I am *from* Jerusalem.”
 
 “Of”:
-The prefix מ is often used to express group membership, for example, הוא *מ*המצוינים, _hu *m*hametzuanim_, "he is *one of* the best".
+The prefix מ is often used to express group membership, for example, הוא *מ*המצוינים, _hu *m*hametzuanim_, “he is *one of* the best”.
 
 “Than”:
 The prefix מ is often used in comparisons, for example זה גדול *מ*זה, _ze gadol *m*ze_, “this is bigger *than* that.”
@@ -1338,6 +1340,15 @@ Various suffixes: The prefix מ in Hebrew has several suffixes that can be attac
 ===
 > [[#|Back]]
 ===
+
+
+* Suffix ו: The suffix ו can follow a [[verb]] or a [[noun]].
+
+Noun:
+If ו follows a noun, it can mean “his” or “its.” E.g. adding ו to בית (_bayis_, house) produces ביתו (_baito_, “his house”)
+
+Verb:
+If ו follows a verb, it can mean the action was done to “him” or “it.” E.g. שָׁמָרוֹ (_shamaro_, “he guarded it.”)
 
 
 * ה at the start of a word:
@@ -1446,7 +1457,7 @@ The future tense can describe a moral suggestion.
 Can describe a request:
 The future tense can describe a request:
 - For example, Moshe says in _Parshas Va’eschanan_ אֶעְבְּרָה־נָּ֗א (_e’b’rah nah_, lit. “I will cross, please”)
-- Clearly Moshe isn't telling Hashem he will cross, but is asking to cross.
+- Clearly Moshe isn’t telling Hashem he will cross, but is asking to cross.
 
 
 * Imperative: The imperative, also known as “the command form,” is one of the [[tenses of Hebrew and Aramaic]].
@@ -1525,7 +1536,7 @@ Additional information about the passive participle:
 Here is additional information about the passive participle:
 - Passive participles are adjectives that are formed from verbs, for example “burnt” comes from the verb “to burn.”
 - The passive participle in Hebrew looks like כָּתוּב (_kasuv)_, and in Aramaic like כְּתִיב (_kasiv)_.
-- In Hebrew the passive participle only exists in [[the {{_pa’al_}} binyan]], i.e. [[the {{pa'al passive participle}}]].
+- In Hebrew the passive participle only exists in [[the {{_pa’al_}} binyan]], i.e. [[the {{pa’al passive participle}}]].
 - In Aramaic, there are passive participles in all of the active binyanim, i.e. the [[pe’al passive participle]], the [[pa’el passive participle]], and the [[af’el passive participle]].
 - There are [[{|subtle }differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim]].
 - Like [[the {{active participle}}]], the passive participle only has meaning in [[one of several {{“participle constructions”}}]].
@@ -1560,12 +1571,24 @@ The Hebrew and Aramaic “present tense” correspond to both the English presen
 
 [Dikduk/Hebrew]
 
-* Hebrew definite article: Hebrew has an entity called a [[definite article]], as do many languages.
+* Hebrew definite article: Hebrew has an entity called a definite article, as do many languages.
 Definite articles are used to refer to things that are already known to the reader.
-In Hebrew, the definite article presents as a ה-prefix before a noun, usually pronounced הַ, _ha_, e.g. as in הַכֶּלֶב, _hakelev_, “the dog.”
+The definite article in English is the word “the.”
+===
+> [[More]]
+===
+
+More:
+In Hebrew, the definite article is a ה-prefix before a noun, usually pronounced הַ, _ha_, e.g. as in הַכֶּלֶב, _hakelev_, “the dog.”
 The term in Hebrew for “definite article” is ה"א הַיְּדִיעָה, _hay hayediah_, literally “the hay of knowledge,” i.e. because it is used to refer to something that is already known to the reader.
-Sometimes, the הַ gets combined with [[the {{prefix ב}}]] or [[the {{prefix ל}}]], and becomes a בַ or לַ, meaning “in the” or “to the,” e.g. adding ב before הַבַּיִת becoming בַּבַּיִת, “in the house.”
-Aramaic also has a [[Aramaic {definite article}]], but it is an א-suffix not a ה-prefix, as in עָלְמָא (_alma,_ “the world”)
+Sometimes, the הַ gets combined with [[the {{prefix ב}}]] or [[the {{prefix ל}}]], and becomes a בַ or לַ, meaning e.g. “in the” or “to the.” For example, adding ב before הַבַּיִת (_habayis_, “the house”) becomes בַּבַּיִת (_babayis_ “in the house,” as opposed to _b’bayis_, “in a house.”)
+Aramaic also has a definite article, but it is an א-suffix not a ה-prefix, as in עָלְמָ*א* (_alma,_ “the world.”) [[Aramaic definite article|<small>→</small>]]
+===
+> [[#]]
+===
+
+
+* Hebrew prefix כש: The Hebrew prefix כש is short for the Hebrew word [[כאשר]] meaning “when.”
 
 
 * Hebrew verb forms beginning with מ:
@@ -1699,7 +1722,7 @@ The _hif’il_ past tense features a ה prefix in all of its forms.
 [Dikduk/Hebrew/Binyanim/Hispa’el]
 
 * Hispa’el: The _hispa’el_ (הִתְפַּעֵל) is one of the [[hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-- If you take a [[shoresh]] like לבש which means “dressing” and put it in the _hispa’el_ binyan, it produces a verb that describes a circular action, eg “to dress oneself.”
+If you take a [[shoresh]] like לבש which means “dressing” and put it in the _hispa’el_ binyan, it produces a verb that describes a circular action, eg “to dress oneself.”
 ===
 > [[learn more about the _hispa’el_|More]]
 ===
@@ -2100,7 +2123,7 @@ The [[_pa’al_ future tense]] follows these conjugations for [[regular shorushi
 | *First-Person* | אֶכְתֹּב <br>אֶכְתּוֹב <br><br> _echtoiv_ <br><br><br> I will write | \< | נִכְתֹּב <br>נִכְתּוֹב <br><br> _nichtoiv_ <br><br><br> We will write | \< |
 | *Second-Person* | תִּכְתֹּב <br>תִּכְתּוֹב <br><br> _tichtov_ <br><br><br> You [male] will write | תִּכְתְּבִי <br><br> _tichtevi_ <br><br><br> You [female] will write  | תִּכְתְּבוּ <br><br> _tichtevu_ <br><br><br> You [males] will write  | תִּכְתֹּבְנָה <br>תִּכְתּוֹבְנָה <br><br> _tichtoivnau_ <br><br><br> You [females] will write  |
 | *Third-Person* | יִכְתֹּב <br>יִכְתּוֹב <br><br> _yichtoiv_ <br><br><br> He will write | תִּכְתֹּב <br>תִּכְתּוֹב <br><br> _tichtov_ <br><br><br> She will write  | יִכְתְּבוּ <br><br> _yichtevu_ <br><br><br> [Those males] will write  | תִּכְתֹּבְנָה <br>תִּכְתּוֹבְנָה <br><br> _tichtoivnau_ <br><br><br> [Those females] will write  |
-[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an "o" vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
+[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an “o” vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Imperative]
@@ -2115,7 +2138,7 @@ The [[{{_pa’al_ imperative}} form]] follows these conjugations for [[regular s
 |            | *Masculine* | *Feminine* |
 | *Singular* | כְּתֹב <br>כְּתוֹב <br><br> _ksov!_ <br><br><br> [to a man] write! | כִּתְבִי <br><br> _kisvi!_ <br><br><br> [to a woman] write! |
 | *Plural*   | כִּתְבוּ <br>כִּתְבוּ <br><br> _kisvu!_ <br><br><br> [to men] write! | כְּתֹבְנָה <br>כְּתוֹבְנָה <br><br> _ksovnau!_ <br><br><br> [to women] write! |
-[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an "o" vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
+[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an “o” vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Infinitive]
@@ -2128,13 +2151,13 @@ The [[{{_pa’al_ imperative}} form]] follows these conjugations for [[regular s
 * _Pa’al_ Infinitive for regular shorushim:
 The [[{{_pa’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]] like כתב:
 | לִכְתֹּב <br>לִכְתּוֹב <br><br> _lichtov_ <br><br><br> to write |
-[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an "o" vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
+[^1]: When dealing with texts that are not vowelized, often a וֹ (also known as a _cholam malay_ when functioning as an “o” vowel) will be inserted after letters with a _kubutz_ vowel (i.e. אֻ) or a _cholam_ vowel (i.e. אֹ) to clarify what the vowel sound is.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Passive Participle]
 
 * _Pa’al_ Passive Participle: The [[_pa’al_]] has a [[{{passive participle}} form]], which is one of the [[_Pa’al_ tenses|“tenses” of the _pa’al_ binyan]].
-- The _pa’al_ passive participle is a special tense that in Hebrew only the _pa'al_ has.
+- The _pa’al_ passive participle is a special tense that in Hebrew only the _pa’al_ has.
 - The _pa’al_ passive participle has [[_pa’al_ passive participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’al_ passive participle describes the result of a finished action, as opposed to the [[_pa’al{|’s}_ active participle]].
 - The _pa’al_ passive participle corresponds to the [[_pe’al_ passive participle]] of Aramaic.
@@ -2220,7 +2243,7 @@ The [[{{_pi’el_ active participle}} form]] has the following conjugation patte
 | *Singular* | מְזַמֵּן <br><br> _mezamein_ <br><br><br> [he is] inviting | מְזַמֶּנֶת <br><br> _mezamenes_ <br><br><br> [she is] inviting |
 | *Plural*   | מְזַמְּנִים <br><br> _mezamnim_ <br><br><br> [those men are] inviting | מְזַמְּנוֹת <br><br> _mezamnos_ <br><br><br> [those women are] inviting |
 - The _pi’el_ active participle features a מ prefix in all of its forms, making it easy to mistake for [[{|the } {pu’al active participle} for regular shorushim]], [[{|the }{hif’il active participle} for regular shorushim]], and [[{|the } {huf’al active participle} for regular shorushim]].
-- The lack of a י between the second and third root letters differentiates the _pi'el_ active participle from a _hif’il_, and the lack of a ו after the first letter differentiates it from the _pu’al_ and _hufal_.
+- The lack of a י between the second and third root letters differentiates the _pi’el_ active participle from a _hif’il_, and the lack of a ו after the first letter differentiates it from the _pu’al_ and _hufal_.
 
 
 [Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Future]
@@ -2367,6 +2390,14 @@ The [[_pu’al_ past tense]] follows these conjugations for [[regular shorushim]
 | *Third-Person* | זֻמַּן <br><br> _zuman_ <br><br><br> He was invited | זֻמְּנָה <br><br> _zumno_ <br><br><br> She was invited  | זֻמְּנוּ <br><br> _zumnu_ <br><br><br> They [male or female] were invited  | \< |
 
 
+[Dikduk/Hebrew/Pronouns]
+
+* Hebrew Direct Object Suffixes:
+
+
+* Hebrew Posessive Suffixes:
+
+
 [Dikduk/Interrogatives]
 
 * Interrogative particles:
@@ -2378,7 +2409,7 @@ There are several words and prefixes that can turn a statement into a question.
 
 * ה interrogative particle:
 Hebrew has a ה prefix that turns a given sentence into a question.
-- In traditional grammar it is called the _hei hashayla_, ה"א השאלה, "question ה."
+- In traditional grammar it is called the _hei hashayla_, ה"א השאלה, “question ה.”
 - This is not to be confused with the [[Hebrew definite article|Hebrew ה prefix meaning “the”]].
 - An example of the _hei hashayla_ would be הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח, _hayesh lechem ach_. Alone, _yesh lechem ach_, יֵ֣שׁ לָכֶ֣ם אָ֔ח would mean “you all have a brother.” With the ה prefix, it means “do you all have a brother?”
 - The ה question prefix is usually vowelized as -הֲ, “ha.”
@@ -2405,9 +2436,9 @@ As you can see, the _hif’il_ verb represents an action, the _haktala_ noun rep
 
 * Construct state:
 In many languages there is a way of combining two nouns to produce a combination noun.
-- For example, in English I can say something is "The Bank Headquarters" and use "Bank" as an adjective even though it is a noun.
-- Common phrases like "post office" and "police station" use this construct form.
-- The construct form is called the "smichus" סמיכות in traditional grammar.
+- For example, in English I can say something is “The Bank Headquarters” and use “Bank” as an adjective even though it is a noun.
+- Common phrases like “post office” and “police station” use this construct form.
+- The construct form is called the “smichus” סמיכות in traditional grammar.
 - The construct form is contrasted with the absolute form, which is just a regular noun like “the apple.”
 
 
@@ -2480,7 +2511,7 @@ The _ketul_ noun pattern is one of the [[hebrew noun patterns]] and produces wor
 | בחר <br> choosing | בְּחִירָה <br><br> _bechira_ <br><br><br> a choice |
 | בדק <br> checking | בְּדִיקָה <br><br> _bedika_ <br><br><br> an examination |
 | הלך <br> travel | הֲלִיכָה <br><br> _halicha_ <br><br><br> a walk |
-Nouns in the _ketul_ noun pattern probably come from [[{{_pa'al_}} verbs]]. More examples of words in the _ketul_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtul)
+Nouns in the _ketul_ noun pattern probably come from [[{{_pa’al_}} verbs]]. More examples of words in the _ketul_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtul)
 
 
 * _Ketila_ noun pattern:
@@ -2491,7 +2522,7 @@ The _ketila_ noun pattern is one of the [[hebrew noun patterns]] and produces wo
 | יצר <br> creation | יְצוּר <br><br> _yezur_ <br><br><br> creature |
 | לבש <br> clothing | לְבוּשׁ <br><br> _levush_ <br><br><br> attire |
 | תחם <br> domain | תְּחוּם <br><br> _techum_ <br><br><br> area/zone |
-Nouns in the _ketul_ noun pattern probably come from [[{{_pa'al_}} verbs]]. More examples of words in the _ketila_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtila)
+Nouns in the _ketul_ noun pattern probably come from [[{{_pa’al_}} verbs]]. More examples of words in the _ketila_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtila)
 
 
 * _Kittul_ noun pattern: The _kittul_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
@@ -2515,7 +2546,7 @@ The _ktila_ pattern is one of the [[noun patterns that come from _pa’al_ verbs
 The _maktel_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *Hifil verb* | *_Miktal_ Noun* |
 |-|-|-|
-| ערב <br> transgression | הֶעֱבִיר <br><br> _he'evir_ <br><br><br> he/it transferred | מַעֲרִיב <br><br> _ma'ariv_ <br><br><br> evening sacrifice |
+| ערב <br> transgression | הֶעֱבִיר <br><br> _he’evir_ <br><br><br> he/it transferred | מַעֲרִיב <br><br> _ma’ariv_ <br><br><br> evening sacrifice |
 | ליץ <br> talking | הֵלִיץ <br><br> _helitz_ <br><br><br> he spoke for/against | מֵלִיץ <br><br> _melitz_ <br><br><br> an advocate |
 | נהג <br> behavior | הִנְהִיג <br><br> _hinhig_ <br><br><br> he led | מַנְהִיג <br><br> _manhig_ <br><br><br> leader |
 Nouns in the _maktil_ noun pattern come from [[{{_hifil_}} verbs]]. More examples of words in the _maktil_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=maqtil).
@@ -2524,7 +2555,7 @@ Nouns in the _maktil_ noun pattern come from [[{{_hifil_}} verbs]]. More example
 * _Miktal_ noun pattern: The _miktal_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Pa’al_ verb* | *_Miktal_ Noun* |
 |-|-|-|
-| אכל <br> eating | אוֹכֵל <br><br> _ocheil_ <br><br><br> [he] eats/is eating | מַאֲכָל <br><br> _ma'achal_ <br><br><br> food |
+| אכל <br> eating | אוֹכֵל <br><br> _ocheil_ <br><br><br> [he] eats/is eating | מַאֲכָל <br><br> _ma’achal_ <br><br><br> food |
 | קדש <br> holiness | קוֹדֶשׁ <br><br> _kodesh_ <br><br><br> [he/it] is holy | מִקְדָּשׁ <br><br> _mikdash_ <br><br><br> a place that is holy |
 | חלה <br> sickness | חוֹלֶה <br><br> _choleh_ <br><br><br> [he] is sick | מַחֲלָה <br><br> _machala_ <br><br><br> a sickness |
 Nouns in the _miktal_ noun pattern come from [[{{_pa’al_}} verbs]]. More examples of words in the _haktala_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=miqtal).
@@ -2592,17 +2623,17 @@ Nouns in the _taktil_ noun pattern come from [[_hif’il_]] verbs. More examples
 
 
 * Definite Article: A definite article is a grammatical entity in most languages.
-- In English, the definite article is the word "the," as in "the cat," as opposed to "a cat," which is the [[indefinite article]].
-- A definite article is one of the [[two types of {{articles}}]], along with [[the {{indefinite article}}]]
-- A definite article clarifies that the noun being spoken about is already known to the listener
-- There is a [[Hebrew definite article]] and an [[Aramaic definite article]]
+In English, the definite article is the word “the,” as in “the cat,” as opposed to “a cat,” which is the [[indefinite article]].
+A definite article is one of the [[two types of {{articles}}]], along with [[the {{indefinite article}}]]
+A definite article clarifies that the noun being spoken about is already known to the listener
+There is a [[Hebrew definite article]] and an [[Aramaic definite article]]
 
 
 * Indefinite Article: An indefinite article is a grammatical entity in most languages.
-- An indefinite article is one of the [[two types of {{articles}}]].
-- An indefinite article clarifies that we are speaking about any entity within a given category.
-- In English, the definite article is the word "a," as in "a cat," as opposed to "the cat," which would be the [[definite article]].
-- There is a [[Hebrew definite article]] and an [[Aramaic definite article]]
+An indefinite article is one of the [[two types of {{articles}}]].
+An indefinite article clarifies that we are speaking about any entity within a given category.
+In English, the definite article is the word “a,” as in “a cat,” as opposed to “the cat,” which would be the [[definite article]].
+There is a [[Hebrew definite article]] and an [[Aramaic definite article]]
 
 
 [Dikduk/Shoresh]
@@ -2725,14 +2756,27 @@ The addition of the ש produces a shoresh that has a [[causative]] meaning relat
 - Letters that are not weak are [[strong letters]].
 
 
+[Hisbonen/Info]
+
+* Desktop app:
+You can download the Hisbonen desktop app for different platforms here:
+===
+- [Mac](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip)
+- [Windows (exe)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe)
+- [Windows (nupkg)](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg)
+- [Linux x64](https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip)
+- [AMD 64 / Debian](https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb)
+===
+
+
 [Sefarim]
 
 * Sefarim:
 ===
-- [[Tanach]]
-- [[Mishnah]]
+- [![Tanach]]
+- [![Mishnah]]
 - [[Gemara]]
-- [[{Halacha} Sefarim]]
+- [![{Halacha} Sefarim]]
 ===
 
 
@@ -2740,129 +2784,405 @@ The addition of the ש produces a shoresh that has a [[causative]] meaning relat
 
 * Gemara:
 ===
-- [[Gemara {Kiddushin}]]
+- [[Talmud {Bavli}]]
+- [![Yerushalmi]]
+===
+
+
+* Talmud Bavli:
+===
+- [![Seder Zeraim]]
+- [![Seder Moed]]
+- [[Seder Nashim]]
+- [![Seder Nezikin ]]
+- [![Seder Kodashim]]
+- [![Seder Tohoros ]]
+===
+
+Seder Nashim:
+===
+- [![Yevamos]]
+- [![Ketubos]]
+- [![Nedarim]]
+- [![Nazir]]
+- [![Sotah]]
+- [![Gittin]]
+- [[Maseches {Kiddushin}]]
+===
+
+===
+- [[Maseches Kiddushin]]
 ===
 
 
 [Sefarim/Gemara/Kiddushin]
 
-* Gemara Kiddushin: Browse _Meseches Kiddushin_ by Perek or by Daf:
+* Gemaras on Mishnah on Kiddushin 41a:
+These are the Gemaras following [[Mishnah Ha’ish mekadesh|the Mishnah on Kiddushin 41a]]:
+1. [[Hashta B’shlucho mekadesh|The Gemara of hashta b’slucho mekadesh]] (*גמ’* השתא ... מלמיתב ארמלו, ‎41a:9-23)
+2. [[Ha’ish mekadesh es bito|The Gemara of k’sh’hi na’ara in]] (האיש מקדש את ... אני רוצה, ‎41a:23-29)
+3. [![The Gemara of shlichus menalan]] (שליחות מנלן, ‎41a:29-42a:32)
+3. [![The Gemara of yisomim sh’bo’u lichlok]] (אמר רב נחמן אמר שמואל, ‎42a:32-42b:2)
+3. [![The Gemara of achin sh’chalku]] (אמר רב נחמן האחין שחלקו, ‎42b:2-43:41)
+
+
+* Maseches Kiddushin: Browse _Meseches Kiddushin_ by Perek or by Daf:
 ===
-- [[Perakim]]
-- [[Dafim]]
+- [[Perek]]
+- [[Daf]]
 ===
 
-Perakim:
+Perek:
 ===
-- [[Ha’ish Mekadesh]]
+- [![1. Ha’isha<br>Niknes]]
+- [[2. {Perek |}{{Ha’ish<br>Mekadesh}}]]
+- [![3. Ha’omer]]
+- [![4. Asara<br>Yuchasin]]
 ===
 
-Dafim:
+Daf:
+First Perek:
 ===
+- [![Kiddushin {2a}]]
+- [![Kiddushin {2b}]]
+- [![Kiddushin {3a}]]
+- [![Kiddushin {3b}]]
+- [![Kiddushin {4a}]]
+- [![Kiddushin {4b}]]
+- [![Kiddushin {5a}]]
+- [![Kiddushin {5b}]]
+- [![Kiddushin {6a}]]
+- [![Kiddushin {6b}]]
+- [![Kiddushin {7a}]]
+- [![Kiddushin {7b}]]
+- [![Kiddushin {8a}]]
+- [![Kiddushin {8b}]]
+- [![Kiddushin {9a}]]
+- [![Kiddushin {9b}]]
+- [![Kiddushin {10a}]]
+- [![Kiddushin {10b}]]
+- [![Kiddushin {11a}]]
+- [![Kiddushin {11b}]]
+- [![Kiddushin {12a}]]
+- [![Kiddushin {12b}]]
+- [![Kiddushin {13a}]]
+- [![Kiddushin {13b}]]
+- [![Kiddushin {14a}]]
+- [![Kiddushin {14b}]]
+- [![Kiddushin {15a}]]
+- [![Kiddushin {15b}]]
+- [![Kiddushin {16a}]]
+- [![Kiddushin {16b}]]
+- [![Kiddushin {17a}]]
+- [![Kiddushin {17b}]]
+- [![Kiddushin {18a}]]
+- [![Kiddushin {18b}]]
+- [![Kiddushin {19a}]]
+- [![Kiddushin {19b}]]
+- [![Kiddushin {20a}]]
+- [![Kiddushin {20b}]]
+- [![Kiddushin {21a}]]
+- [![Kiddushin {21b}]]
+- [![Kiddushin {22a}]]
+- [![Kiddushin {22b}]]
+- [![Kiddushin {23a}]]
+- [![Kiddushin {23b}]]
+- [![Kiddushin {24a}]]
+- [![Kiddushin {24b}]]
+- [![Kiddushin {25a}]]
+- [![Kiddushin {25b}]]
+- [![Kiddushin {26a}]]
+- [![Kiddushin {26b}]]
+- [![Kiddushin {27a}]]
+- [![Kiddushin {27b}]]
+- [![Kiddushin {28a}]]
+- [![Kiddushin {28b}]]
+- [![Kiddushin {29a}]]
+- [![Kiddushin {29b}]]
+- [![Kiddushin {30a}]]
+- [![Kiddushin {30b}]]
+- [![Kiddushin {31a}]]
+- [![Kiddushin {31b}]]
+- [![Kiddushin {32a}]]
+- [![Kiddushin {32b}]]
+- [![Kiddushin {33a}]]
+- [![Kiddushin {33b}]]
+- [![Kiddushin {34a}]]
+- [![Kiddushin {34b}]]
+- [![Kiddushin {35a}]]
+- [![Kiddushin {35b}]]
+- [![Kiddushin {36a}]]
+- [![Kiddushin {36b}]]
+- [![Kiddushin {37a}]]
+- [![Kiddushin {37b}]]
+- [![Kiddushin {38a}]]
+- [![Kiddushin {38b}]]
+- [![Kiddushin {39a}]]
+- [![Kiddushin {39b}]]
+- [![Kiddushin {40a}]]
+- [![Kiddushin {40b}]]
 - [[Kiddushin {41a}]]
 ===
+Second perek:
+===
+- [[Kiddushin {41a}]]
+- [![Kiddushin {41b}]]
+- [![Kiddushin {42a}]]
+- [![Kiddushin {42b}]]
+- [![Kiddushin {43a}]]
+- [![Kiddushin {43b}]]
+- [![Kiddushin {44a}]]
+- [![Kiddushin {44b}]]
+- [![Kiddushin {45a}]]
+- [![Kiddushin {45b}]]
+- [![Kiddushin {46a}]]
+- [![Kiddushin {46b}]]
+- [![Kiddushin {47a}]]
+- [![Kiddushin {47b}]]
+- [![Kiddushin {48a}]]
+- [![Kiddushin {48b}]]
+- [![Kiddushin {49a}]]
+- [![Kiddushin {49b}]]
+- [![Kiddushin {50a}]]
+- [![Kiddushin {50b}]]
+- [![Kiddushin {51a}]]
+- [![Kiddushin {51b}]]
+- [![Kiddushin {52a}]]
+- [![Kiddushin {52b}]]
+- [![Kiddushin {53a}]]
+- [![Kiddushin {53b}]]
+- [![Kiddushin {54a}]]
+- [![Kiddushin {54b}]]
+- [![Kiddushin {55a}]]
+- [![Kiddushin {55b}]]
+- [![Kiddushin {56a}]]
+- [![Kiddushin {56b}]]
+- [![Kiddushin {57a}]]
+- [![Kiddushin {57b}]]
+- [![Kiddushin {58a}]]
+- [![Kiddushin {58b}]]
+===
+Third Perek:
+===
+- [![Kiddushin {58b}]]
+- [![Kiddushin {59a}]]
+- [![Kiddushin {59b}]]
+- [![Kiddushin {60a}]]
+- [![Kiddushin {60b}]]
+- [![Kiddushin {61a}]]
+- [![Kiddushin {61b}]]
+- [![Kiddushin {62a}]]
+- [![Kiddushin {62b}]]
+- [![Kiddushin {63a}]]
+- [![Kiddushin {63b}]]
+- [![Kiddushin {64a}]]
+- [![Kiddushin {64b}]]
+- [![Kiddushin {65a}]]
+- [![Kiddushin {65b}]]
+- [![Kiddushin {66a}]]
+- [![Kiddushin {66b}]]
+- [![Kiddushin {67a}]]
+- [![Kiddushin {67b}]]
+- [![Kiddushin {68a}]]
+- [![Kiddushin {68b}]]
+- [![Kiddushin {69a}]]
+===
+Fourth Perek:
+===
+- [![Kiddushin {69a}]]
+- [![Kiddushin {69b}]]
+- [![Kiddushin {70a}]]
+- [![Kiddushin {70b}]]
+- [![Kiddushin {71a}]]
+- [![Kiddushin {71b}]]
+- [![Kiddushin {72a}]]
+- [![Kiddushin {72b}]]
+- [![Kiddushin {73a}]]
+- [![Kiddushin {73b}]]
+- [![Kiddushin {74a}]]
+- [![Kiddushin {74b}]]
+- [![Kiddushin {75a}]]
+- [![Kiddushin {75b}]]
+- [![Kiddushin {76a}]]
+- [![Kiddushin {76b}]]
+- [![Kiddushin {77a}]]
+- [![Kiddushin {77b}]]
+- [![Kiddushin {78a}]]
+- [![Kiddushin {78b}]]
+- [![Kiddushin {79a}]]
+- [![Kiddushin {79b}]]
+- [![Kiddushin {80a}]]
+- [![Kiddushin {80b}]]
+- [![Kiddushin {81a}]]
+- [![Kiddushin {81b}]]
+- [![Kiddushin {82a}]]
+- [![Kiddushin {82b}]]
+===
 
 
-* Ha’ish Mekadesh:
+* Perek Ha’ish Mekadesh:
 Perek Ha’ish Mekadesh is the second perek of Meseches Kiddushin.
 ===
 - [[Text]]
-- [[Sequence]]
-- [[Summary]]
+- [![Outline]]
+- [![Summary]]
+- [![Halachos]]
 ===
 
 Text:
-===
-- [[By Daf]]
-- [[By Mishnah]]
-===
-
-By Daf:
+Dafim:
 ===
 - [[Kiddushin {41a}]]
+- [![Kiddushin {41b}]]
+- [![Kiddushin {42a}]]
+- [![Kiddushin {42b}]]
+- [![Kiddushin {43a}]]
+- [![Kiddushin {43b}]]
+- [![Kiddushin {44a}]]
+- [![Kiddushin {44b}]]
+- [![Kiddushin {45a}]]
+- [![Kiddushin {45b}]]
+- [![Kiddushin {46a}]]
+- [![Kiddushin {46b}]]
+- [![Kiddushin {47a}]]
+- [![Kiddushin {47b}]]
+- [![Kiddushin {48a}]]
+- [![Kiddushin {48b}]]
+- [![Kiddushin {49a}]]
+- [![Kiddushin {49b}]]
+- [![Kiddushin {50a}]]
+- [![Kiddushin {50b}]]
+- [![Kiddushin {51b}]]
+- [![Kiddushin {51a}]]
+- [![Kiddushin {52b}]]
+- [![Kiddushin {53a}]]
+- [![Kiddushin {53b}]]
+- [![Kiddushin {54a}]]
+- [![Kiddushin {54b}]]
+- [![Kiddushin {55a}]]
+- [![Kiddushin {55b}]]
+- [![Kiddushin {56a}]]
+- [![Kiddushin {56b}]]
+- [![Kiddushin {57a}]]
+- [![Kiddushin {57b}]]
+- [![Kiddushin {58a}]]
+- [![Kiddushin {58b}]]
 ===
-
-By Mishnah:
+Gemaras by Mishnah:
 ===
-- [[Mishnah on Kiddushin 41a]]
+< [[Gemaras on Mishnah on Kiddushin {41a}]]
+< [![Gemaras on Mishnah on Kiddushin {46a}]]
+< [![Gemaras on Mishnah on Kiddushin {48a}]]
+< [![Gemaras on Mishnah on Kiddushin {48a}]]
+< [![Gemaras on Mishnah on Kiddushin {50a:1}]]
+< [![Gemaras on Mishnah on Kiddushin {50a:2}]]
+< [![Gemaras on Mishnah on Kiddushin {50a:3}]]
+< [![Gemaras on Mishnah on Kiddushin {50b}]]
+< [![Gemaras on Mishnah on Kiddushin {52b}]]
+< [![Gemaras on Mishnah on Kiddushin {56b}]]
+< [![Gemaras on Mishnah on Kiddushin {58a}]]
 ===
-
-Sequence:
-
-Summary:
 
 
 [Sefarim/Gemara/Kiddushin/Dafim/41a]
 
 * Kiddushin 41a:
-Kiddushin 41a is composed of the following sections:
+Kiddushin 41a [[(image)]] is composed of the following sections:
+1. The end of the first perek (לא עלתה ... מושב לצים, ‎41a:1-5)
+2. [[Mishnah Ha’ish mekadesh|The Mishnah of _ha’ish mekadesh_]] (*האיש* מקדש ... נערה בו ובשלוחו, ‎41a:6-8)
+3. [[Hashta B’shlucho mekadesh|The Gemara of _hashta b’shlucho_]] (*גמ’* השתא ... מלמיתב ארמלו, ‎41a:9-23)
+4. [[Ha’ish mekadesh es bito|The Gemara of _ha’ish mekadesh es bito_]] (האיש מקדש את ... אני רוצה, ‎41a:23-29)
+5. [![The sugya of shlichus menalan]] (שליחות מנלן ... ‎41a:29-42a:32)
+
+Image:
+![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a.jpg “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)
 ===
-- [[{Mishnah} on Kiddushin 41a]]
-- [[Hashta B'slucho Mekadesh]]
-- [[Ha'ish mekadesh es bito]]
+> [[#]]
 ===
 
 
-* Mishnah on Kiddushin 41a:
-Perek Ha’ish Mekadesh begins with a Mishnah.
-< האיש מקדש בו ובשלוחו
+[Sefarim/Gemara/Kiddushin/Dafim/41a/Mishnah]
+
+* Mishnah Ha’ish Mekadesh:
+Perek Ha’ish mekadesh begins with the first Mishnah of the second perek:
+< *האיש* מקדש בו ובשלוחו
 < האשה מתקדשת בה ובשלוחה
-< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-===
-- [[Context]]
-- [[Translate]]
-- [[Commentary]]
-===
-
-Context: This section is a new Mishnah, and so there isn't prior context to consider.
-
-Translate:
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 ===
 - [[Words]]
-- [[Full Text]]
+- [[Literal]]
+- [[Basic]]
+- [[Analysis]]
+- [[Commentary]]
+- [[Conclusion]]
 ===
 
 Words:
-These are possible meanings of the words without considering context:
+These are the possible meanings of the words in the Mishnah, without considering context. {! Use this step to get better at guessing which meaning a given word has in the current context.}
 < [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
 < [[האשה]] [[מתקדשת]] [[בה]] [[ובשלוחה]]
-< [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]
+< [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]:
 
-Full Text:
-This is one understanding of the text:
-< [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
-The Mishnah begins: האיש, _ha’ish_, “the man,” מקדש, _mekadesh_, “is/is being _mekadesh_,” ie, he is creating the _kiddushin_ stage of marriage with a woman (which is prior to the second stage of _nisuyin_ after which they will be formally married.)
-When the Mishnah describes an ongoing action like this, ie “the man is being mekadesh”, we understand it to be telling us that the described action is _mutar lechatchila_, ie, perfectly acceptable to do, as opposed to if the Mishnah would have used a past-tense verb (eg “the man was _mekadesh_”) which would imply the action is only permissible _bedieved_, ie if already done it can be relied upon.
-So to recap, האיש מקדש, _ha’ish mekadesh_, a man is permitted to be mekadesh, בו,  _bo_, “via himself,” ובשלוחו, _ub’shlucho_, and (ie or) “via his shaliach.” Ie, either of these are perfectly acceptable and effective ways of producing the _kiddushin_ state.
-===
-> [[Mishnah 2|Continue]]
-===
+Literal:
 
-Mishnah 2:
-< [[האשה]] [[מתקדשת]] [[בה]] [[ובשלוחה]]
-The Mishnah continues: האשה, “the woman,” מתקדשת, “is becoming mekudeshes,” ie, is entering the kiddushin stage of marriage. 
-===
-> [[Mishnah 3|Continue]]
-===
+Basic:
 
-Mishnah 3:
-< [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]
+Analysis:
 
 Commentary:
+These are commentators on our Mishnah as it appears in the Gemara.
 ===
-- [[Points]]
-- [[Mefarshim]]
+- [![Rashi]]
+- [![Tosofos]]
 ===
 
-Points:
-
-Mefarshim:
+Conclusion:
 
 
-* Ha'ish mekadesh es bito:
+* Hashta B’shlucho Mekadesh:
+The first Gemara on the Mishnah Kiddushin 41a begins:
+< גמ’ השתא בשלוחו מקדש בו מיבעיא אמר
+< רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
+< ספרא מחריך רישא רבא מלח שיבוטא
+< איכא דאמרי בהא איסורא נמי אית בה
+< כדרב יהודה אמר רב דאמר רב יהודה
+< אמר רב אסור לאדם שיקדש את האשה
+< עד שיראנה שמא יראה בה דבר מגונה
+< ותתגנה עליו ורחמנא אמר ואהבת לרעך
+< כמוך וכי איתמר דרב יוסף אסיפא איתמר
+< האשה מתקדשת בה ובשלוחה השתא
+< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
+< מצוה בה יותר מבשלוחה כי הא דרב ספרא
+< מחריך רישא רבא מלח שיבוטא אבל בהא
+< איסורא לית בה כדר״ל דאמר ר״ל טב
+< למיתב טן דו מלמיתב ארמלו: <span style="color: lightgray">האיש</span>
+===
+- [![Words]]
+- [![Literal]]
+- [![Basic]]
+- [![Analysis]]
+- [![Commentary]]
+- [![Conclusion]]
+===
 
 
-* Hashta B'slucho Mekadesh:
+* Ha’ish mekadesh es bito:
+The fourth section of [[Kiddushin 41a]] reads:
+< <span style="color: lightgray">למיתב טן דו מלמיתב ארמלו:</span> האיש
+< מקדש את ביתו כשהיא נערה\: כשהיא
+< נערה אין כשהיא קטנה לא מסייע ליה
+< לרב דאמר רב יהודה אמר רב ואיתימא
+< רבי אלעזר אסור לאדם שיקדש את בתו
+< כשהיא קטנה עד שתגדל ותאמר בפלוני אני
+< רוצה: <span style="color: lightgray">שליחות מנלן דתניא ושלח מלמד</span>
+===
+- [![Words]]
+- [![Literal]]
+- [![Basic]]
+- [![Analysis]]
+- [![Commentary]]
+- [![Conclusion]]
+===
 
 
 [Sefarim/Halacha]
@@ -2894,6 +3214,62 @@ Mefarshim:
 * Torah:
 
 
+[Shorushim]
+
+* Shoresh קדש:
+The shoresh קדש has a range of meanings.
+Jastrow:
+> קוֹדֶשׁ, קֹדֶשׁ m. (b. h.;  קָדַשׁ) sanctity, sacred affair, sacred ground, dedicated object. Yoma 12ᵇ, a. fr. מעלין בק׳, v. עָלָה. Sabb. XVI, 1 כל כתבי הק׳ וכ׳ all sacred scriptures must be saved from fire (on the Sabbath). Tosef. ib. XIII (XIV), 1 אין קורין בכתבי הק׳ we must not read from the Hagiographa (on the Sabbath); Y. ib. XVI, 15ᶜ top אין קורין בכתבי הק׳ אלא וכ׳ we must not read from the Hagiographa except from the afternoon service onward. Bets. 5ᵃ נוהגין אותו היום ק׳ וכ׳ we observe the rest of the day as a holy day and the next day likewise. Pes. 104ᵃ; Ḥull. 26ᵃ, v. חוֹל III. Ib. I, 7 בין ק׳ לק׳, v. בָּדַל; ib. בין ק׳ חמוד לק׳ הקל between the stricter and the lighter sanctities; a. v. fr.—שם ק׳ or ק׳ (sub. שם) sacred name, name of the Lord. Shebu. 35ᵇ, v. חוֹל III. Treat. Sof’rim IV, 6, sq.; a. fr.—רוח הק׳, v. רוּחַ.—Esp. a) sacred precincts, Temple ground. Zeb. IX, 2 כל שפסולו בק׳ הק׳ מקבלו whatever has become unfit within the sanctuary, the sanctuary accepts (it cannot be removed from the altar, if it was put on); לא היה פסולו בק׳ וכ׳ if its unfitness did not arise within the sacred precincts, the sanctuary does not accept it; a. fr.—b) הק׳ the Holy, contrad. to עֲזָרָה, a. to ק׳ הקדשים, v. infra. Yoma III, 3; 6 בק׳ within the precincts of the Holy. Midd. IV, 5; a. fr.—Pl. קֳדָשִׁים.—קודש הק׳, also קָדְשֵׁי ק׳ most holy, esp. the Holy of Holies, the westernmost compartment of the Temple. Midd. l. c. Yoma V, 1; a. fr.—Cant. R. to I, 1 כל הכתובים קדש וזה ק׳ הק׳ all Biblical scriptures are holy, but this (Song of Songs) is most holy. Y. Meg. III, 74ᵃ, a. e. נחום איש קדש הק׳ Nahum, the man of extreme holiness; a. e.—Esp. קֳדָשִׁים consecrated objects, sacrifices. Zeb. V, 4 העולה קדשי ק׳ the burnt-offering belongs to the highest class of sacrifices. Ib. 6, sq. ק׳ קלים sacrifices of a minor grade. Ib. X, 2 מפני שהוא קדשי ק׳ because it belongs to the highest grade; a. fr.—קדשי מזבח things dedicated for the altar, sacrifices; קדשי בדק הבית objects dedicated (for their value) to be used for the needs of the Temple building. Tem. VII, 1, sq.; a. fr.—ק׳ (סדר) Kodashim, the fifth of the six orders of the Mishnah, Tosefta, a. Talmud Babli. Sabb. 31ᵃ. Esth. R. to I, 2. 
+> קוֹדַשׁ, קֹדַשׁ, קוּדְשָׁא  ch.  same 1) holiness, sanctuary &c. Targ. Ex. XXIX, 29. Targ. Ps. LI, 13. Targ. Ex. XXVIII, 29; a. fr.—Pl. קוּדְשִׁין, קוּדְשַׁיָּא. Targ. Lev. XXI, 22. Ib. XXII, 2; a. fr.—קודש ק׳ the Holy of Holies. Targ. Ex. XXVI, 33; a. fr. —2) the Holiness, the Lord, usu. with בריך הוא (abbrev. קב"ה), v. קָדוֹשׁ. Targ. Y. Num. XXI, 34. Targ. Y. Gen. XXV, 21; a. fr.—Ber. 7ᵃ ומי … דק׳ ב"ה is wrath before (to be ascribed to) the Lord? Keth. 77ᵇ; a. fr.
+
+
+* Shoresh שלח:
+The shoresh שלח has a range of meanings.
+- Words from the shoresh שלח generally have to do with “sending.”
+===
+> [[Advanced]]
+===
+
+Advanced:
+| *Hebrew* | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|---------|--------|-----------|-----------|-----------|
+| [[Active]]  | [[_Pa’al_]] | [[_Pi’el_]] | _Hif’il_ (n/a) | [[_Hispa’el_,<br>_Nispa’el_]] |
+| [[Passive]] | _Nif’al_ (n/a) | [[_Pu’al_]] | _Huf’al_ (n/a) | \^ |
+<!>
+| *Aramaic* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[Active]]  | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
+| [[Aramaic {Passive \/ Reflexive}]] | _Ispe’el_ (n/a) | [[_Ispa’al_]] | _Itaf’al_ (n/a) |
+See [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A9%D6%B8%D7%81%D7%9C%D6%B7%D7%97.1).
+Pa’al: 
+> שָׁלַח (b. h.;  cmp. שָׁלָה) to draw out; to stretch forth; to send. Erub. III, 2 השׁוֹלֵחַ ערובו וכ׳ if one sends his ‘Erub (עֵרוּב) forth to be laid by a deaf and dumb person. Ḥull. 59ᵇ, a. fr. שָׁלְחוּ מתם they sent word from there (from Palestine to Babylonia). Gitt. IV, 1 השולח גט וכ׳ if a man sends a letter of divorce to his wife &c. B. Kam. VI, 4, v. בְּעֵרָה. Ib. ש׳ ביד פיקח (ib. 60ᵃ שִׁילֵּחַ) if he sent out fire through a sane person; a. fr.
+> —Part. pass. שָׁלוּחַ q. v.—ש׳ יד ב־ [to stretch out a hand against,] to make illegitimate use of, to misappropriate (Ex. XXII, 10). B. Mets. III, 12 השולח יד בפקדון if a person makes use of a trust. Ib. החושב לִשְׁלוֹחַ יד וכ׳ if he declares his intention to use a trust; אינו חייב עד שיִשְׁלַח בו יד he is not responsible (for loss), until he has used it; a. fr.
+
+Pi’el:
+> Pi. - שִׁלֵּחַ  same, to send; to send away, dismiss. Bets. I, 9 אין מְשַׁלְּחִין בי"ט וכ׳ on the Holy Day you dare not send (to a friend) anything except portions (of eatables, ready for use); משלחין בהמה וכ׳ you may send cattle … alive or slaughtered. Ḥull. XII, 3 שִׁלְּחָהּ וחזרה if he sent the mother bird away, and she came back. Ib. אמר … ומְשַׁלֵּחַ הבנים if he says, I will take the mother, and send the young away; חייב לשַׁלֵּחַ he is bound to send her away. Gen. R. s. 21 שִׁלְּחוֹ מגן … ושלחו וכ׳ he banished him (Adam) from the paradise of this world and from that of the other world; a. fr.
+
+Pu’al: This is just the [[passive]] of the meanings for [[#piel]].
+
+Hispa’el, Nispa’el:
+> Hithpa. - הִשְׁתַּלֵּחַ, 
+> Nithpa. - נִשְׁתַּלֵּחַ to be sent off; to be commissioned. Yoma VI, 2, a. e. המִשְׁתַּלֵּחַ the goat that is to be sent away (Lev. XVI, 10), the scapegoat. Ib. 1 נשפך … המשתלח if the blood (of the goat designated for sacrifice) was spilt, the scapegoat is to be put to death (cannot be used for the ceremony). Gen. R. s. 49 מעשה באחד שנש׳ לגבות וכ׳ it happened that one was commissioned to tax the inhabitants &c.; a. fr. 
+
+Peal:
+> שְׁלַח  ch.  same 
+> 1) to send, send off. Targ. Num. XIII, 2. Targ. O. ib. 16. Targ. Ps. XLIV, 3 Ms. (ed. פסד׳). Targ. Jer. XLII, 6 שָׁלְחִין (not שולחין); a. fr.
+> —Part. pass. שְׁלִיחַ; f. שְׁלִיחָא; pl. שְׁלִיחִין, שְׁלִיחָן. Ob. I, 1. Targ. Is. XLIV, 26 שְׁלִיחוֹהִי ed. Lag. (ed. Wil. שְׁלוּח׳). Targ. I Chr. XIV, 15; a. fr.—Ber. 28ᵃ ש׳ להו וכ׳ R. J. sent them word to the school house; a. fr.—Koh. R. to III, 2 שְׁלִיחְהוֹן דברייתא the messenger of men (men’s guardian angel). 
+> 2) to throw off, undress, flay (cmp. פָּשַׁט). Targ. Esth. V, 14. Targ. Is. XXXII, 11. Targ. II Chr. XXIX, 34; a. fr.—Ber. l. c. שְׁלַח מדך take off thy cloak (v. מַדָּא). Y. Taan. III, end, 67ᵃ הוה ש׳ מסאניה he took off one shoe; כד הוה ש׳ תריהון when he had taken off both of them; a. fr.
+> —Part. pass. as ab. Sot. 8ᵇ (proverbial expression) ש׳ ערטילאי וכ׳ undressed, naked, but with shoes on (a person cares more for shoes than for any other article of dress); Keth. 65ᵇ top האי תנא ש׳ וכ׳ this Tannai (who gave the wife the right to ask for three pairs of shoes and one suit of clothes) seems to assume that a woman cares more for shoes &c. Koh. R. to V, 10 איך אינון אתיין שליחין וכ׳ (not שלו׳) how will they come (on resurrection day), naked, or dressed? Ib. היך זרעתין ש׳ וכ׳ how didst thou plant them (the beans), undressed or dressed (in the pods)? a. e.
+
+Pael: 
+> Pa. - שַׁלֵּחַ 1) to send; to send off, dismiss. Targ. O. Lev. XVI, 21, sq. Targ. O. Ex. VIII, 17; a. fr.—Part. pass. מְשַׁלַּח; f. מְשַׁלְּחָא &c. Targ. O. Gen. XXXII, 19. —2) to strip, undress. Y. R. Hash. II, 58ᵇ top ובטול … יְשַׁלַּח and in the shade of the fig tree he (the ox) would shed his skin (feeling warm, he would rub himself against the tree); Snh. 18ᵇ. Sabb. 33ᵇ הוו מְשַׁלְּחֵי מנייהו used to put off their clothes. Shebu. 41ᵃ צורבא דרבנן משלח וכ׳ may a scholar strip a man of his cloak? (i.e. should a scholar as such have any prerogatives in law?); a. fr.
+
+Afel:
+> Af. - אַשְׁלַח 1) to send off, let loose. Targ. O. Ex. VIII, 17. —2) to strip, throw off; to flay. Targ. I Sam. XIX, 24. Targ. II Chr. XXXV, 11. Targ. Lev. I, 6 (Y. II ויחליש). Targ. Num. XX, 26; a. fr.
+
+Ispaal: 
+> Ithpa. - אִשְׁתַּלַּח 1) to be sent, sent off. Targ. Jud. V, 15. Targ. Y. Gen. XXXII, 19; a. fr. —2) to be stripped; to shed the skin. Ib. III, 21.—Ḥull. 59ᵃ מאן … מִישְׁתַּלַּח משכיה he who eats three Tiḳlas of asafoetida on an empty stomach, will shed his skin; ואי לא … מישת׳ משכאי had I not sat in water, I should have &c.
+
+
 [Topics]
 
 * Topics:
@@ -2921,20 +3297,42 @@ Mefarshim:
 
 [Words]
 
+* אִשָּׁה: The Hebrew word אִשָּׁה can mean “woman” or “wife.” It is the feminine version of the word [[איש]].
+
+
+* אֵת: The Hebrew word אֵת is the Hebrew direct object pronoun.
+- Every language must clarify who is doing the action and who the action is being done to.
+- In English, we use word order to convey this. So, “the man at the apple” is clear because the doer is always before the verb.
+- Semetic languges however allow the doer to be mentioned after the verb, such as אוכל את תפוח אדם (_ochel es tapuach adam_, "eats )
+
+
+* או: The word אוֹ is the Hebrew word for “or.”
+
+
 * איש: The word אִישׁ means “man” in Hebrew.
-It can have a connotation of an important man, as opposed to the Hebrew [[גבר]] or Aramaic [[גברא]].
+It can have a connotation of an important man, as opposed to the Hebrew [[גבר]] or [![אדם]].
 
 
-* את:
+* את: The letter sequence את is the Hebrew word אֵת.
 
 
-* בה:
+* בה: The letter sequence בה is probably the [[Prefix ב#Various suffixes|the prefix ב with the feminine singular suffix]].
+- The prefix ב has [[Prefix ב#Meanings|various meanings]] including “in” and “with.”
 
 
-* בו:
+* בו: The letter sequence בו is probably the [[Prefix ב#Various suffixes|the prefix ב with the masculine singular suffix]].
+- The prefix ב has [[Prefix ב#Meanings|various meanings]] including “in” and “with.”
+- There is a word that sounds like בו that means “comes” or “came,” but that’s spelled בָּא not בּוֹ.
 
 
-* בתו:
+* בת: The Hebrew word בַּת means “daughter.”
+- It can appear with posessive suffixes such as [[בתו]] (_bito_, “his daughter.”)
+
+
+* בתו: The letter sequence בתו is probably:
+- The Hebrew word [[בת]], meaning daughter.
+- The Hebrew possessive suffix ו meaning “his”
+- The combination is pronounced בִּתּוֹ, _bito_.
 
 
 * גבר: גֶּבֶר is a Hebrew word for “man.” 
@@ -2945,28 +3343,73 @@ It can have a connotation of an important man, as opposed to the Hebrew [[גבר
 
 
 * האיש:
-The word האיש means “the man.”
-- It begins with the letter ה meaning “the” [[Hebrew definite article|<small>(more)</small>]]
-- It continues with the word [[איש]] meaning “man.”
+The letters האיש only correspond to the meaning “the man.”
+- It begins with the letter ה meaning “the” [[Hebrew definite article|<small>(→)</small>]]
+- It continues with the [[איש]] meaning “man.”
 
 
-* האשה:
+* האשה: The letter sequence האשה probably:
+- The [[Hebrew definite article]] ה meaning “the.”
+- The Hebrew word [[אִשָּׁה]].
 
 
-* ובשלוחה:
+* ובשלוחה: The letter sequence ובשלוחה can only be:
+- The [[prefix ו]] meaning and/or.
+- The [[prefix ב]] which has various [[Prefix ב#Meanings|meanings]], such as “in,” “with,” and “on.”
+- The word [[שלוח]], which means “is sent” or “a person/thing that is sent.”
+- The [![Suffix ה#Noun|suffix ה after a noun]], meaning “her” or “its.”
 
 
-* ובשלוחו:
+* ובשלוחו: The letter sequence ובשלוחו is:
+- The [[prefix ו]], meaning and/or.
+- The [[prefix ב]] which has various [[Prefix ב#Meanings|meanings]] including “in,” “with,” and “on.”
+- The word [[שלוח]], which means “is sent” or “a person/thing that is sent.”
+- The [![Suffix ו#Noun|suffix ו after a noun]], meaning “his” or “its.”
 
 
-* כשהיא:
+* כאשר: The Hebrew word כַּאֲשֶׁר means “when.”
+- It can be condensed to a prefix כש used before an occurance. [[Hebrew prefix כש|<small>(→)</small>]]
 
 
-* מקדש:
+* כשהיא: The letter sequence כשהיא is probably:
+- The [[Hebrew prefix כש]], short for the Hebrew word [[כאשר]], meaning “when.”
 
 
-* מתקדשת:
+* מְקַדֵּשׁ: The word מְקַדֵּשׁ _mekadesh_ has several aspects:
+- It is a type of word called an active participle, meaning it describes an action that is ongoing or habitual (e.g. he runs/is running.) [[active participle|<small>(→)</small>]]
+- It comes from the root or shoresh קדש, meaning holiness. (More: [[Shoresh קדש]], [[shoresh]])
 
 
-* נערה:
+* מִקְדָּשׁ: The word מִקְדָּשׁ means sanctuary or holy place, from the [[shoresh קדש]].
+
+
+* מקדש: The letter sequence מקדש could represent several words:
+- It could be the word מְקַדֵּשׁ _mekadesh_, meaning “makes/is making holy” [[מְקַדֵּשׁ|<small>(→)</small>]]
+- It could be the word מְקַדֵּשׁ _mikdash_, meaning sanctuary [[מִקְדָּשׁ|<small>(→)</small>]]
+- It could be [[the {{prefix מ}}]] meaning “from,” followed by some place or person spelled קדש, as in וַיִּסְעוּ מִקָּדֵשׁ (_vayisu m’kadesh_, “they traveled from Kadesh,” Bamidbar 20:22.)
+
+
+* מתקדשת: The letter sequence מתקדשת is the Hebrew word מִתְקַדֶּשֶׁת:
+- The word מִתְקַדֶּשֶׁת can mean “she makes herself holy.”
+===
+> [[More]]
+===
+
+More:
+- The מת prefix indicates it is an adjective or verb called an [[active participle]] which describes an ongoing action, such as “runs” or “is running.”
+- The ת suffix indicates a singular feminine verb, indicating a single feminine doer.
+- It comes from the [[shoresh קדש]], which produces words related to “holiness.”
+- The מת prefix indicates it is a [[“hispa’el”]] verb, which is the Hebrew [[reflexive]], indicating an action that affects or transforms the doer.
+- Putting these all together, מִתְקַדֶּשֶׁת might mean “she makes herself holy.” This can also be a technical term for a woman who becomes halachically engaged to a man for marriage.
+
+
+* נערה: The letter sequence נערה is the Hebrew word נַעֲרָה, meaning “young women.”
+- In halachah, נַעֲרָה can be a technical term for a girl of a specific age. The term קְטַנָּה generally refers to a girl below the age of 12. From 12 to 12.5 years of age, she is called a נַעֲרָה. After 12.5 years, she becomes a בּוֹגֶרֶת, indicating full maturity. These definitions are general and may be contested or inapplicable depending on the given context.
+
+
+* שלוח: The Hebrew word שָׁלוּחַ (_shaluach_) has various meanings.
+- It can mean “is sent” as in המכתב שלוח, (_hamichtav shaluach_, “the letter is sent.”)
+- It can mean “something or someone who is sent” such as a messenger, (השלוח, _hashaluach_, the one who is sent.)
+- The word שלוח comes from the [[shoresh שלח]]
+- Grammatically, it is a [[passive participle]], specifically a [[pa’al passive participle]].
 
