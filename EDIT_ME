@@ -15,6 +15,50 @@ This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for improvin
 
 [Dikduk]
 
+* Identifying verbs:
+Identifying a verb in Hebrew or Aramaic entails discerning several important pieces of information. For example, let’s identify the verb “מאכיל.”
+===
+> [[2|Okay]]
+===
+
+2: Every Hebrew and Aramaic verb comes from a shoresh or root. [[Shoresh|<small>(more)</small>]]
+A root is a short series of letters that produces a family of related words. For example: 
+| *Shoresh* | * Meaning* |
+| אכל | Eating |
+| הלך | Walking / travel |
+| אמר | Speech |
+We identify the root of a word by finding which letters are not part of suffixes or prefixes.
+Looking at our word מאכיל, we can identify the shoresh אכל, which is used to produce words related to the concept of “eating.”
+===
+> [[3|Okay]]
+===
+
+3: Every Hebrew and Aramaic verb has what’s called a “binyan.” [[Binyan|<small>(more)</small>]]
+A binyan is a theme of meaning that is combined with a shoresh to produce a verb family.
+For example, you might have a binyan whose theme is “causative,” i.e. it produces verbs where an actor causes another thing to do a given action.
+Putting the shoresh אכל into a “causative” binyan might produce the verb לְהָכִיל, _lehachil_, “to feed” (i.e, to _cause_ someone else to eat.)
+Every binyan has a special pattern of spelling and pronunciation that allows us to identify words in that binyan.
+===
+> [[4|Okay]]
+===
+
+4: Every verb has what’s called a tense. [[Tenses of Hebrew and Aramaic|<small>(more)</small>]]
+For example, taking our verb מאכיל, we might know that the spelling indicates a verb that is in the “active participle” tense, which indicates an ongoing or habitual action, i.e “feeds” or “is feeding,” as opposed to “fed” or “will feed.”
+===
+> [[5|Okay]]
+===
+
+5: Every verb has what’s called “person” and “number.” This tells you how many people are doing the action, and whether they are masculine or feminine. Our example of מאכיל is masculine singular, indicating a single male doer.
+===
+> [[6|Okay]]
+===
+
+6: For every combination of a binyan and a tense, there will be a table of conjugations for every person. For example, these are the conjugations for [[Hifil Active Participle for Regular Shorushim|the Hebrew causative binyan put in the active participle]].
+===
+> [[#|Got it]]
+===
+
+
 * Tense:
 A tense is a form of a verb that has a specific time-period or function.
 - A verb in Hebrew or Aramaic has a [[shoresh]], [[binyan]], and [[tense]].
@@ -996,6 +1040,122 @@ The [[_pe’al_ past tense]] follows these conjugations for [[regular shorushim]
 [^2]: Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
+[Dikduk/Aramaic/Pronouns]
+
+* Aramaic Possessive Suffixes:
+Aramaic also has a variety of possessive suffixes that can be added to words to indicate ownership. (This is placeholder content that has not been thoroughly checked.)
+| [[Masculine Singular<br>{|e.g. בַּיְתָא, _baysau_, “house”}]] | [[Masculine Plural<br>{|e.g. בָּתֵּי, _basei_, “houses”}]] |
+| [[Feminine Singular<br>{|e.g. אַרְעָא, _ar’au_, “land”}]]  | [[Feminine Plural<br>{|e.g. אַרְעִין, _ar’in_, “lands”}]] |
+
+Masculine Singular:
+| *Person*           | *Singular*                                                                                       |    \<    | *Plural*                                                                                         |    \<    |
+|--------------------|--------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------|----------|
+| *First Person*     | [[First person singular for masculine singular noun|בֵּיתִי<br>_beisi_<br>“My house”]]            |  \<      | [[First person plural for masculine singular noun|בֵּיתֵינָא<br>_beisayna_<br>“Our house”]]      |  \<      |
+| *Second Person*    | [[Second person masculine singular for masculine singular noun|בֵּיתָך<br>_beisauch_<br>“Your house” (man)]] | [[Second person feminine singular for masculine singular noun|בֵּיתֵך<br>_beisaych_<br>“Your house” (woman)]] | [[Second person masculine plural for masculine singular noun|בֵּיתְכוֹן<br>_beischon_<br>“Your house” (men)]] | [[Second person feminine plural for masculine singular noun|בֵּיתְכֶן<br>_beis’chen_<br>“Your house” (women)]] |
+| *Third Person*     | [[Third person masculine singular for masculine singular noun|בֵּיתֵיהּ<br>_beisei_<br>“His house”]]          | [[Third person feminine singular for masculine singular noun|בֵּיתָהּ<br>_beisau_<br>“Her house”]]          | [[Third person masculine plural for masculine singular noun|בֵּיתְהוֹן<br>_beisayhon_<br>“Their house” (men)]]        | [[Third person feminine plural for masculine singular noun|בֵּיתְהוֹן<br>_beisayhon_<br>“Their house” (women)]]         |
+
+Masculine Plural:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for masculine plural noun|בָּתַי<br>_basai_<br>“My houses”]]                      |  \<      | [[First person plural for masculine plural noun|בָּתֵינָא<br>_basayno_<br>“Our houses”]]                |  \<    |
+| *Second Person*    | [[Second person masculine singular for masculine plural noun|בָּתָך<br>_basaich_<br>“Your houses” (man)]] | [[Second person feminine singular for masculine plural noun|בָּתַיִך<br>_basayich_<br>“Your houses” (woman)]] | [[Second person masculine plural for masculine plural noun|בָּתֵיכוֹן<br>_baseichon_<br>“Your houses” (men)]] | [[Second person feminine plural for masculine plural noun|בָּתֵיכוֹן<br>_baseichon_<br>“Your houses” (women)]]          |
+| *Third Person*     | [[Third person masculine singular for masculine plural noun|בָּתֵיהוֹן<br>_baseihon_<br>“His houses”]]          | [[Third person feminine singular for masculine plural noun|בָּתֵיהוֹן<br>_baseihon_<br>“Her houses”]]       | [[Third person masculine plural for masculine plural noun|בָּתֵיהוֹן<br>_baseihon_<br>“Their houses” (men)]]           | [[Third person feminine plural for masculine plural noun|בָּתֵיהוֹן<br>_baseihon_<br>“Their houses” (women)]]           |
+
+Feminine Singular:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for feminine singular noun|אַרְעִי<br>_ar’i_<br>“My land”]]                        |  \<      | [[First person plural for feminine singular noun|אַרְעֵינָא<br>_ar’ayna_<br>“Our land”]]                  |  \<    |
+| *Second Person*    | [[Second person masculine singular for feminine singular noun|אַרְעָך<br>_ar’auch_<br>“Your land” (man)]] | [[Second person feminine singular for feminine singular noun|אַרְעֵך<br>_ar’ech_<br>“Your land” (woman)]] | [[Second person masculine plural for feminine singular noun|אַרְעַיכוֹן<br>_ar’aichon_<br>“Your land” (men)]]   | [[Second person feminine plural for feminine singular noun|אַרְעַיכֶן<br>_ar’aichen_<br>“Your land” (women)]]   |
+| *Third Person*     | [[Third person masculine singular for feminine singular noun|אַרְעֵיהּ<br>_ar’eih_<br>“His land”]]             | [[Third person feminine singular for feminine singular noun|אַרְעָהּ<br>_ar’ah_<br>“Her land”]]           | [[Third person masculine plural for feminine singular noun|אַרְעָהוֹן<br>_ar’ayhon_<br>“Their land” (men)]]        | [[Third person feminine plural for feminine singular noun|אַרְעָהוֹן<br>_ar’ayhon_<br>“Their land” (women)]]         |
+
+Feminine Plural:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for feminine plural noun|אַרְעַי<br>_ar’ai_<br>“My lands”]]                        |  \<      | [[First person plural for feminine plural noun|אַרְעֵינָא<br>_ar’ayna_<br>“Our lands”]]                  |  \<    |
+| *Second Person*    | [[Second person masculine singular for feminine plural noun|אַרְעֵיכוֹן<br>_ar’eichon_<br>“Your lands” (man)]] | [[Second person feminine singular for feminine plural noun|אַרְעַיִך<br>_ar’ayich_<br>“Your lands” (woman)]] | [[Second person masculine plural for feminine plural noun|אַרְעֵיכוֹן<br>_ar’eichon_<br>“Your lands” (men)]] | [[Second person feminine plural for feminine plural noun|אַרְעֵיכוֹן<br>_ar’eichon_<br>“Your lands” (women)]] |
+| *Third Person*     | [[Third person masculine singular for feminine plural noun|אַרְעֵיהוֹן<br>_ar’eihon_<br>“His lands”]]            | [[Third person feminine singular for feminine plural noun|אַרְעֵיהוֹן<br>_ar’eihon_<br>“Her lands”]]          | [[Third person masculine plural for feminine plural noun|אַרְעֵיהֶם<br>_ar’eichem_<br>“Their lands” (men)]]   | [[Third person feminine plural for feminine plural noun|אַרְעֵיהֶן<br>_ar’eichen_<br>“Their lands” (women)]]   |
+
+First person singular for masculine singular noun:
+
+First person plural for masculine singular noun:
+
+Second person masculine singular for masculine singular noun:
+
+Second person feminine singular for masculine singular noun:
+
+Second person masculine plural for masculine singular noun:
+
+Second person feminine plural for masculine singular noun:
+
+Third person masculine singular for masculine singular noun:
+
+Third person feminine singular for masculine singular noun:
+
+Third person masculine plural for masculine singular noun:
+
+Third person feminine plural for masculine singular noun:
+
+First person singular for masculine plural noun:
+
+First person plural for masculine plural noun:
+
+Second person masculine singular for masculine plural noun:
+
+Second person feminine singular for masculine plural noun:
+
+Second person masculine plural for masculine plural noun:
+
+Second person feminine plural for masculine plural noun:
+
+Third person masculine singular for masculine plural noun:
+
+Third person feminine singular for masculine plural noun:
+
+Third person masculine plural for masculine plural noun:
+
+Third person feminine plural for masculine plural noun:
+
+First person singular for feminine singular noun:
+
+First person plural for feminine singular noun:
+
+Second person masculine singular for feminine singular noun:
+
+Second person feminine singular for feminine singular noun:
+
+Second person masculine plural for feminine singular noun:
+
+Second person feminine plural for feminine singular noun:
+
+Third person masculine singular for feminine singular noun:
+
+Third person feminine singular for feminine singular noun:
+
+Third person masculine plural for feminine singular noun:
+
+Third person feminine plural for feminine singular noun:
+
+First person singular for feminine plural noun:
+
+First person plural for feminine plural noun:
+
+Second person masculine singular for feminine plural noun:
+
+Second person feminine singular for feminine plural noun:
+
+Second person masculine plural for feminine plural noun:
+
+Second person feminine plural for feminine plural noun:
+
+Third person masculine singular for feminine plural noun:
+
+Third person feminine singular for feminine plural noun:
+
+Third person masculine plural for feminine plural noun:
+
+Third person feminine plural for feminine plural noun:
+
+
 [Dikduk/Binyan]
 
 * Binyan: “Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A shoresh is put in a binyan to produce a verb:
@@ -1191,8 +1351,8 @@ There are several “simple” binyanim in Hebrew and Aramaic. ([[{{Binyan}} is 
 [Dikduk/Conjunctions]
 
 * Prefix ב: There is a prefix ב in Hebrew and Aramaic.
-- The ב prefix has [[various {{meanings}}]]
-- The ב prefix can be followed [[by a noun]], or by [[various suffixes]].
+- ב can mean “in,” “with,” “on,” and [[various other {{meanings}}]]
+- The ב prefix can be followed [[by a noun]], or by [[various {{suffixes}}]].
 
 Meanings: The prefix ב can mean:
 ===
@@ -1215,7 +1375,6 @@ Meanings: The prefix ב can mean:
 - For example, הוא בא *ב*חבריו, _hu ba *b*chaverav,_ “he came *with* his friends”
 
 “via”: The prefix ב can mean doing something “by” or “via” a certain method, eg:
-- הוא עושה *ב*שליח - _hu ose *b*shlucho_ “he acted *via* his messenger”
 - הוא בא *ב*חמור - _hu ba *b*chamor,_ “he came *by* donkey.”
 
 “on”: The prefix ב can mean something that is on top of something else.
@@ -1233,23 +1392,43 @@ Meanings: The prefix ב can mean:
 By a noun: The prefix ב can be followed by a noun.
 - For example, “*בְ*שִׁמְעֹון”, _b’Shimeon_, which is the prefix ב followed by the name Shimeon which together means “with Shimeon.”
 
-Various suffixes: The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to.
-| ‎ *ב with suffix* | *Transliteration* | *Person* | *Example meaning* |
+Suffixes: The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to.
+| ‎ *ב with suffix* | *Transliteration* | *Object* | *Example meaning* |
 |-----------|--------------------------|-----------------|----|
-| בִּי        | _bi_             | I                        | with[^1] me |
-| בָּנוּ       | _banu_           | We                       | with us |
-| בְּךָ        | _becha_          | You (masculine)          | with you, a man |
-| בָּךְ        | _bach_           | You (feminine)           | with you, a woman |
-| בָּכֶם       | _bachem_         | You all (masculine)      | with you men |
-| בָּכֶן       | _bachen_         | You all (feminine)       | with you women |
-| בּוֹ        | _bo_             | He / it (masculine)      | with him |
-| בָּהּ        | _bah_            | She / it (feminine)      | with her |
-| בָּהֶם or בָּם | _bahem_ or _bam_ | Them / those (masculine) | with those men |
-| בָּהֶן or בָּן | _bahen_ or _ban_ | Them / those (feminine)  | with those women |
+| [[בִּי]]        | _bi_             | I                        | with[^1] me |
+| [[בָּנוּ]]       | _banu_           | We                       | with us |
+| [[בְּךָ]]        | _becha_          | You (masculine)          | with you, a man |
+| [[בָּךְ]]        | _bach_           | You (feminine)           | with you, a woman |
+| [[בָּכֶם]]       | _bachem_         | You all (masculine)      | with you men |
+| [[בָּכֶן]]       | _bachen_         | You all (feminine)       | with you women |
+| [[בּוֹ]]        | _bo_             | He / it (masculine)      | with him |
+| [[בָּהּ]]        | _bah_            | She / it (feminine)      | with her |
+| [[בָּהֶם or בָּם]] | _bahem_ or _bam_ | Them / those (masculine) | with those men |
+| [[בָּהֶן or בָּן]] | _bahen_ or _ban_ | Them / those (feminine)  | with those women |
 [^1]: This table translates ב as “with,” but each can also mean “on,” “in,” “with”, “via,” etc. ([[Prefix ב#Meanings|See “meanings”]])
 ===
 > [[#|Back]]
 ===
+
+בִּי:
+
+בָּנוּ:
+
+בְּךָ:
+
+בָּךְ:
+
+בָּכֶם:
+
+בָּכֶן:
+
+בּוֹ:
+
+בָּהּ:
+
+בָּהֶם or בָּם:
+
+בָּהֶן or בָּן:
 
 
 * Prefix ו:
@@ -1571,9 +1750,9 @@ The Hebrew and Aramaic “present tense” correspond to both the English presen
 
 [Dikduk/Hebrew]
 
-* Hebrew definite article: Hebrew has an entity called a definite article, as do many languages.
+* Hebrew definite article: Hebrew has something called a definite article, as do many languages.
+(The definite article in English is the word “the.”)
 Definite articles are used to refer to things that are already known to the reader.
-The definite article in English is the word “the.”
 ===
 > [[More]]
 ===
@@ -1588,9 +1767,6 @@ Aramaic also has a definite article, but it is an א-suffix not a ה-prefix, as 
 ===
 
 
-* Hebrew prefix כש: The Hebrew prefix כש is short for the Hebrew word [[כאשר]] meaning “when.”
-
-
 * Hebrew verb forms beginning with מ:
 Several Hebrew verb forms start with מ:
 - [[{|The }{pi’el active participle} for regular shorushim]] (מְזַמֵּן, _mezamen,_ “he invites/is inviting.”)
@@ -1599,6 +1775,9 @@ Several Hebrew verb forms start with מ:
 - [[{|The }{huf’al active participle} for regular shorushim]] (מוֹבְדָּל, _muvdal,_ “he/it is separated”)
 - [[{|The }{hispa’el active participle} for regular shorushim]] (מִתְלַבֵּשׁ, _mislabeish,_ “he dressed himself”)
 - [[Verb forms beginning with מ|See all]]
+
+
+* Prefix כש: The Hebrew prefix כש is short for the Hebrew word [[כַּאֲשֶׁר]] meaning “when.”
 
 
 [Dikduk/Hebrew/Binyanim]
@@ -2395,7 +2574,120 @@ The [[_pu’al_ past tense]] follows these conjugations for [[regular shorushim]
 * Hebrew Direct Object Suffixes:
 
 
-* Hebrew Posessive Suffixes:
+* Hebrew Possessive Suffixes:
+Hebrew has a variety of possessive suffixes that can be added to words to indicate ownership.
+| [[Masculine Singular Object<br>{|e.g. סֵפֶר, _sefer_, “book”}]] | [[Masculine Plural Object<br>{|e.g. סְפָרִים, _sefarim_, “books”}]] |
+| [[Feminine Singular Object<br>{|e.g. פָּרָה, _para_, “cow”}]]  | [[Feminine Plural Object<br>{|e.g.פָּרוֹת, _paros_, “cows”}]] |
+
+Masculine Singular Object:
+| *Person*           | *Singular*                                                                                       |    \<    | *Plural*                                                                                         |    \<    |
+|--------------------|--------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------|----------|
+| *First Person*     | [[First person singular for masculine singular noun|סִפְרִי<br>_sifri_<br>“My sefer”]]            |  \<      | [[First person plural for masculine singular noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefer”]]      |  \<      |
+| *Second Person*    | [[Second person masculine singular for masculine singular noun|סִפְרְךָ<br>_sifrochah_<br>“Your sefer” (man)]] | [[Second person feminine singular for masculine singular noun|סִפְרֵךְ<br>_sifraych_<br>“Your sefer” (woman)]] | [[Second person masculine plural for masculine singular noun|סִפְרְכֶם<br>_sifrochchem_<br>“Your sefer” (men)]] | [[Second person feminine plural for masculine singular noun|סִפְרְכֶן<br>_sifrochchen_<br>“Your sefer” (women)]] |
+| *Third Person*     | [[Third person masculine singular for masculine singular noun|סִפְרוֹ<br>_sifro_<br>“His sefer”]]          | [[Third person feminine singular for masculine singular noun|סִפְרָהּ<br>_sifroh_<br>“Her sefer”]]          | [[Third person masculine plural for masculine singular noun|סִפְרָם<br>_sifrom_<br>“Their sefer” (men)]]        | [[Third person feminine plural for masculine singular noun|סִפְרָן<br>_sifron_<br>“Their sefer” (women)]]         |
+
+Masculine Plural Object:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for masculine plural noun|סִפְרַי<br>_sifray_<br>“My sefarim”]]                      |  \<      | [[First person plural for masculine plural noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefarim”]]                |  \<    |
+| *Second Person*    | [[Second person masculine singular for masculine plural noun|סִפְרֶיךָ<br>_sifrecha_<br>“Your sefarim” (man)]] | [[Second person feminine singular for masculine plural noun|סִפְרַיִךְ<br>_sifrayeich_<br>“Your sefarim” (woman)]] | [[Second person masculine plural for masculine plural noun|סִפְרֵיכֶם<br>_sifreichem_<br>“Your sefarim” (men)]]          | [[Second person feminine plural for masculine plural noun|סִפְרֵיכֶן<br>_sifreichen_<br>“Your sefarim” (women)]]          |
+| *Third Person*     | [[Third person masculine singular for masculine plural noun|סִפְרָיו<br>_sifrav_<br>“His sefarim”]]          | [[Third person feminine singular for masculine plural noun|סִפְרֶיהָ<br>_sifreyha_<br>“Her sefarim”]]       | [[Third person masculine plural for masculine plural noun|סִפְרֵיהֶם<br>_sifreihem_<br>“Their sefarim” (men)]]           | [[Third person feminine plural for masculine plural noun|סִפְרֵיהֶן<br>_sifreihen_<br>“Their sefarim” (women)]]           |
+
+Hebrew Possessive Suffixes for Feminine Singular and Plural Objects
+
+Feminine Singular Object:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for feminine singular noun|פָּרָתִי<br>_parasi_<br>“My cow”]]                        |  \<      | [[First person plural for feminine singular noun|פָּרָתֵנוּ<br>_parasaynu_<br>“Our cow”]]                  |  \<    |
+| *Second Person*    | [[Second person masculine singular for feminine singular noun|פָּרָתְךָ<br>_paraschah_<br>“Your cow” (man)]] | [[Second person feminine singular for feminine singular noun|פָּרָתֵךְ<br>_parasaych_<br>“Your cow” (woman)]] | [[Second person masculine plural for feminine singular noun|פָּרַתְכֶם<br>_paraschem_<br>“Your cow” (men)]]   | [[Second person feminine plural for feminine singular noun|פָּרַתְכֶן<br>_paraschen_<br>“Your cow” (women)]]   |
+| *Third Person*     | [[Third person masculine singular for feminine singular noun|פָּרָתוֹ<br>_paraso_<br>“His cow”]]             | [[Third person feminine singular for feminine singular noun|פָּרָתָהּ<br>_parasah_<br>“Her cow”]]           | [[Third person masculine plural for feminine singular noun|פָּרָתָם<br>_parasam_<br>“Their cow” (men)]]        | [[Third person feminine plural for feminine singular noun|פָּרָתָן<br>_parasan_<br>“Their cow” (women)]]         |
+
+Feminine Plural Object:
+| *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
+|--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
+| *First Person*     | [[First person singular for feminine plural noun|פָּרוֹתַי<br>_parosai_<br>“My cows”]]                        |  \<      | [[First person plural for feminine plural noun|פָּרוֹתֵינוּ<br>_paroseinu_<br>“Our cows”]]                  |  \<    |
+| *Second Person*    | [[Second person masculine singular for feminine plural noun|פָּרוֹתֶיךָ<br>_parosecha_<br>“Your cows” (man)]] | [[Second person feminine singular for feminine plural noun|פָּרוֹתַיִךְ<br>_parosayich_<br>“Your cows” (woman)]] | [[Second person masculine plural for feminine plural noun|פָּרוֹתֵיכֶם<br>_paroseichem_<br>“Your cows” (men)]] | [[Second person feminine plural for feminine plural noun|פָּרוֹתֵיכֶן<br>_paroseichen_<br>“Your cows” (women)]] |
+| *Third Person*     | [[Third person masculine singular for feminine plural noun|פָּרוֹתָיו<br>_parosav_<br>“His cows”]]            | [[Third person feminine singular for feminine plural noun|פָּרוֹתֶיהָ<br>_paroseha_<br>“Her cows”]]          | [[Third person masculine plural for feminine plural noun|פָּרוֹתֵיהֶם<br>_paroseihem_<br>“Their cows” (men)]]   | [[Third person feminine plural for feminine plural noun|פָּרוֹתֵיהֶן<br>_paroseihen_<br>“Their cows” (women)]]   |
+
+First person singular for masculine singular noun:
+
+First person plural for masculine singular noun:
+
+Second person masculine singular for masculine singular noun:
+
+Second person feminine singular for masculine singular noun:
+
+Second person masculine plural for masculine singular noun:
+
+Second person feminine plural for masculine singular noun:
+
+Third person masculine singular for masculine singular noun:
+
+Third person feminine singular for masculine singular noun:
+
+Third person masculine plural for masculine singular noun:
+
+Third person feminine plural for masculine singular noun:
+
+First person singular for masculine plural noun:
+
+First person plural for masculine plural noun:
+
+Second person masculine singular for masculine plural noun:
+
+Second person feminine singular for masculine plural noun:
+
+Second person masculine plural for masculine plural noun:
+
+Second person feminine plural for masculine plural noun:
+
+Third person masculine singular for masculine plural noun:
+
+Third person feminine singular for masculine plural noun:
+
+Third person masculine plural for masculine plural noun:
+
+Third person feminine plural for masculine plural noun:
+
+First person singular for feminine singular noun:
+
+First person plural for feminine singular noun:
+
+Second person masculine singular for feminine singular noun:
+
+Second person feminine singular for feminine singular noun:
+
+Second person masculine plural for feminine singular noun:
+
+Second person feminine plural for feminine singular noun:
+
+Third person masculine singular for feminine singular noun:
+
+Third person feminine singular for feminine singular noun:
+
+Third person masculine plural for feminine singular noun:
+
+Third person feminine plural for feminine singular noun:
+
+First person singular for feminine plural noun:
+
+First person plural for feminine plural noun:
+
+Second person masculine singular for feminine plural noun:
+
+Second person feminine singular for feminine plural noun:
+
+Second person masculine plural for feminine plural noun:
+
+Second person feminine plural for feminine plural noun:
+
+Third person masculine singular for feminine plural noun:
+
+Third person feminine singular for feminine plural noun:
+
+Third person masculine plural for feminine plural noun:
+
+Third person feminine plural for feminine plural noun:
 
 
 [Dikduk/Interrogatives]
@@ -2706,9 +2998,9 @@ Some seem to have intrinsic meanings: Some four letter shorushim seem to be intr
 | ישב | י in first position | מֵישִׁיב (_mayshiv)_ | מוֹשִׁיב (_moshiv)_ | י changes to וֹ |
 | נפל | נ in the first position | מַנְפִּיל (_manpil)_ | מַפִּיל (_map’pil)_ | נ drops, and the פ is doubled |
 | בנה | ה in the last position | בָּנַהְתִּי  (_baunah’ti)_ | בָּנִיתִי (_bauniti)_ | the consonant ה becomes an יִ vowel, like “bee” |
-There is a [[special naming convention for describing categories of irregular shorushim]].
+There is a [[special naming convention]] for describing categories of irregular shorushim.
 
-Special naming convention for describing categories of irregular shorushim: We use the traditional [[shoresh letter numbering convention]] to produce an [[irregular shoresh naming convention]].
+Special naming convention: We use the traditional [[shoresh letter numbering convention]] to produce an [[irregular shoresh naming convention]].
 
 Shoresh letter numbering convention:
 In Hebrew grammar, the shoresh פעל is used as a “standard” shoresh, and so sometimes the letters of פעל are used as names for the three shoresh positions:
@@ -2774,44 +3066,9 @@ You can download the Hisbonen desktop app for different platforms here:
 * Sefarim:
 ===
 - [![Tanach]]
-- [![Mishnah]]
-- [[Gemara]]
+- [[Shas]]
 - [![{Halacha} Sefarim]]
-===
-
-
-[Sefarim/Gemara]
-
-* Gemara:
-===
-- [[Talmud {Bavli}]]
-- [![Yerushalmi]]
-===
-
-
-* Talmud Bavli:
-===
-- [![Seder Zeraim]]
-- [![Seder Moed]]
-- [[Seder Nashim]]
-- [![Seder Nezikin ]]
-- [![Seder Kodashim]]
-- [![Seder Tohoros ]]
-===
-
-Seder Nashim:
-===
-- [![Yevamos]]
-- [![Ketubos]]
-- [![Nedarim]]
-- [![Nazir]]
-- [![Sotah]]
-- [![Gittin]]
-- [[Maseches {Kiddushin}]]
-===
-
-===
-- [[Maseches Kiddushin]]
+- [![{Machshava} Sefarim]]
 ===
 
 
@@ -3074,9 +3331,7 @@ Gemaras by Mishnah:
 < [![Gemaras on Mishnah on Kiddushin {46a}]]
 < [![Gemaras on Mishnah on Kiddushin {48a}]]
 < [![Gemaras on Mishnah on Kiddushin {48a}]]
-< [![Gemaras on Mishnah on Kiddushin {50a:1}]]
-< [![Gemaras on Mishnah on Kiddushin {50a:2}]]
-< [![Gemaras on Mishnah on Kiddushin {50a:3}]]
+< [![Gemaras on Mishnah on Kiddushin {50a}]]
 < [![Gemaras on Mishnah on Kiddushin {50b}]]
 < [![Gemaras on Mishnah on Kiddushin {52b}]]
 < [![Gemaras on Mishnah on Kiddushin {56b}]]
@@ -3101,7 +3356,7 @@ Image:
 ===
 
 
-[Sefarim/Gemara/Kiddushin/Dafim/41a/Mishnah]
+[Sefarim/Gemara/Kiddushin/Dafim/41a/1]
 
 * Mishnah Ha’ish Mekadesh:
 Perek Ha’ish mekadesh begins with the first Mishnah of the second perek:
@@ -3114,7 +3369,7 @@ Perek Ha’ish mekadesh begins with the first Mishnah of the second perek:
 - [[Basic]]
 - [[Analysis]]
 - [[Commentary]]
-- [[Conclusion]]
+- [[Summary]]
 ===
 
 Words:
@@ -3122,22 +3377,89 @@ These are the possible meanings of the words in the Mishnah, without considering
 < [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
 < [[האשה]] [[מתקדשת]] [[בה]] [[ובשלוחה]]
 < [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]:
+===
+> [[#Literal]]
+===
 
 Literal:
+This is a literal translation of the Mishnah, identifying the general meanings of the words but not adapting them to fit the current context.{! You can use this step to practice going from the literal meanings of the words to the contextual meaning of the text.}
+The Mishnah begins:
+< הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
+< _ha’ish mekadesh bo ub’shlucho_
+“The man is/is being _mekadesh_ via himself and/or via his _shaliach_ i.e. emissary.”
+The expression “to be _mekadesh_” can have a range of meanings. Literally it means for someone to make holiness. Practically that could refer to a man who makes _kiddush_ before a Shabbos meal, a man who halachically engages a woman for marriage, or anyone who does an action that increases holiness in the world.
+< הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
+< _ha’isha miskadeshes bah ub’shluchah_
+“The woman is _miskadeshes_ via herself and/or via her _shaliach_ i.e. emissary.”
+A woman can “be _miskadeshes_” if she “becomes holy,” i.e. via any of the aforementioned meanings.
+< הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה בּוֹ וּבִשְׁלוּחוֹ
+< _ha’ish mekadesh es bito k’sh’hi na’arah bo ub’shlucho_
+“The man is/is being _mekadesh_ his daughter when she is a _na’ara_ via himself and/or via her _shaliach_ i.e. emissary.”
+===
+< [[#Words]]
+> [[#Basic]]
+===
 
 Basic:
+This is a “basic” explanation of the Mishnah, clarifying the contextual meanings of the words and answering questions a beginner might have, but not dealing with analytical questions or observations. {! Use this step to practice taking the basic meaning of the text and identifying difficulties or observations that will be addressed by the later commentators.}
+< הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
+“The man is/is being _mekadesh_ via himself and/or via his _shaliach_ i.e. emissary.”
+Given that we are in meseches Kiddushin which deals primarily with marriage law, we can determine that the meaning of מקדש here is the creation of the _kiddushin_ initial stage of marriage that precedes the final _nisuyin_ stage. Once a man is _mekadesh_ a woman, she would need a get i.e. bill of divorce from him in order to remarry.
+Additionally, “ongoing” verbs in the Mishnah generally signify the permissibly of an action. So, “the man is being mekadesh” really means "a man can/may be mekadesh in the following ways, i.e. himself or with his emissary. So now we see the purpose of the Mishnah is to convey the surprising idea that the initial stage of marriage can be done remotely by a designated third-party.
+< הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
+“The woman is miskadeshes i.e. becomes halachically designated for marriage, via herself or her _shaliach_ i.e. emissary, i.e. she may do so.”
+< הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה בּוֹ וּבִשְׁלוּחוֹ
+“The man is mekadesh his daugher when she is a 12.5 year old girl, via himself or his emissary. Again, we see that the ongoing verb in the Mishnah indicates permissibly, so this should be rendered "a man _may_ initiate the first _kiddushin_ step of marriage when his daughter is 12.5, via himself or via his _shaliach_ i.e. emissary.”
+===
+< [[#Literal]]
+> [[#Analysis]]
+===
 
 Analysis:
+This is a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation. {! Use this step to practice explaining the nuances and difficulties of the text before seeing how the later commentators do so.}
+< הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
+< _ha’ish mekadesh bo ub’shlucho_
+“A man may produce the _kiddushin_ stage proceeding marriage with a woman, via himself or via his shaliach i.e. emissary.”
+We might ask, why did the Mishnah feel it necessary to mention that he can produce _kiddushin_ with a woman via himself? Isn’t it be obvious from that there is such a thing as _kiddushin_ that the man himself can produce it, otherwise how else would it occur normally?
+Additionally, perhaps the verses in the Torah which describe the marriage process imply he can do it himself?
+Perhaps the Mishnah has to list every possibility even if the reader already knows one or can infer it from the others? If so, the Mishnah would make more sense. If not, for what purpose might the Mishnah add extra things to a list? Let’s keep the question in mind going forward.
+< הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
+< _ha’isha miskadeshes bah ub’shluchah_
+“A woman may become halachically engaged i.e. may accept the _kiddushin_ stage of marriage, via herself or via her shaliach i.e. emissary.”
+Again we might ask why it needs to mention that she can do it herself, as this seems like the standard way it would be done, and even if I didn’t know that initially, telling me she can do it via emissary would seem to imply she can do it herself.
+< הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה בּוֹ וּבִשְׁלוּחוֹ
+< _ha’ish mekadesh es bito k’sh’hi na’arah bo ub’shlucho_
+“A man can produce the _kiddushin_ stage of marriage for his 12.5 year old daughter, via himself or via his shaliach.”
+We might ask, what is special about a 12.5 year old daughter? What would the ruling be for a 12 year old, or a 13 year old?
+We can ask again, why do I need to be told he can do it himself? Here it might be less of a problem because this halacha that he can marry off his daughter is perhaps more surprising than the fact that he can marry via himself, and so maybe I do need a Mishnah to tell me both halachos.
+However, even if I wouldn’t know before this Mishnah that a man can initiate the marriage process for off his 12.5 year old daughter, once you tell me he can do it with his shaliach i.e. emissary, do I have to be told that he can do it himself, or is that obvious? Again, is it typical of a Mishnah to list redundant things that can be inferred from one another, or is it surprising that it is doing so?
+===
+< [[#Basic]]
+> [[#Commentary]]
+===
 
 Commentary:
 These are commentators on our Mishnah as it appears in the Gemara.
+- See commentary of [![Rashi]]
+- See commentary of [![Gemara]]
+- See commentary of [![Tosofos]]
 ===
-- [![Rashi]]
-- [![Tosofos]]
+< [[#Analysis]]
+> [[#Summary]]
 ===
 
-Conclusion:
+Summary:
+This is a summary of our analysis of the Mishnah, not including the conclusions of later Gemaras.{! Use this to review our final understanding of the text following all previous steps of analysis.}
+< *האיש* מקדש בו ובשלוחו
+< האשה מתקדשת בה ובשלוחה
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
+===
+< [[#Commentary]]
+> [[Kiddushin 41a/Hashta B’shlucho Mekadesh|Gemara]]
+===
 
+
+[Sefarim/Gemara/Kiddushin/Dafim/41a/2]
 
 * Hashta B’shlucho Mekadesh:
 The first Gemara on the Mishnah Kiddushin 41a begins:
@@ -3165,6 +3487,8 @@ The first Gemara on the Mishnah Kiddushin 41a begins:
 - [![Conclusion]]
 ===
 
+
+[Sefarim/Gemara/Kiddushin/Dafim/41a/3]
 
 * Ha’ish mekadesh es bito:
 The fourth section of [[Kiddushin 41a]] reads:
@@ -3195,6 +3519,50 @@ The fourth section of [[Kiddushin 41a]] reads:
 * Mishnah:
 
 
+[Sefarim/Shas]
+
+* Shas:
+===
+- [![Mishnah]]
+- [[Gemara]]
+===
+
+
+[Sefarim/Shas/Gemara]
+
+* Gemara:
+===
+- [[Talmud {Bavli}]]
+- [![Yerushalmi]]
+===
+
+
+* Talmud Bavli:
+===
+- [![Seder Zeraim]]
+- [![Seder Moed]]
+- [[Seder Nashim]]
+- [![Seder Nezikin ]]
+- [![Seder Kodashim]]
+- [![Seder Tohoros ]]
+===
+
+Seder Nashim:
+===
+- [![Yevamos]]
+- [![Ketubos]]
+- [![Nedarim]]
+- [![Nazir]]
+- [![Sotah]]
+- [![Gittin]]
+- [[Maseches {Kiddushin}]]
+===
+
+===
+- [[Maseches Kiddushin]]
+===
+
+
 [Sefarim/Tanach]
 
 * Tanach:
@@ -3215,6 +3583,13 @@ The fourth section of [[Kiddushin 41a]] reads:
 
 
 [Shorushim]
+
+* Shoresh Template:
+The shoresh קדש has a range of meanings.
+Jastrow:
+> קוֹדֶשׁ, קֹדֶשׁ m. (b. h.;  קָדַשׁ) sanctity, sacred affair, sacred ground, dedicated object. Yoma 12ᵇ, a. fr. מעלין בק׳, v. עָלָה. Sabb. XVI, 1 כל כתבי הק׳ וכ׳ all sacred scriptures must be saved from fire (on the Sabbath). Tosef. ib. XIII (XIV), 1 אין קורין בכתבי הק׳ we must not read from the Hagiographa (on the Sabbath); Y. ib. XVI, 15ᶜ top אין קורין בכתבי הק׳ אלא וכ׳ we must not read from the Hagiographa except from the afternoon service onward. Bets. 5ᵃ נוהגין אותו היום ק׳ וכ׳ we observe the rest of the day as a holy day and the next day likewise. Pes. 104ᵃ; Ḥull. 26ᵃ, v. חוֹל III. Ib. I, 7 בין ק׳ לק׳, v. בָּדַל; ib. בין ק׳ חמוד לק׳ הקל between the stricter and the lighter sanctities; a. v. fr.—שם ק׳ or ק׳ (sub. שם) sacred name, name of the Lord. Shebu. 35ᵇ, v. חוֹל III. Treat. Sof’rim IV, 6, sq.; a. fr.—רוח הק׳, v. רוּחַ.—Esp. a) sacred precincts, Temple ground. Zeb. IX, 2 כל שפסולו בק׳ הק׳ מקבלו whatever has become unfit within the sanctuary, the sanctuary accepts (it cannot be removed from the altar, if it was put on); לא היה פסולו בק׳ וכ׳ if its unfitness did not arise within the sacred precincts, the sanctuary does not accept it; a. fr.—b) הק׳ the Holy, contrad. to עֲזָרָה, a. to ק׳ הקדשים, v. infra. Yoma III, 3; 6 בק׳ within the precincts of the Holy. Midd. IV, 5; a. fr.—Pl. קֳדָשִׁים.—קודש הק׳, also קָדְשֵׁי ק׳ most holy, esp. the Holy of Holies, the westernmost compartment of the Temple. Midd. l. c. Yoma V, 1; a. fr.—Cant. R. to I, 1 כל הכתובים קדש וזה ק׳ הק׳ all Biblical scriptures are holy, but this (Song of Songs) is most holy. Y. Meg. III, 74ᵃ, a. e. נחום איש קדש הק׳ Nahum, the man of extreme holiness; a. e.—Esp. קֳדָשִׁים consecrated objects, sacrifices. Zeb. V, 4 העולה קדשי ק׳ the burnt-offering belongs to the highest class of sacrifices. Ib. 6, sq. ק׳ קלים sacrifices of a minor grade. Ib. X, 2 מפני שהוא קדשי ק׳ because it belongs to the highest grade; a. fr.—קדשי מזבח things dedicated for the altar, sacrifices; קדשי בדק הבית objects dedicated (for their value) to be used for the needs of the Temple building. Tem. VII, 1, sq.; a. fr.—ק׳ (סדר) Kodashim, the fifth of the six orders of the Mishnah, Tosefta, a. Talmud Babli. Sabb. 31ᵃ. Esth. R. to I, 2. 
+> קוֹדַשׁ, קֹדַשׁ, קוּדְשָׁא  ch.  same 1) holiness, sanctuary &c. Targ. Ex. XXIX, 29. Targ. Ps. LI, 13. Targ. Ex. XXVIII, 29; a. fr.—Pl. קוּדְשִׁין, קוּדְשַׁיָּא. Targ. Lev. XXI, 22. Ib. XXII, 2; a. fr.—קודש ק׳ the Holy of Holies. Targ. Ex. XXVI, 33; a. fr. —2) the Holiness, the Lord, usu. with בריך הוא (abbrev. קב"ה), v. קָדוֹשׁ. Targ. Y. Num. XXI, 34. Targ. Y. Gen. XXV, 21; a. fr.—Ber. 7ᵃ ומי … דק׳ ב"ה is wrath before (to be ascribed to) the Lord? Keth. 77ᵇ; a. fr.
+
 
 * Shoresh קדש:
 The shoresh קדש has a range of meanings.
@@ -3297,85 +3672,113 @@ Ispaal:
 
 [Words]
 
-* אִשָּׁה: The Hebrew word אִשָּׁה can mean “woman” or “wife.” It is the feminine version of the word [[איש]].
+* אִישׁ: The word אִישׁ means “man” in Hebrew.
+It can have a connotation of an important man, as opposed to the Hebrew [[גֶּבֶר]] or [![אדם]].
 
 
-* אֵת: The Hebrew word אֵת is the Hebrew direct object pronoun.
-- Every language must clarify who is doing the action and who the action is being done to.
-- In English, we use word order to convey this. So, “the man at the apple” is clear because the doer is always before the verb.
-- Semetic languges however allow the doer to be mentioned after the verb, such as אוכל את תפוח אדם (_ochel es tapuach adam_, "eats )
+* אִשָּׁה: The Hebrew word אִשָּׁה can mean “woman” or “wife.” It is the feminine version of the word [[אִישׁ]].
+
+
+* אֶת: The Hebrew word אֶת can indicate the recipient of an action in Hebrew and Aramaic.
+For example, הַיֶּלֶד אֹהֵב אֶת הַכֶּלֶב, _hayeled ohev es hakelev_, “the boy loves the dog.” 
+If I wouldn’t have the את, it would be possible for me to misunderstand the sentence as saying “the dog loves the boy,” because Hebrew and Aramaic are not as strict about the word order of sentences.
+===
+> [[More]]
+===
+
+More: Specifically, אֶת is used when the recipient of the object is “definite,” e.g. it begins with ה i.e. the word “the,” meaning that we are speaking about a specific thing. If we are speaking about “a dog,” then the sentence would read הַיֶּלֶד אֹהֵב כֶּלֶב _hayeled ohev kelev_ without an אֶת.
 
 
 * או: The word אוֹ is the Hebrew word for “or.”
 
 
-* איש: The word אִישׁ means “man” in Hebrew.
-It can have a connotation of an important man, as opposed to the Hebrew [[גבר]] or [![אדם]].
+* את: The letters את בare be several words:
+- It can be the Hebrew word אֶת, which indicates the recipient of an action. [[אֶת|<small>(→)</small>]]
+- It can be the Hebrew word אַתְּ, which means “you” referring to a female person.
 
 
-* את: The letter sequence את is the Hebrew word אֵת.
+* בַּת: The Hebrew word בַּת means “daughter.”
+- It can appear with posessive suffixes such as [[בתו|בִּתּוֹ]] (_bito_, “his daughter.”)
 
 
-* בה: The letter sequence בה is probably the [[Prefix ב#Various suffixes|the prefix ב with the feminine singular suffix]].
+* בה: The letters בה probabare means “in her/it,” “with her/it,” “on her/it” or “regarding her/it.” [[More|<small>(→)</small>]]
+(There is a word that sounds like “ba” that means “came” but that’s spelled בָּא not בּוֹ.)
+
+More:
+The letters בה are probably the [[prefix ב]] being used to refer to a feminine entity:
+- The prefix ב has [[Prefix ב#Meanings|various meanings]] including “in” and “with.”
+- When followed by [[Prefix ב#בּוֹ|the suffix ה]]‎, the ב can be referencing “her” or “it.”
+- So, בה can mean “in her/it,” “with her/it,” “on her/it,” “regarding her/it,” or any other combination.
+
+The letters בה are probably the [[Prefix ב#Various suffixes|the prefix ב with the feminine singular suffix]].
 - The prefix ב has [[Prefix ב#Meanings|various meanings]] including “in” and “with.”
 
 
-* בו: The letter sequence בו is probably the [[Prefix ב#Various suffixes|the prefix ב with the masculine singular suffix]].
+* בו: The letters בו probably mean “in him/it,” “with him/it,” “on him/it” or “regarding him/it.” [[More|<small>(→)</small>]]
+(There is a word that sounds like “bo” that means “come” but that’s spelled בּוֹא not בּוֹ.)
+
+More:
+The letters בו are probably the [[Prefix ב#suffixes|the prefix ב]] when referring to a masculine entity:
 - The prefix ב has [[Prefix ב#Meanings|various meanings]] including “in” and “with.”
-- There is a word that sounds like בו that means “comes” or “came,” but that’s spelled בָּא not בּוֹ.
+- When followed by [[Prefix ב#בּוֹ|the suffix ו]]‎, the ב can be referencing “him” or “it.”
+- So, בו can mean “in her/it,” “with him/it,” “on him/it,” “regarding him/it,” or any other combination.
 
 
-* בת: The Hebrew word בַּת means “daughter.”
-- It can appear with posessive suffixes such as [[בתו]] (_bito_, “his daughter.”)
-
-
-* בתו: The letter sequence בתו is probably:
-- The Hebrew word [[בת]], meaning daughter.
-- The Hebrew possessive suffix ו meaning “his”
+* בתו: The letters בתו are probably:
+- The Hebrew word [[בַּת]], meaning daughter.
+- The Hebrew suffix ו meaning “his.” ([[Hebrew Possessive Suffixes#Third person masculine singular for masculine singular noun|<small>more</small>]])
 - The combination is pronounced בִּתּוֹ, _bito_.
 
 
-* גבר: גֶּבֶר is a Hebrew word for “man.” 
-גֶּבֶר can denote a less significant person than the alternative Hebrew word for “man,” [[איש]].
+* גֶּבֶר: גֶּבֶר is a Hebrew word for “man.” 
+גֶּבֶר can denote a less significant person than the alternative Hebrew word for “man,” [[אִישׁ]].
 
 
 * גברא: גברא is an Aramaic word for “man,” possibly with a connotation of a less important or praise-worthy man, as in the phrase “ההוא גברא,” i.e. “that man [did such and such],” which the Gemara sometimes uses to introduce a story about a person doing something inadvisable.
 
 
+* הִיא: The Hebrew word הִיא means “she.”
+
+
 * האיש:
 The letters האיש only correspond to the meaning “the man.”
 - It begins with the letter ה meaning “the” [[Hebrew definite article|<small>(→)</small>]]
-- It continues with the [[איש]] meaning “man.”
+- It continues with the [[אִישׁ]] meaning “man.”
 
 
-* האשה: The letter sequence האשה probably:
-- The [[Hebrew definite article]] ה meaning “the.”
+* האשה: The letters האשה probably are:
+- The Hebrew prefix ה meaning “the.” [[Hebrew definite article|<small>(→)</small>]]
 - The Hebrew word [[אִשָּׁה]].
 
 
-* ובשלוחה: The letter sequence ובשלוחה can only be:
+* ובשלוחה: The letters ובשלוחה can only be:
 - The [[prefix ו]] meaning and/or.
 - The [[prefix ב]] which has various [[Prefix ב#Meanings|meanings]], such as “in,” “with,” and “on.”
-- The word [[שלוח]], which means “is sent” or “a person/thing that is sent.”
-- The [![Suffix ה#Noun|suffix ה after a noun]], meaning “her” or “its.”
+- The word [[שָׁלוּחַ]], which means “is sent” or “a person/thing that is sent.”
+- The suffix ה meaning “her” or “its.” [[Hebrew Possessive Suffixes#Third person masculine singular for masculine singular noun|<small>(→)</small>]]
 
 
-* ובשלוחו: The letter sequence ובשלוחו is:
-- The [[prefix ו]], meaning and/or.
-- The [[prefix ב]] which has various [[Prefix ב#Meanings|meanings]] including “in,” “with,” and “on.”
-- The word [[שלוח]], which means “is sent” or “a person/thing that is sent.”
-- The [![Suffix ו#Noun|suffix ו after a noun]], meaning “his” or “its.”
+* ובשלוחו: The letters ובשלוחו can only mean:
+- “And/or with his sent-person i.e. emissary.” [[More|<small>(→)</small>]]
+
+More: The letters ובשלוחו can only be ו|ב|שלוח|ו:
+- The [[prefix ו]], meaning and/or, pronounced “oo” when before a ב.
+- The [[prefix ב]] which has various [[Prefix ב#Meanings|meanings]] including “in,” “with,” and “on,” (pronounced “b” when starting a syllable, as opposed to “v.”)
+- The Hebrew word [[שָׁלוּחַ]], which can mean “is sent” or “a person/thing that is sent.” Here, because the word is followed by “his,” we see that it must mean “a person/thing that is sent.”
+- The [[Hebrew Possessive Suffixes#Third person masculine singular for masculine singular noun|“possessive” suffix ו]], meaning “his” or “its.”
+- Putting that all together, it means “and/or, in/with/on/etc, his/its, sent person/thing.”
 
 
-* כאשר: The Hebrew word כַּאֲשֶׁר means “when.”
-- It can be condensed to a prefix כש used before an occurance. [[Hebrew prefix כש|<small>(→)</small>]]
+* כַּאֲשֶׁר: The Hebrew word כַּאֲשֶׁר means “when.”
+- It can be condensed to a prefix כש used before an event. [[Prefix כש|<small>(→)</small>]]
 
 
-* כשהיא: The letter sequence כשהיא is probably:
-- The [[Hebrew prefix כש]], short for the Hebrew word [[כאשר]], meaning “when.”
+* כשהיא: The letters כשהיא are probably:
+- The Hebrew [[prefix כש]], short for the Hebrew word [[כַּאֲשֶׁר]], meaning “when.”
+- The Hebrew word [[הִיא]] meaning ‘she.’
 
 
-* מְקַדֵּשׁ: The word מְקַדֵּשׁ _mekadesh_ has several aspects:
+* מְקַדֵּשׁ: The word מְקַדֵּשׁ _mekadesh_ can be identified as follows [[Identifying verbs|<small>(?)</small>]]:
 - It is a type of word called an active participle, meaning it describes an action that is ongoing or habitual (e.g. he runs/is running.) [[active participle|<small>(→)</small>]]
 - It comes from the root or shoresh קדש, meaning holiness. (More: [[Shoresh קדש]], [[shoresh]])
 
@@ -3383,33 +3786,49 @@ The letters האיש only correspond to the meaning “the man.”
 * מִקְדָּשׁ: The word מִקְדָּשׁ means sanctuary or holy place, from the [[shoresh קדש]].
 
 
-* מקדש: The letter sequence מקדש could represent several words:
+* מקדש: The letters מקדש could be one of several words:
 - It could be the word מְקַדֵּשׁ _mekadesh_, meaning “makes/is making holy” [[מְקַדֵּשׁ|<small>(→)</small>]]
 - It could be the word מְקַדֵּשׁ _mikdash_, meaning sanctuary [[מִקְדָּשׁ|<small>(→)</small>]]
 - It could be [[the {{prefix מ}}]] meaning “from,” followed by some place or person spelled קדש, as in וַיִּסְעוּ מִקָּדֵשׁ (_vayisu m’kadesh_, “they traveled from Kadesh,” Bamidbar 20:22.)
 
 
-* מתקדשת: The letter sequence מתקדשת is the Hebrew word מִתְקַדֶּשֶׁת:
+* מתקדשת: The letters מתקדשת are the Hebrew word מִתְקַדֶּשֶׁת:
 - The word מִתְקַדֶּשֶׁת can mean “she makes herself holy.”
 ===
 > [[More]]
 ===
 
 More:
+The Hebrew word מִתְקַדֶּשֶׁת can be identified as follows [[Identifying verbs|<small>(?)</small>]]:
 - The מת prefix indicates it is an adjective or verb called an [[active participle]] which describes an ongoing action, such as “runs” or “is running.”
-- The ת suffix indicates a singular feminine verb, indicating a single feminine doer.
-- It comes from the [[shoresh קדש]], which produces words related to “holiness.”
-- The מת prefix indicates it is a [[“hispa’el”]] verb, which is the Hebrew [[reflexive]], indicating an action that affects or transforms the doer.
+- The מת prefix also indicates it is a [[“hispa’el”]] verb, which is the Hebrew [[reflexive]], indicating an action that affects or transforms the doer.
+- The ת suffix indicates a singular feminine verb, indicating a single feminine doer of the action.
+- The letters קדש in the middle of a word must be root letters, identifying the shoresh as [[shoresh {קדש}]], which produces words related to “holiness.”
 - Putting these all together, מִתְקַדֶּשֶׁת might mean “she makes herself holy.” This can also be a technical term for a woman who becomes halachically engaged to a man for marriage.
 
 
-* נערה: The letter sequence נערה is the Hebrew word נַעֲרָה, meaning “young women.”
-- In halachah, נַעֲרָה can be a technical term for a girl of a specific age. The term קְטַנָּה generally refers to a girl below the age of 12. From 12 to 12.5 years of age, she is called a נַעֲרָה. After 12.5 years, she becomes a בּוֹגֶרֶת, indicating full maturity. These definitions are general and may be contested or inapplicable depending on the given context.
+* נַעֲרָה: The Hebrew word נַעֲרָה means “young woman.”
+In halachah, נַעֲרָה can be a technical term for a girl of a specific age. The term קְטַנָּה (_katana_) generally refers to a girl below the age of 12. From 12 to 12.5 years of age, she is called a נַעֲרָה (_na’ara_.) After 12.5 years, she becomes a בּוֹגֶרֶת (_bogeres_,) indicating legal adulthood. These definitions are general and may be contested or inapplicable depending on the given context.
+Less commonly, נערה could be the word נער, “young man,” followed by the possessive suffix הּ meaning “her,” as in, “her young man.”
 
 
-* שלוח: The Hebrew word שָׁלוּחַ (_shaluach_) has various meanings.
+* נערה: The letters נערה are probably the Hebrew word נַעֲרָה, meaning “young woman.” [[נַעֲרָה|<small>(→)</small>]]
+
+
+* שָׁלוּחַ: The Hebrew word שָׁלוּחַ (_shaluach_) has various meanings:
 - It can mean “is sent” as in המכתב שלוח, (_hamichtav shaluach_, “the letter is sent.”)
-- It can mean “something or someone who is sent” such as a messenger, (השלוח, _hashaluach_, the one who is sent.)
+- It can mean “something or someone who is sent” such as a messenger, (הַשָּׁלוּחַ, _hashaluach_, “the one who is sent.”)
+===
+> [[More]]
+===
+
+More:
+The Hebrew word שָׁלוּחַ can be identified as follows [[Identifying verbs|<small>(?)</small>]]:
 - The word שלוח comes from the [[shoresh שלח]]
-- Grammatically, it is a [[passive participle]], specifically a [[pa’al passive participle]].
+- Grammatically, it is a [[passive participle]]
+- It comes from binyan [[pa’al]].
+- See [[{|regular conjugations for }pa’al passive participle{ for Regular Shorushim|s}]].
+
+
+* שלוח: The letters שלוח represent the Hebrew word שָׁלוּחַ meaning “is sent” or “someone or something that is sent.” [[שָׁלוּחַ|<small>(→)</small>]]
 
