@@ -97,7 +97,39 @@ p {
     color: #333333; /* Darker gray icon color on hover */
     box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.15); /* Slightly more pronounced shadow on hover */
 }
-</style><script src="/_canopy.js" defer></script>
+
+small {
+  font-size: 0.7em;
+  vertical-align: 3px;
+}
+</style><script>
+document.addEventListener("DOMContentLoaded", function() {
+    const contactIcon = document.getElementById('contact-icon');
+
+    // Assuming you're working with the current URL
+    const url = window.location.href;
+
+    // Create a URL object
+    const urlObj = new URL(url);
+
+    // Combine the pathname and the hash into one string for easier manipulation
+    const fullPath = urlObj.pathname + urlObj.hash;
+
+    // Find the last segment after the final '/'
+    const lastSegment = decodeURIComponent(fullPath.substring(fullPath.lastIndexOf('/') + 1));
+
+    // Create the mailto link with the current URL in the subject
+    const email = "submissions@hisbonen.org";
+    const subject = decodeURIComponent("Submission related to: " + lastSegment);
+    const body = decodeURIComponent("Context: " + url) + '%0A%0AYour comment/submission:%0A%0A%0A';
+    
+    // Set the href attribute for the mailto link
+    contactIcon.href = `mailto:${email}?subject=${subject}&body=${body}`;
+    
+    // Open link in a new tab
+    contactIcon.target = "_blank";
+});
+</script><script src="/_canopy.js" defer></script>
 <link rel="icon" type="image/x-icon" href="/_assets/favicon.ico">
 <link rel="prefetch" href="/_assets/exclamation.png" as="image" fetchpriority="high">
 <p style="position: absolute; visibility: hidden; font-size: 0; line-height: 0; height: 0; width: 0; overflow: hidden; font-weight: normal;">א</p>

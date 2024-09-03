@@ -90,3 +90,8 @@ p {
     color: #333333; /* Darker gray icon color on hover */
     box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.15); /* Slightly more pronounced shadow on hover */
 }
+
+small {
+  font-size: 0.7em;
+  vertical-align: 3px;
+}
