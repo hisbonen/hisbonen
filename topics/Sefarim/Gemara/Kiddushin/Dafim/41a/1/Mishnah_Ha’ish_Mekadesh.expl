@@ -4,12 +4,22 @@ Perek Ha’ish mekadesh begins with the first Mishnah of the second perek:
 < האשה מתקדשת בה ובשלוחה
 < האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 ===
+- [[Context]]
 - [[Words]]
 - [[Literal]]
 - [[Basic]]
+- [[Comprehension]]
 - [[Analysis]]
 - [[Commentary]]
 - [[Summary]]
+===
+
+Context:
+This is a summary of where we are in the larger text so that we can better understand what will happen next.
+This is the first Mishnah of the second perek of Maseches Kiddushin. The first perek began with a discussion of how _kiddushin_ can occur.
+The first perek also went on various tangents related to how various acquisitions are made in general.
+===
+> [[#Words]]
 ===
 
 Words:
@@ -18,6 +28,7 @@ These are the possible meanings of the words in the Mishnah, without considering
 < [[האשה]] [[מתקדשת]] [[בה]] [[ובשלוחה]]
 < [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[בו]] [[ובשלוחו]]:
 ===
+< [[#Context]]
 > [[#Literal]]
 ===
 
@@ -27,7 +38,7 @@ The Mishnah begins:
 < הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
 < _ha’ish mekadesh bo ub’shlucho_
 “The man is/is being _mekadesh_ via himself and/or via his _shaliach_ i.e. emissary.”
-The expression “to be _mekadesh_” can have a range of meanings. Literally it means for someone to make holiness. Practically that could refer to a man who makes _kiddush_ before a Shabbos meal, a man who halachically engages a woman for marriage, or anyone who does an action that increases holiness in the world.
+The expression “to be _mekadesh_” doesn’t really have a literal translation. Rather, it has several specific meanings and you would need context to determine which it means here. Generally it means for someone to “make holiness.” Practically, that could refer to a man who makes _kiddush_ before a Shabbos meal, a man who halachically engages a woman for marriage, or anyone who does an action that increases holiness in the world. (See Jastrow for [[Shoresh קדש#Piel|complete list of possible meanings]].)
 < הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
 < _ha’isha miskadeshes bah ub’shluchah_
 “The woman is _miskadeshes_ via herself and/or via her _shaliach_ i.e. emissary.”
@@ -41,34 +52,64 @@ A woman can “be _miskadeshes_” if she “becomes holy,” i.e. via any of th
 ===
 
 Basic:
-This is a “basic” explanation of the Mishnah, clarifying the contextual meanings of the words and answering questions a beginner might have, but not dealing with analytical questions or observations. {! Use this step to practice taking the basic meaning of the text and identifying difficulties or observations that will be addressed by the later commentators.}
-< הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
+This is a “basic” explanation of the Mishnah, clarifying the contextual meanings of the words and answering questions a beginner might have, but not dealing with analytical questions or observations. {! Use this step to practice taking the basic meaning of the text and identifying difficulties or nuances that will be addressed by the later commentators.}
+< האיש מקדש בו ובשלוחו
 “The man is/is being _mekadesh_ via himself and/or via his _shaliach_ i.e. emissary.”
 Given that we are in meseches Kiddushin which deals primarily with marriage law, we can determine that the meaning of מקדש here is the creation of the _kiddushin_ initial stage of marriage that precedes the final _nisuyin_ stage. Once a man is _mekadesh_ a woman, she would need a get i.e. bill of divorce from him in order to remarry.
 Additionally, “ongoing” verbs in the Mishnah generally signify the permissibly of an action. So, “the man is being mekadesh” really means "a man can/may be mekadesh in the following ways, i.e. himself or with his emissary. So now we see the purpose of the Mishnah is to convey the surprising idea that the initial stage of marriage can be done remotely by a designated third-party.
-< הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
+< האשה מתקדשת בה ובשלוחה
 “The woman is miskadeshes i.e. becomes halachically designated for marriage, via herself or her _shaliach_ i.e. emissary, i.e. she may do so.”
-< הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה בּוֹ וּבִשְׁלוּחוֹ
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 “The man is mekadesh his daugher when she is a 12.5 year old girl, via himself or his emissary. Again, we see that the ongoing verb in the Mishnah indicates permissibly, so this should be rendered "a man _may_ initiate the first _kiddushin_ step of marriage when his daughter is 12.5, via himself or via his _shaliach_ i.e. emissary.”
 ===
 < [[#Literal]]
+> [[#Comprehension]]
+===
+
+Comprehension:
+We translated the Mishnah:
+< האיש מקדש בו ובשלוחו
+< האשה מתקדשת בה ובשלוחה
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
+> A man can be _mekadesh_ a woman himself or with a _shaliach_
+> A woman can accept _kiddushin_ herself or with her _shaliach_
+> A man can be makdesh his daughter when she is 12.5 years old, himself or via his shaliach
+Now that we have a basic understanding of the Mishnah, let’s ask some comprehension questions.
+Let’s ask a question about the Mishnah in general.
+If I say “you’re invited to come drive to my wedding,” what might I mean by that? What are the ways that you can understand my extra specificity?
+Maybe I mean you’re invited _only_ if you come by car, i.e, I might be speaking _“davka”_ i.e. intentionally specifically. 
+Or, I might mean you’re invited _for example_ by car, i.e. I might mean it _“lav davka,”_ i.e. “not specifically,” just as an illustration of how you might do it, but coming by other methods is fine as well.
+Lastly, I might mean you can come _even_ by car, i.e, I may be telling you the most surprising option, but maybe it’s obvious that you can also come via any method that is less surprising, i.e, my specificity is in order to teach you the “biggest chiddish i.e. surprise,” and I’m expecting you to infer all less surprising options from it.
+So, we can ask, when the Mishnah makes a list of options, does it mean those options as _davka_, i.e. those are the only options, _lav davka_, they are illustrations, but there may be other options, or are they the _biggest chiddish i.e surprise_, that the Mishnah is telling us the most surprising option, and we are supposed to infer from it all less surprising options also work?
+Let’s remember the question as we move forward. 
+===
+< [[#Basic]]
+- [[Comprehension-2|More]]
+> [[#Analysis]]
+===
+
+Comprehension-2:
+Another question we might have is, where do rulings in the Mishnah come from?
+The Mishnah is a compilation of the oral Torah as opposed to the written Torah.
+However, we still generally find that the Mishnah is adding detail to or explaining requirements we have heard about in the written Torah.
+So, for any Mishnah we can ask, where in the Torah do we find these ideas mentioned?
+===
+< [[#Basic]]
 > [[#Analysis]]
 ===
 
 Analysis:
 This is a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation. {! Use this step to practice explaining the nuances and difficulties of the text before seeing how the later commentators do so.}
-< הָאִישׁ מְקַדֵּשׁ בּוֹ וּבִשְׁלוּחוֹ
-< _ha’ish mekadesh bo ub’shlucho_
+< האיש מקדש בו ובשלוחו
 “A man may produce the _kiddushin_ stage proceeding marriage with a woman, via himself or via his shaliach i.e. emissary.”
 We might ask, why did the Mishnah feel it necessary to mention that he can produce _kiddushin_ with a woman via himself? Isn’t it be obvious from that there is such a thing as _kiddushin_ that the man himself can produce it, otherwise how else would it occur normally?
 Additionally, perhaps the verses in the Torah which describe the marriage process imply he can do it himself?
 Perhaps the Mishnah has to list every possibility even if the reader already knows one or can infer it from the others? If so, the Mishnah would make more sense. If not, for what purpose might the Mishnah add extra things to a list? Let’s keep the question in mind going forward.
-< הָאִשָּׁה מִתְקַדֶּשֶׁת בָּהּ וּבִשְׁלוּחָהּ
-< _ha’isha miskadeshes bah ub’shluchah_
+We said earlier that rulings of the Mishnah generally explain and elaborate on from verses in the written Torah. So, now that we see the Mishnah is teaching that _kiddushin_ can be done via a _shaliach_, we might ask which verses the Mishnah sees this from.
+< האשה מתקדשת בה ובשלוחה
 “A woman may become halachically engaged i.e. may accept the _kiddushin_ stage of marriage, via herself or via her shaliach i.e. emissary.”
 Again we might ask why it needs to mention that she can do it herself, as this seems like the standard way it would be done, and even if I didn’t know that initially, telling me she can do it via emissary would seem to imply she can do it herself.
-< הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה בּוֹ וּבִשְׁלוּחוֹ
-< _ha’ish mekadesh es bito k’sh’hi na’arah bo ub’shlucho_
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 “A man can produce the _kiddushin_ stage of marriage for his 12.5 year old daughter, via himself or via his shaliach.”
 We might ask, what is special about a 12.5 year old daughter? What would the ruling be for a 12 year old, or a 13 year old?
 We can ask again, why do I need to be told he can do it himself? Here it might be less of a problem because this halacha that he can marry off his daughter is perhaps more surprising than the fact that he can marry via himself, and so maybe I do need a Mishnah to tell me both halachos.
@@ -80,16 +121,21 @@ However, even if I wouldn’t know before this Mishnah that a man can initiate t
 
 Commentary:
 These are commentators on our Mishnah as it appears in the Gemara.
-- See commentary of [![Rashi]]
-- See commentary of [![Gemara]]
-- See commentary of [![Tosofos]]
+- See commentary of [[{Rashi} on Mishnah Ha’ish Mekadesh]]
+- Learn [[{{Gemaras}} that discuss this Mishnah]].
 ===
 < [[#Analysis]]
 > [[#Summary]]
 ===
 
+Gemaras:
+These are the Gemaras that discuss the Mishnah on Kiddushin 41a:
+1. [[Hashta B’shlucho mekadesh|The Gemara of hashta b’slucho mekadesh]] (*גמ’* השתא ... מלמיתב ארמלו, ‎41a:9-23)
+2. [[Ha’ish mekadesh es bito|The Gemara of k’sh’hi na’ara in]] (האיש מקדש את ... אני רוצה, ‎41a:23-29)
+
 Summary:
-This is a summary of our analysis of the Mishnah, not including the conclusions of later Gemaras.{! Use this to review our final understanding of the text following all previous steps of analysis.}
+This is a summary of our analysis of the Mishnah.{! Use this to review our final understanding of the text following all previous steps of analysis.}
+This summary assumes that you’ve learned the Gemaras on this Mishnah.
 < *האיש* מקדש בו ובשלוחו
 < האשה מתקדשת בה ובשלוחה
 < האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
