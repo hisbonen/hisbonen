@@ -1,10 +1,10 @@
 Identifying verbs:
-Identifying a verb in Hebrew or Aramaic entails discerning several important pieces of information. For example, let’s identify the verb “מאכיל.”
+Identifying a verb in Hebrew or Aramaic entails identifying several important pieces of information about the word. For example, let’s identify the verb “מאכיל.”
 ===
 > [[2|Okay]]
 ===
 
-2: Every Hebrew and Aramaic verb comes from a shoresh or root. [[Shoresh|<small>(more)</small>]]
+2: Every Hebrew and Aramaic verb comes from a shoresh or root.
 A root is a short series of letters that produces a family of related words. For example: 
 | *Shoresh* | * Meaning* |
 | אכל | Eating |
@@ -16,27 +16,44 @@ Looking at our word מאכיל, we can identify the shoresh אכל, which is use
 > [[3|Okay]]
 ===
 
-3: Every Hebrew and Aramaic verb has what’s called a “binyan.” [[Binyan|<small>(more)</small>]]
+3: Every Hebrew and Aramaic verb has what’s called a “binyan.”
 A binyan is a theme of meaning that is combined with a shoresh to produce a verb family.
 For example, you might have a binyan whose theme is “causative,” i.e. it produces verbs where an actor causes another thing to do a given action.
 Putting the shoresh אכל into a “causative” binyan might produce the verb לְהָכִיל, _lehachil_, “to feed” (i.e, to _cause_ someone else to eat.)
 Every binyan has a special pattern of spelling and pronunciation that allows us to identify words in that binyan.
+This is a diagram of all the binyanim:
+| [[Hebrew binyanim|*Hebrew*]] | [[*Simple*]] | [[*Intensive*]] | [[*Causative*]] | [[*Reflexive*]] |
+|---------|--------|-----------|-----------|-----------|
+| [[*Active*]]  | [[_Pa’al_]] | [[_Pi’el_]] | [[_Hif’il_]] | [[_Hispa’el_\,<br>_Nispa’el_]] |
+| [[*Passive*]] | [[_Nif’al_]] | [[_Pu’al_]] | [[_Huf’al_]] | \^ |
+<meta>
+| [[Aramaic binyanim|*Aramaic*]] | [[*Simple*]] | [[*Intensive*]] | [[*Causative*]] |
+| [[*Active*]]  | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
+| [[Aramaic Passive \/ Reflexive|*Passive*]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
 ===
 > [[4|Okay]]
 ===
 
-4: Every verb has what’s called a tense. [[Tenses of Hebrew and Aramaic|<small>(more)</small>]]
-For example, taking our verb מאכיל, we might know that the spelling indicates a verb that is in the “active participle” tense, which indicates an ongoing or habitual action, i.e “feeds” or “is feeding,” as opposed to “fed” or “will feed.”
+4: Every verb has what’s called a “tense.”
+For example, taking our verb מאכיל, we might know that the spelling indicates a verb that describes a habitual or ongoing action e.g. “he feeds” or “he is feeding,” as opposed to e.g. “he fed” or “will feed.” (The technical term for this tense is the “active participle.”)
+This is a diagram of all the tenses:
+| [[Past Tense]] | [[Future Tense]] | [[Active Participle]] |
+| [[Imperative]] | [[Infinitive]] | [[Passive Participle]] |
 ===
 > [[5|Okay]]
 ===
 
-5: Every verb has what’s called “person” and “number.” This tells you how many people are doing the action, and whether they are masculine or feminine. Our example of מאכיל is masculine singular, indicating a single male doer.
+5: Every verb has a “conjugation,” additional information about who is doing the action.
+Conjugation always includes what are called “gender” and “number.” This tells you how many people are doing the action, and whether they are masculine or feminine.
+Some verbs also include “person” e.g. whether I am doing it, you are doing it, he is doing it, etc. Our example of מאכיל is masculine singular, indicating a single male doer, and does not have “person” information.
 ===
 > [[6|Okay]]
 ===
 
-6: For every combination of a binyan and a tense, there will be a table of conjugations for every person. For example, these are the conjugations for [[Hifil Active Participle|the Hebrew causative binyan put in the active participle]].
+6: For every combination of a binyan and a tense, there will be a table of conjugations for every person. For example, these are the conjugations for the “hif’il active participle” which מַאֲכִיל belongs to:
+|     \x       | *Masculine* | *Feminine* |
+| *Singular* | מַבְדִּיל <br><br> _mavdil_ <br><br><br> [he is] separating | מַבְדִּילָה <br><br> _mavdilau_ <br><br><br> [she is] separating |
+| *Plural*   | מַבְדִּילִים <br><br> _mavdilim_ <br><br><br> [those men are] separating | מַבְדִּילוֹת <br><br> _mavdilos_ <br><br><br> [those women are] separating |
 ===
 > [[#|Got it]]
 ===
