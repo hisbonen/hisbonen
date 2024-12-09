@@ -50,7 +50,7 @@ p {
     position: fixed; /* Fixing the div to the viewport */
     top: 0;
     bottom: 0;
-    width: 6%; 
+    width: 85px; 
     background-color: #ffab57;
     background-size: 300%;
     z-index: -1; /* This ensures the side panels are behind the main content */
@@ -66,32 +66,77 @@ p {
 
 .contact-icon {
     position: fixed; /* Fixed to the corner, stays even on scroll */
-    bottom: 30px; /* 30px from the bottom of the screen */
-    right: 120px; /* 120px from the right side of the screen */
-    background-color: #f6f5f5; /* Very light gray background */
-    color: #666666; /* Medium gray icon color */
+    bottom: 30px;
+    right: 120px; 
+    background-color: #FFFFFF; /* Subtle off-white background */
     font-size: 24px; /* Icon size */
-    padding: 10px; /* Padding inside the square */
-    width: 40px; /* Square shape */
-    height: 40px; /* Square shape */
+    padding: 5px; /* Smaller padding for a clean look */
+    width: 50px; /* Square shape */
+    height: 45px; /* Square shape */
     display: flex; /* Center the icon horizontally and vertically */
     justify-content: center; /* Center content horizontally */
     align-items: center; /* Center content vertically */
-    border-radius: 12px; /* Rounded corners */
-    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for subtle depth */
+    border-radius: 4px; /* Slightly rounded corners */
+    border: 1px solid #dddddd; /* Light border for outline effect */
     text-align: center; /* Center the icon */
     text-decoration: none; /* No underline on the link */
-    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition on hover */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08); /* Light shadow for slight depth */
+    transition: background-color 0.1s ease, filter 0.2s ease, box-shadow 0.2s ease; /* Smooth transition on hover */
     user-select: none; /* Prevent the icon from being selectable */
+    cursor: pointer; /* Change cursor to pointer for interactivity */
 }
 
 .contact-icon:hover {
-    background-color: #cccccc; /* Slightly darker gray on hover */
-    color: #333333; /* Darker gray icon color on hover */
-    box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.15); /* Slightly more pronounced shadow on hover */
+    //background-color: #e0e0e0; /* Light gray background on hover */
+    border-color: #cccccc; /* Darker outline on hover */
+    //box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15); /* More pronounced shadow on hover */
+    filter: brightness(0.8); /* Darken the entire element, including emoji */
 }
 
 small {
   font-size: 0.7em;
-  vertical-align: 3px;
+  vertical-align: 1px;
+}
+
+a[data-text="→"] {
+  display:inline-block;
+  transform: scaleX(0.9);
+}
+
+gray {
+  color: lightgray;
+}
+
+h {
+  font-weight: bold;
+  text-align: center;
+  width: auto;
+  display: block;
+}
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffab57;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+#password-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+#password-container input {
+  padding: 10px;
+  font-size: 16px;
+}
+#password-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
 }

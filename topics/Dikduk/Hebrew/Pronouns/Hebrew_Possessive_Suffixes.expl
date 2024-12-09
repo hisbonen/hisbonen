@@ -1,114 +1,34 @@
 Hebrew Possessive Suffixes:
 Hebrew has a variety of possessive suffixes that can be added to words to indicate ownership.
-| [[Masculine Singular Object<br>{|e.g. סֵפֶר, _sefer_, “book”}]] | [[Masculine Plural Object<br>{|e.g. סְפָרִים, _sefarim_, “books”}]] |
-| [[Feminine Singular Object<br>{|e.g. פָּרָה, _para_, “cow”}]]  | [[Feminine Plural Object<br>{|e.g.פָּרוֹת, _paros_, “cows”}]] |
+| [[Masculine Singular Item<br>{|(ספר, _sefer_, “book”)}]] | [[Masculine Plural Item<br>{|(ספרים, _sefarim_, “books”)}]] |
+| [[Feminine Singular Item<br>{|(פרה, _para_, “cow”)}]]  | [[Feminine Plural Item<br>{|(פרות, _paros_, “cows”)}]] |
 
-Masculine Singular Object:
+Masculine Singular Item:
 | *Person*           | *Singular*                                                                                       |    \<    | *Plural*                                                                                         |    \<    |
 |--------------------|--------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------|----------|
-| *First Person*     | [[First person singular for masculine singular noun|סִפְרִי<br>_sifri_<br>“My sefer”]]            |  \<      | [[First person plural for masculine singular noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefer”]]      |  \<      |
-| *Second Person*    | [[Second person masculine singular for masculine singular noun|סִפְרְךָ<br>_sifrochah_<br>“Your sefer” (man)]] | [[Second person feminine singular for masculine singular noun|סִפְרֵךְ<br>_sifraych_<br>“Your sefer” (woman)]] | [[Second person masculine plural for masculine singular noun|סִפְרְכֶם<br>_sifrochchem_<br>“Your sefer” (men)]] | [[Second person feminine plural for masculine singular noun|סִפְרְכֶן<br>_sifrochchen_<br>“Your sefer” (women)]] |
-| *Third Person*     | [[Third person masculine singular for masculine singular noun|סִפְרוֹ<br>_sifro_<br>“His sefer”]]          | [[Third person feminine singular for masculine singular noun|סִפְרָהּ<br>_sifroh_<br>“Her sefer”]]          | [[Third person masculine plural for masculine singular noun|סִפְרָם<br>_sifrom_<br>“Their sefer” (men)]]        | [[Third person feminine plural for masculine singular noun|סִפְרָן<br>_sifron_<br>“Their sefer” (women)]]         |
+| *First-<br>Person*     | [#[First-person singular for masculine singular noun|סִפְרִי<br>_sifri_<br>“My sefer”]]            |  \<      | [#[First-person plural for masculine singular noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefer”]]      |  \<      |
+| *Second-<br>Person*    | [#[Second-person masculine singular for masculine singular noun|סִפְרְךָ<br>_sif’r’chah_<br>“Your sefer” (man)]] | [#[Second-person feminine singular for masculine singular noun|סִפְרֵךְ<br>_sifraych_<br>“Your sefer” (woman)]] | [#[Second-person masculine plural for masculine singular noun|סִפְרְכֶם<br>_sif’r’chchem_<br>“Your sefer” (men)]] | [#[Second-person feminine plural for masculine singular noun|סִפְרְכֶן<br>_sif’r’chen_<br>“Your sefer” (women)]] |
+| *Third-<br>Person*     | [#[Third-person masculine singular for masculine singular noun|סִפְרוֹ<br>_sifro_<br>“His sefer”]]          | [#[Third-person feminine singular for masculine singular noun|סִפְרָהּ<br>_sifroh_<br>“Her sefer”]]          | [#[Third-person masculine plural for masculine singular noun|סִפְרָם<br>_sifrom_<br>“Their sefer” (men)]]        | [#[Third-person feminine plural for masculine singular noun|סִפְרָן<br>_sifron_<br>“Their sefer” (women)]]         |
 
-Masculine Plural Object:
+Masculine Plural Item:
 | *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
 |--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
-| *First Person*     | [[First person singular for masculine plural noun|סִפְרַי<br>_sifray_<br>“My sefarim”]]                      |  \<      | [[First person plural for masculine plural noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefarim”]]                |  \<    |
-| *Second Person*    | [[Second person masculine singular for masculine plural noun|סִפְרֶיךָ<br>_sifrecha_<br>“Your sefarim” (man)]] | [[Second person feminine singular for masculine plural noun|סִפְרַיִךְ<br>_sifrayeich_<br>“Your sefarim” (woman)]] | [[Second person masculine plural for masculine plural noun|סִפְרֵיכֶם<br>_sifreichem_<br>“Your sefarim” (men)]]          | [[Second person feminine plural for masculine plural noun|סִפְרֵיכֶן<br>_sifreichen_<br>“Your sefarim” (women)]]          |
-| *Third Person*     | [[Third person masculine singular for masculine plural noun|סִפְרָיו<br>_sifrav_<br>“His sefarim”]]          | [[Third person feminine singular for masculine plural noun|סִפְרֶיהָ<br>_sifreyha_<br>“Her sefarim”]]       | [[Third person masculine plural for masculine plural noun|סִפְרֵיהֶם<br>_sifreihem_<br>“Their sefarim” (men)]]           | [[Third person feminine plural for masculine plural noun|סִפְרֵיהֶן<br>_sifreihen_<br>“Their sefarim” (women)]]           |
+| *First-<br>Person*     | [#[First-person singular for masculine plural noun|סִפְרַי<br>_sifray_<br>“My sefarim”]]                      |  \<      | [#[First-person plural for masculine plural noun|סִפְרֵינוּ<br>_sifraynu_<br>“Our sefarim”]]                |  \<    |
+| *Second-<br>Person*    | [#[Second-person masculine singular for masculine plural noun|סִפְרֶיךָ<br>_sifrecha_<br>“Your sefarim” (man)]] | [#[Second-person feminine singular for masculine plural noun|סִפְרַיִךְ<br>_sifrayeich_<br>“Your sefarim” (woman)]] | [#[Second-person masculine plural for masculine plural noun|סִפְרֵיכֶם<br>_sifreichem_<br>“Your sefarim” (men)]]          | [#[Second-person feminine plural for masculine plural noun|סִפְרֵיכֶן<br>_sifreichen_<br>“Your sefarim” (women)]]          |
+| *Third-<br>Person*     | [#[Third-person masculine singular for masculine plural noun|סִפְרָיו<br>_sifrav_<br>“His sefarim”]]          | [#[Third-person feminine singular for masculine plural noun|סִפְרֶיהָ<br>_sifreyha_<br>“Her sefarim”]]       | [#[Third-person masculine plural for masculine plural noun|סִפְרֵיהֶם<br>_sifreihem_<br>“Their sefarim” (men)]]           | [#[Third-person feminine plural for masculine plural noun|סִפְרֵיהֶן<br>_sifreihen_<br>“Their sefarim” (women)]]           |
 
-Hebrew Possessive Suffixes for Feminine Singular and Plural Objects
+Hebrew Possessive Suffixes for Feminine Singular and Plural Items
 
-Feminine Singular Object:
+Feminine Singular Item:
 | *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
 |--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
-| *First Person*     | [[First person singular for feminine singular noun|פָּרָתִי<br>_parasi_<br>“My cow”]]                        |  \<      | [[First person plural for feminine singular noun|פָּרָתֵנוּ<br>_parasaynu_<br>“Our cow”]]                  |  \<    |
-| *Second Person*    | [[Second person masculine singular for feminine singular noun|פָּרָתְךָ<br>_paraschah_<br>“Your cow” (man)]] | [[Second person feminine singular for feminine singular noun|פָּרָתֵךְ<br>_parasaych_<br>“Your cow” (woman)]] | [[Second person masculine plural for feminine singular noun|פָּרַתְכֶם<br>_paraschem_<br>“Your cow” (men)]]   | [[Second person feminine plural for feminine singular noun|פָּרַתְכֶן<br>_paraschen_<br>“Your cow” (women)]]   |
-| *Third Person*     | [[Third person masculine singular for feminine singular noun|פָּרָתוֹ<br>_paraso_<br>“His cow”]]             | [[Third person feminine singular for feminine singular noun|פָּרָתָהּ<br>_parasah_<br>“Her cow”]]           | [[Third person masculine plural for feminine singular noun|פָּרָתָם<br>_parasam_<br>“Their cow” (men)]]        | [[Third person feminine plural for feminine singular noun|פָּרָתָן<br>_parasan_<br>“Their cow” (women)]]         |
+| *First-<br>Person*     | [#[First-person singular for feminine singular noun|פָּרָתִי<br>_parasi_<br>“My cow”]]                        |  \<      | [#[First-person plural for feminine singular noun|פָּרָתֵנוּ<br>_parasaynu_<br>“Our cow”]]                  |  \<    |
+| *Second-<br>Person*    | [#[Second-person masculine singular for feminine singular noun|פָּרָתְךָ<br>_paraschah_<br>“Your cow” (man)]] | [#[Second-person feminine singular for feminine singular noun|פָּרָתֵךְ<br>_parasaych_<br>“Your cow” (woman)]] | [#[Second-person masculine plural for feminine singular noun|פָּרַתְכֶם<br>_paraschem_<br>“Your cow” (men)]]   | [#[Second-person feminine plural for feminine singular noun|פָּרַתְכֶן<br>_paraschen_<br>“Your cow” (women)]]   |
+| *Third-<br>Person*     | [#[Third-person masculine singular for feminine singular noun|פָּרָתוֹ<br>_paraso_<br>“His cow”]]             | [#[Third-person feminine singular for feminine singular noun|פָּרָתָהּ<br>_parasah_<br>“Her cow”]]           | [#[Third-person masculine plural for feminine singular noun|פָּרָתָם<br>_parasam_<br>“Their cow” (men)]]        | [#[Third-person feminine plural for feminine singular noun|פָּרָתָן<br>_parasan_<br>“Their cow” (women)]]         |
 
-Feminine Plural Object:
+Feminine Plural Item:
 | *Person*           | *Singular*                                                                                                   |    \<    | *Plural*                                                                                                   |          \<            |
 |--------------------|-------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|------------------------|
-| *First Person*     | [[First person singular for feminine plural noun|פָּרוֹתַי<br>_parosai_<br>“My cows”]]                        |  \<      | [[First person plural for feminine plural noun|פָּרוֹתֵינוּ<br>_paroseinu_<br>“Our cows”]]                  |  \<    |
-| *Second Person*    | [[Second person masculine singular for feminine plural noun|פָּרוֹתֶיךָ<br>_parosecha_<br>“Your cows” (man)]] | [[Second person feminine singular for feminine plural noun|פָּרוֹתַיִךְ<br>_parosayich_<br>“Your cows” (woman)]] | [[Second person masculine plural for feminine plural noun|פָּרוֹתֵיכֶם<br>_paroseichem_<br>“Your cows” (men)]] | [[Second person feminine plural for feminine plural noun|פָּרוֹתֵיכֶן<br>_paroseichen_<br>“Your cows” (women)]] |
-| *Third Person*     | [[Third person masculine singular for feminine plural noun|פָּרוֹתָיו<br>_parosav_<br>“His cows”]]            | [[Third person feminine singular for feminine plural noun|פָּרוֹתֶיהָ<br>_paroseha_<br>“Her cows”]]          | [[Third person masculine plural for feminine plural noun|פָּרוֹתֵיהֶם<br>_paroseihem_<br>“Their cows” (men)]]   | [[Third person feminine plural for feminine plural noun|פָּרוֹתֵיהֶן<br>_paroseihen_<br>“Their cows” (women)]]   |
-
-First person singular for masculine singular noun:
-
-First person plural for masculine singular noun:
-
-Second person masculine singular for masculine singular noun:
-
-Second person feminine singular for masculine singular noun:
-
-Second person masculine plural for masculine singular noun:
-
-Second person feminine plural for masculine singular noun:
-
-Third person masculine singular for masculine singular noun:
-
-Third person feminine singular for masculine singular noun:
-
-Third person masculine plural for masculine singular noun:
-
-Third person feminine plural for masculine singular noun:
-
-First person singular for masculine plural noun:
-
-First person plural for masculine plural noun:
-
-Second person masculine singular for masculine plural noun:
-
-Second person feminine singular for masculine plural noun:
-
-Second person masculine plural for masculine plural noun:
-
-Second person feminine plural for masculine plural noun:
-
-Third person masculine singular for masculine plural noun:
-
-Third person feminine singular for masculine plural noun:
-
-Third person masculine plural for masculine plural noun:
-
-Third person feminine plural for masculine plural noun:
-
-First person singular for feminine singular noun:
-
-First person plural for feminine singular noun:
-
-Second person masculine singular for feminine singular noun:
-
-Second person feminine singular for feminine singular noun:
-
-Second person masculine plural for feminine singular noun:
-
-Second person feminine plural for feminine singular noun:
-
-Third person masculine singular for feminine singular noun:
-
-Third person feminine singular for feminine singular noun:
-
-Third person masculine plural for feminine singular noun:
-
-Third person feminine plural for feminine singular noun:
-
-First person singular for feminine plural noun:
-
-First person plural for feminine plural noun:
-
-Second person masculine singular for feminine plural noun:
-
-Second person feminine singular for feminine plural noun:
-
-Second person masculine plural for feminine plural noun:
-
-Second person feminine plural for feminine plural noun:
-
-Third person masculine singular for feminine plural noun:
-
-Third person feminine singular for feminine plural noun:
-
-Third person masculine plural for feminine plural noun:
-
-Third person feminine plural for feminine plural noun:
+| *First-<br>Person*     | [#[First-person singular for feminine plural noun|פָּרוֹתַי<br>_parosai_<br>“My cows”]]                        |  \<      | [#[First-person plural for feminine plural noun|פָּרוֹתֵינוּ<br>_paroseinu_<br>“Our cows”]]                  |  \<    |
+| *Second-<br>Person*    | [#[Second-person masculine singular for feminine plural noun|פָּרוֹתֶיךָ<br>_parosecha_<br>“Your cows” (man)]] | [#[Second-person feminine singular for feminine plural noun|פָּרוֹתַיִךְ<br>_parosayich_<br>“Your cows” (woman)]] | [#[Second-person masculine plural for feminine plural noun|פָּרוֹתֵיכֶם<br>_paroseichem_<br>“Your cows” (men)]] | [#[Second-person feminine plural for feminine plural noun|פָּרוֹתֵיכֶן<br>_paroseichen_<br>“Your cows” (women)]] |
+| *Third-<br>Person*     | [#[Third-person masculine singular for feminine plural noun|פָּרוֹתָיו<br>_parosav_<br>“His cows”]]            | [#[Third-person feminine singular for feminine plural noun|פָּרוֹתֶיהָ<br>_paroseha_<br>“Her cows”]]          | [#[Third-person masculine plural for feminine plural noun|פָּרוֹתֵיהֶם<br>_paroseihem_<br>“Their cows” (men)]]   | [#[Third-person feminine plural for feminine plural noun|פָּרוֹתֵיהֶן<br>_paroseihen_<br>“Their cows” (women)]]   |
