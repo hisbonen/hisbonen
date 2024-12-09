@@ -4,7 +4,7 @@
 <img src="/_assets/exclamation.png" alt="Logo" style="position: absolute;height: 190px;top: -43px;right: -145px; background-color: rgb(255,255,255);">
 This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for learning Torah sources.
 - Submit feedback or suggestions with the ✉️ icon below.
-- Hisbonen is a compilation helpful information, not an authoritative source.
+- Hisbonen is a compilation of helpful information, not an authoritative source.
 - Sign up for occasional project updates via email [here](https://groups.google.com/g/hisbonen/about)
 - Hisbonen is written using [Canopy.js](https://github.com/canopy-js/canopy-js)
 ===
@@ -2924,7 +2924,7 @@ These are the Gemaras following [[Mishnah Ha’ish mekadesh|the Mishnah on Kiddu
 Perek Ha’ish Mekadesh is the second perek of Meseches Kiddushin.
 ===
 - [[By Daf]]
-- [[By Mishnah]]
+- [![By Mishnah]]
 - [![Outline]]
 - [![Summary]]
 - [![Halachos]]
@@ -3098,7 +3098,18 @@ Basic:
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray> 
-> The man is/is being _mekadesh_ in/on/with himself and/or in/on/with his _shaliach_.
+| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
+|  האיש מקדש בו ובשלוחו | [[#Literal|Review ↺]] | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
+|  האשה מתקדשת בה ובשלוחה | [[#Literal 2|Review ↺]] | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
+|  האיש מקדש את בתו כשהיא נערה בו ובשלוחו | [[#Literal 3|Review ↺]] | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
+===
+< [[#Literal]]
+> [[#Comprehend]]
+===
+
+האיש מקדש בו ובשלוחו:
+< האיש מקדש בו ובשלוחו <gray>האשה</gray>
+< <gray>מתקדשת בה ובשלוחה האיש</gray>
 Because we are in _Meseches Kiddushin_ which deals with marriage law, _“mekadesh”_ probably means creating the initial _kiddushin_ stage of the marriage process, prior to the final stage called _nisuyin_.
 “Ongoing” verbs in the Mishnah generally signify that an action works and is permitted. So, “the man is/is being _mekadesh_” probably means "the way a man is _mekadesh_ is via himself or via his _shaliach_.
 _Shaliach_ here probably means “a sent person” i.e. an emissary or agent.
@@ -3106,27 +3117,15 @@ The two prefixes ב here i.e. ~ב~ו ו~ב~שלוחו, i.e. _~b~o u’~b~’shlu
 Put together, the Mishnah reads: 
 > A man is _mekadesh_ [a woman for marriage] via himself, or via his _shaliach_
 So, now we see that the purpose of the Mishnah is to convey the surprising idea that the initial _kiddushin_ stage of marriage can be performed remotely by a designated third-party.
-===
-< [[#Literal]]
-> [[Basic 2|Next]]
-> [[#Comprehend]]
-===
 
-Basic 2:
-*Basic (2/3):*
+האשה מתקדשת בה ובשלוחה:
 < <gray>האיש מקדש בו ובשלוחו</gray> האשה
 < מתקדשת בה ובשלוחה <gray>האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray>
 > The woman is _miskadeshes_ via herself or her _shaliach_.
 Earlier we said _mekadesh_ by a man can mean multiple things, but _miskadeshes_ which indicates a woman is becoming holy happens to have only one common use, that she is being halachically designated to a certain man for marriage by entering the initial _kiddushin_ stage of marriage, after which she would need a bill of divorce to marry someone else.
-===
-< [[#Literal]]
-> [[Basic 3|Next]]
-> [[#Comprehend]]
-===
 
-Basic 3:
-*Basic (3/3):*
+האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 < <gray>האיש מקדש בו ובשלוחו האשה</gray>
 < <gray>מתקדשת בה ובשלוחה </gray>האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו:
@@ -3403,7 +3402,7 @@ We’ll analyze the text via several steps.
 | [[Literal]] | [[Basic ]] | [[Comprehend]] | [[Analyze]] |
 
 Literal: 
-*Literal (1/13):* Let’s make a literal translation of each word of the Gemara.
+*Literal (1/12):* Let’s make a literal translation of each word of the Gemara.
 < גמ‘ השתא בשלוחו מקדש בו מיבעיא <gray>אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב</gray>
 > *‘גמ* – ‎גְּמָרָא – _Gemara_ (from printer, marking end of Mishnah and start of Gemara) <small>{{[[גמ‘|→]]}}</small>
@@ -3419,7 +3418,7 @@ Literal:
 ===
 
 Literal 2:
-*Literal (2/13):* Let’s continue our literal translation of the Gemara.
+*Literal (2/12):* Let’s continue our literal translation of the Gemara.
 < <gray>גמ’ השתא בשלוחו מקדש בו מיבעיא</gray> אמר
 < רב יוסף מצוה בו יותר מבשלוחו <gray> כי הא דרב</gray>
 > *אָמַר* – _amar_ – said <small>{{[[אמר|→]]}}</small>
@@ -3435,7 +3434,7 @@ Literal 2:
 ===
 
 Literal 3:
-*Literal (3/13):* Let’s continue our literal translation of the Gemara.
+*Literal (3/12):* Let’s continue our literal translation of the Gemara.
 < <gray>גמ’ השתא בשלוחו מקדש בו מיבעיא אמר
 < רב יוסף מצוה בו יותר מבשלוחו  </gray>כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא<gray>
@@ -3456,28 +3455,27 @@ The word שיבוטא _shibuta_ doesn’t seem to have been as widely used as th
 ===
 
 Literal 4:
-*Literal (4/13):* Let’s continue our literal translation of the Gemara.
+*Literal (4/12):* Let’s continue our literal translation of the Gemara.
 < <gray>ספרא מחריך רישא רבא מלח שיבוטא</gray>
 < איכא דאמרי בהא איסורא נמי אית בה
 < כדרב יהודה אמר רב <gray> דאמר רב יהודה</gray>
 > *אִיכָּא* – _ika_ – there is/are <small>{{[[איכא|→]]}}</small>
-> *דְּאָמְרִי* – _d’amri_ – that say <small>{{[[דאמרי|→]]}}</small>
-> *בְּהָא* – _b’ha_ – in/on/with this/that <small>{{[[בהא|→]]}}</small>
+> *דְּאָמְרִי* – _d’amri_ – that [they] say <small>{{[[דאמרי|→]]}}</small>
+> *בְּהָא* – _b’ha_ – in/on/with, this/that <small>{{[[בהא|→]]}}</small>
 > *אִיסוּרָא* – _isura_ – prohibition <small>{{[[איסורא|→]]}}</small>
 > *נַמִּי* – _nami_ – also <small>{{[[נמי|→]]}}</small>
 > *אִית* – _eis_ – there is/are <small>{{[[אית|→]]}}</small>
-> *בָּהּ* – _bah_ – on/in/with her/it <small>{{[[בה|→]]}}</small>
+> *בָּהּ* – _bah_ – on/in/with, her/it <small>{{[[בה|→]]}}</small>
 ===
 > [[Literal 5|Next]]
 > [[#Basic]]
 ===
 
 Literal 5:
-*Literal (5/13):* Let’s continue our literal translation of the Gemara.
+*Literal (5/12):* Let’s continue our literal translation of the Gemara.
 < <gray>איכא דאמרי בהא איסורא נמי אית בה</gray>
 < כדרב יהודה אמר רב דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה <gray> שמא יראה בה דבר מגונה</gray>
+< אמר רב <gray>אסור לאדם שיקדש את האשה<gray>
 > *כְּדְרַב* – _k’d’Rav_ – as/like of Rav <small>{{[[כדרב|→]]}}</small>
 > *יְהוּדָה* – _Yehuda_ <small>{{[[יהודה|→]]}}</small>
 > *אָמַר* – _amar_ – said <small>{{[[אמר|→]]}}</small>
@@ -3493,7 +3491,7 @@ Literal 5:
 ===
 
 Literal 6:
-*Literal (6/13):* Let’s continue our literal translation of the Gemara.
+*Literal (6/12):* Let’s continue our literal translation of the Gemara.
 > *אָסוּר* – _asur_ – [is] prohibited <small>{{[[אסור|→]]}}</small>
 > *לְאָדָם* – _l’adam_ – to man/a man <small>{{[[לאדם|→]]}}</small>
 > *שֶׁיְּקַדֵּשׁ* – _sh’yekadesh_ – that he will be _mekadesh_ <small>{{[[שיקדש|→]]}}</small>
@@ -3507,7 +3505,7 @@ Literal 6:
 ===
 
 Literal 7:
-*Literal (7/13):* Let’s continue our literal translation of the Gemara.
+*Literal (7/12):* Let’s continue our literal translation of the Gemara.
 < <gray>עד שיראנה </gray>שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
@@ -3529,7 +3527,7 @@ Literal 7:
 ===
 
 Literal 8:
-*Literal (8/13):* Let’s continue our literal translation of the Gemara.
+*Literal (8/12):* Let’s continue our literal translation of the Gemara.
 < <gray>כמוך </gray>וכי איתמר דרב יוסף אסיפא איתמר
 < האשה מתקדשת בה ובשלוחה <gray> השתא </gray>
 > *וְכִי* – _v’chi_ – and because/when/if/like <small>{{[[וכי|→]]}}</small>
@@ -3548,23 +3546,15 @@ Literal 8:
 ===
 
 Literal 9:
-*Literal (9/13):* Let’s continue our literal translation of the Gemara.
+*Literal (9/12):* Let’s continue our literal translation of the Gemara.
 < <gray>האשה מתקדשת בה ובשלוחה </gray> השתא
-< בשלוחה מיקדשא בה מיבעיא<gray> אמר רב יוסף</gray>
+< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
+< מצוה בה יותר מבשלוחה <gray> כי הא דרב ספרא </gray>
 > *הַשְׁתָּא* – _hashta_ – now <small>{{[[השתא|→]]}}</small>
 > *בִּשְׁלוּחָהּ* – _b’shluchah_ – in/on/with, her _shaliach_ <small>{{[[בשלוחה|→]]}}</small>
 > *מִיקַדְּשָׁא* – _mekadsha_ – she becomes _mekadsha_ <small>{{[[מיקדשא|→]]}}</small>
 > *בָּהּ* – _bah_ – in/on/with her <small>{{[[בה|→]]}}</small>
 > *מִיבָּעֵיא* – _meboya_ – (is) needed/wanted/requested <small>{{[[מיבעיא|→]]}}</small>
-===
-> [[Literal 10|Next]]
-> [[#Basic]]
-===
-
-Literal 10:
-*Literal (10/13):* Let’s continue our literal translation of the Gemara.
-< <gray>בשלוחה מיקדשא בה מיבעיא </gray>אמר רב יוסף
-< מצוה בה יותר מבשלוחה <gray> כי הא דרב ספרא </gray>
 > *אָמַר* – _amar_ <small>{{[[אמר|→]]}}</small>
 > *רַב* – Rav <small>{{[[רב|→]]}}</small>
 > *יוֹסֵף* – Yosef <small>{{[[יוסף|→]]}}</small>
@@ -3573,12 +3563,12 @@ Literal 10:
 > *יוֹתֵר* – _yoser_ – more <small>{{[[יותר|→]]}}</small>
 > *מִבִּשְׁלוּחָהּ* – _m’b’shluchah_ – from/than, in/on/with, her _shaliach_ <small>{{[[מבשלוחה|→]]}}</small>
 ===
-> [[Literal 11|Next]]
+> [[Literal 10|Next]]
 > [[#Basic]]
 ===
 
-Literal 11:
-*Literal (11/13):* Let’s continue our literal translation of the Gemara.
+Literal 10:
+*Literal (10/12):* Let’s continue our literal translation of the Gemara.
 < <gray>מצוה בה יותר מבשלוחה </gray> כי הא דרב ספרא
 < מחריך רישא רבא מלח שיבוטא<gray> אבל בהא</gray>
 > *כִּי* – because/if/when/like <small>{{[[כי|→]]}}</small>
@@ -3591,12 +3581,12 @@ Literal 11:
 > *מָלַח* – _malach_ – salted <small>{{[[מלח|→]]}}</small>
 > *שִׁיבּוּטָא* – _shibuta_ <small>{{[[שיבוטא|→]]}}</small>
 ===
-> [[Literal 12|Next]]
+> [[Literal 11|Next]]
 > [[#Basic]]
 ===
 
-Literal 12:
-*Literal (12/13):* Let’s continue our literal translation of the Gemara.
+Literal 11:
+*Literal (11/12):* Let’s continue our literal translation of the Gemara.
 < <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
@@ -3606,20 +3596,20 @@ Literal 12:
 > *לֵית* – _leis_ – there is/are not <small>{{[[לית|→]]}}</small>
 > *בָּהּ* – _bah_ – in/on/with her <small>{{[[בה|→]]}}</small>
 > *כִּדְר״ל* ‎– כִּדְּרֵישׁ לָקִישׁ – _k’d’Reish Lakish_ – like/as, of/because, Reish Lakish <small>{{[[כדר״ל|→]]}}</small>
+> *דְּאָמַר* – _d’amar_ – that/for, said <small>{{[[דאמר|→]]}}</small>
+> *ר״ל* ‎– רֵישׁ לָקִישׁ – _Reish Lakish_ <small>{{[[ר״ל|→]]}}</small>
 ===
-> [[Literal 13|Next]]
+> [[Literal 12|Next]]
 > [[#Basic]]
 ===
 
-Literal 13:
-*Literal (13/13):* Let’s continue our literal translation of the Gemara.
-> *דְּאָמַר* – _d’amar_ – that said <small>{{[[דאמר|→]]}}</small>
-> *ר״ל* ‎– רֵישׁ לָקִישׁ – _Reish Lakish_ <small>{{[[ר״ל|→]]}}</small>
+Literal 12:
+*Literal (12/12):* Let’s continue our literal translation of the Gemara.
 > *טָב* – _tav_ – good/better <small>{{[[טב|→]]}}</small>
 > *לְמֵיתַב* – _l’maisev_ – to sit/live <small>{{[[למיתב|→]]}}</small>
 > *טַן* – _tan_ – uncommon word that seems to mean “grief” <small>{{[[טן|→]]}}</small>
 > *דּוּ* – _du_ – uncommon word that seems to mean “two” or “double” <small>{{[[דו|→]]}}</small>
-> *מִלְּמֵישַׁב* – _m’l’masiv_ – from/than to sit/live <small>{{[[מלמיתב|→]]}}</small>
+> *מִלְּמֵישַׁב* – _m’l’masiv_ – from/than, to sit/live <small>{{[[מלמיתב|→]]}}</small>
 > *אַרְמָלוֹ* – _armalo_ – widow <small>{{[[ארמלו|→]]}}</small>
 ===
 > [[Literal 14|Next]]
@@ -3636,8 +3626,8 @@ Basic:
 *Basic 1/6:* Let’s use local context and background info to improve our literal translation.
 < גמ’ השתא בשלוחו מקדש בו מיבעיא <gray>אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב</gray>
-|* Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
-| [[#Literal|Review]] | גמ’ השתא בשלוחו מקדש בו מיבעיא | The Gemara is asking on the Mishnah, why do I need to be told he can _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
+| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
+|  גמ’ השתא בשלוחו מקדש בו מיבעיא | [[#Literal|Review ↺]] | The Gemara is asking on the Mishnah, why do I need to be told he can be _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 2|Next]]
@@ -3659,14 +3649,13 @@ Putting that all together, the Gemara reads: “Now [that the Mishnah told me] _
 
 Basic 2:
 *Basic 2/6:* Let’s use local context and background info to improve our literal translation.
-Feel free to [[#Literal 2|review the literal translation]] for this section.
 < <gray>גמ’ השתא בשלוחו מקדש בו מיבעיא</gray> אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא<gray>
 < איכא דאמרי בהא איסורא נמי אית בה</gray>
-| *Text* |  *Explanation* | *Why?* |
-| אמר רב יוסף<br>מצוה בו יותר מבשלוחו | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
-| כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
+| *Text* | *Literal* | *Explanation* | *Why?* |
+| אמר רב יוסף<br>מצוה בו יותר מבשלוחו | [[#Literal 2|Review ↺]] | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
+| כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | [[#Literal 3|Review ↺]] | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 3|Next]]
@@ -3704,7 +3693,6 @@ This would be an example of R Yosef’s principle, that it is “more” of a _m
 
 Basic 3:
 *Basic 3/6:* Let’s use local context and background info to improve our literal translation.
-Feel free to [[#Literal 4|review the literal translation]] for this section before advancing.
 < <gray>ספרא מחריך רישא רבא מלח שיבוטא</gray>
 < איכא דאמרי בהא איסורא נמי אית בה
 < כדרב יהודה אמר רב דאמר רב יהודה
@@ -3712,9 +3700,9 @@ Feel free to [[#Literal 4|review the literal translation]] for this section befo
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* |  *Explanation* | *Why?* |
-|איכא דאמרי| Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
-|בהא איסורא נמי אית בה| When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
+| *Text* | *Literal* |  *Explanation* | *Why?* |
+|איכא דאמרי| [[#Literal 4|Review ↺]] | Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
+|בהא איסורא נמי אית בה| [[#Literal 4|Review ↺]] | When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
 ===
 < [[#Literal]]
 > [[Basic 4|Next]]
@@ -3749,17 +3737,16 @@ So, this new version of the Gemara may have began with our same Mishnah, asked t
 
 Basic 4:
 *Basic 4/6:* Let’s use local context and background info to improve our literal translation.
-Feel free to [[#Literal 5|review the literal translation]] for this section before advancing.
 < <gray> איכא דאמרי בהא איסורא נמי אית בה </gray>
 < כדרב יהודה אמר רב דאמר רב יהודה
 < אמר רב אסור לאדם שיקדש את האשה
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* |  *Explanation* | *Why?* |
-| כדרב יהודה אמר רב דאמר רב יהודה אמר רב | If the Tana used בו to implicitly teach the requirement of seeing the woman before _kiddushin_, that would be like a halacha which was taught by R Yehuda that he heard from Rav: | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
-|אסור לאדם שיקדש את האשה עד שיראנה| It is _assur_ for a man to be _mekadesh_ a woman until he has seen her first. | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
-|שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך| The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself” which being disgusted by your wife would be violating. | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
+| *Text* | *Literal* |  *Explanation* | *Why?* |
+| כדרב יהודה אמר רב דאמר רב יהודה אמר רב | [[#Literal 5|Review ↺]] | Like the halacha taught by R Yehuda who heard it from Rav | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
+| אסור לאדם שיקדש את האשה עד שיראנה | [[#Literal 6|Review ↺]] | “It is _assur_ for a man to be _mekadesh_ a woman until he has seen her.” | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
+| שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך | [[#Literal 7|Review ↺]] | The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself.” | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
 ===
 < [[#Literal]]
 > [[Basic 5|Next]]
@@ -3800,15 +3787,14 @@ So, this possibly reads: [This halacha of R Yehuda amar Rav was established beca
 
 Basic 5:
 *Basic 5/6:* Let’s use local context and background info to improve our literal translation.
-Feel free to [[#Literal 7|review the literal translation]] of this section before advancing.
 < <gray>כמוך </gray>וכי איתמר דרב יוסף אסיפא איתמר
 < האשה מתקדשת בה ובשלוחה השתא
 < בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
 < מצוה בה יותר מבשלוחה כי הא דרב ספרא
 < מחריך רישא רבא מלח שיבוטא<gray> אבל בהא</gray>
-| *Text* |  *Explanation* | *Why?* |
-| וכי איתמר דרב יוסף אסיפא איתמר האשה מתקדשת בה ובשלוחה  | The Gemara suggests that in this version of the discussion, R Yosef was speaking about the second clause of the Mishnah, not the first as in the earlier version. | [[וכי איתמר דרב יוסף אסיפא איתמר האשה מתקדשת בה ובשלוחה |→]] |
-| השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא | The Gemara now proceeds to repeat R Yosef’s answer and the story of the Amoriam preparing for Shabbos, this time said with female conjugations to fit with the second clause of the Mishnah. | [[השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
+| *Text* | *Literal* | *Explanation* | *Why?* |
+| וכי איתמר דרב יוסף אסיפא איתמר האשה מתקדשת בה ובשלוחה  | [[#Literal 8|Review ↺]] | The Gemara suggests that in this version of the discussion, R Yosef was speaking about the second clause of the Mishnah, not the first as in the earlier version. | [[וכי איתמר דרב יוסף אסיפא איתמר האשה מתקדשת בה ובשלוחה |→]] |
+| השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא | [[#Literal 9|Review ↺]] | The Gemara now proceeds to repeat R Yosef’s answer and the story of the Amoriam preparing for Shabbos, this time said with female conjugations as if it were said about the second clause of the Mishnah instead. | [[השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 6|Next]]
@@ -3835,21 +3821,21 @@ So וכי איתמר דרב יוסף אסיפא איתמר, _v’chi itmar d’R
 < בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
 < מצוה בה יותר מבשלוחה כי הא דרב ספרא
 < מחריך רישא רבא מלח שיבוטא<gray> אבל בהא</gray>
-The Gemara begins השתא בשלוח*ה* מיקדש*א* ב*ה *מיבעיא, _hashta b’shluch*ah* mekadsh*ah*, b*ah* mebaya_, “now [that the Mishnah has told me a woman can] become _mekudeshes_, [the word] _bah_ [i.e. that she can do it herself, is it] needed?” – The Gemara
+The Gemara begins השתא בשלוח*ה* מיקדש*א* ב*ה *מיבעיא, _hashta b’shluch*ah* mekadsh*ah*, b*ah* mebaya_, “now [that the Mishnah has told me a woman can] become _mekudeshes_, [the word] _bah_ [i.e. that she can do it herself, is it] needed?”
+These suffixes are feminine, and are changes to the original version that occurred the first time, consistent with how the Gemara might read if R Yosef had been saying the extra word in the _second clause_ was his proof, as opposed to the extra word in the first clause.
 ===
 > [[^]]
 ===
 
 Basic 6:
 *Basic 6/6:* Let’s use local context and background info to improve our literal translation.
-Feel free to [[#Literal 12|review the literal translation]] of this section before advancing.
 < <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
-| *Text* | *Explanation* | *Why?* |
-| אבל בהא איסורא לית בה |  | [[אבל בהא איסורא לית בה|→]] |
-| כדר״ל דאמר ר״ל |  | [[כדר״ל דאמר ר״ל|→]] |
-| טב למיתב טן דו מלמיתב ארמלו |  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
+| *Text* | *Literal* | *Explanation* | *Why?* |
+| אבל בהא איסורא<br> לית בה | [[#Literal 10|Review ↺]] | But, regarding the case of a woman accepting _kiddushin_ via shaliach, there is no _issur_ | [[אבל בהא איסורא לית בה|→]] |
+| כדר״ל דאמר ר״ל | [[#Literal 11|Review ↺]] | As we see from the statement of Reish Lakesh, for says Reish Lakesh: | [[כדר״ל דאמר ר״ל|→]] |
+| טב למיתב טן <br>דו מלמיתב ארמלו | [[#Literal 12|Review ↺]] | “Better to sit grieved as two than to sit as a widow”  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
 ===
 < [[#Literal]]
 > [[#Comprehend]]
@@ -3857,16 +3843,14 @@ Feel free to [[#Literal 12|review the literal translation]] of this section befo
 
 אבל בהא איסורא לית בה:
 < <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
+< איסורא לית בה <gray>כדר״ל דאמר ר״ל טב</gray>
 ===
 > [[^]]
 ===
 
 כדר״ל דאמר ר״ל:
-< <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
+< <gray>איסורא לית בה </gray> כדר״ל דאמר ר״ל <gray>טב
+< למיתב טן דו מלמיתב ארמלו: האיש</gray>
 ===
 > [[^]]
 ===
