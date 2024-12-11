@@ -1,7 +1,7 @@
 [Hisbonen]
 
 ** Hisbonen:
-<img src="/_assets/exclamation.png" alt="Logo" style="position: absolute;height: 190px;top: -43px;right: -145px; background-color: rgb(255,255,255);">
+<img src="/_assets/exclamation.png” alt="Logo” style="position: absolute;height: 190px;top: -43px;right: -145px; background-color: rgb(255,255,255);">
 This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for learning Torah sources.
 - Submit feedback or suggestions with the ✉️ icon below.
 - Hisbonen is a compilation of helpful information, not an authoritative source.
@@ -20,12 +20,16 @@ This is a beta version of Hisbonen (הִתְבּוֹנֵן), a tool for learning
 [Dikduk]
 
 * Binyanim:
+| [[Hebrew]] | [[Aramaic]] |
+
+Hebrew:
 These are the binyanim <small>{{[[binyan|(?)]]}}</small> of Hebrew and Aramaic:
 | [[Hebrew binyanim|*Hebrew*]] | [[*Simple*]] | [[*Intensive*]] | [[*Causative*]] | [[*Reflexive*]] |
 |---------|--------|-----------|-----------|-----------|
 | [[*Active*]]  | [[_Pa’al_]] | [[_Pi’el_]] | [[_Hif’il_]] | [[_Hispa’el_\,<br>_Nispa’el_]] |
 | [[*Passive*]] | [[_Nif’al_]] | [[_Pu’al_]] | [[_Huf’al_]] | \^ |
-<meta>
+
+Aramaic:
 | [[Aramaic binyanim|*Aramaic*]] | [[*Simple*]] | [[*Intensive*]] | [[*Causative*]] |
 | [[*Active*]]  | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
 | [[Aramaic Passive \/ Reflexive|*Passive*]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
@@ -186,7 +190,7 @@ Several of the [[verb forms beginning with מ]] are from Aramaic:
 More:
 Jastrow:
 > קָ־  a prefix, v. next w. 
-> קָא, קָ־  (abbrev. of קאם, v. קָאֵים a. קוּם) [he, it stands,] a particle of emphasis, mostly untranslatable. Ber. 2ᵃ מכדי … אימת קא אכלי וכ׳ now, when do the priests eat T’rumah?; מילתא … קא משמע לן the Mishnah (in choosing that definition of the time) wants to teach us something else indirectly; והא קמשמע לן (abbr. קמ"ל) and it is this, it wants to teach us. Ib. 4ᵇ והא דקא אמרי וכ׳ and the reason why they say &c.; a. v. fr.—V. קָמָא I, a. קָאֵי.
+> קָא, קָ־  (abbrev. of קאם, v. קָאֵים a. קוּם) [he, it stands,] a particle of emphasis, mostly untranslatable. Ber. 2ᵃ מכדי … אימת קא אכלי וכ׳ now, when do the priests eat T’rumah?; מילתא … קא משמע לן the Mishnah (in choosing that definition of the time) wants to teach us something else indirectly; והא קמשמע לן (abbr. קמ”ל) and it is this, it wants to teach us. Ib. 4ᵇ והא דקא אמרי וכ׳ and the reason why they say &c.; a. v. fr.—V. קָמָא I, a. קָאֵי.
 
 
 [Dikduk/Aramaic/Binyanim]
@@ -1682,7 +1686,7 @@ Definite articles are used to refer to specific things that are already known to
 
 More:
 In Hebrew, the definite article is a ה-prefix before a noun, usually pronounced הַ, _ha_, such as in הַכֶּלֶב, _hakelev_, “the dog.”
-The term in Hebrew for “definite article” is ה"א הַיְּדִיעָה, _hay hayediah_, literally “the hay of knowledge,” i.e. because it is used to refer to something that is already known to the reader.
+The term in Hebrew for “definite article” is ה”א הַיְּדִיעָה, _hay hayediah_, literally “the hay of knowledge,” i.e. because it is used to refer to something that is already known to the reader.
 Sometimes, the הַ gets combined with [[the {{prefix ב}}]] or [[the {{prefix ל}}]], and becomes a בַ or לַ, meaning e.g. “in the” or “to the.” For example, adding ב before הַבַּיִת (_habayis_, “the house”) becomes בַּבַּיִת (_babayis_ “in the house,” as opposed to _b’bayis_, “in a house.”)
 Aramaic also has a definite article, but it is an א-suffix not a ה-prefix, as in עָלְמָ*א* (_alma,_ “the world.”) <small>{{[[Aramaic definite article|→]]}}</small>
 Hebrew and Aramaic have no word like the English “a” to indicate an “indefinite article,” i.e. a generic entity like “a dog.” Rather, nouns that have no definite article are presumed indefinite, so כֶּלֶב, “dog” can also be translated as “a dog.” <small>{{[[Indefinite Article|→]]}}</small>
@@ -2477,7 +2481,7 @@ There are several words and prefixes that can turn a statement into a question.
 
 * ה interrogative particle:
 Hebrew has a ה prefix that turns a given sentence into a question.
-- In traditional grammar it is called the _hei hashayla_, ה"א השאלה, “question ה.”
+- In traditional grammar it is called the _hei hashayla_, ה”א השאלה, “question ה.”
 - This is not to be confused with the [[Hebrew definite article|Hebrew ה prefix meaning “the”]].
 - An example of the _hei hashayla_ would be הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח, _hayesh lechem ach_. Alone, _yesh lechem ach_, יֵ֣שׁ לָכֶ֣ם אָ֔ח would mean “you all have a brother.” With the ה prefix, it means “do you all have a brother?”
 - The ה question prefix is usually vowelized as -הֲ, “ha.”
@@ -2990,14 +2994,14 @@ By Daf:
 * Kiddushin 41a:
 Kiddushin 41a [[(image)]] is composed of the following sections: <small>{{[[Kiddushin 41a/Mishnah Haish Mekadesh|(Start with Mishnah)]]}}</small>
 | *Kiddushin 41a*  | \< | \< |
-| <small>{{[[Tosofos {41a:1 |}D"H _hashta bshlucho_]]}}</small> | [![End of the first perek]] | [![Rashi on previous perek]] |
-| <small>{{[[Tosofos {41a:2 |}D"H _e itmar dRav<br> Yosef asefia itmar_]]}}</small> | [[{{Mishnah }} of<br>{{_ha’ish mekadesh_}}]] | [[Rashi on {|the }Mishnah {Haish Mekadesh|}]] |
-| <small>{{[[Tosofos {41a:3 |}D"H _asur ladam<br> shyekadesh isha v’chulu_]]}}</small> | [[Gemara of<br>{{_hashta b’shlucho_}}]] | [[Rashi on _hashta b’shlucho_]] |
-| <small>{{[[Tosofos {41a:4 |}D"H _k’sh’hi na’ara<br> in k’sh’hi katana lo_]]}}</small> | [[Gemara of<br>{{_k’sh’hi na’ara in_}}]] | \^ |
-| <small>{{[[Tosofos {41a:5 |}D"H _asur l’adam<br>sh’yikadesh es bito<br>k’sh’hi katana_]]}}</small> | \^ | \^ |
+| <small>{{[[Tosofos {41a:1 |}D”H _hashta bshlucho_]]}}</small> | [![End of the first perek]] | [![Rashi on previous perek]] |
+| <small>{{[[Tosofos {41a:2 |}D”H _e itmar dRav<br> Yosef asefia itmar_]]}}</small> | [[{{Mishnah }} of<br>{{_ha’ish mekadesh_}}]] | [[Rashi on {|the }Mishnah {Haish Mekadesh|}]] |
+| <small>{{[[Tosofos {41a:3 |}D”H _asur ladam<br> shyekadesh isha v’chulu_]]}}</small> | [[Gemara of<br>{{_hashta b’shlucho_}}]] | [[Rashi on _hashta b’shlucho_]] |
+| <small>{{[[Tosofos {41a:4 |}D”H _k’sh’hi na’ara<br> in k’sh’hi katana lo_]]}}</small> | [[Gemara of<br>{{_k’sh’hi na’ara in_}}]] | \^ |
+| <small>{{[[Tosofos {41a:5 |}D”H _asur l’adam<br>sh’yikadesh es bito<br>k’sh’hi katana_]]}}</small> | \^ | \^ |
 | \^ | [![Gemara of _shlichus menalan_]] | [![Rashi on _k’sh’hi na’ara in_]] |
-| <small>{{[![Tosofos D"H _v’shalach_]]}}</small> | \^ | [![Rashi on _shlichus menalan_]] |
-| <small>{{[![Tosofos D"H _torem k’daas ba’al habayis_]]}}</small> | \< | \< |
+| <small>{{[![Tosofos D”H _v’shalach_]]}}</small> | \^ | [![Rashi on _shlichus menalan_]] |
+| <small>{{[![Tosofos D”H _torem k’daas ba’al habayis_]]}}</small> | \< | \< |
 ===
 - [[Perek Haish Mekadesh|Perek]]
 - [![40b]]
@@ -3037,11 +3041,17 @@ The Mishnah reads:
 ===
 
 Learn:
-We’ll analyze the text via several steps.
+We’ll analyze the text via several steps, going through each before advancing to the next step.
 | [[Literal]] | [[Basic]] | [[Comprehend]] | [[Analyze]] |
 
 Literal:
-*Literal (1/3):* Now we’ll do a literal translation of the Mishnah, identifying the general meanings of the words but not adapting them to fit the current context.
+Now we’ll do a literal translation of the Mishnah, identifying the meanings of each word but not adapting them to fit the current context.
+===
+> [[Literal 1|Okay]]
+===
+
+Literal 1:
+*Literal (1/3):*
 The Mishnah begins:
 < האיש מקדש בו ובשלוחו <gray>האשה
 < מתקדשת בה ובשלוחה האיש
@@ -3073,7 +3083,7 @@ Literal 2:
 1) A woman can “be _miskadeshes_” if she “becomes holy,” which could theoretically mean a range of things depending on context.
 ===
 > [[Literal 3|Next]]
-> [[#Basic]]
+> [[#Basic 2]]
 ===
 
 Literal 3:
@@ -3091,16 +3101,38 @@ Literal 3:
 1) The word _na’arah_ can be used generally to mean any young woman, or it can be used as a technical term to mean a girl who is between the legal stages of _katana_ (a minor), and _bogeres_ (an adult), for whom certain special halachos apply.
 ===
 > [[#Basic]]
+> [[#Basic 3]]
 ===
 
 Basic:
 Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
+===
+> [[Basic 1|Okay]]
+===
+
+Basic 1:
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray> 
 | *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal|Review ↺]] | האיש מקדש בו ובשלוחו | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
+===
+< [[#Literal]]
+> [[Basic 2|Next]]
+> [[#Comprehend]]
+===
+
+Basic 2:
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal 2|Review ↺]] | האשה מתקדשת בה ובשלוחה | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
+===
+< [[#Literal]]
+> [[Basic 3|Next]]
+> [[#Comprehend]]
+===
+
+Basic 3:
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal 3|Review ↺]] | האיש מקדש את בתו כשהיא נערה בו ובשלוחו | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
 ===
 < [[#Literal]]
@@ -3133,7 +3165,7 @@ So the Mishnah would read:
 < <gray>מתקדשת בה ובשלוחה </gray>האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו:
 > The man is mekadesh his daughter when she is a _na’arah_, via himself or his emissary.
-Again, we see that the ongoing verb in the Mishnah indicates an action works and is permitted, so this probably means "a man _may_ initiate the first _kiddushin_ step of marriage for his daughter when she has reached the age/stage of _na’arah_, via himself or via his _shaliach_.”
+Again, we see that the ongoing verb in the Mishnah indicates an action works and is permitted, so this probably means ”a man _may_ initiate the first _kiddushin_ step of marriage for his daughter when she has reached the age/stage of _na’arah_, via himself or via his _shaliach_.”
 ===
 < [[#Literal]]
 > [[#Comprehend]]
@@ -3141,6 +3173,11 @@ Again, we see that the ongoing verb in the Mishnah indicates an action works and
 
 Comprehend:
 Now let’s ask some comprehension questions, focusing on points that the Gemara and commentators take for granted in their analysis.
+===
+> [[Comprehend 1|Okay]]
+===
+
+Comprehend 1:
 *Comprehension (1/4):* What does the Mishnah mean when it uses *specific examples*?
 For example, when someone asks “would you like tea,” they might mean:
 1. “Specifically:” They are offering you tea and only tea.
@@ -3192,14 +3229,20 @@ What does it sound like the difference is, and how might that affect the meaning
 ===
 
 Analyze:
-*Analyze (1/3):* This is a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation.
+Let’s do a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation.
+===
+> [[Analyze 1|Okay]]
+===
+
+Analyze 1:
+*Analyze (1/3):*
 < האיש מקדש בו ובשלוחו
 > A man may produce the _kiddushin_ stage proceeding marriage with a woman, via himself or via his _shaliach_.
-Once you’ve told me there is such a thing as _kiddushin_, isn’t it obvious that the man can do it himself, i.e. who else would be able to do it, so why do I need the Mishnah to tell me? 
-Also, maybe the verses in the Torah that discuss it make it obvious he can do it himself?
-If you tell me he can do it with his _shaliach_, does that alone make it obvious he can do it himself? If so, why did the Mishnah need to list both options?
-If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you can use a _shaliach_, for _kiddushin_, or in general?
-Does it sound like there are any limitations on who he can marry via _shaliach_? Does he have to know who he is being _mekadesh_?
+| *Observation* | *Questions* |
+| The Mishnah tells me a man can be _mekadesh_ *_“bo”_* i.e. via himself | <hover>{{Isn’t it obvious that the man can do it himself, who else would be able to do it?<br><br>So why do I need the Mishnah to tell me?}}</hover> |
+| The Mishnah tells me both a man can be _mekadesh_, *and* that he can be _mekadesh_ with his _shaliach_ | <hover>{{If you tell me he can do it with his _shaliach_, doesn’t that also make it obvious he can do it himself?<br><br>If so, why did the Mishnah need to list both options?}}</hover> |
+| The Mishnah tells me a man can be _mekadesh_ *a woman* via shaliach | <hover>{{Does it sound like there are any limitations on who he can marry via _shaliach_? Does he have to know who he is being _mekadesh_?}}</hover> |
+| The Mishnah is *saying* that a man is able to be _mekadesh_ by _shaliach_ | <hover>{{From where does it know that? If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you ever can use a _shaliach_?}}</hover> |
 ===
 < [[#Comprehend]]
 > [[Analyze 2|Next]]
@@ -3270,7 +3313,7 @@ This summary assumes that you’ve learned the Gemaras on this Mishnah.
 Rashi on the [[Mishnah Haish Mekadesh|Mishnah of _ha’ish mekadesh_]] says:
 < *מתני’ האיש מקדש בו ובשלוחו.* בגמ’
 < יליף לה: *כשהיא נערה.*
-< וכ"ש כשהיא קטנה אם קבל קידושין
+< וכ”ש כשהיא קטנה אם קבל קידושין
 < מקודשת והאי דנקט נערה אורח
 < ארעא אשמועינן דקטנה לכתחלה לא
 < כדמפרש בגמ’: <gray>גמ’ מצוה בו</gray>
@@ -3288,7 +3331,7 @@ We’ll analyze the text via several steps.
 Words:
 < *[[מתני’]] [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]].* [[בגמ’]]
 < [[יליף]] [[לה]]: *[[כשהיא]] [[נערה]].*
-< [[וכ"ש]] [[כשהיא]] [[קטנה]] [[אם]] [[קבל]] [[קידושין]]
+< [[וכ”ש]] [[כשהיא]] [[קטנה]] [[אם]] [[קבל]] [[קידושין]]
 < [[מקודשת]] [[והאי]] [[דנקט]] [[נערה]] [[אורח]]
 < [[ארעא]] [[אשמועינן]] [[דקטנה]] [[לכתחלה]] [[לא]]
 < [[כדמפרש]] [[בגמ’]]:
@@ -3296,7 +3339,7 @@ Words:
 Literal:
 < *מתני’ האיש מקדש בו ובשלוחו.* בגמ’
 < יליף לה: <gray>{{*כשהיא נערה.*}}
-< וכ"ש כשהיא קטנה אם קבל קידושין
+< וכ”ש כשהיא קטנה אם קבל קידושין
 < מקודשת והאי דנקט נערה אורח
 < ארעא אשמועינן דקטנה לכתחלה לא
 < כדמפרש בגמ’: גמ’ מצוה בו</gray>
@@ -3308,7 +3351,7 @@ Literal:
 Literal 2:
 < <gray>{{*מתני’ האיש מקדש בו ובשלוחו.*}} בגמ’
 < יליף לה: </gray>*כשהיא נערה.*
-< וכ"ש כשהיא קטנה אם קבל קידושין
+< וכ”ש כשהיא קטנה אם קבל קידושין
 < מקודשת והאי דנקט נערה אורח
 < ארעא אשמועינן דקטנה לכתחלה לא
 < כדמפרש בגמ’: <gray>גמ’ מצוה בו</gray>
@@ -3319,7 +3362,7 @@ Literal 2:
 Basic:
 < *מתני’ האיש מקדש בו ובשלוחו.* בגמ’
 < יליף לה: <gray>{{*כשהיא נערה.*}}
-< וכ"ש כשהיא קטנה אם קבל קידושין
+< וכ”ש כשהיא קטנה אם קבל קידושין
 < מקודשת והאי דנקט נערה אורח
 < ארעא אשמועינן דקטנה לכתחלה לא
 < כדמפרש בגמ’: גמ’ מצוה בו</gray>
@@ -3332,7 +3375,7 @@ Basic:
 Basic 2:
 < <gray>{{*מתני’ האיש מקדש בו ובשלוחו.*}} בגמ’
 < יליף לה: </gray>*כשהיא נערה.*
-< וכ"ש כשהיא קטנה אם קבל קידושין
+< וכ”ש כשהיא קטנה אם קבל קידושין
 < מקודשת והאי דנקט נערה אורח
 < ארעא אשמועינן דקטנה לכתחלה לא
 < כדמפרש בגמ’: <gray>גמ’ מצוה בו</gray>
@@ -4022,17 +4065,17 @@ These are the Rashis on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41
 < מקבל שכר טפי: *מחריך רישא.*
 < לכבוד שבת: *שיבוטא.* דג: *בהא
 < איסורא נמי איכא.* אם יכול לקדש
-< בעצמו וקידש ע"י שליח דמצוה שיראנה
+< בעצמו וקידש ע”י שליח דמצוה שיראנה
 < שמא תתגנה עליו: *וכי איתמר דרב
 < יוסף.* דאמר מצוה הוא דאיכא ולאו
 < איסורא אסיפא איתמר: *אבל בהא.*
-< אע"פ שלא ראתהו ליכא איסורא
+< אע”פ שלא ראתהו ליכא איסורא
 < לומר שמא תראה בו דבר מגונה:
-< *דאמר ר"ל טב למיתב טן דו.* משל
+< *דאמר ר”ל טב למיתב טן דו.* משל
 < הוא שהנשים אומרות על בעל כל דהו
 < שהוא טוב לשבת עם שני גופים משבת
 < אלמנה: *טן.* גוף: *דו.* שנים ואי קשיא
-< ה"נ גבי דידה איכא איסורא כי יהיב
+< ה”נ גבי דידה איכא איסורא כי יהיב
 < קידושין לשלוחה ולא חזי לה אין הכי
 < נמי ומיהו מתני’ בדידה קאמר דהיא
 < מיקדשא בה ובשלוחה הלכך הא דתנא 
@@ -4059,17 +4102,17 @@ Words:
 < [[מקבל]] [[שכר]] [[טפי]]: *[[מחריך]] [[רישא]].*
 < [[לכבוד]] [[שבת]]: *[[שיבוטא]].* [[דג]]: *[[בהא]]
 < [[איסורא]] [[נמי]] [[איכא]].* [[אם]] [[יכול]] [[לקדש]]
-< [[בעצמו]] [[וקידש]] [[ע"י]] [[שליח]] [[דמצוה]] [[שיראנה]]
+< [[בעצמו]] [[וקידש]] [[ע”י]] [[שליח]] [[דמצוה]] [[שיראנה]]
 < [[שמא]] [[תתגנה]] [[עליו]]: *[[וכי]] [[איתמר]] [[דרב]]
 < [[יוסף]].* [[דאמר]] [[מצוה]] [[הוא]] [[דאיכא]] [[ולאו]]
 < [[איסורא]] [[אסיפא]] [[איתמר]]: *[[אבל]] [[בהא]].*
-< [[אע"פ]] [[שלא]] [[ראתהו]] [[ליכא]] [[איסורא]]
+< [[אע”פ]] [[שלא]] [[ראתהו]] [[ליכא]] [[איסורא]]
 < [[לומר]] [[שמא]] [[תראה]] [[בו]] [[דבר]] [[מגונה]]:
-< *[[דאמר]] [[ר"ל]] [[טב]] [[למיתב]] [[טן]] [[דו]].* [[משל]]
+< *[[דאמר]] [[ר”ל]] [[טב]] [[למיתב]] [[טן]] [[דו]].* [[משל]]
 < [[הוא]] [[שהנשים]] [[אומרות]] [[על]] [[בעל]] [[כל]] [[דהו]]
 < [[שהוא]] [[טוב]] [[לשבת]] [[עם]] [[שני]] [[גופים]] [[משבת]]
 < [[אלמנה]]: *[[טן]].* [[גוף]]: *[[דו]].* [[שנים]] [[ואי]] [[קשיא]]
-< [[ה"נ]] [[גבי]] [[דידה]] [[איכא]] [[איסורא]] [[כי]] [[יהיב]]
+< [[ה”נ]] [[גבי]] [[דידה]] [[איכא]] [[איסורא]] [[כי]] [[יהיב]]
 < [[קידושין]] [[לשלוחה]] [[ולא]] [[חזי]] [[לה]] [[אין]] [[הכי]]
 < [[נמי]] [[ומיהו]] [[מתני’]] [[בדידה]] [[קאמר]] [[דהיא]]
 < [[מיקדשא]] [[בה]] [[ובשלוחה]] [[הלכך]] [[הא]] [[דתנא]]
@@ -4121,13 +4164,13 @@ Commentary:
 
 * Ritvah on hashta bshlucho:
 Ritvas on _hashta b’shlucho_:
-1. [[Ritvah 41a:1 D"H _gemara hashta bshlucho_]]
-2. [[Ritvah 41a:2 D"H _ika d’amri aha isura nami ika_]]
-3. [[Ritvah 41a:3 D"H _aval bha isura nami eis bah_]]
-4. [[Ritvah 41a:4 D"H _ha d’tanan ha’ish mekadesh es bito_]]
+1. [[Ritvah 41a:1 D”H _gemara hashta bshlucho_]]
+2. [[Ritvah 41a:2 D”H _ika d’amri aha isura nami ika_]]
+3. [[Ritvah 41a:3 D”H _aval bha isura nami eis bah_]]
+4. [[Ritvah 41a:4 D”H _ha d’tanan ha’ish mekadesh es bito_]]
 
 
-* Ritvah 41a:1 D"H _Gemara hashta bshlucho_:
+* Ritvah 41a:1 D”H _Gemara hashta bshlucho_:
 This Ritvah is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_hashta bshlucho_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < גמרא השתא בשלוחו מקדש בו מבעיא אמר רב יוסף מצוה בו יותר מבשלוחו. פי’ בלאו הכי נמי הוה מצי לשנויי דלא זו אף זו קתני כדמשנינן בעלמא אלא דכל היכא דאפשר לפרושי באנפא אחרינא לא מוקמינן מתניתין בלא זו אף זו:
 ===
@@ -4143,7 +4186,7 @@ Words:
 < גְּמָרָא הַשָּׁתָא בִּשְׁלוּחוֹ מְקַדֵּשׁ בּוֹ מִיבְּעָיָא אָמַר רַב יוֹסֵף מִצְוָה בּוֹ יוֹתֵר מִבִּשְׁלוּחוֹ. פֵּירוּשׁ בְּלָאו הָכִי נַמִי הֲוָה מַצִּי לְשַׁנּוֹיֵי דְּלָא זוֹ אַף זוֹ קָתָנֵי כְּדִמְשַׁנִּינָן בְּעָלְמָא אֶלָּא דְּכָל הֵיכָא דְּאֶפְשָׁר לְפָרוּשֵׁי בְּאַנְפָּא אַחֲרִינָא לֹא מוֹקְמִינַן מַתְנִיתִין בְּלָא זוֹ אַף זוֹ:
 
 
-* Ritvah 41a:2 D"H _ika d’amri aha isura nami ika_:
+* Ritvah 41a:2 D”H _ika d’amri aha isura nami ika_:
 This Ritvah is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_hashta bshlucho_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < איכא דאמרי בהא איסורא נמי איכא כדריש לקיש. פי’ יהא דרב יוסף לאו ארישא אתמר דרישא דקתני בו ובשלוחו לא דרך מצוה הוא אלא דרך חיוב שחייב לקדש בו איסורא:
 ===
@@ -4159,7 +4202,7 @@ Words:
 אִיכָּא דְּאָמְרִי, בְּהָא אִיסּוּרָא נַמִי אִיכָּא, כְּדְּרֵישׁ לָקִישׁ. פֵּירוּשׁ: יְהֵא דְּרַב יוֹסֵף לָאו אֲרֵישָׁא אִיתְּמַר, דְּרֵישָׁא דְּקָתָנֵי בּוֹ וּבִשְׁלוּחוֹ לֹא דֶּרֶךְ מִצְוָה הוּא, אֶלָּא דֶּרֶךְ חִיּוּב, שֶׁחַיָּיב לְקַדֵּשׁ בּוֹ אִיסּוּרָא.
 
 
-* Ritvah 41a:3 D"H _aval bha isura nami eis bah_:
+* Ritvah 41a:3 D”H _aval bha isura nami eis bah_:
 וכי איתמר דרב יוסף אסיפא אתמר האשה מתקדשת וכו’. אבל בהא איסורא לית בה. פי’ איסורא ליכא מחמתה כדריש לקיש. וכ“ת והא איכא איסורא מחמתיה דלא חזי לה אלא לשלוחה שמא תתגנה עליו ויגרשנה. איכא למימר דאיסורה דידיה הא שמעי’ ליה מרישא. והשתא בסיפא לא איירינן אלא בדידה ואיתא כשהוא מכירה ואין היא מכירתו ואשמועינן דכיון דבדידיה ליכא איסורא דהא כבר הכיר. בה לדידה נמי ליכא איסורא כדריש לקיש אבל מצוה איכא עלה מדרב יוסף. כנ”ל:
 ===
 - [![Learn]]
@@ -4174,8 +4217,8 @@ Words:
 וּכִי אִיתְּמַר דְּרַב יוֹסֵף אֲסִיפָא אִיתְּמַר, הָאִשָּׁה מִתְקַדֶּשֶׁת וְכוּ’. אֲבָל בְּהָא אִיסּוּרָא לֵית בַּהּ. פֵּירוּשׁ: אִיסּוּרָא לֵיכָּא מֵחֲמָתָהּ, כְּדְּרֵישׁ לָקִישׁ. וְאִם תֹּאמַר, וְהָא אִיכָּא אִיסּוּרָא מֵחֲמָתֵיהּ, דְּלֹא חָזִי לָהּ אֶלָּא לִשְׁלוּחָהּ, שֶׁמָּא תִּתְגַּנֶּה עָלָיו וִיגָרְשֶׁנָּה. אִיכָּא לְמֵימַר דְּאִיסּוּרָא דִּידֵיהּ, הָא שְׁמַעִינָן לֵיהּ מֵרֵישָׁא. וְהַשְׁתָּא בַּסִּיפָא לָא אַיְירִינָן אֶלָּא בְּדִידָהּ, וְאִיתָּא כְּשֶׁהוּא מַכִּירָהּ וְאֵינָהּ הִיא מַכִּירָתוֹ, וְאַשְׁמָעִינַן דְּכֵיוָן דְּבְדִידֵיהּ לֵיכָּא אִיסּוּרָא, דְּהָא כְּבָר הִכִּירָהּ, בַּהּ, לְדִידָהּ נַמִי לֵיכָּא אִיסּוּרָא כְּדְּרֵישׁ לָקִישׁ, אֲבָל מִצְוָה אִיכָּא עֲלֵיהּ מֵרַב יוֹסֵף. כֵּן נִרְאֶה לִי.
 
 
-* Ritvah 41a:4 D"H _ha d’tanan ha’ish mekadesh es bito_:
-< והא דתנן האיש מקדש את בתו כשהיא נערה דייקינן עלה כשהיא נערה אין כשהיא קטנה לא. וכי תימא ודילמא ה“ה קטנה ונקט נערה לרבותא. איכא למימר דא”כ ליתני בתו סתם ומשמע בין נערה בין קטנה כדתנן האב זכאי בבתו בקידושיה וכו’ ותו ליתני האיש מקדש את בתו נערה מאי כשהיא נערה ש"מ כשהיא נערה ולא כשהיא קטנה:
+* Ritvah 41a:4 D”H _ha d’tanan ha’ish mekadesh es bito_:
+< והא דתנן האיש מקדש את בתו כשהיא נערה דייקינן עלה כשהיא נערה אין כשהיא קטנה לא. וכי תימא ודילמא ה“ה קטנה ונקט נערה לרבותא. איכא למימר דא”כ ליתני בתו סתם ומשמע בין נערה בין קטנה כדתנן האב זכאי בבתו בקידושיה וכו’ ותו ליתני האיש מקדש את בתו נערה מאי כשהיא נערה ש”מ כשהיא נערה ולא כשהיא קטנה:
 ===
 - [![Learn]]
 - [![Commentary]]
@@ -4184,7 +4227,7 @@ Words:
 ===
 
 Words:
-< [[והא]] [[דתנן]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[דייקינן]] [[עלה]] [[כשהיא]] [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]]. [[וכי]] [[תימא]] [[ודלמא]] [[ה“ה]] [[קטנה]] [[ונקט]] [[נערה]] [[לרבותא]]. [[איכא]] [[למימר]] [[דא”כ]] [[ליתני]] [[בתו]] [[סתם]] [[ומשמע]] [[בין]] [[נערה]] [[בין]] [[קטנה]] [[כדתנן]] [[האב]] [[זכאי]] [[בבתו]] [[בקידושיה]] [[וכו’]] [[ותו]] [[ליתני]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[נערה]] [[מאי]] [[כשהיא]] [[נערה]] [[ש"מ]] [[כשהיא]] [[נערה]] [[ולא]] [[כשהיא]] [[קטנה]]:
+< [[והא]] [[דתנן]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[דייקינן]] [[עלה]] [[כשהיא]] [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]]. [[וכי]] [[תימא]] [[ודלמא]] [[ה“ה]] [[קטנה]] [[ונקט]] [[נערה]] [[לרבותא]]. [[איכא]] [[למימר]] [[דא”כ]] [[ליתני]] [[בתו]] [[סתם]] [[ומשמע]] [[בין]] [[נערה]] [[בין]] [[קטנה]] [[כדתנן]] [[האב]] [[זכאי]] [[בבתו]] [[בקידושיה]] [[וכו’]] [[ותו]] [[ליתני]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[נערה]] [[מאי]] [[כשהיא]] [[נערה]] [[ש”מ]] [[כשהיא]] [[נערה]] [[ולא]] [[כשהיא]] [[קטנה]]:
 
 וְהָא דְּתַנָּן, הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה, דָּיֵיקִינַן עֲלֵיהּ: כְּשֶׁהִיא נַעֲרָה, אֵין. כְּשֶׁהִיא קְטַנָּה, לֹא. וְכִי תֵּימָא, וּדִילְמָא הַהִיא קְטַנָּה, וְנָקַט נַעֲרָה לְרַבּוּתָא. אִיכָּא לְמֵימַר, דְּאִם כֵּן, לִיתְּנֵי בִּתּוֹ סְתָם, וּמַשְׁמַע, בֵּין נַעֲרָה, בֵּין קְטַנָּה, כְּדִתְנַן: הָאָב זָכָאִי בִּבְתוֹ בִּקְדוּשֶׁיהָ וְכוּ’. וּתוֹ לִיתְּנֵי הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ נַעֲרָה, מַאי כְּשֶׁהִיא נַעֲרָה? שְׁמַע מִינָהּ: כְּשֶׁהִיא נַעֲרָה וְלֹא כְּשֶׁהִיא קְטַנָּה.
 
@@ -4198,15 +4241,15 @@ Words:
 
 * Tosofos on hashta bshlucho:
 Tosofos on _hashta b’shlucho_:
-1. [[Tosofos 41a:1 D"H hashta b’shlucho]] 
-2. [[Tosofos 41a:2 D"H e itmar d’Rav Yosef a’sefia itmar]]
-3. [[Tosofos 41a:3 D"H asur l’adam sh’yekadesh isha v’chulu]]
+1. [[Tosofos 41a:1 D”H hashta b’shlucho]] 
+2. [[Tosofos 41a:2 D”H e itmar d’Rav Yosef a’sefia itmar]]
+3. [[Tosofos 41a:3 D”H asur l’adam sh’yekadesh isha v’chulu]]
 
 
-* Tosofos 41a:1 D"H hashta b’shlucho:
+* Tosofos 41a:1 D”H hashta b’shlucho:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_hashta bshlucho_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < *מתני’* האיש מקדש. השתא בשלוחו מקדש בו מיבעיא. ואין שייך לתרץ
-< הכא לאו דוקא ור"ל לא זו אף זו דלא שייך לשנויי הכי
+< הכא לאו דוקא ור”ל לא זו אף זו דלא שייך לשנויי הכי
 < אלא בשתי בבות אבל בשתי תיבות לא: <gray><b>אי</b> יתמאר דרב יוסף אסיפא</gray>
 ===
 - [![Learn]]
@@ -4220,16 +4263,16 @@ This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 4
 
 Words:
 < [[מתני’]] [[האיש]] [[מקדש]]. [[השתא]] [[בשלוחו]] [[מקדש]] [[בו]] [[מיבעיא]]. [[ואין]] [[שייך]] [[לתרץ]]
-< [[הכא]] [[לאו]] [[דוקא]] [[ור"ל]] [[לא]] [[זו]] [[אף]] [[זו]] [[דלא]] [[שייך]] [[לשנויי]] [[הכי]]
+< [[הכא]] [[לאו]] [[דוקא]] [[ור”ל]] [[לא]] [[זו]] [[אף]] [[זו]] [[דלא]] [[שייך]] [[לשנויי]] [[הכי]]
 < [[אלא]] [[בשתי]] [[בבות]] [[אבל]] [[בשתי]] [[תיבות]] [[לא]]: <gray><b>אי</b> יתמאר דרב יוסף אסיפא</gray>
 
 < מַתְנִיתִין הָאִישׁ מְקַדֵּשׁ - הַשָּׁתָא בִּשְׁלוּחוֹ מְקַדֵּשׁ בּוֹ מִיבְּעָיָא. וְאֵין שַׁיָּיךְ לְתָרֵץ הָכָא לָאו דַּוְקָא וְרַבֵּי לוֹזִי לֹא זוֹ אַף זוֹ דְּלָא שַׁיָּיךְ לְשַׁנּוֹיֵי הָכִי אֵלָא בִּשְׁתֵּי בָּבוֹת אֲבָל בִּשְׁתֵּי תֵּיבוֹת לֹא:
 
 
-* Tosofos 41a:2 D"H e itmar d’Rav Yosef a’sefia itmar:
+* Tosofos 41a:2 D”H e itmar d’Rav Yosef a’sefia itmar:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_hashta bshlucho_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < <gray>אלא בשתי בבות אבל בשתי תיבות לא:</gray> *אי* איתמר דרב יוסף אסיפא
-< איתמר. ולהכי לא מוקי ארישא וכגון שמכירה משום דהא מנ"ל דלמא
+< איתמר. ולהכי לא מוקי ארישא וכגון שמכירה משום דהא מנ”ל דלמא
 < מתני’ מיירי בין מכירה ובין אין
 < מכירה ואפי’ איסורא איכא
 < ומלתא דרב יוסף לא נדע: <gray><b>אסור</b> לאדם</gray>
@@ -4245,7 +4288,7 @@ This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 4
 
 Words:
 < <gray>אלא בשתי בבות אבל בשתי תיבות לא:</gray> [[*אי*]] [[איתמר]] [[דרב]] [[יוסף]] [[אסיפא]]
-< [[איתמר]]. [[ולהכי]] [[לא]] [[מוקי]] [[ארישא]] [[וכגון]] [[שמחירה]] [[משום]] [[דהא]] [[מנ"ל]] [[דלמא]]
+< [[איתמר]]. [[ולהכי]] [[לא]] [[מוקי]] [[ארישא]] [[וכגון]] [[שמחירה]] [[משום]] [[דהא]] [[מנ”ל]] [[דלמא]]
 < [[מתני’]] [[מיירי]] [[בין]] [[מכירה]] [[ובין]] [[אין]]
 < [[מכירה]] [[ואפי’]] [[איסורא]] [[איכא]]
 < [[ומלתא]] [[דרב]] [[יוסף]] [[לא]] [[נדע]]: <gray><b>אסור</b> לאדם</gray>
@@ -4253,10 +4296,10 @@ Words:
 < אִי אִיתְּמַר דְּרַב יוֹסֵף אֲסִיפָא אִיתְּמַר - וּלְהָכִי לֹא מוֹקֵי אֲרֵישָׁא וּכְגוֹן שֶׁמְּכִירָה מִשּׁוּם דְּהָא מִנָּא לֵי? דִּילְמָא מַתְנִיתִין מְיַירֵי בֵּין מְכִירָה וּבֵין אֵין מְכִירָה וַאֲפִילוּ אִיסּוּרָא אִיכָּא וּמִלְּתָא דְּרַב יוֹסֵף לֹא נֵדַע:
 
 
-* Tosofos 41a:3 D"H asur l’adam sh’yekadesh isha v’chulu:
+* Tosofos 41a:3 D”H asur l’adam sh’yekadesh isha v’chulu:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_hashta bshlucho_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < <gray>ומלתא דרב יוסף לא נדע:</gray> *אסור* לאדם
-< שיקדש אשה כו’. אע"ג דקתני
+< שיקדש אשה כו’. אע”ג דקתני
 < האיש מקדש לכתחילה לא נקט ליה
 < אלא לאשמועינן דין קידושין:
 ===
@@ -4271,7 +4314,7 @@ This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 4
 
 Words:
 < <gray>ומלתא דרב יוסף לא נדע:</gray> [[אסור]] [[לאדם]]
-< [[שיקדש]] [[אשה]] [[כו’]]. [[אע"ג]] [[דקתני]]
+< [[שיקדש]] [[אשה]] [[כו’]]. [[אע”ג]] [[דקתני]]
 < [[האיש]] [[מקדש]] [[לכתחילה]] [[לא]] [[נקט]] [[ליה]]
 < [[אלא]] [[לאשמועינן]] [[דין]] [[קידושין]]:
 
@@ -4282,17 +4325,17 @@ Words:
 
 * Chida on hashta b’shlucho:
 The Chida (in sefer _Pesach Anayim_) on _hashta b’shlucho_:
-- [[Chida Kiddushin 41a:1 D"H _hashta b’shlucho mekadesh_]]
-- [[Chida Kiddushin 41a:2 D"H _mitzvah bah yoser m’b’shluchah_]]
+- [[Chida Kiddushin 41a:1 D”H _hashta b’shlucho mekadesh_]]
+- [[Chida Kiddushin 41a:2 D”H _mitzvah bah yoser m’b’shluchah_]]
 
 
-* Chida Kiddushin 41a:1 D"H hashta b’shlucho mekadesh:
+* Chida Kiddushin 41a:1 D”H hashta b’shlucho mekadesh:
 Chida in sefer _Pesach Anayim_:
-*השתא בשלוחו מקדש וכו’.* כתבו התוס’ דבשתי תיבות לא נאמר לא זו אף זו ועל דברי התוס’ איש איש ממקומו דרכו קסת“ם לאותובי עלייהו קבא דקשית”א מכמה מקומות ואני בעניי כתבתי קצת בזה בספרי הקטן שער יוסף ע"ש ובקונטריס אחורי תרעא:
-ודע דהריטב“א חולק על כלל זה של התוס’ כמו שתראה בחדושיו למכילתין בשמעתין שכ’ דהוה מצי לשנויי לא זא”ז אלא דכל דאפשר לאוקומי באנפא אחרינא לא מוקמינן מתני’ בלא זו אף זו עכ“ל וראה זה חדש שבתוספות כ”י מיוחסים לרבינו יצחק הזקן הידוע בעל התוס’ כתב כהריטב“א וז”ל אע“ג דאיכא למימר זא”ז קתני כיון שיודע טעם מפרשו עכ"ל:
+*השתא בשלוחו מקדש וכו’.* כתבו התוס’ דבשתי תיבות לא נאמר לא זו אף זו ועל דברי התוס’ איש איש ממקומו דרכו קסת“ם לאותובי עלייהו קבא דקשית”א מכמה מקומות ואני בעניי כתבתי קצת בזה בספרי הקטן שער יוסף ע”ש ובקונטריס אחורי תרעא:
+ודע דהריטב“א חולק על כלל זה של התוס’ כמו שתראה בחדושיו למכילתין בשמעתין שכ’ דהוה מצי לשנויי לא זא”ז אלא דכל דאפשר לאוקומי באנפא אחרינא לא מוקמינן מתני’ בלא זו אף זו עכ“ל וראה זה חדש שבתוספות כ”י מיוחסים לרבינו יצחק הזקן הידוע בעל התוס’ כתב כהריטב“א וז”ל אע“ג דאיכא למימר זא”ז קתני כיון שיודע טעם מפרשו עכ”ל:
 
 
-* Chida Kiddushin 41a:2 D"H Mitzvah bah yoser m’b’shluchah:
+* Chida Kiddushin 41a:2 D”H Mitzvah bah yoser m’b’shluchah:
 Chida in sefer _Pesach Anayim_:
 *מצוה בה יותר מבשלוחה.* עמ“ש הר”ן ועמ“ש בשיטת קדושין נדפסה בקושט’ ועמ”ש אני הדל בספרי הקטן ברכי יוסף א“ה סי’ א’ עש”ב:
 
@@ -4307,15 +4350,15 @@ The Nitziv (in sefer _Meromei Sadeh_) on _hashta b’shlucho_:
 
 * P’nei Yoshua on hashta b’shlucho:
 P’nei Yoshua on _hashta b’shlucho_:
-- [[P’nei Yoshua Kiddushin 41a:1 D"H Tosofos D”H Hashta B’shlucho]]
-- [[P’nei Yoshua Kiddushin 41a:2 D"H Gemara amar Rav Yosef]]
+- [[P’nei Yoshua Kiddushin 41a:1 D”H Tosofos D”H Hashta B’shlucho]]
+- [[P’nei Yoshua Kiddushin 41a:2 D”H Gemara amar Rav Yosef]]
 
 
 * P’nei Yoshua Kiddushin 41a\:1 D“H Tosofos D”H Hashta B’shlucho:
 < תוספות בד“ה השתא בשלוחו מקדש כו’ ואין שייך לתרץ לא זו אף זו כו’ עכ”ל. ולולי דבריהם היה נ“ל דהא דמשנינן בעלמא לא זו אף זו היינו שיש מיהא שום חידוש הדין בבבא דרישא דזה לשון לא זו בלבד יש חידוש הדין אלא אף גדולה מזו משא”כ הכא דמה שמקדש בעצמו מקרא מלא הוא כי יקח איש אשה לא שייך לא זו אף זו:
 
 
-* P’nei Yoshua Kiddushin 41a\:2 D"H Gemara amar Rav Yosef:
+* P’nei Yoshua Kiddushin 41a\:2 D”H Gemara amar Rav Yosef:
 < גמרא אמר רב יוסף מצוה בו יותר מבשלוחו. נראה דלהאי לישנא בבא דסיפא דאשה מתקדשת בה ובשלוחה היינו נמי משום דמצוה בה יותר מבשלוחה ואיצטריך לאשמעינן דאף על גב דאיתתא לא מיפקדא אפ“ה מצוה מיקרי וסיפא דסיפא איצטריך לאשמעינן בו ובשלוחו אין בה ובשלוחה לא כדלקמן דף מ”ד. והא“ש נמי דלהאי לישנא נמי ע”כ אית ליה לרב יהודא אמר רב דבאין מכירה איסורא נמי איכא. אלא דס“ל דכה”ג לא איצטריך למתניתין לאשמעינן דמילתא דפשיטא היא דאי ס“ד דמתניתין אתי לאשמעינן איסורא ובאין מכירה איירי אם כן השתא נמי לא שמעינן מידי דהאיכא למימר דליכא איסורא אלא מצוה בעלמא דומיא דסיפא והא דקתני תרתי היינו לא זו אף זו. אע”כ דקושטא דמילתא הכי הוא ואיסורא לא איצטריך לאשמעינן דמסברא ידעינן לה. וע“כ איירי מתניתין במכירה. משא”כ לאיכא דאמרי סובר דאדרבא יותר יש לנו לומר דרישא איירי באין מכירה ומשום איסורא אף ע“ג דלא הוי דומיא דסיפא אפ”ה טפי ניחא לן בהכי ממה שנאמר דתרווייהו משום מצוה איירי ולא זו אף זו קתני כן נ“ל וק”ל:
 
 
@@ -4380,12 +4423,12 @@ Conclusion:
 
 * Ritvah on k’sh’hi na’arah in:
 Ritvas on _k’sh’hi na’arah in_:
-1. [[Ritvah D"H _a’ha d’tanan ha’ish mekadesh es bito_]]
-2. [[Ritvah D"H _mesayeh leh l’Rav Yehuda amar Rav_]]
+1. [[Ritvah D”H _a’ha d’tanan ha’ish mekadesh es bito_]]
+2. [[Ritvah D”H _mesayeh leh l’Rav Yehuda amar Rav_]]
 
 
-* Ritvah D"H _a’ha d’tanan ha’ish mekadesh es bito_:
-< והא דתנן האיש מקדש את בתו כשהיא נערה דייקינן עלה כשהיא נערה אין כשהיא קטנה לא. וכי תימא ודילמא ה“ה קטנה ונקט נערה לרבותא. איכא למימר דא”כ ליתני בתו סתם ומשמע בין נערה בין קטנה כדתנן האב זכאי בבתו בקידושיה וכו’ ותו ליתני האיש מקדש את בתו נערה מאי כשהיא נערה ש"מ כשהיא נערה ולא כשהיא קטנה:
+* Ritvah D”H _a’ha d’tanan ha’ish mekadesh es bito_:
+< והא דתנן האיש מקדש את בתו כשהיא נערה דייקינן עלה כשהיא נערה אין כשהיא קטנה לא. וכי תימא ודילמא ה“ה קטנה ונקט נערה לרבותא. איכא למימר דא”כ ליתני בתו סתם ומשמע בין נערה בין קטנה כדתנן האב זכאי בבתו בקידושיה וכו’ ותו ליתני האיש מקדש את בתו נערה מאי כשהיא נערה ש”מ כשהיא נערה ולא כשהיא קטנה:
 ===
 - [![Learn]]
 - [![Commentary]]
@@ -4394,11 +4437,11 @@ Ritvas on _k’sh’hi na’arah in_:
 ===
 
 Words:
-[[והא]] [[דתנן]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[דייקינן]] [[עלה]] [[כשהיא]] [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]]. [[וכי]] [[תימא]] [[ודלמא]] [[ה“ה]] [[קטנה]] [[ונקט]] [[נערה]] [[לרבותא]]. [[איכא]] [[למימר]] [[דא”כ]] [[ליתני]] [[בתו]] [[סתם]] [[ומשמע]] [[בין]] [[נערה]] [[בין]] [[קטנה]] [[כדתנן]] [[האב]] [[זכאי]] [[בבתו]] [[בקידושיה]] [[וכו’]] [[ותו]] [[ליתני]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[נערה]] [[מאי]] [[כשהיא]] [[נערה]] [[ש"מ]] [[כשהיא]] [[נערה]] [[ולא]] [[כשהיא]] [[קטנה]]:
+[[והא]] [[דתנן]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[כשהיא]] [[נערה]] [[דייקינן]] [[עלה]] [[כשהיא]] [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]]. [[וכי]] [[תימא]] [[ודלמא]] [[ה“ה]] [[קטנה]] [[ונקט]] [[נערה]] [[לרבותא]]. [[איכא]] [[למימר]] [[דא”כ]] [[ליתני]] [[בתו]] [[סתם]] [[ומשמע]] [[בין]] [[נערה]] [[בין]] [[קטנה]] [[כדתנן]] [[האב]] [[זכאי]] [[בבתו]] [[בקידושיה]] [[וכו’]] [[ותו]] [[ליתני]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[נערה]] [[מאי]] [[כשהיא]] [[נערה]] [[ש”מ]] [[כשהיא]] [[נערה]] [[ולא]] [[כשהיא]] [[קטנה]]:
 
 
-* Ritvah D"H _mesayeh leh l’Rav Yehuda amar Rav_:
-< מסייעא ליה לרב יהודה אמר רב דאמר אסור לאדם שיקדש בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה וכ"ת והא אמרינן לעיל דאיהו לא קפדא. מדריש לקיש. איכא למימר דהתם בגדולה שיש בה דעת כיון דאיהי לא קפידא אפשר שמכרת בו על ידי אחרים ובכל דהו ניחא לה אבל הכא לא דקטנה היא ואין בה דעת להכיר כדריש לקיש סניא ליה מקטנותא וגם כי תגדיל לא תסור שנאתה ומשום הכי אסר תנא לקדשה מקטנותה ואפילו אין הנשואין מעתה עד שתגדיל. ומסתברין דשידוכין שרי:
+* Ritvah D”H _mesayeh leh l’Rav Yehuda amar Rav_:
+< מסייעא ליה לרב יהודה אמר רב דאמר אסור לאדם שיקדש בתו כשהיא קטנה עד שתגדל ותאמר בפלוני אני רוצה וכ”ת והא אמרינן לעיל דאיהו לא קפדא. מדריש לקיש. איכא למימר דהתם בגדולה שיש בה דעת כיון דאיהי לא קפידא אפשר שמכרת בו על ידי אחרים ובכל דהו ניחא לה אבל הכא לא דקטנה היא ואין בה דעת להכיר כדריש לקיש סניא ליה מקטנותא וגם כי תגדיל לא תסור שנאתה ומשום הכי אסר תנא לקדשה מקטנותה ואפילו אין הנשואין מעתה עד שתגדיל. ומסתברין דשידוכין שרי:
 ===
 - [![Learn]]
 - [![Commentary]]
@@ -4407,17 +4450,17 @@ Words:
 ===
 
 Words:
-[[מסייעא]] [[ליה]] [[לרב]] [[יהודה]] [[אמר]] [[רב]] [[דאמר]] [[אסור]] [[לאדם]] [[שיקדש]] [[בתו]] [[כשהיא]] [[קטנה]] [[עד]] [[שתגדל]] [[ותאמר]] [[בפלוני]] [[אני]] [[רוצה]] [[וכ"ת]] [[והא]] [[אמרינן]] [[לעיל]] [[דאיהו]] [[לא]] [[קפדא]]. [[מדריש]] [[לקיש]]. [[איכא]] [[למימר]] [[דהתם]] [[בגדולה]] [[שיש]] [[בה]] [[דעת]] [[כיון]] [[דאיהי]] [[לא]] [[קפדא]] [[אפשר]] [[שמכרת]] [[בו]] [[על]] [[ידי]] [[אחרים]] [[ובכל]] [[דהו]] [[ניחא]] [[לה]] [[אבל]] [[הכא]] [[לא]] [[דקטנה]] [[היא]] [[ואין]] [[בה]] [[דעת]] [[להכיר]] [[כדריש]] [[לקיש]] [[סניא]] [[ליה]] [[מקטנותא]] [[וגם]] [[כי]] [[תגדיל]] [[לא]] [[תסור]] [[שנאתה]] [[ומשום]] [[הכי]] [[אסר]] [[תנא]] [[לקדשה]] [[מקטנותה]] [[ואפילו]] [[אין]] [[הנשואין]] [[מעתה]] [[עד]] [[שתגדיל]]. [[ומסתברין]] [[דשידוכין]] [[שרי]]:
+[[מסייעא]] [[ליה]] [[לרב]] [[יהודה]] [[אמר]] [[רב]] [[דאמר]] [[אסור]] [[לאדם]] [[שיקדש]] [[בתו]] [[כשהיא]] [[קטנה]] [[עד]] [[שתגדל]] [[ותאמר]] [[בפלוני]] [[אני]] [[רוצה]] [[וכ”ת]] [[והא]] [[אמרינן]] [[לעיל]] [[דאיהו]] [[לא]] [[קפדא]]. [[מדריש]] [[לקיש]]. [[איכא]] [[למימר]] [[דהתם]] [[בגדולה]] [[שיש]] [[בה]] [[דעת]] [[כיון]] [[דאיהי]] [[לא]] [[קפדא]] [[אפשר]] [[שמכרת]] [[בו]] [[על]] [[ידי]] [[אחרים]] [[ובכל]] [[דהו]] [[ניחא]] [[לה]] [[אבל]] [[הכא]] [[לא]] [[דקטנה]] [[היא]] [[ואין]] [[בה]] [[דעת]] [[להכיר]] [[כדריש]] [[לקיש]] [[סניא]] [[ליה]] [[מקטנותא]] [[וגם]] [[כי]] [[תגדיל]] [[לא]] [[תסור]] [[שנאתה]] [[ומשום]] [[הכי]] [[אסר]] [[תנא]] [[לקדשה]] [[מקטנותה]] [[ואפילו]] [[אין]] [[הנשואין]] [[מעתה]] [[עד]] [[שתגדיל]]. [[ומסתברין]] [[דשידוכין]] [[שרי]]:
 
 מְסַיֵּיעַ לֵיהּ לְרַב יְהוּדָה אָמַר רַב, דְּאָמַר: אָסוּר לְאָדָם שֶׁיְקַדֵּשׁ בִּתּוֹ כְּשֶׁהִיא קְטַנָּה עַד שֶׁתִּגְדַּל וְתֹאמַר בִּפְלוֹנִי אֲנִי רוֹצָה. וְכִי תֵּימָא, וְהָא אָמְרִינָן לְעֵיל דְּאִיהוּ לֹא קַפְּדָא? מִדְּרֵישׁ לָקִישׁ, אִיכָּא לְמֵימַר, דְּהָתָם בִּגְדוֹלָה שֶׁיֵּשׁ בָּהּ דַּעַת, כֵּיוָן דְּאִיהִי לֹא קַפְּדָא, אֶפְשָׁר שֶׁמַּכֶּרֶת בּוֹ עַל יְדֵי אֲחֵרִים, וּבְכָל דֵּהוּ נִיחָא לָהּ. אֲבָל הָכָא לָא, דְּקְטַנָּה הִיא, וְאֵין בָּהּ דַּעַת לְהַכִּיר, כְּדְּרֵישׁ לָקִישׁ, סָנְיָא לֵיהּ מִקְּטַנּוּתָא, וְגַם כִּי תִּגְדַּל, לֹא תָּסוּר שִׂנְאָתָהּ. וּמִשּׁוּם הָכֵי, אָסַר תַּנָּא לְקַדְּשָׁהּ מִקְּטַנּוּתָהּ, וַאֲפִילוּ אֵין הַנִּשּׂוּאִין מֵעַתָּה עַד שֶׁתִּגְדַּל. וּמִסְתַּבְּרִין דִּשִּׁידּוּכִין שָׁרֵי.
 
 
 [Sefarim/Gemara/Kiddushin/Daf/41a/3/Ksh’hi na’ara in/Tosofos]
 
-* Tosofos D"H:
+* Tosofos D”H:
 
 
-* Tosofos 41a:4 D"H _k’sh’hi na’ara in k’sh’hi katana lo_:
+* Tosofos 41a:4 D”H _k’sh’hi na’ara in k’sh’hi katana lo_:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_K’sh’hi naara in_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < כשהיא נערה אין כשהיא קטנה לא. וא“ת ודלמא לרבותא נקט נערה וכל שכן קטנה וי”ל דדייק מדקתני כשהיא נערה ולא קתני האיש מקדש את בתו נערה משמע דוקא נערה אבל לא קטנה א“נ י”ל דדייק מדלא קתני במתני’ האיש מקדש את בתו סתם כדתנן (כתובות דף מו:) האב זכאי בבתו בקדושיה ולא מפרש נערה כי הכא משמע דהכא דמפרש נערה הוי דוקא ולא קטנה:
 ===
@@ -4433,13 +4476,13 @@ This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 4
 Words:
 [[כשהיא]] [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]]. [[וא“ת]] [[ודלמא]] [[לרבותא]] [[נקט]] [[נערה]] [[וכל]] [[שכן]] [[קטנה]] [[וי”ל]] [[דדייק]] [[מדקתני]] [[כשהיא]] [[נערה]] [[ולא]] [[קתני]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[נערה]] [[משמע]] [[דוקא]] [[נערה]] [[אבל]] [[לא]] [[קטנה]] [[א“נ]] [[י”ל]] [[דדייק]] [[מדלא]] [[קתני]] [[במתני’]] [[האיש]] [[מקדש]] [[את]] [[בתו]] [[סתם]] [[כדתנן]] ([[כתובות]] [[דף]] [[מו\:]]) [[האב]] [[זכאי]] [[בבתו]] [[בקדושיה]] [[ולא]] [[מפרש]] [[נערה]] [[כי]] [[הכא]] [[משמע]] [[דהכא]] [[דמפרש]] [[נערה]] [[הוי]] [[דוקא]] [[ולא]] [[קטנה]]:
 
-כְּשֶׁהִיא נַעֲרָה אֵין, כְּשֶׁהִיא קְטַנָּה לֹא. וְאִם תֹּאמַר וּדִילְמָא לְרַבּוּתָא נָקַט נַעֲרָה וְכָל שֶׁכֵּן קְטַנָּה. וְיֵשׁ לוֹמַר דְּדָיֵיק מִדְּקָתָנֵי כְּשֶׁהִיא נַעֲרָה וְלֹא קָתָנֵי הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ נַעֲרָה מַשְׁמָע דַּוְקָא נַעֲרָה אֲבָל לֹא קְטַנָּה. אוֹ אִיתַּמַר יֵשׁ לוֹמַר דָּיֵיק מִדְּלֹא קָתָנֵי בְּמַתְנִיתִין הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ סְתָם, כְּדִתְנַן (כְּתוּבוֹת דַּף מ"ו:) הָאָב זָכָאִי בִּבְתוֹ בִּקְדוּשֶׁיהָ, וְלֹא מְפָרֵשׁ נַעֲרָה כִּי הָכָא. מַשְׁמָע דְּהָכָא דְּמְפָרֵשׁ נַעֲרָה, הֲוֵי דַּוְקָא וְלֹא קְטַנָּה.
+כְּשֶׁהִיא נַעֲרָה אֵין, כְּשֶׁהִיא קְטַנָּה לֹא. וְאִם תֹּאמַר וּדִילְמָא לְרַבּוּתָא נָקַט נַעֲרָה וְכָל שֶׁכֵּן קְטַנָּה. וְיֵשׁ לוֹמַר דְּדָיֵיק מִדְּקָתָנֵי כְּשֶׁהִיא נַעֲרָה וְלֹא קָתָנֵי הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ נַעֲרָה מַשְׁמָע דַּוְקָא נַעֲרָה אֲבָל לֹא קְטַנָּה. אוֹ אִיתַּמַר יֵשׁ לוֹמַר דָּיֵיק מִדְּלֹא קָתָנֵי בְּמַתְנִיתִין הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ סְתָם, כְּדִתְנַן (כְּתוּבוֹת דַּף מ”ו:) הָאָב זָכָאִי בִּבְתוֹ בִּקְדוּשֶׁיהָ, וְלֹא מְפָרֵשׁ נַעֲרָה כִּי הָכָא. מַשְׁמָע דְּהָכָא דְּמְפָרֵשׁ נַעֲרָה, הֲוֵי דַּוְקָא וְלֹא קְטַנָּה.
 
 
 * Tosofos 41a:5:
 
 
-* Tosofos 41a:5 D"H _asur l’adam sh’yikadesh es bito k’sh’hi katana_:
+* Tosofos 41a:5 D”H _asur l’adam sh’yikadesh es bito k’sh’hi katana_:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_K’sh’hi naara in_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < אסור לאדם שיקדש את בתו כשהיא קטנה. ואע“ג דאמר לעיל דאיסורא ליכא משום דטב למיתב טן דו ה”מ בגדולה שהיא מתקדשת ע“י עצמה דכיון שנתרצית ליכא למיחש שמא תחזור אבל קטנה שמתקדשת ע”י אביה איכא למיחש שמא אם היתה גדולה לא היתה מתרצית ועכשיו שאנו נוהגים לקדש בנותינו אפי’ קטנות היינו משום שבכל יום ויום הגלות מתגבר עלינו ואם יש סיפק ביד אדם עכשיו לתת לבתו נדוניא שמא לאחר זמן לא יהיה סיפק בידו ותשב בתו עגונה לעולם:
 ===
@@ -4462,10 +4505,10 @@ Words:
 
 
 * Tosofos on _k’sh’hi na’arah in_:
-1. [[Tosofos 41a:4 D"H _k’sh’hi na’ara in k’sh’hi katana lo_]]
-2. [[Tosofos 41a:5 D"H _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
+1. [[Tosofos 41a:4 D”H _k’sh’hi na’ara in k’sh’hi katana lo_]]
+2. [[Tosofos 41a:5 D”H _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
 [[Tosofos 41a:5]]
-[[Tosofos D"H]]
+[[Tosofos D”H]]
 [[Tosofos _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
 
 
@@ -4755,7 +4798,7 @@ These are the binyanim <small>{{[[binyan|(?)]]}}</small> in which the shoresh א
 | [[Aramaic Passive \/ Reflexive|*Passive*]] | [![_Ispe’el_]] | [[_Ispa’al_]] | [![_Itaf’al_]] |
 
 Pa’al:
-> יָשַׁב  (b. h.)  1) to sit down, rest; to dwell, remain; to be inactive. Macc. III, 15 כל חיוֹשֵׁב ולא עבר וכ׳ whoever is inactive and commits no sin, i.e. omits to do wrong; Kidd. 39ᵇ.—Erub. 100ᵃ שֵׁב ואל תעשה עדיף ‘sit and do nothing’, i.e. not to act in doubtful cases, is better, opp. קום ועשה. Ber. 20ᵃ שב ואל תעשה שאני with an omission it is different. Tosef. Snh. VII, 8 ולא יֵשְׁבוּ … להם שֵׁבוּ and they must not sit down until he says to them, Be seated; Hor. 13ᵇ; Y. Bicc. III, 65ᶜ bot.—Y. Dem. II, 23ᵃ top שי׳ בישיבח who has a seat in the scholars’ meetings. Snh. 10ᵇ; Tosef. ib. II, 1 אחד אומר לֵישֵׁב if one is in favor of sitting (holding deliberation in court). Zeb. II, 1 יוֹשֵׁב in a sitting position. Ber. 28ᵇ מיוֹשְׁבֵי בה"מ one of the attendants at college, יושבי קרנות those placed at street corners (traders, idlers). Gen. R. s 75 יושבי קרנות (corr. קרונות) sitting in chariots; a. v. fr.
+> יָשַׁב  (b. h.)  1) to sit down, rest; to dwell, remain; to be inactive. Macc. III, 15 כל חיוֹשֵׁב ולא עבר וכ׳ whoever is inactive and commits no sin, i.e. omits to do wrong; Kidd. 39ᵇ.—Erub. 100ᵃ שֵׁב ואל תעשה עדיף ‘sit and do nothing’, i.e. not to act in doubtful cases, is better, opp. קום ועשה. Ber. 20ᵃ שב ואל תעשה שאני with an omission it is different. Tosef. Snh. VII, 8 ולא יֵשְׁבוּ … להם שֵׁבוּ and they must not sit down until he says to them, Be seated; Hor. 13ᵇ; Y. Bicc. III, 65ᶜ bot.—Y. Dem. II, 23ᵃ top שי׳ בישיבח who has a seat in the scholars’ meetings. Snh. 10ᵇ; Tosef. ib. II, 1 אחד אומר לֵישֵׁב if one is in favor of sitting (holding deliberation in court). Zeb. II, 1 יוֹשֵׁב in a sitting position. Ber. 28ᵇ מיוֹשְׁבֵי בה”מ one of the attendants at college, יושבי קרנות those placed at street corners (traders, idlers). Gen. R. s 75 יושבי קרנות (corr. קרונות) sitting in chariots; a. v. fr.
 > 2) to be settled (v. יִישּׁוּב), be inhabited. Num. R. s. 4 הגבעה … יוֹשְׁבִים Gibeah and Kiryath Jearim were settled at the same time.—Erub. 86ᵃ (ref. to Ps. LXI, 8) אימתי יושב עולם לפני וכ׳ (Rashi a. Ar. יֵשֵׁב) when is the world settled (evenly balanced) before God? When kindness and truth are appointed to guard it (differ. in Rashi; v. infra).
 Jastrow
 
@@ -4917,7 +4960,7 @@ Pi’el:
 > Pi. - פֵּירֵשׁ 1)  (neut. verb) (neut. verb) to depart, withdraw; to abstain. Snh. 82ᵇ היה לו … לפרוש ולא פי׳ Zimri might have withdrawn (from the woman), but he did not. Ib.ᵃ אם פ׳ וכ׳ if Z. had withdrawn, and Phineas had slain him &c. Pes. 87ᵇ פ׳ מן האשה withdrew from contact with his wife. Gen. R. s. 20 שפֵּירְשָׁה חיה מאדם that Eve was separated from Adam.—Sabb. 86ᵇ פירשה מן האיש the semen issued from a man.—Pes. 49ᵇ שנה ופ׳ קשה וכ׳ he that studied and gave it up, is the worst of all (in hostility to scholars); a. fr.
 > 2) to go on a voyage; to cross the ocean (cmp. פָּלַג Hif.). Y. M. Kat. III, beg. 81ᶜ אסור לפָרֵשׁ לים הגדול it is forbidden to start on a sea voyage (during the festive week). Y. Yeb. XVI, 15ᵈ top עשיתי מְפָרֵשׁ וכ׳ I was crossing &c. Y. Meg. II, 73ᵇ top מְפָרְשֵׁי ימים voyagers on the sea; a. fr.
 > 3)  (act. verb) to separate. Gen. R. s. 22 אילו רצה המלך פֵּירְשָׁן ולא רצה המלך לפָרְשָׁן if the king desired it, he would separate them (the fighters), but the king does not wish to separate them; Yalk. ib. 38. 
-> 4) to specify, express clearly. Ib. א"א לפה לפָרְשוֹ no mouth can express it. Men. 91ᵃ דמְפָרֵשׁ when he (in making his vow) specified (‘sheep’ or ‘cattle’), opp. בסתמא. Gen. R. s. 6 אנשי … פֵּירְשׁוּ אותו the men of the Great Assembly said it plainly. Snh. VII, 5 עד שיְפָרֵשׁ השם until he mentions the Name expressly (uses the Tetragrammaton), opp. כִּינּוּי. Gitt. 36ᵃ שיהו עדים מְפָרְשִׁין שמותיהן that witnesses must sign their full names; a. fr.—Part. pass. מְפוֹרָשׁ, f. מְפוֹרֶשֶׁת; pl. מְפוֹרָשִׁים, מְפוֹרָשִׁין; מְפוֹרָשׁוֹת. B. Kam. 54ᵇ, a. fr. מה הפרט מפ׳, v. פְּרָט. B. Mets. 94ᵇ שלישית בשואל מפ׳ that the third paragraph treats of a borrower, is explicitly stated (Ex. XXII, 13). Sot. 38ᵃ, a. fr. שם המפ׳ the special Name (the Tetragrammaton), v. supra. Zeb. 53ᵃ, v. סָתַם. Ḥag. 22ᵇ ומה סתומות … מפ׳ וכ׳ if your undefined teachings are so well-founded, how much more your explicit teachings; a. fr.
+> 4) to specify, express clearly. Ib. א”א לפה לפָרְשוֹ no mouth can express it. Men. 91ᵃ דמְפָרֵשׁ when he (in making his vow) specified (‘sheep’ or ‘cattle’), opp. בסתמא. Gen. R. s. 6 אנשי … פֵּירְשׁוּ אותו the men of the Great Assembly said it plainly. Snh. VII, 5 עד שיְפָרֵשׁ השם until he mentions the Name expressly (uses the Tetragrammaton), opp. כִּינּוּי. Gitt. 36ᵃ שיהו עדים מְפָרְשִׁין שמותיהן that witnesses must sign their full names; a. fr.—Part. pass. מְפוֹרָשׁ, f. מְפוֹרֶשֶׁת; pl. מְפוֹרָשִׁים, מְפוֹרָשִׁין; מְפוֹרָשׁוֹת. B. Kam. 54ᵇ, a. fr. מה הפרט מפ׳, v. פְּרָט. B. Mets. 94ᵇ שלישית בשואל מפ׳ that the third paragraph treats of a borrower, is explicitly stated (Ex. XXII, 13). Sot. 38ᵃ, a. fr. שם המפ׳ the special Name (the Tetragrammaton), v. supra. Zeb. 53ᵃ, v. סָתַם. Ḥag. 22ᵇ ומה סתומות … מפ׳ וכ׳ if your undefined teachings are so well-founded, how much more your explicit teachings; a. fr.
 > 5) to explain, interpret, define. Ned. 2ᵇ פתח … ומפרש ידות the Mishnah begins with kinnuyim …, and goes on explaining yadoth! Zeb. 13ᵃ ואין לי לפרש and I am unable to explain (the reason of the distinction between receiving and sprinkling the blood); אני אֲפָרֵשׁ I shall explain it. Ned. 81ᵃ דבר זה … ולא פֵירְשׁוּהוּ עד שפֵּירְשׁוֹ וכ׳ that question (Jer. IX, 11) was asked of prophets and scholars, and they could not explain it, until the Lord himself explained it (ib. 12). M. Kat. 16ᵇ; Ber. 18ᵃ לא פֵירְשׁוּ לך they did not interpret (the verse) to you; v. שָׁנָה I. Gen. R. s. 31 ולא פ׳ and did not explain (of what material the serpent was to be made); Y. R. Hash. III, end, 59ᵃ; a. fr.
 > Part. pass. as ab. Meg. 3ᵃ, a. e. (ref. to Neh. VIII, 8) מפ׳ זה תרגום m’forash means interpretation.
 Jastrow
@@ -5051,12 +5094,12 @@ Jastrow קָדַשׁ:
 > Pi. - קִדֵּשׁ,  קִי׳ 
 > 1) to sanctify, esp. ק׳ שם שמים, or ק׳ את השם to sanctify the name of the Lord, to manifest fidelity to religion by noble deeds, by martyrdom \&c. Sot. 10ᵇ; 36ᵇ יוסף שק׳ שם וכ׳ Joseph who sanctified the name … in secret (when he resisted temptation); יהודה שק׳ וכ׳ Judah who sanctified … in public (when he admitted his guilt, Gen. XXXVIII, 26); a. fr.
 > 2) to sanctify, consecrate; to purify, keep pure. Ber. 17ᵃ טהר וקַדֵּשׁ עצמך מכל וכ׳ keep thyself clean and pure (aloof) from every guilt \&c. Yoma 39ᵃ (ref. to Lev. XI, 44) … אדם מְקַדֵּשׁ מְקַדְּשִׁין אותו הרבה if a man sanctifies himself a little (trains himself to self-restraint), they (the divine agencies) will help him much to sanctify him; מלמטה מקדשין אותו מלמעלה if he (sanctifies himself) below, they will sanctify him from above; בעולם הזה מקדשין וכ׳ he in this world, they will declare him holy in the hereafter. Yeb. 20ᵃ, a. e. קדש עצמך במותר לך sanctify thyself by self-restraint from what is permitted to thee. Ḥag. 3ᵇ, a. e. קִדְּשָׁהּ לשעתה, v. קְדוּשָּׁה. Sebu. 15ᵃ … כל הכלים מְקַדַּשְׁתָּן as regards all vessels that Moses made, the ointing of them gave them their sacred character; Snh. 16ᵇ מקדשן (corr. acc.). Men. 95ᵇ תנור מְקַדֵּשׁ the oven (the baking of the showbread) gives it its sacred character. Ib. 100ᵃ כלי שרת מְקַדְּשִׁין the vessels of the service consecrate (the things put into them); a. v. fr.
-> Part. pass. מְקוּדָּשׁ; f. מְקוּדֶּשֶׁת; pl. מְקוּדָּשִׁים \&c. Sabb. 55ᵃ (ref. to Ez. IX, 6) א"ת מקדשי אלא מְקוּדָּשַׁי וכ׳ read not miḳdashi (my sanctuary) but m’ḳuddashai (my sanctified ones), that means those who fulfilled the whole Law \&c.; Ab. Zar. 4ᵃ. Zeb. 115ᵇ (ref. to Ps. LXVIII, 36 מִמִּקְדָּשֶׁיךָ) read מִמְּקוּדָּשֶׁיךָ וכ׳ ‘from thy sanctified ones’, when the Lord passes judgment on his holy servants \&c.; a. fr. 
+> Part. pass. מְקוּדָּשׁ; f. מְקוּדֶּשֶׁת; pl. מְקוּדָּשִׁים \&c. Sabb. 55ᵃ (ref. to Ez. IX, 6) א”ת מקדשי אלא מְקוּדָּשַׁי וכ׳ read not miḳdashi (my sanctuary) but m’ḳuddashai (my sanctified ones), that means those who fulfilled the whole Law \&c.; Ab. Zar. 4ᵃ. Zeb. 115ᵇ (ref. to Ps. LXVIII, 36 מִמִּקְדָּשֶׁיךָ) read מִמְּקוּדָּשֶׁיךָ וכ׳ ‘from thy sanctified ones’, when the Lord passes judgment on his holy servants \&c.; a. fr. 
 > 3)  (with, or sub., ידיו ורגליו) to wash hands and feet prior to a sacred act. Yoma III, 6. Ib. IV, 5. Ib. 22ᵃ; a. fr. 
 > 4) to prepare the water of lustration (Num. XIX). Par. VI, 1 המקדש ונפל הקִדּוּשׁ על ידו if he prepares the lustration, and some of the consecrated water falls upon his hand. Ib. 2 נוטל ומקדש he may take (of the ashes) and prepare the water with them. Ib. 3 המקדש בשוקת וכ׳ he who puts ashes into a large vessel of water; a. fr.
 > 5)  (of seasons) to proclaim the sanctity of esp., a) (ק׳ החדש) to proclaim in court that the new month had begun (v. infra). R. Hash. II, 7 אם לא … אין מקדשין אותו שכבד קִדְּשׁוּהוּ שמים unless the new moon is seen in its due time (on the evening of the twenty-ninth day), no announcement is made, for the heavens have already proclaimed it (and the new month begins with the thirty-first day). Ib. 24ᵃ בין כך שנים אתה מקדש וכ׳ … in neither case is the ceremony of announcement required, for we read (Lev. XXV, 10), ‘ye shall sanctify the fiftieth year’, years thou must sanctify \&c. Ex. R. s. 15 אני ואתם נְקַדֵּשׁ את החדש I and you, let us (as a court) proclaim the month (of Nisan); a. fr.
-> Part. pass. as ab. R. Hash. II, 7 ראש ב"ד אומר מק׳ וכ׳ the president of the court says, ‘(the new month is) proclaimed’, and all the people say after him, ‘proclaimed, proclaimed.’ Ib. III, 1 נחקרו … ולא הספיקו לומר מק׳ וכ׳ when the witnesses were examined, and the court had no time to say m’ḳuddash before night set in; a. e.
-> b) ק׳ השבת, היום to pronounce the sanctity of the Sabbath, the Holy Day \&c., to recite the Sabbath or the festive benediction (over wine), to say Ḳiddush. Pes. 105ᵃ מי שלא ק׳ בע"ש מקדש וכ׳ he who fails to bless the Sabbath on the Sabbath eve, may do so during the entire day. Ib. 106ᵇ טעם אינו מקדש if a man tasted something without Ḳiddush, he must not bless the Sabbath; Ib. 107ᵃ טעם מקדש even if he has tasted something, he must bless the Sabbath. Ib. כגון זה ראוי לקַדֵּשׁ עליו a beverage like this is fit for Ḳiddush; a. fr. 
+> Part. pass. as ab. R. Hash. II, 7 ראש ב”ד אומר מק׳ וכ׳ the president of the court says, ‘(the new month is) proclaimed’, and all the people say after him, ‘proclaimed, proclaimed.’ Ib. III, 1 נחקרו … ולא הספיקו לומר מק׳ וכ׳ when the witnesses were examined, and the court had no time to say m’ḳuddash before night set in; a. e.
+> b) ק׳ השבת, היום to pronounce the sanctity of the Sabbath, the Holy Day \&c., to recite the Sabbath or the festive benediction (over wine), to say Ḳiddush. Pes. 105ᵃ מי שלא ק׳ בע”ש מקדש וכ׳ he who fails to bless the Sabbath on the Sabbath eve, may do so during the entire day. Ib. 106ᵇ טעם אינו מקדש if a man tasted something without Ḳiddush, he must not bless the Sabbath; Ib. 107ᵃ טעם מקדש even if he has tasted something, he must bless the Sabbath. Ib. כגון זה ראוי לקַדֵּשׁ עליו a beverage like this is fit for Ḳiddush; a. fr. 
 > 6)  ק׳ אשה [to consecrate a woman,] a) to betroth (expl. Kidd. 2ᵇ לישנא דרבנן דאסר לה … כהקדש the rabbinical term, in place of the Biblical קנה,—because he makes her forbidden to others like a consecrated object, v. הֶקְדֵּשׁ). Kidd. II, 1 האיש מקדש בו וכ׳ a man may betroth a woman either in person or through a deputy. Ib. 41ᵃ אסור לאדם שיְקַדֵּשׁ … עד וכ׳ a man is forbidden to betroth a woman to himself, before he has seen her. Ib. II, 4 האומר … צא וקַדֵּשׁ … והלך וקִדְּשָׁהּ וכ׳ if a man said to his deputy, go and betroth to me that certain woman in that certain place, and he went and betrothed her in a different place, she is not betrothed (the betrothal is invalid); a. v. fr.
 > Part. pass. מְקוּדֶּשֶׁת; pl. מְקוּדָּשׁוֹת. Ib. הרי זו מק׳ in such a case the betrothal is binding. Ib. 7; a. fr.
 > b) (of the father of a minor נַעֲרָה) to accept a betrothal in behalf of one’s daughter. Ib. 1 האיש מקדש את בתו וכ׳ a man may accept his daughter’s betrothal, if she is a naʿărah, either in person or through a deputy. Ib. 41ᵃ אסור לאדם שיקדש את בתו וכ׳ a man is forbidden to betroth his daughter as a child, (but must wait,) until she is grown up and says, I like this man; a. fr. 
@@ -5127,7 +5170,7 @@ Pa’al:
 > —Part. pass. שָׁלוּחַ q. v.—ש׳ יד ב־ [to stretch out a hand against,] to make illegitimate use of, to misappropriate (Ex. XXII, 10). B. Mets. III, 12 השולח יד בפקדון if a person makes use of a trust. Ib. החושב לִשְׁלוֹחַ יד וכ׳ if he declares his intention to use a trust; אינו חייב עד שיִשְׁלַח בו יד he is not responsible (for loss), until he has used it; a. fr.
 
 Pi’el:
-> Pi. - שִׁלֵּחַ  same, to send; to send away, dismiss. Bets. I, 9 אין מְשַׁלְּחִין בי"ט וכ׳ on the Holy Day you dare not send (to a friend) anything except portions (of eatables, ready for use); משלחין בהמה וכ׳ you may send cattle … alive or slaughtered. Ḥull. XII, 3 שִׁלְּחָהּ וחזרה if he sent the mother bird away, and she came back. Ib. אמר … ומְשַׁלֵּחַ הבנים if he says, I will take the mother, and send the young away; חייב לשַׁלֵּחַ he is bound to send her away. Gen. R. s. 21 שִׁלְּחוֹ מגן … ושלחו וכ׳ he banished him (Adam) from the paradise of this world and from that of the other world; a. fr.
+> Pi. - שִׁלֵּחַ  same, to send; to send away, dismiss. Bets. I, 9 אין מְשַׁלְּחִין בי”ט וכ׳ on the Holy Day you dare not send (to a friend) anything except portions (of eatables, ready for use); משלחין בהמה וכ׳ you may send cattle … alive or slaughtered. Ḥull. XII, 3 שִׁלְּחָהּ וחזרה if he sent the mother bird away, and she came back. Ib. אמר … ומְשַׁלֵּחַ הבנים if he says, I will take the mother, and send the young away; חייב לשַׁלֵּחַ he is bound to send her away. Gen. R. s. 21 שִׁלְּחוֹ מגן … ושלחו וכ׳ he banished him (Adam) from the paradise of this world and from that of the other world; a. fr.
 
 Pu’al: This is just the [[passive]] of the meanings for [[#piel]].
 
@@ -5188,7 +5231,7 @@ Nif. - נִשְׁמַע 1) to be heard; to be listened to, be obeyed. Ber. 6ᵃ 
 > 2) to show one’s self willing; to submit to authority; (of woman) to surrender. R. Hash. 25ᵇ אשרי הדור שהגדולים נִשְׁמָעִים וכ׳ blessed the generation in which the superiors (in wisdom) submit to the authority of their inferiors, and how much more when inferiors acknowledge the authority of their superiors!—Snh. 82ᵃ הִשָּׁמְעִי לי (ed. הַשְׁמִיעִי לי) surrender thyself to me; לא תִשָּׁמְעִי אלא וכ׳ surrender thyself only to a prominent man among them; Sifré Num. 131; ib. רצונך שׁאֶשָּׁמַע לך הנזר וכ׳ if thou desirest me to surrender myself to thee, renounce the law of Moses; Yalk. ib. 771. Y. Succ. V, 55ᵇ top נִשְׁמָעוֹת … לליגיונותי וכ׳ if you will surrender to my legions, I will not put you to death. Snh. 93ᵃ הַשְׁמִיעִי אל וכ׳ surrender thyself to Zedekiah; a. fr. 
 
 Pe’al:
-שְׁמַע I  ch.  same.  Targ. Gen. XXVII, 5. Targ. Ex. XVIII, 1. Targ. Job IV, 16; a. v. fr.—Part. pass. שְׁמִיעַ; f. שְׁמִיעָא. Targ. Ps. XXIX, 3, sq. Targ. II Chr. VII, 12; a. fr.—Y. Ter. X, 47ᵇ bot. אנא מה דשַׁמְעִית ואינון מה דשַׁמְעוּן I report what I have heard, and they, what they have heard. Sabb. 46ᵇ הא שַׁמְעִינָן ליה לר“ש וכ׳ have we not heard what R. S. says &c.? Y. Sot. VII, beg. 21ᵇ, v. אֲלִנִיסְטִי; a. v. fr.—שמיע ל־ he has heard, he knows of. Erub. 9ᵇ ור”י מי לא ש׳ ליה הא but has R. J. not heard that (does he not know that Boraitha of R. Ḥiya)? ש׳ ליה ולא סבר (v. Rabb. D. S. a. l.) he knows of it, but does not accept it. Ib. 10ᵃ, a. fr. לא ש׳ לי הא שמעתתא this tradition is not known to me. Pes. 34ᵃ מידי ש׳ לך בהא do you know anything about this (hălakhah)?; a. v. fr.—Esp. שמע מ־ to understand from, to infer, prove. Ab. Zar. 72ᵇ, a. fr. ש׳ מינה וכ׳ (abbrev. ש“מ) deduce from this that &c. Ib. שַׁמְעַת מינה וכ׳ wilt thou conclude from this that &c.? Ib., a. fr. אלא מהא ליכא למִשְׁמַע מינה but (the conclusion is,) you can derive nothing from this.—Ib., a. fr. תא שמע (abbrev. ת”ש; v. אֲתָא) come and learn, i.e. derive it from the following. Sabb. 13ᵇ ת“ש … ש”מ ואלו תנן ש"מ I will prove it (from this Tosefta): ‘you must not …, and those are some of the halakhoth &c.’, which proves that the right version is ‘and those’: it stands proved. Y. M. Kat. III, 83ᵃ top נִישְׁמְעִינָהּ מן הדא let us prove it from this; a. v. fr.
+שְׁמַע I  ch.  same.  Targ. Gen. XXVII, 5. Targ. Ex. XVIII, 1. Targ. Job IV, 16; a. v. fr.—Part. pass. שְׁמִיעַ; f. שְׁמִיעָא. Targ. Ps. XXIX, 3, sq. Targ. II Chr. VII, 12; a. fr.—Y. Ter. X, 47ᵇ bot. אנא מה דשַׁמְעִית ואינון מה דשַׁמְעוּן I report what I have heard, and they, what they have heard. Sabb. 46ᵇ הא שַׁמְעִינָן ליה לר“ש וכ׳ have we not heard what R. S. says &c.? Y. Sot. VII, beg. 21ᵇ, v. אֲלִנִיסְטִי; a. v. fr.—שמיע ל־ he has heard, he knows of. Erub. 9ᵇ ור”י מי לא ש׳ ליה הא but has R. J. not heard that (does he not know that Boraitha of R. Ḥiya)? ש׳ ליה ולא סבר (v. Rabb. D. S. a. l.) he knows of it, but does not accept it. Ib. 10ᵃ, a. fr. לא ש׳ לי הא שמעתתא this tradition is not known to me. Pes. 34ᵃ מידי ש׳ לך בהא do you know anything about this (hălakhah)?; a. v. fr.—Esp. שמע מ־ to understand from, to infer, prove. Ab. Zar. 72ᵇ, a. fr. ש׳ מינה וכ׳ (abbrev. ש“מ) deduce from this that &c. Ib. שַׁמְעַת מינה וכ׳ wilt thou conclude from this that &c.? Ib., a. fr. אלא מהא ליכא למִשְׁמַע מינה but (the conclusion is,) you can derive nothing from this.—Ib., a. fr. תא שמע (abbrev. ת”ש; v. אֲתָא) come and learn, i.e. derive it from the following. Sabb. 13ᵇ ת“ש … ש”מ ואלו תנן ש”מ I will prove it (from this Tosefta): ‘you must not …, and those are some of the halakhoth &c.’, which proves that the right version is ‘and those’: it stands proved. Y. M. Kat. III, 83ᵃ top נִישְׁמְעִינָהּ מן הדא let us prove it from this; a. v. fr.
 Jastrow
 
 Pa’el:
@@ -5316,7 +5359,7 @@ Even if a word didn’t begin with “the,” if it has a possessive suffix like
 
 More: We can identify the verb אַהֲבָת <small>{{[[Identifying verbs|(?)]]}}</small>:
 - It is from the shoresh אהב, which produces words related to love.
-- It is from the Hebrew [[{Binyanim/|}{{pa’al}} binyan]].
+- It is from the Hebrew [[{Binyanim#Hebrew/|}{{pa’al}} binyan]].
 - It seems to be a [[{{past tense}} verb]], specifically [[Paal Past Tense#Second-Person Masculine Singular|when addressing a man]].
 
 
@@ -5336,7 +5379,7 @@ Jastrow:
 
 More:
 We can identify the verb אַשְׁמְעִינַן as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
-- It is from the Aramaic binyan [[Binyanim/af’el]]
+- It is from the Aramaic binyan [[Binyanim#Aramaic/af’el]]
 - It is from the [[shoresh שמע]], which has [[Shoresh שמע#Piel|meanings in the af’el binyan]].
 - It is an [[active participle]], probably in the masculine singular. <small>{{[[Afel Active Participle#Masculine Singular|→]]}}</small>
 - It has the Aramaic pronoun suffix ינַן meaning “us,” as in, “it teaches *us*” <small>{{[[Aramaic Direct Object Suffixes#First-Person Plural|→]]}}</small>
@@ -5345,33 +5388,28 @@ We can identify the verb אַשְׁמְעִינַן as follows <small>{{[[Identi
 * אָדָם: The Hebrew word אָדָם means “man” or a person generally. It is also the name of _Adam ha’rishon_ from _sefer Bereshis_.
 
 
-* אָמַר: The word אָמַר means “he said” or “[so and so] said” in Hebrew and Aramaic.
-===
-> [[More]]
-===
-
-More:
+* אָמַר:
 We can identify the grammatical form of <small>{{[[Identifying verbs|(?)]]}}</small> of אָמַר as follows:
 - The shoresh <small>{{[[shoresh|(?)]]}}</small> is [[shoresh {אמר}]]
 - Given that only root letters are visible, the binyan could be:
-  - The Hebrew [[Binyanim/pa’al|binyan _pa’al_]]
-  - The Aramaic [[Binyanim/pe’al|Aramaic pe’al]]
+  - The Hebrew [[Binyanim#Hebrew/pa’al|binyan _pa’al_]]
+  - The Aramaic [[Binyanim#Aramaic/pe’al|Aramaic pe’al]]
   - I.e. a [[simple]] [[active]] binyan indicating an meaning similar to the plain meaning of the shoresh אמר (i.e. speech)
 - In those binayanim, the tense that would produce such a conjugation is [[tenses/past tense]]
 - Specifically, it is a third-person masculine singular (“he/it”) of either the _pa’al_ or _pe’al_ past tense:
-  - [[Binyanim/Pe’al/Pe’al Past tense#Third-Person Masculine Singular|third-person masculine singular]]
-  - [[Binyanim/Pe’al/Pe’al Past tense#Third-Person Masculine Singular|third-person masculine singular]]
+  - [[Binyanim#Aramaic/Pe’al/Pe’al Past tense#Third-Person Masculine Singular|third-person masculine singular]]
+  - [[Binyanim#Aramaic/Pe’al/Pe’al Past tense#Third-Person Masculine Singular|third-person masculine singular]]
   - I.e, a conjugation meaning “he said” (Third person = he/it, past tense = said.)
 
 
 * אָסוּר: The Hebrew word אָסוּר _asur_ has several meanings:
-- It can mean “forbidden” <small>{{[[More|→]]}}</small>
+- It can mean “forbidden” <small>{{[[forbidden|→]]}}</small>
 - It can also mean “prisoner.”
 
-More:
+Forbidden:
 We can identify the word אָסוּר <small>{{[[Identifying verbs|(?)]]}}</small>:
 - It is from the shoresh אסר, which produces words related to prohibition.
-- It is from the Hebrew [[{Binyanim/|}{{pa’al}} binyan]].
+- It is from the Hebrew [[{Binyanim#Hebrew/|}{{pa’al}} binyan]].
 - It is a [[pa’al passive participle]].
 - It is a [[Paal Passive Participle#Masculine Singular|masculine singular]].
 
@@ -5895,9 +5933,9 @@ Jastrow:
 More:
 Jastrow:
 > הָא I (f.)
-(demonstr. pronoun) this. Yoma 26ᵃ הא שכיחא והא וכ׳ the one is a frequent (daily) performance, but the other is rare. Ber. 2ᵃ והא קמ"ל and this he intimates. Ib. 4ᵇ והא דקאמרי וכ׳ and as to this (the fact) that they say, ‘Until midnight’, it is said in order to prevent &c. Ib. 9ᵃ הא דר׳ אחא as to this (opinion) of R. Aḥa. Ib. 15ᵇ הא דידיה והא דרביה the one represents his own opinion, the other that of his teacher; a. v. fr.—הא והא both. Taan. 25ᵃ bot.; a. fr.—Contractions: הָנַיְחָא = הא ניחא this would be right. Yoma 3ᵃ; a. fr.—וְהָדְתַנְיָא = והא דת׳ and as to it being taught in the Boraitha. B. Kam. 12ᵃ; a. fr.—With prefixes: דְּהָא of this. Yoma 13ᵇ דגיטא דהא וכ׳ that the letter of divorce for this wife is invalid; a. fr.—אַהָא = על הא referring to this. Keth. 40ᵇ אַתּוּן אהא וכ׳ ye cited it (Resh Lakish’s opinion) with reference to that, we used to cite it with reference to this; a. fr.
+(demonstr. pronoun) this. Yoma 26ᵃ הא שכיחא והא וכ׳ the one is a frequent (daily) performance, but the other is rare. Ber. 2ᵃ והא קמ”ל and this he intimates. Ib. 4ᵇ והא דקאמרי וכ׳ and as to this (the fact) that they say, ‘Until midnight’, it is said in order to prevent &c. Ib. 9ᵃ הא דר׳ אחא as to this (opinion) of R. Aḥa. Ib. 15ᵇ הא דידיה והא דרביה the one represents his own opinion, the other that of his teacher; a. v. fr.—הא והא both. Taan. 25ᵃ bot.; a. fr.—Contractions: הָנַיְחָא = הא ניחא this would be right. Yoma 3ᵃ; a. fr.—וְהָדְתַנְיָא = והא דת׳ and as to it being taught in the Boraitha. B. Kam. 12ᵃ; a. fr.—With prefixes: דְּהָא of this. Yoma 13ᵇ דגיטא דהא וכ׳ that the letter of divorce for this wife is invalid; a. fr.—אַהָא = על הא referring to this. Keth. 40ᵇ אַתּוּן אהא וכ׳ ye cited it (Resh Lakish’s opinion) with reference to that, we used to cite it with reference to this; a. fr.
 > 2) here, here is. Targ. Gen. XXII, 7; a. fr.—B. Kam. 12ᵃ הא עולא וכ׳ here is (the opinion of) Ulla, here &c.; a. fr.
-> 3) (as conjunction) [there is this,] a) introducing a self-evident consequent, then of course. Yoma 13ᵃ מיתה הך הא קיימא הא if that one dies, there is the other one living; a. fr.—דְּהָא for, of course. Ber. 3ᵇ דהא אשה וכ׳ for, of course, a woman is not liable to be found in the open field; a. fr.—b) introducing a counter-argument, [here is a case speaking against you,] but, is’nt it? &c. Ib. 4ᵇ ואי אמרת … הא לא קא סמך … דהא וכ׳ and if you be right in saying that one must &c.; then he failed to do so, since he had to say hashkibenu between. Ib. 9ᵇ הא בליליא נמי וכ׳ are they not by night, too, distinguishable?—Ib. 13ᵃ לקרות והא קא קרי you say, ‘if he directed his heart’ (Mish. ib. II, 1) means the intention to read in the Law? well, was he not reading?—Ib. ולרבי נמי הא כתיב שמע but according to Rabbi’s opinion, too, does not the text say sh’ma (you must understand)?—Contractions: הָכְתִיב = הא כתיב, הָאֲמַר = הא אמר, הָתַנְיָא = הא תניא do we not read?, did he not say?, has it not been taught? &c. Yoma 26ᵃ. R. Hash. 34ᵇ. Ber. 14ᵇ; a. fr.—c) introducing an inference of limitation, this means to say but.—Ib. 13ᵇ מקרא … הא מיגנא ש"ד read he dare not (while lying on his back), but sleeping in that position is permitted?, והא ר׳ וכ׳ but did’nt R. … say &c.?—Y. Succ. V, beg. 55ᵃ (ref. to Mishnah: ‘playing the flute &c.) הא של קרבן דוחה this allows the inference that at offerings the playing does supersede the Sabbath.—[Targ. Y. Ex. VII, 23 הא some ed., read דָּא.]
+> 3) (as conjunction) [there is this,] a) introducing a self-evident consequent, then of course. Yoma 13ᵃ מיתה הך הא קיימא הא if that one dies, there is the other one living; a. fr.—דְּהָא for, of course. Ber. 3ᵇ דהא אשה וכ׳ for, of course, a woman is not liable to be found in the open field; a. fr.—b) introducing a counter-argument, [here is a case speaking against you,] but, is’nt it? &c. Ib. 4ᵇ ואי אמרת … הא לא קא סמך … דהא וכ׳ and if you be right in saying that one must &c.; then he failed to do so, since he had to say hashkibenu between. Ib. 9ᵇ הא בליליא נמי וכ׳ are they not by night, too, distinguishable?—Ib. 13ᵃ לקרות והא קא קרי you say, ‘if he directed his heart’ (Mish. ib. II, 1) means the intention to read in the Law? well, was he not reading?—Ib. ולרבי נמי הא כתיב שמע but according to Rabbi’s opinion, too, does not the text say sh’ma (you must understand)?—Contractions: הָכְתִיב = הא כתיב, הָאֲמַר = הא אמר, הָתַנְיָא = הא תניא do we not read?, did he not say?, has it not been taught? &c. Yoma 26ᵃ. R. Hash. 34ᵇ. Ber. 14ᵇ; a. fr.—c) introducing an inference of limitation, this means to say but.—Ib. 13ᵇ מקרא … הא מיגנא ש”ד read he dare not (while lying on his back), but sleeping in that position is permitted?, והא ר׳ וכ׳ but did’nt R. … say &c.?—Y. Succ. V, beg. 55ᵃ (ref. to Mishnah: ‘playing the flute &c.) הא של קרבן דוחה this allows the inference that at offerings the playing does supersede the Sabbath.—[Targ. Y. Ex. VII, 23 הא some ed., read דָּא.]
 
 
 * הא: The letters הא are probably the Aramaic word [[הָא]] meaning “this.”
@@ -6092,7 +6130,7 @@ The letters האיש probably are:
 
 * וכ“ש: The letters וכ”ש are probably:
 - The prefix ו meaning “and” <small>{{[[Prefix ק|→]]}}</small>
-- The abbreviation כ"ש short for כָּל שֶׁכֵּן often translated as “all the more so.” <small>{{[[כָּל שֶׁכֵּן|→]]}}</small>
+- The abbreviation כ”ש short for כָּל שֶׁכֵּן often translated as “all the more so.” <small>{{[[כָּל שֶׁכֵּן|→]]}}</small>
 
 
 * ולא:
@@ -6201,7 +6239,7 @@ It also has the more specific connotation of learning halachos from verses in th
 
 More: We can identify <small>{{[[Identifying verbs|(?)]]}}</small> the verb יָלֵיף:
 - It is from the [[shoresh אלף]]
-- It is probably from the Aramaic binyan [[Binyanim/pe’al]]
+- It is probably from the Aramaic binyan [[Binyanim#Aramaic/pe’al]]
 - It is probably a [[future tense]] in the pe’al future third-person masculine. <small>{{[[Peal Future Tense#Third-Person Masculine Singular|→]]}}</small>
 
 
@@ -6271,7 +6309,7 @@ Klein:
 > כִּי ᴵ conj.    1 that.     2 because.     3 when, while, as.     4 if, in case.     5 although, though.  [כִּי was orig. a demonstrative pron. meaning ‘thus’, ‘therefore’, ‘then’. It is related to Phoen. כ, Moabite כי, Punic כא, כה, כע, Aram. כִּי (= as, like), Ugar. k (= as, when, that), Akka. kī (= as, like), prob. also to Arab. kay (= that, in order that), Syr. כַּי (= then). See prefix כְּ◌ and כֹּה.]
 Jastrow:
 > כִּי (b. h.;  v. כּ־)  1) like. Sot. 35ᵇ כי סיד like lime. Y. Yeb. XVI, end, 16ᵃ כי חיה like a lying-in woman; a. fr. —2) when. Ex. R. s. 9, beg. (ref. to Ex. VII, 9) … אם ידבר אלא כי וכ׳ it does not read, ‘if Pharaoh …, but when …; he will say so. R. Hash. 3ᵃ, v. אִי II. —3)  so, thus. Y. Ḥag. III, 77ᵇ וכי היה המעשה and thus it came to pass. Yeb. VIII, 3 לא כי הלכה וכ׳ (some ed. לא כי אלא וכ׳) it is not so; I am reciting a Halakhah. Shek. I, 4 לא כי אלא וכ׳ it is not so, but &c. B. Kam. 25ᵇ; a. fr. —4) for. Yoma 87ᵇ (quoting from a prayer) כי עונותינו וכ׳ for our iniquities are &c. —5)  וְכִי (introducing a question to which a negative answer is expected) is it really so that? R. Hash. 9ᵃ וכי בתשעה … והלא וכ׳ do we fast on the ninth? Is it not the tenth &c.? Sabb. 4ᵃ וכי אומרים וכ׳ dare we say to a man &c.?; Men. 48ᵃ. Yoma 7ᵃ; a. v. fr. 
-> כִּי  ch.  same 1) as, like. Targ. Is. XIV, 19, v. יְחַט; a. fr., v. כְּ־.—M. Kat. 28ᵇ מותא כי מותא וכ׳ death like death, i.e. death must naturally ensue, v. חֲבוּלְיָא. Sabb. 140ᵇ. v. אוּרְכָּא.—Kidd. 81ᵃ יומא כי האידנא on a day like this.—כי הא ד־ as that which is told of &c. Pes. 117ᵃ; a. fr.—Ḥag. 2ᵃ, a. fr. דלא כי האי תנא which is not in agreement with the opinion of &c.—B. Kam. 46ᵃ לְכִי הא דאיתמר for a case like the one that is told.—Ned. 49ᵃ, a. fr. כי אתריה, v. אֲתַר.—Hor. 13ᵇ נתקין … כי לדידן let us institute something like that which has been done concerning ourselves; a. fr. —2) when. Targ. Y. II, Lev. XXVI, 44; a. fr.—Ḥull. 110ᵃ; B. Bath. 87ᵃ כי סליק וכ׳ when R. El. went to Palestine. Snh. 74ᵃ, a. fr. כי אתא וכ׳ when R. … came (from Palestine).—וכי תימא (abbr. וכ"ת), v. אֲמָא II.—Y. Snh. VII, end, 25ᵈ כי יתבון וכ׳ (not כיי) when they sat down to eat; a. v. fr.—כי היכי a) in order that, v. הֵיכִי.—b) as well as, in the same way as. Taan. 9ᵇ כי ה׳ … הכי וכ׳ as the Babylonians are deceitful, so are their rains; a. fr.—[כַּי, v. כַּיי.]
+> כִּי  ch.  same 1) as, like. Targ. Is. XIV, 19, v. יְחַט; a. fr., v. כְּ־.—M. Kat. 28ᵇ מותא כי מותא וכ׳ death like death, i.e. death must naturally ensue, v. חֲבוּלְיָא. Sabb. 140ᵇ. v. אוּרְכָּא.—Kidd. 81ᵃ יומא כי האידנא on a day like this.—כי הא ד־ as that which is told of &c. Pes. 117ᵃ; a. fr.—Ḥag. 2ᵃ, a. fr. דלא כי האי תנא which is not in agreement with the opinion of &c.—B. Kam. 46ᵃ לְכִי הא דאיתמר for a case like the one that is told.—Ned. 49ᵃ, a. fr. כי אתריה, v. אֲתַר.—Hor. 13ᵇ נתקין … כי לדידן let us institute something like that which has been done concerning ourselves; a. fr. —2) when. Targ. Y. II, Lev. XXVI, 44; a. fr.—Ḥull. 110ᵃ; B. Bath. 87ᵃ כי סליק וכ׳ when R. El. went to Palestine. Snh. 74ᵃ, a. fr. כי אתא וכ׳ when R. … came (from Palestine).—וכי תימא (abbr. וכ”ת), v. אֲמָא II.—Y. Snh. VII, end, 25ᵈ כי יתבון וכ׳ (not כיי) when they sat down to eat; a. v. fr.—כי היכי a) in order that, v. הֵיכִי.—b) as well as, in the same way as. Taan. 9ᵇ כי ה׳ … הכי וכ׳ as the Babylonians are deceitful, so are their rains; a. fr.—[כַּי, v. כַּיי.]
 
 
 * כַּאֲשֶׁר: The Hebrew word כַּאֲשֶׁר means “when.”
@@ -6525,15 +6563,15 @@ We can identify the verb מְחָרֵיךְ <small>{{[[Identifying verbs|(?)]]}}
 
 More:
 We can identify the verb מְפָרֵשׁ as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
-- It is from the Hebrew binyan [[Binyanim/pi’el]] due to the מ prefix and three syllable vowelization.
+- It is from the Hebrew binyan [[Binyanim#Hebrew/pi’el]] due to the מ prefix and three syllable vowelization.
 - It is from the [[shoresh פרש]], which has [[Shoresh פרש#Pi’el|meanings in the pi’el binyan]].
 - It is an [[active participle]] in the masculine singular. <small>{{[[Pi’el Active Participle#Masculine Singular|→]]}}</small>
 
 
 * מְקַדֵּשׁ: The word מְקַדֵּשׁ _mekadesh_ can be identified as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
 - We can see that it comes from the shoresh <small>{{[[shoresh|(?)]]}}</small> קדש, meaning holiness. <small>{{[[Shoresh קדש|→]]}}</small>
-- It is a type of word called an “active participle,” meaning it describes an action that is ongoing or habitual (e.g. he runs/is running.) <small>{{[[active participle|→]]}}</small>
-- It comes from a binyan <small>{{[[binyan|(?)]]}}</small> called the [[“pi’el”]], which is the Hebrew [[active]], [[intensive]] binyan.
+- It is a type of word called an “active participle,” meaning it describes an action that is ongoing or habitual (like “he runs/is running.”) <small>{{[[active participle|→]]}}</small>
+- It comes from a binyan <small>{{[[binyan|(?)]]}}</small> called the [[Binyanim#Hebrew/“pi’el”]], which is the Hebrew [[active]], [[intensive]] binyan.
 - The shoresh קדש has various meanings in the _pi’el_ binyan <small>{{[[Shoresh קדש#piel|→]]}}</small>
 - This form is the [[_pi’el_]] binyan’s active participle masculine singular. <small>{{[[Piel Active Participle#Masculine Singular|→]]}}</small>
 
@@ -6546,7 +6584,7 @@ We can identify the verb מְפָרֵשׁ as follows <small>{{[[Identifying verb
 
 More:
 We can identify the verb מְקֻדֶּשֶׁת as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
-- It is from the Hebrew binyan [[Binyanim/pu’al]]
+- It is from the Hebrew binyan [[Binyanim#Hebrew/pu’al]]
 - It is from the [[shoresh קדש]], which has [[Shoresh קדש#Pu’al|meanings in the pu’al binyan]].
 - It is an [[active participle]] of the pu’al in the feminine singular. <small>{{[[Pu’al Active Participle#Feminine Singular|→]]}}</small>
 - (The binyan has a [[passive]] meaning, but the tense is an active participle of that binyan, as opposed to a passive participle tense of an active binyan like the [[pa’al passive participle]].)
@@ -6556,7 +6594,7 @@ We can identify the verb מְקֻדֶּשֶׁת as follows <small>{{[[Identifyin
 
 More: We can identify the verb מִיבָּעְיָא <small>{{[[Identifying verbs|(?)]]}}</small>:
 - It is from the [[shoresh בע]], which produces words related to needing, wanting, or requesting.
-- It seems to be from the Aramaic [[{Binyanim/|}{{ispa’al}} binyan]] in which the shoresh בע has [[Ispaal|meanings]].
+- It seems to be from the Aramaic [[{Binyanim#Aramaic/|}{{ispa’al}} binyan]] in which the shoresh בע has [[Ispaal|meanings]].
 - (Normally the _ispa’al_ would have a מת or את prefix, but sometimes the ת drops leaving just an initial א or מ.
 - It seems to be an [[active participle]], possibly an [[Ispa’al Active Participle#Masculine Singular|_ispa’al_ masculine singular]].
 
@@ -6788,9 +6826,9 @@ Less commonly, נערה could be the word נַעַר, “young man,” followed 
 More:
 We can identify the grammatical form as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
 - The shoresh <small>{{[[shoresh|(?)]]}}</small> is [[shoresh {נקט}]]
-- The binyan is probably the Hebrew [[Binyanim/pa’al|_pa’al_ binyan]] or Aramaic [[Binyanim/pe’al|Aramaic pe’al]], i.e. a [[simple]] [[active]] binyan.
+- The binyan is probably the Hebrew [[Binyanim#Hebrew/pa’al|_pa’al_ binyan]] or Aramaic [[Binyanim#Aramaic/pe’al|Aramaic pe’al]], i.e. a [[simple]] [[active]] binyan.
 - It is [[tenses/past tense]].
-- The conjugation is [[Binyanim/Pa’al/Pa’al Past tense#Third-Person Masculine Singular|third-person masculine singular]], i.e. “he took” or “he used.”
+- The conjugation is [[Binyanim#Hebrew/pa’al/Pa’al Past tense#Third-Person Masculine Singular|third-person masculine singular]], i.e. “he took” or “he used.”
 
 
 * נדוניא:
@@ -6893,7 +6931,7 @@ Jastrow:
 
 More:
 We can identify the verb קִבֵּל as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
-- It is from the Hebrew binyan [[Binyanim/pi’el]]
+- It is from the Hebrew binyan [[Binyanim#Hebrew/pi’el]]
 - It is from the [[shoresh קבל]], which has [[Shoresh קבל#Piel|meanings in the pi’el binyan]].
 - It is [[past tense]], in the masculine singular. <small>{{[[Pi’el Past Tense#Third-Person Masculine Singular|→]]}}</small>
 
@@ -6990,7 +7028,7 @@ More:
 The Hebrew word שָׁלוּחַ can be identified as follows <small>{{[[Identifying verbs|(?)]]}}</small>:
 - The word שלוח comes from the [[shoresh שלח]]
 - Grammatically, it is a [[passive participle]]
-- It comes from the Hebrew binyan [[Binyanim/pa’al]].
+- It comes from the Hebrew binyan [[Binyanim#Hebrew/pa’al]].
 - See [[{|regular conjugations for }pa’al passive participle{|s}]].
 
 
@@ -7102,7 +7140,7 @@ We see from the י prefix that the letters יקדש are a third-person mascuine 
 * תִּתְגַּנֶּה: The Hebrew word תִּתְגַּנֶּה _tisganeh_ means “you/she will become disgusting.” <small>{{[[More|→]]}}</small>
 
 More: We can identify the verb תִּתְגַּנֶּה <small>{{[[Identifying verbs|(?)]]}}</small>:
-- It has a double תת prefix, and one ת indicates a [[{{reflexive}} binyan]], e.g. the Hebrew [[hispa’el]] or one of the Aramaic [[passive binyanim]], [[Binyanim/ispa’al]] [[Binyanim/ispe’el]] or [[Binyanim/itaf’al]]. Reflexive verbs often have a circular or transformational meaning, so someone becoming a certain way or doing something to themselves.
+- It has a double תת prefix, and one ת indicates a [[{{reflexive}} binyan]], e.g. the Hebrew [[hispa’el]] or one of the Aramaic [[passive binyanim]], [[Binyanim#Aramaic/ispa’al]] [[Binyanim#Aramaic/ispe’el]] or [[Binyanim#Aramaic/itaf’al]]. Reflexive verbs often have a circular or transformational meaning, so someone becoming a certain way or doing something to themselves.
 - It is from the [[shoresh גנ]], which has meanings in the [[Shoresh גנ#Hispael\, Nispael|Hebrew hispa’el]] and [[Shoresh גנ#Ispe’el|Aramaic ispe’el]].
 - One of the ת of the תת prefix comes from it being a future tense verb, either [[Hispael Future Tense#Third-Person Feminine Singular|second-person (“you”)]] or [[Hispael Future Tense#Third-Person Feminine Singular|third-person feminine]].
 

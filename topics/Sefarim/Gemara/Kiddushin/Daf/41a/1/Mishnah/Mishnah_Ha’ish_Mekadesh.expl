@@ -16,11 +16,17 @@ The Mishnah reads:
 ===
 
 Learn:
-We’ll analyze the text via several steps.
+We’ll analyze the text via several steps, going through each before advancing to the next step.
 | [[Literal]] | [[Basic]] | [[Comprehend]] | [[Analyze]] |
 
 Literal:
-*Literal (1/3):* Now we’ll do a literal translation of the Mishnah, identifying the general meanings of the words but not adapting them to fit the current context.
+Now we’ll do a literal translation of the Mishnah, identifying the meanings of each word but not adapting them to fit the current context.
+===
+> [[Literal 1|Okay]]
+===
+
+Literal 1:
+*Literal (1/3):*
 The Mishnah begins:
 < האיש מקדש בו ובשלוחו <gray>האשה
 < מתקדשת בה ובשלוחה האיש
@@ -52,7 +58,7 @@ Literal 2:
 1) A woman can “be _miskadeshes_” if she “becomes holy,” which could theoretically mean a range of things depending on context.
 ===
 > [[Literal 3|Next]]
-> [[#Basic]]
+> [[#Basic 2]]
 ===
 
 Literal 3:
@@ -70,16 +76,38 @@ Literal 3:
 1) The word _na’arah_ can be used generally to mean any young woman, or it can be used as a technical term to mean a girl who is between the legal stages of _katana_ (a minor), and _bogeres_ (an adult), for whom certain special halachos apply.
 ===
 > [[#Basic]]
+> [[#Basic 3]]
 ===
 
 Basic:
 Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
+===
+> [[Basic 1|Okay]]
+===
+
+Basic 1:
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray> 
 | *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal|Review ↺]] | האיש מקדש בו ובשלוחו | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
+===
+< [[#Literal]]
+> [[Basic 2|Next]]
+> [[#Comprehend]]
+===
+
+Basic 2:
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal 2|Review ↺]] | האשה מתקדשת בה ובשלוחה | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
+===
+< [[#Literal]]
+> [[Basic 3|Next]]
+> [[#Comprehend]]
+===
+
+Basic 3:
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
 | [[#Literal 3|Review ↺]] | האיש מקדש את בתו כשהיא נערה בו ובשלוחו | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
 ===
 < [[#Literal]]
@@ -112,7 +140,7 @@ So the Mishnah would read:
 < <gray>מתקדשת בה ובשלוחה </gray>האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו:
 > The man is mekadesh his daughter when she is a _na’arah_, via himself or his emissary.
-Again, we see that the ongoing verb in the Mishnah indicates an action works and is permitted, so this probably means "a man _may_ initiate the first _kiddushin_ step of marriage for his daughter when she has reached the age/stage of _na’arah_, via himself or via his _shaliach_.”
+Again, we see that the ongoing verb in the Mishnah indicates an action works and is permitted, so this probably means ”a man _may_ initiate the first _kiddushin_ step of marriage for his daughter when she has reached the age/stage of _na’arah_, via himself or via his _shaliach_.”
 ===
 < [[#Literal]]
 > [[#Comprehend]]
@@ -120,6 +148,11 @@ Again, we see that the ongoing verb in the Mishnah indicates an action works and
 
 Comprehend:
 Now let’s ask some comprehension questions, focusing on points that the Gemara and commentators take for granted in their analysis.
+===
+> [[Comprehend 1|Okay]]
+===
+
+Comprehend 1:
 *Comprehension (1/4):* What does the Mishnah mean when it uses *specific examples*?
 For example, when someone asks “would you like tea,” they might mean:
 1. “Specifically:” They are offering you tea and only tea.
@@ -171,14 +204,20 @@ What does it sound like the difference is, and how might that affect the meaning
 ===
 
 Analyze:
-*Analyze (1/3):* This is a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation.
+Let’s do a recap of the text of the Mishnah, paying greater attention to nuances and difficulties beyond the simple translation.
+===
+> [[Analyze 1|Okay]]
+===
+
+Analyze 1:
+*Analyze (1/3):*
 < האיש מקדש בו ובשלוחו
 > A man may produce the _kiddushin_ stage proceeding marriage with a woman, via himself or via his _shaliach_.
-Once you’ve told me there is such a thing as _kiddushin_, isn’t it obvious that the man can do it himself, i.e. who else would be able to do it, so why do I need the Mishnah to tell me? 
-Also, maybe the verses in the Torah that discuss it make it obvious he can do it himself?
-If you tell me he can do it with his _shaliach_, does that alone make it obvious he can do it himself? If so, why did the Mishnah need to list both options?
-If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you can use a _shaliach_, for _kiddushin_, or in general?
-Does it sound like there are any limitations on who he can marry via _shaliach_? Does he have to know who he is being _mekadesh_?
+| *Observation* | *Questions* |
+| The Mishnah tells me a man can be _mekadesh_ *_“bo”_* i.e. via himself | <hover>{{Isn’t it obvious that the man can do it himself, who else would be able to do it?<br><br>So why do I need the Mishnah to tell me?}}</hover> |
+| The Mishnah tells me both a man can be _mekadesh_, *and* that he can be _mekadesh_ with his _shaliach_ | <hover>{{If you tell me he can do it with his _shaliach_, doesn’t that also make it obvious he can do it himself?<br><br>If so, why did the Mishnah need to list both options?}}</hover> |
+| The Mishnah tells me a man can be _mekadesh_ *a woman* via shaliach | <hover>{{Does it sound like there are any limitations on who he can marry via _shaliach_? Does he have to know who he is being _mekadesh_?}}</hover> |
+| The Mishnah is *saying* that a man is able to be _mekadesh_ by _shaliach_ | <hover>{{From where does it know that? If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you ever can use a _shaliach_?}}</hover> |
 ===
 < [[#Comprehend]]
 > [[Analyze 2|Next]]
