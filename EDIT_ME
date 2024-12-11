@@ -3046,6 +3046,7 @@ We’ll analyze the text via several steps, going through each before advancing 
 
 Literal:
 Now we’ll do a literal translation of the Mishnah, identifying the meanings of each word but not adapting them to fit the current context.
+Try understanding the literal translation of the entire Mishnah before advancing to a “basic” translation.
 ===
 > [[Literal 1|Okay]]
 ===
@@ -3106,6 +3107,7 @@ Literal 3:
 
 Basic:
 Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
+Try understanding the basic translation of the entire Mishnah before advancing to the “comprehend” step.
 ===
 > [[Basic 1|Okay]]
 ===
@@ -3173,6 +3175,7 @@ Again, we see that the ongoing verb in the Mishnah indicates an action works and
 
 Comprehend:
 Now let’s ask some comprehension questions, focusing on points that the Gemara and commentators take for granted in their analysis.
+Try understanding all the comprehension questions on the Mishnah before advancing to the “analyze” step.
 ===
 > [[Comprehend 1|Okay]]
 ===
@@ -3242,7 +3245,7 @@ Analyze 1:
 | The Mishnah tells me a man can be _mekadesh_ *_“bo”_* i.e. via himself | <hover>{{Isn’t it obvious that the man can do it himself, who else would be able to do it?<br><br>So why do I need the Mishnah to tell me?}}</hover> |
 | The Mishnah tells me both a man can be _mekadesh_, *and* that he can be _mekadesh_ with his _shaliach_ | <hover>{{If you tell me he can do it with his _shaliach_, doesn’t that also make it obvious he can do it himself?<br><br>If so, why did the Mishnah need to list both options?}}</hover> |
 | The Mishnah tells me a man can be _mekadesh_ *a woman* via shaliach | <hover>{{Does it sound like there are any limitations on who he can marry via _shaliach_? Does he have to know who he is being _mekadesh_?}}</hover> |
-| The Mishnah is *saying* that a man is able to be _mekadesh_ by _shaliach_ | <hover>{{From where does it know that? If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you ever can use a _shaliach_?}}</hover> |
+| The Mishnah is *saying* that a man is able to be _mekadesh_ by _shaliach_ | <hover>{{From where does the Mishnah know that? If Mishnayos are generally explaining verses in the written Torah, then where in the written Torah do we see the idea that you ever can use a _shaliach_?}}</hover> |
 ===
 < [[#Comprehend]]
 > [[Analyze 2|Next]]
