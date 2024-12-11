@@ -4196,7 +4196,11 @@ Words:
 
 [Sefarim/Gemara/Kiddushin/Daf/41a/2/Hashta-Bshlucho/1/Rishonim/Tosofos]
 
-* Tosofos 41a:3:
+* Tosofos on hashta bshlucho:
+Tosofos on _hashta b’shlucho_:
+1. [[Tosofos 41a:1 D"H hashta b’shlucho]] 
+2. [[Tosofos 41a:2 D"H e itmar d’Rav Yosef a’sefia itmar]]
+3. [[Tosofos 41a:3 D"H asur l’adam sh’yekadesh isha v’chulu]]
 
 
 * Tosofos 41a:1 D"H hashta b’shlucho:
@@ -4274,19 +4278,6 @@ Words:
 < אָסוּר לְאָדָם שֶׁיְּקַדֵּשׁ אִשָּׁה כּו’. אַף עַל גַּב דְּקָתָנֵי הָאִישׁ מְקַדֵּשׁ לְכַתְּחִילָּה לֹא נָקַט לֵיהּ אֶלָּא לְהַשְׁמִיעֵנוּ דִּין קִידּוּשִׁין:
 
 
-* Tosofos D"H asur:
-
-
-* Tosofos asur l’adam:
-
-
-* Tosofos on hashta bshlucho:
-Tosofos on _hashta b’shlucho_:
-1. [[Tosofos 41a:1 D"H hashta b’shlucho]] 
-2. [[Tosofos 41a:2 D"H e itmar d’Rav Yosef a’sefia itmar]]
-3. [[Tosofos 41a:3 D"H asur l’adam sh’yekadesh isha v’chulu]]
-
-
 [Sefarim/Gemara/Kiddushin/Daf/41a/2/Hashta-Bshlucho/2/Achronim/Chida]
 
 * Chida on hashta b’shlucho:
@@ -4356,7 +4347,7 @@ We’ll analyze the text via several steps.
 | [[Words]] | [[Literal]] | [[Basic ]] | [[Comprehend]] | [[Analyze]] | [[End]] |
 
 Words:
-These are all possible meanings of each word, ignoring conLearn:
+These are all possible meanings of each word, ignoring context:
 < <gray>למיתב טן דו מלמיתב ארמלו:</gray> [[האיש]]  
 < [[מקדש]] [[את]] [[ביתו]] [[כשהיא]] [[נערה]]\: [[כשהיא]]  
 < [[נערה]] [[אין]] [[כשהיא]] [[קטנה]] [[לא]] [[מסייע]] [[ליה]]  
@@ -4423,9 +4414,7 @@ Words:
 
 [Sefarim/Gemara/Kiddushin/Daf/41a/3/Ksh’hi na’ara in/Tosofos]
 
-* Tosofos on _k’sh’hi na’arah in_:
-1. [[Tosofos 41a:4 D"H _k’sh’hi na’ara in k’sh’hi katana lo_]]
-2. [[Tosofos 41a:5 D"H _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
+* Tosofos D"H:
 
 
 * Tosofos 41a:4 D"H _k’sh’hi na’ara in k’sh’hi katana lo_:
@@ -4447,6 +4436,9 @@ Words:
 כְּשֶׁהִיא נַעֲרָה אֵין, כְּשֶׁהִיא קְטַנָּה לֹא. וְאִם תֹּאמַר וּדִילְמָא לְרַבּוּתָא נָקַט נַעֲרָה וְכָל שֶׁכֵּן קְטַנָּה. וְיֵשׁ לוֹמַר דְּדָיֵיק מִדְּקָתָנֵי כְּשֶׁהִיא נַעֲרָה וְלֹא קָתָנֵי הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ נַעֲרָה מַשְׁמָע דַּוְקָא נַעֲרָה אֲבָל לֹא קְטַנָּה. אוֹ אִיתַּמַר יֵשׁ לוֹמַר דָּיֵיק מִדְּלֹא קָתָנֵי בְּמַתְנִיתִין הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ סְתָם, כְּדִתְנַן (כְּתוּבוֹת דַּף מ"ו:) הָאָב זָכָאִי בִּבְתוֹ בִּקְדוּשֶׁיהָ, וְלֹא מְפָרֵשׁ נַעֲרָה כִּי הָכָא. מַשְׁמָע דְּהָכָא דְּמְפָרֵשׁ נַעֲרָה, הֲוֵי דַּוְקָא וְלֹא קְטַנָּה.
 
 
+* Tosofos 41a:5:
+
+
 * Tosofos 41a:5 D"H _asur l’adam sh’yikadesh es bito k’sh’hi katana_:
 This Tosofos is going on the Gemara of [[Perek Haish Mekadesh#By Daf/Kiddushin 41a/_K’sh’hi naara in_]] on [[Perek Haish Mekadesh#By Daf/Kiddushin 41a]].
 < אסור לאדם שיקדש את בתו כשהיא קטנה. ואע“ג דאמר לעיל דאיסורא ליכא משום דטב למיתב טן דו ה”מ בגדולה שהיא מתקדשת ע“י עצמה דכיון שנתרצית ליכא למיחש שמא תחזור אבל קטנה שמתקדשת ע”י אביה איכא למיחש שמא אם היתה גדולה לא היתה מתרצית ועכשיו שאנו נוהגים לקדש בנותינו אפי’ קטנות היינו משום שבכל יום ויום הגלות מתגבר עלינו ואם יש סיפק ביד אדם עכשיו לתת לבתו נדוניא שמא לאחר זמן לא יהיה סיפק בידו ותשב בתו עגונה לעולם:
@@ -4464,6 +4456,17 @@ Words:
 [[אסור]] [[לאדם]] [[שיקדש]] [[את]] [[בתו]] [[כשהיא]] [[קטנה]]. [[ואע“ג]] [[דאמר]] [[לעיל]] [[דאיסורא]] [[ליכא]] [[משום]] [[דטב]] [[למיתב]] [[טן]] [[דו]] [[ה”מ]] [[בגדולה]] [[שהיא]] [[מתקדשת]] [[ע“י]] [[עצמה]] [[דכיון]] [[שנתרצית]] [[ליכא]] [[למיחש]] [[שמא]] [[תחזור]] [[אבל]] [[קטנה]] [[שמתקדשת]] [[ע”י]] [[אביה]] [[איכא]] [[למיחש]] [[שמא]] [[אם]] [[היתה]] [[גדולה]] [[לא]] [[היתה]] [[מתרצית]] [[ועכשיו]] [[שאנו]] [[נוהגים]] [[לקדש]] [[בנותינו]] [[אפילו]] [[קטנות]] [[היינו]] [[משום]] [[שבכל]] [[יום]] [[ויום]] [[הגלות]] [[מתגבר]] [[עלינו]] [[ואם]] [[יש]] [[סיפק]] [[ביד]] [[אדם]] [[עכשיו]] [[לתת]] [[לבתו]] [[נדוניא]] [[שמא]] [[לאחר]] [[זמן]] [[לא]] [[יהיה]] [[סיפק]] [[בידו]] [[ותשב]] [[בתו]] [[עגונה]] [[לעולם]]:
 
 אָסוּר לְאָדָם שֶׁיְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא קְטַנָּה. וְאַף עַל גַּב דְּאָמַר לְעֵיל דְּאִיסּוּרָא לֵיתָּא מִשּׁוּם דְּטַב לְמֵיתַב טַן דּוּ, הָנֵי מִילֵי בִּגְדוֹלָה שֶׁהִיא מִתְקַדֶּשֶׁת עַל יְדֵי עַצְמָהּ. דְּכֵיוָן שֶׁנִּתְרַצִּית, לֵית לָן לְמֵיחַשׁ שֶׁמָּא תַּחְזֹר, אֲבָל קְטַנָּה שֶׁמִּתְקַדֶּשֶׁת עַל יְדֵי אָבִיהָ, אִיכָּא לְמֵיחַשׁ שֶׁמָּא אִם הָיְתָה גְּדוֹלָה לֹא הָיְתָה מִתְרַצִּית. וְעַכְשָׁיו שֶׁאָנוּ נוֹהֲגִים לְקַדֵּשׁ אֶת בְּנוֹתֵינוּ אֲפִילוּ קְטַנּוֹת, הָיִינוּ מִשּׁוּם שֶׁבְּכָל יוֹם וָיוֹם הַגָּלוּת מִתְגַּבֵּר עָלֵינוּ, וְאִם יֵשׁ סִיפֶק בְּיַד אָדָם עַכְשָׁיו לָתֵת לִבְתוֹ נְדוּנְיָה, שֶׁמָּא לְאַחַר זְמַן לֹא יִהְיֶה סִיפֶק בְּיָדוֹ וְתֵשֵׁב בִּתּוֹ עֲגוּנָה לָעוֹלָם.
+
+
+* Tosofos _asur l’adam sh’yikadesh es bito k’sh’hi katana_:
+
+
+* Tosofos on _k’sh’hi na’arah in_:
+1. [[Tosofos 41a:4 D"H _k’sh’hi na’ara in k’sh’hi katana lo_]]
+2. [[Tosofos 41a:5 D"H _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
+[[Tosofos 41a:5]]
+[[Tosofos D"H]]
+[[Tosofos _asur l’adam sh’yikadesh es bito k’sh’hi katana_]]
 
 
 [Shorushim]
