@@ -3038,7 +3038,7 @@ The Mishnah reads:
 
 Learn:
 We’ll analyze the text via several steps.
-| [[ Literal ]] | [[ Basic ]] | [[Comprehend]] | [[Analyze]] |
+| [[Literal]] | [[Basic]] | [[Comprehend]] | [[Analyze]] |
 
 Literal:
 *Literal (1/3):* Now we’ll do a literal translation of the Mishnah, identifying the general meanings of the words but not adapting them to fit the current context.
@@ -3094,14 +3094,14 @@ Literal 3:
 ===
 
 Basic:
-*Basic (1/3):* Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
+Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray> 
-| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
-|  האיש מקדש בו ובשלוחו | [[#Literal|Review ↺]] | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
-|  האשה מתקדשת בה ובשלוחה | [[#Literal 2|Review ↺]] | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
-|  האיש מקדש את בתו כשהיא נערה בו ובשלוחו | [[#Literal 3|Review ↺]] | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
+| [[#Literal|Review ↺]] | האיש מקדש בו ובשלוחו | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
+| [[#Literal 2|Review ↺]] | האשה מתקדשת בה ובשלוחה | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
+| [[#Literal 3|Review ↺]] | האיש מקדש את בתו כשהיא נערה בו ובשלוחו | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
 ===
 < [[#Literal]]
 > [[#Comprehend]]
@@ -3110,20 +3110,23 @@ Basic:
 האיש מקדש בו ובשלוחו:
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
-Because we are in _Meseches Kiddushin_ which deals with marriage law, _“mekadesh”_ probably means creating the initial _kiddushin_ stage of the marriage process, prior to the final stage called _nisuyin_.
-“Ongoing” verbs in the Mishnah generally signify that an action works and is permitted. So, “the man is/is being _mekadesh_” probably means "the way a man is _mekadesh_ is via himself or via his _shaliach_.
-_Shaliach_ here probably means “a sent person” i.e. an emissary or agent.
-The two prefixes ב here i.e. ~ב~ו ו~ב~שלוחו, i.e. _~b~o u’~b~’shlucho_ probably mean “with,” as in, “he does it _with_ i.e. via himself.”
+> The man is/is being _mekadesh_ in/on/with himself, or in/on/with his _shaliach_
+What does _mekadesh_ here mean? Because we are in _Meseches Kiddushin_ which deals with marriage law, _“mekadesh”_ probably means creating the initial _kiddushin_ stage of the marriage process, prior to the final stage called _nisuyin_.
+What does “the man is being _mekadesh_” mean? Present tense or “ongoing” verbs in the Mishnah generally signify that an action works and is permitted. So, “the man is/is being _mekadesh_” probably means “the way a man is _mekadesh_ is, etc.”
+What does _shaliach_ mean in this context? _Shaliach_ here probably means “a sent person” i.e. an emissary or agent.
+What does _bo_ and _u’b’shlucho_ mean? The two prefixes ב here i.e. ~ב~ו ו~ב~שלוחו, i.e. _~b~o u’~b~’shlucho_ probably mean “with,” as in, “he does it _with_ i.e. via himself or via his shaliach.”
 Put together, the Mishnah reads: 
 > A man is _mekadesh_ [a woman for marriage] via himself, or via his _shaliach_
-So, now we see that the purpose of the Mishnah is to convey the surprising idea that the initial _kiddushin_ stage of marriage can be performed remotely by a designated third-party.
+So, now we see that the Mishnah is conveying the idea that the initial _kiddushin_ stage of marriage can be initiated remotely by a designated third-party.
 
 האשה מתקדשת בה ובשלוחה:
 < <gray>האיש מקדש בו ובשלוחו</gray> האשה
 < מתקדשת בה ובשלוחה <gray>האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray>
 > The woman is _miskadeshes_ via herself or her _shaliach_.
-Earlier we said _mekadesh_ by a man can mean multiple things, but _miskadeshes_ which indicates a woman is becoming holy happens to have only one common use, that she is being halachically designated to a certain man for marriage by entering the initial _kiddushin_ stage of marriage, after which she would need a bill of divorce to marry someone else.
+What does _miskadeshes_ mean here? Earlier we said that the word _mekadesh_ which is masculine can mean multiple things related to increasing holiness, but _miskadeshes_ which is a related feminine word happens to only have one common use, to convey that a woman is being halachically designated to a certain man by entering the initial _kiddushin_ stage of marriage, after which she would need a bill of divorce to marry someone else.
+So the Mishnah would read:
+> A woman becomes _mekudeshes_ i.e. enters the _kiddushin_ stage of marriage, via herself, or via her _shaliach_ i.e. agent
 
 האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 < <gray>האיש מקדש בו ובשלוחו האשה</gray>
@@ -3626,8 +3629,8 @@ Basic:
 *Basic 1/6:* Let’s use local context and background info to improve our literal translation.
 < גמ’ השתא בשלוחו מקדש בו מיבעיא <gray>אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
-|  גמ’ השתא בשלוחו מקדש בו מיבעיא | [[#Literal|Review ↺]] | The Gemara is asking on the Mishnah, why do I need to be told he can be _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
+| [[#Literal|Review ↺]] | גמ’ השתא בשלוחו מקדש בו מיבעיא | The Gemara is asking on the Mishnah, why do I need to be told he can be _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 2|Next]]
@@ -3653,9 +3656,9 @@ Basic 2:
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא<gray>
 < איכא דאמרי בהא איסורא נמי אית בה</gray>
-| *Text* | *Literal* | *Explanation* | *Why?* |
-| אמר רב יוסף<br>מצוה בו יותר מבשלוחו | [[#Literal 2|Review ↺]] | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
-| כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | [[#Literal 3|Review ↺]] | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
+| *Literal* | *Text* | *Explanation* | *Why?* |
+| [[#Literal 2|Review ↺]] | אמר רב יוסף<br>מצוה בו יותר מבשלוחו | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
+| [[#Literal 3|Review ↺]] | כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 3|Next]]
@@ -3700,9 +3703,9 @@ Basic 3:
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?* |
-|איכא דאמרי| [[#Literal 4|Review ↺]] | Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
-|בהא איסורא נמי אית בה| [[#Literal 4|Review ↺]] | When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?* |
+| [[#Literal 4|Review ↺]] | איכא דאמרי | Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
+| [[#Literal 4|Review ↺]] | בהא איסורא נמי אית בה | When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
 ===
 < [[#Literal]]
 > [[Basic 4|Next]]
@@ -3743,10 +3746,10 @@ Basic 4:
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?* |
-| כדרב יהודה אמר רב דאמר רב יהודה אמר רב | [[#Literal 5|Review ↺]] | Like the halacha taught by R Yehuda who heard it from Rav | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
-| אסור לאדם שיקדש את האשה עד שיראנה | [[#Literal 6|Review ↺]] | “It is _assur_ for a man to be _mekadesh_ a woman until he has seen her.” | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
-| שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך | [[#Literal 7|Review ↺]] | The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself.” | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?* |
+| [[#Literal 5|Review ↺]] | כדרב יהודה אמר רב דאמר רב יהודה אמר רב | Like the halacha taught by R Yehuda who heard it from Rav | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
+| [[#Literal 6|Review ↺]] | אסור לאדם שיקדש את האשה עד שיראנה | “It is _assur_ for a man to be _mekadesh_ a woman until he has seen her.” | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
+| [[#Literal 7|Review ↺]] | שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך | The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself.” | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
 ===
 < [[#Literal]]
 > [[Basic 5|Next]]
@@ -3832,10 +3835,10 @@ Basic 6:
 < <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
-| *Text* | *Literal* | *Explanation* | *Why?* |
-| אבל בהא איסורא<br> לית בה | [[#Literal 10|Review ↺]] | But, regarding the case of a woman accepting _kiddushin_ via shaliach, there is no _issur_ | [[אבל בהא איסורא לית בה|→]] |
-| כדר״ל דאמר ר״ל | [[#Literal 11|Review ↺]] | As we see from the statement of Reish Lakesh, for says Reish Lakesh: | [[כדר״ל דאמר ר״ל|→]] |
-| טב למיתב טן <br>דו מלמיתב ארמלו | [[#Literal 12|Review ↺]] | “Better to sit grieved as two than to sit as a widow”  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
+| *Literal* | *Text* | *Explanation* | *Why?* |
+| [[#Literal 10|Review ↺]] | אבל בהא איסורא<br> לית בה | But, regarding the case of a woman accepting _kiddushin_ via shaliach, there is no _issur_ | [[אבל בהא איסורא לית בה|→]] |
+| [[#Literal 11|Review ↺]] | כדר״ל דאמר ר״ל | As we see from the statement of Reish Lakesh, for says Reish Lakesh: | [[כדר״ל דאמר ר״ל|→]] |
+| [[#Literal 12|Review ↺]] | טב למיתב טן <br>דו מלמיתב ארמלו | “Better to sit grieved as two than to sit as a widow”  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
 ===
 < [[#Literal]]
 > [[#Comprehend]]

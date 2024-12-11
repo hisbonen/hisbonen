@@ -17,7 +17,7 @@ The Mishnah reads:
 
 Learn:
 We’ll analyze the text via several steps.
-| [[ Literal ]] | [[ Basic ]] | [[Comprehend]] | [[Analyze]] |
+| [[Literal]] | [[Basic]] | [[Comprehend]] | [[Analyze]] |
 
 Literal:
 *Literal (1/3):* Now we’ll do a literal translation of the Mishnah, identifying the general meanings of the words but not adapting them to fit the current context.
@@ -73,14 +73,14 @@ Literal 3:
 ===
 
 Basic:
-*Basic (1/3):* Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
+Now let’s make a basic translation of the Mishnah clarifying the contextual meanings of the words, but not dealing with analytical questions or observations.
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray> 
-| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
-|  האיש מקדש בו ובשלוחו | [[#Literal|Review ↺]] | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
-|  האשה מתקדשת בה ובשלוחה | [[#Literal 2|Review ↺]] | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
-|  האיש מקדש את בתו כשהיא נערה בו ובשלוחו | [[#Literal 3|Review ↺]] | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that?<br><br>How did we get from the text to that explanation?} |
+| [[#Literal|Review ↺]] | האיש מקדש בו ובשלוחו | The Mishnah begins that a man is able to be _mekadesh_ a woman either via himself or via his _shaliach_ | [[האיש מקדש בו ובשלוחו|→]] |
+| [[#Literal 2|Review ↺]] | האשה מתקדשת בה ובשלוחה | The Mishnah continues that a woman can accept _kiddushin_ either via herself or via her _shaliach_ | [[האשה מתקדשת בה ובשלוחה|→]] |
+| [[#Literal 3|Review ↺]] | האיש מקדש את בתו כשהיא נערה בו ובשלוחו | The Mishnah concludes that a man can be _mekadesh_ his daughter when she is a _na’arah_, either via himself or via his _shaliach_ | [[האיש מקדש את בתו כשהיא נערה בו ובשלוחו|→]] |
 ===
 < [[#Literal]]
 > [[#Comprehend]]
@@ -89,20 +89,23 @@ Basic:
 האיש מקדש בו ובשלוחו:
 < האיש מקדש בו ובשלוחו <gray>האשה</gray>
 < <gray>מתקדשת בה ובשלוחה האיש</gray>
-Because we are in _Meseches Kiddushin_ which deals with marriage law, _“mekadesh”_ probably means creating the initial _kiddushin_ stage of the marriage process, prior to the final stage called _nisuyin_.
-“Ongoing” verbs in the Mishnah generally signify that an action works and is permitted. So, “the man is/is being _mekadesh_” probably means "the way a man is _mekadesh_ is via himself or via his _shaliach_.
-_Shaliach_ here probably means “a sent person” i.e. an emissary or agent.
-The two prefixes ב here i.e. ~ב~ו ו~ב~שלוחו, i.e. _~b~o u’~b~’shlucho_ probably mean “with,” as in, “he does it _with_ i.e. via himself.”
+> The man is/is being _mekadesh_ in/on/with himself, or in/on/with his _shaliach_
+What does _mekadesh_ here mean? Because we are in _Meseches Kiddushin_ which deals with marriage law, _“mekadesh”_ probably means creating the initial _kiddushin_ stage of the marriage process, prior to the final stage called _nisuyin_.
+What does “the man is being _mekadesh_” mean? Present tense or “ongoing” verbs in the Mishnah generally signify that an action works and is permitted. So, “the man is/is being _mekadesh_” probably means “the way a man is _mekadesh_ is, etc.”
+What does _shaliach_ mean in this context? _Shaliach_ here probably means “a sent person” i.e. an emissary or agent.
+What does _bo_ and _u’b’shlucho_ mean? The two prefixes ב here i.e. ~ב~ו ו~ב~שלוחו, i.e. _~b~o u’~b~’shlucho_ probably mean “with,” as in, “he does it _with_ i.e. via himself or via his shaliach.”
 Put together, the Mishnah reads: 
 > A man is _mekadesh_ [a woman for marriage] via himself, or via his _shaliach_
-So, now we see that the purpose of the Mishnah is to convey the surprising idea that the initial _kiddushin_ stage of marriage can be performed remotely by a designated third-party.
+So, now we see that the Mishnah is conveying the idea that the initial _kiddushin_ stage of marriage can be initiated remotely by a designated third-party.
 
 האשה מתקדשת בה ובשלוחה:
 < <gray>האיש מקדש בו ובשלוחו</gray> האשה
 < מתקדשת בה ובשלוחה <gray>האיש</gray>
 < <gray>מקדש את בתו כשהיא נערה בו ובשלוחו:</gray>
 > The woman is _miskadeshes_ via herself or her _shaliach_.
-Earlier we said _mekadesh_ by a man can mean multiple things, but _miskadeshes_ which indicates a woman is becoming holy happens to have only one common use, that she is being halachically designated to a certain man for marriage by entering the initial _kiddushin_ stage of marriage, after which she would need a bill of divorce to marry someone else.
+What does _miskadeshes_ mean here? Earlier we said that the word _mekadesh_ which is masculine can mean multiple things related to increasing holiness, but _miskadeshes_ which is a related feminine word happens to only have one common use, to convey that a woman is being halachically designated to a certain man by entering the initial _kiddushin_ stage of marriage, after which she would need a bill of divorce to marry someone else.
+So the Mishnah would read:
+> A woman becomes _mekudeshes_ i.e. enters the _kiddushin_ stage of marriage, via herself, or via her _shaliach_ i.e. agent
 
 האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
 < <gray>האיש מקדש בו ובשלוחו האשה</gray>

@@ -255,8 +255,8 @@ Basic:
 *Basic 1/6:* Let’s use local context and background info to improve our literal translation.
 < גמ’ השתא בשלוחו מקדש בו מיבעיא <gray>אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
-|  גמ’ השתא בשלוחו מקדש בו מיבעיא | [[#Literal|Review ↺]] | The Gemara is asking on the Mishnah, why do I need to be told he can be _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?*&nbsp;{! Why does it mean that? How did we get from the text to that explanation?} |
+| [[#Literal|Review ↺]] | גמ’ השתא בשלוחו מקדש בו מיבעיא | The Gemara is asking on the Mishnah, why do I need to be told he can be _mekadesh_ a woman himself when I can infer that from the fact he can do it by _shaliach_ | [[גמ’ השתא בשלוחו מקדש בו מיבעיא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 2|Next]]
@@ -282,9 +282,9 @@ Basic 2:
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא<gray>
 < איכא דאמרי בהא איסורא נמי אית בה</gray>
-| *Text* | *Literal* | *Explanation* | *Why?* |
-| אמר רב יוסף<br>מצוה בו יותר מבשלוחו | [[#Literal 2|Review ↺]] | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
-| כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | [[#Literal 3|Review ↺]] | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
+| *Literal* | *Text* | *Explanation* | *Why?* |
+| [[#Literal 2|Review ↺]] | אמר רב יוסף<br>מצוה בו יותר מבשלוחו | R Yosef answers that the בו in the Mishnah is to teach that the _mitzvah_ to be _mekadesh_ a woman via himself is bigger than via his _shaliach_ | [[אמר רב יוסף מצוה בו יותר מבשלוחו|→]] |
+| [[#Literal 3|Review ↺]] | כי הא דרב ספרא מחריך רישא<br>רבא מלח שיבוטא | The Gemara brings an example of this principle from a story of Amoriam being particular to prepare things for Shabbos by themselves | [[כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא|→]] |
 ===
 < [[#Literal]]
 > [[Basic 3|Next]]
@@ -329,9 +329,9 @@ Basic 3:
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?* |
-|איכא דאמרי| [[#Literal 4|Review ↺]] | Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
-|בהא איסורא נמי אית בה| [[#Literal 4|Review ↺]] | When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?* |
+| [[#Literal 4|Review ↺]] | איכא דאמרי | Now let’s see a different version of this same Talmudic discussion that occurred elsewhere | [[איכא דאמרי|→]] |
+| [[#Literal 4|Review ↺]] | בהא איסורא נמי אית בה | When the Gemara asked why the Mishnah needs the word בו, this version of the Gemara has a different answer, that it was to teach that something to do with the case being discussed has an additional _issur_. | [[בהא איסורא נמי אית בה|→]] |
 ===
 < [[#Literal]]
 > [[Basic 4|Next]]
@@ -372,10 +372,10 @@ Basic 4:
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
 < כמוך <gray>וכי איתמר דרב יוסף אסיפא איתמר</gray>
-| *Text* | *Literal* |  *Explanation* | *Why?* |
-| כדרב יהודה אמר רב דאמר רב יהודה אמר רב | [[#Literal 5|Review ↺]] | Like the halacha taught by R Yehuda who heard it from Rav | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
-| אסור לאדם שיקדש את האשה עד שיראנה | [[#Literal 6|Review ↺]] | “It is _assur_ for a man to be _mekadesh_ a woman until he has seen her.” | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
-| שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך | [[#Literal 7|Review ↺]] | The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself.” | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
+| *Literal* | *Text* |  *Explanation* | *Why?* |
+| [[#Literal 5|Review ↺]] | כדרב יהודה אמר רב דאמר רב יהודה אמר רב | Like the halacha taught by R Yehuda who heard it from Rav | [[כדרב יהודה אמר רב דאמר רב יהודה אמר רב|→]] |
+| [[#Literal 6|Review ↺]] | אסור לאדם שיקדש את האשה עד שיראנה | “It is _assur_ for a man to be _mekadesh_ a woman until he has seen her.” | [[אסור לאדם שיקדש את האשה עד שיראנה|→]] |
+| [[#Literal 7|Review ↺]] | שמא יראה בה דבר מגונה<br>ותתגנה עליו ורחמנא אמר<br>ואהבת לרעך כמוך | The reason for this _issur_ is that if he doesn’t see her, maybe he will later be disgusted by her, and the Torah says “love your fellow as yourself.” | [[שמא יראה בה דבר מגונה ותתגנה עליו ורחמנא אמר ואהבת לרעך כמוך|→]] |
 ===
 < [[#Literal]]
 > [[Basic 5|Next]]
@@ -461,10 +461,10 @@ Basic 6:
 < <gray>מחריך רישא רבא מלח שיבוטא </gray>אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו: <gray>האיש</gray>
-| *Text* | *Literal* | *Explanation* | *Why?* |
-| אבל בהא איסורא<br> לית בה | [[#Literal 10|Review ↺]] | But, regarding the case of a woman accepting _kiddushin_ via shaliach, there is no _issur_ | [[אבל בהא איסורא לית בה|→]] |
-| כדר״ל דאמר ר״ל | [[#Literal 11|Review ↺]] | As we see from the statement of Reish Lakesh, for says Reish Lakesh: | [[כדר״ל דאמר ר״ל|→]] |
-| טב למיתב טן <br>דו מלמיתב ארמלו | [[#Literal 12|Review ↺]] | “Better to sit grieved as two than to sit as a widow”  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
+| *Literal* | *Text* | *Explanation* | *Why?* |
+| [[#Literal 10|Review ↺]] | אבל בהא איסורא<br> לית בה | But, regarding the case of a woman accepting _kiddushin_ via shaliach, there is no _issur_ | [[אבל בהא איסורא לית בה|→]] |
+| [[#Literal 11|Review ↺]] | כדר״ל דאמר ר״ל | As we see from the statement of Reish Lakesh, for says Reish Lakesh: | [[כדר״ל דאמר ר״ל|→]] |
+| [[#Literal 12|Review ↺]] | טב למיתב טן <br>דו מלמיתב ארמלו | “Better to sit grieved as two than to sit as a widow”  | [[טב למיתב טן דו מלמיתב ארמלו|→]] |
 ===
 < [[#Literal]]
 > [[#Comprehend]]
