@@ -95,7 +95,7 @@ p {
 
 small {
   font-size: 0.7em;
-  vertical-align: text-bottom;
+  vertical-align: 1px;
 }
 
 a[data-text="→"] {
